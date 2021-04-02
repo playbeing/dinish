@@ -1,0 +1,430 @@
+languagesystem DFLT dflt;
+
+
+# GSUB 
+
+
+lookup aaltAccessAllAlternateslookup0 {
+  lookupflag 0;
+    sub \one by \uni00B9 ;
+    sub \two by \uni00B2 ;
+    sub \three by \uni00B3 ;
+    sub \A by \ordfeminine ;
+    sub \O by \ordmasculine ;
+    sub \a by \ordfeminine ;
+    sub \o by \ordmasculine ;
+} aaltAccessAllAlternateslookup0;
+
+lookup supsSuperscriptlookup1 {
+  lookupflag 0;
+    sub \one by \uni00B9 ;
+    sub \two by \uni00B2 ;
+    sub \three by \uni00B3 ;
+} supsSuperscriptlookup1;
+
+lookup fracDiagonalFractionslookup2 {
+  lookupflag 0;
+    sub \one \slash \four  by \onequarter;
+    sub \one \slash \two  by \onehalf;
+    sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup2;
+
+lookup SingleSubstitutionlookup6 {
+  lookupflag 0;
+    sub \A by \ordfeminine ;
+    sub \O by \ordmasculine ;
+    sub \a by \ordfeminine ;
+    sub \o by \ordmasculine ;
+} SingleSubstitutionlookup6;
+
+lookup ordnOrdinalslookup3 {
+  lookupflag 0;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\A \a ]'lookup SingleSubstitutionlookup6  ;
+    sub [\zero \one \two \three \four \five \six \seven \eight \nine ] [\O \o ]'lookup SingleSubstitutionlookup6  ;
+} ordnOrdinalslookup3;
+
+lookup dligDiscretionaryLigatureslookup4 {
+  lookupflag 0;
+    sub \t \t  by \t_t;
+} dligDiscretionaryLigatureslookup4;
+
+lookup ligaStandardLigatureslookup5 {
+  lookupflag 0;
+    sub \f \i  by \fi;
+    sub \f \l  by \fl;
+} ligaStandardLigatureslookup5;
+
+feature aalt {
+
+ script DFLT;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup0;
+} aalt;
+
+feature sups {
+
+ script DFLT;
+     language dflt ;
+      lookup supsSuperscriptlookup1;
+} sups;
+
+feature frac {
+
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+} frac;
+
+feature ordn {
+
+ script DFLT;
+     language dflt ;
+      lookup ordnOrdinalslookup3;
+} ordn;
+
+feature dlig {
+
+ script DFLT;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslookup4;
+} dlig;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup5;
+} liga;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos \B \Y -10;
+    pos \B \V -14;
+    pos \E \g -26;
+    pos \T \z -72;
+    pos \Y \z -41;
+    pos \g \g 10;
+    pos \j \j 20;
+    pos \n \quotedblright -10;
+    pos \n \quoteright -10;
+    pos \Idieresis \Idieresis 92;
+    pos \idieresis \idieresis 103;
+  subtable;
+    @kc9_first_0 = [\A \Aring ];
+    @kc9_first_1 = [\B ];
+    @kc9_first_2 = [\F ];
+    @kc9_first_3 = [\K ];
+    @kc9_first_4 = [\L ];
+    @kc9_first_5 = [\P ];
+    @kc9_first_6 = [\T ];
+    @kc9_first_7 = [\U ];
+    @kc9_first_8 = [\V ];
+    @kc9_first_9 = [\W ];
+    @kc9_first_10 = [\X ];
+    @kc9_first_11 = [\Y ];
+    @kc9_first_12 = [\E ];
+    @kc9_first_13 = [\R ];
+    @kc9_first_14 = [\S ];
+    @kc9_first_15 = [\Z ];
+    @kc9_second_1 = [\C \G \O \Q \Oslash \OE ];
+    @kc9_second_2 = [\T ];
+    @kc9_second_3 = [\U ];
+    @kc9_second_4 = [\V ];
+    @kc9_second_5 = [\W ];
+    @kc9_second_6 = [\Y ];
+    @kc9_second_7 = [\comma \period \quotesinglbase \quotedblbase ];
+    @kc9_second_8 = [\quoteright \quotedblright ];
+    @kc9_second_9 = [\v \w \y ];
+    @kc9_second_10 = [\A \Aring ];
+    @kc9_second_11 = [\a \ae ];
+    @kc9_second_12 = [\n \r \u ];
+    @kc9_second_13 = [\c \d \e \o \q \oe ];
+    @kc9_second_14 = [\s ];
+    @kc9_second_15 = [\i ];
+    @kc9_second_16 = [\hyphen ];
+    @kc9_second_17 = [\quoteleft \quotedblleft ];
+    @kc9_second_18 = [\backslash ];
+    @kc9_second_19 = [\colon \semicolon ];
+    @kc9_second_20 = [\x ];
+    @kc9_second_21 = [\guillemotright ];
+    @kc9_second_22 = [\guillemotleft ];
+    pos @kc9_first_0 @kc9_second_1 -9;
+    pos @kc9_first_0 @kc9_second_2 -79;
+    pos @kc9_first_0 @kc9_second_3 -19;
+    pos @kc9_first_0 @kc9_second_4 -38;
+    pos @kc9_first_0 @kc9_second_5 -19;
+    pos @kc9_first_0 @kc9_second_6 -48;
+    pos @kc9_first_0 @kc9_second_7 20;
+    pos @kc9_first_0 @kc9_second_8 -54;
+    pos @kc9_first_0 @kc9_second_9 -8;
+    pos @kc9_first_1 @kc9_second_4 -1;
+    pos @kc9_first_1 @kc9_second_5 -5;
+    pos @kc9_first_2 @kc9_second_7 -141;
+    pos @kc9_first_2 @kc9_second_9 -20;
+    pos @kc9_first_2 @kc9_second_10 -70;
+    pos @kc9_first_2 @kc9_second_11 -51;
+    pos @kc9_first_2 @kc9_second_12 -44;
+    pos @kc9_first_2 @kc9_second_13 -51;
+    pos @kc9_first_2 @kc9_second_14 -47;
+    pos @kc9_first_2 @kc9_second_15 -12;
+    pos @kc9_first_3 @kc9_second_1 -26;
+    pos @kc9_first_3 @kc9_second_9 -40;
+    pos @kc9_first_3 @kc9_second_11 -10;
+    pos @kc9_first_3 @kc9_second_12 -6;
+    pos @kc9_first_3 @kc9_second_13 -25;
+    pos @kc9_first_4 @kc9_second_1 -40;
+    pos @kc9_first_4 @kc9_second_2 -117;
+    pos @kc9_first_4 @kc9_second_3 -55;
+    pos @kc9_first_4 @kc9_second_4 -103;
+    pos @kc9_first_4 @kc9_second_5 -71;
+    pos @kc9_first_4 @kc9_second_6 -109;
+    pos @kc9_first_4 @kc9_second_8 -104;
+    pos @kc9_first_4 @kc9_second_9 -93;
+    pos @kc9_first_4 @kc9_second_11 -16;
+    pos @kc9_first_4 @kc9_second_12 -32;
+    pos @kc9_first_4 @kc9_second_13 -29;
+    pos @kc9_first_4 @kc9_second_16 -133;
+    pos @kc9_first_4 @kc9_second_17 -123;
+    pos @kc9_first_4 @kc9_second_18 -51;
+    pos @kc9_first_5 @kc9_second_7 -115;
+    pos @kc9_first_5 @kc9_second_10 -45;
+    pos @kc9_first_5 @kc9_second_11 -8;
+    pos @kc9_first_6 @kc9_second_1 -31;
+    pos @kc9_first_6 @kc9_second_5 20;
+    pos @kc9_first_6 @kc9_second_7 -80;
+    pos @kc9_first_6 @kc9_second_9 -61;
+    pos @kc9_first_6 @kc9_second_10 -79;
+    pos @kc9_first_6 @kc9_second_11 -84;
+    pos @kc9_first_6 @kc9_second_12 -70;
+    pos @kc9_first_6 @kc9_second_13 -82;
+    pos @kc9_first_6 @kc9_second_14 -73;
+    pos @kc9_first_6 @kc9_second_16 -72;
+    pos @kc9_first_6 @kc9_second_19 -40;
+    pos @kc9_first_6 @kc9_second_20 -61;
+    pos @kc9_first_7 @kc9_second_7 -40;
+    pos @kc9_first_7 @kc9_second_10 -25;
+    pos @kc9_first_8 @kc9_second_1 -9;
+    pos @kc9_first_8 @kc9_second_7 -70;
+    pos @kc9_first_8 @kc9_second_9 1;
+    pos @kc9_first_8 @kc9_second_10 -31;
+    pos @kc9_first_8 @kc9_second_11 -40;
+    pos @kc9_first_8 @kc9_second_12 -29;
+    pos @kc9_first_8 @kc9_second_13 -39;
+    pos @kc9_first_8 @kc9_second_16 -40;
+    pos @kc9_first_8 @kc9_second_19 -19;
+    pos @kc9_first_8 @kc9_second_21 -10;
+    pos @kc9_first_9 @kc9_second_7 -57;
+    pos @kc9_first_9 @kc9_second_10 -19;
+    pos @kc9_first_9 @kc9_second_11 -19;
+    pos @kc9_first_9 @kc9_second_12 -5;
+    pos @kc9_first_9 @kc9_second_13 -18;
+    pos @kc9_first_9 @kc9_second_16 -32;
+    pos @kc9_first_10 @kc9_second_1 -17;
+    pos @kc9_first_10 @kc9_second_13 -15;
+    pos @kc9_first_11 @kc9_second_1 -8;
+    pos @kc9_first_11 @kc9_second_7 -94;
+    pos @kc9_first_11 @kc9_second_8 20;
+    pos @kc9_first_11 @kc9_second_9 -25;
+    pos @kc9_first_11 @kc9_second_10 -48;
+    pos @kc9_first_11 @kc9_second_11 -62;
+    pos @kc9_first_11 @kc9_second_12 -43;
+    pos @kc9_first_11 @kc9_second_13 -72;
+    pos @kc9_first_11 @kc9_second_14 -61;
+    pos @kc9_first_11 @kc9_second_16 -72;
+    pos @kc9_first_11 @kc9_second_19 -30;
+    pos @kc9_first_11 @kc9_second_21 -51;
+    pos @kc9_first_11 @kc9_second_22 -61;
+    pos @kc9_first_12 @kc9_second_13 -15;
+    pos @kc9_first_13 @kc9_second_5 10;
+    pos @kc9_first_13 @kc9_second_9 -3;
+    pos @kc9_first_13 @kc9_second_11 -8;
+    pos @kc9_first_13 @kc9_second_12 -7;
+    pos @kc9_first_13 @kc9_second_13 -13;
+    pos @kc9_first_14 @kc9_second_6 -10;
+    pos @kc9_first_15 @kc9_second_11 -20;
+    pos @kc9_first_15 @kc9_second_13 -36;
+  subtable;
+    @kc10_first_0 = [\space \C \D \G \O \Oslash ];
+    @kc10_second_1 = [\A \Aring ];
+    @kc10_second_2 = [\V ];
+    @kc10_second_3 = [\X ];
+    @kc10_second_4 = [\Y ];
+    @kc10_second_5 = [\comma \period \quotesinglbase \quotedblbase ];
+    @kc10_second_6 = [\z ];
+    pos @kc10_first_0 @kc10_second_1 -15;
+    pos @kc10_first_0 @kc10_second_2 -9;
+    pos @kc10_first_0 @kc10_second_3 -17;
+    pos @kc10_first_0 @kc10_second_4 -18;
+    pos @kc10_first_0 @kc10_second_5 -32;
+    pos @kc10_first_0 @kc10_second_6 -20;
+  subtable;
+    @kc11_first_0 = [\f ];
+    @kc11_first_1 = [\a \n \u ];
+    @kc11_first_2 = [\c \e \o ];
+    @kc11_first_3 = [\r ];
+    @kc11_first_4 = [\v \w \y ];
+    @kc11_first_5 = [\x ];
+    @kc11_second_1 = [\f ];
+    @kc11_second_2 = [\comma \period \quotesinglbase \quotedblbase ];
+    @kc11_second_3 = [\quoteright \quotedblright ];
+    @kc11_second_4 = [\x ];
+    @kc11_second_5 = [\c \d \e \o \q \oe ];
+    pos @kc11_first_0 @kc11_second_1 19;
+    pos @kc11_first_0 @kc11_second_2 -40;
+    pos @kc11_first_0 @kc11_second_3 31;
+    pos @kc11_first_1 @kc11_second_3 -2;
+    pos @kc11_first_2 @kc11_second_4 -10;
+    pos @kc11_first_3 @kc11_second_2 -63;
+    pos @kc11_first_4 @kc11_second_2 -65;
+    pos @kc11_first_4 @kc11_second_3 9;
+    pos @kc11_first_5 @kc11_second_5 -13;
+  subtable;
+    @kc12_first_0 = [\hyphen ];
+    @kc12_first_1 = [\quoteleft \quotedblleft ];
+    @kc12_first_2 = [\quoteright \quotedblright ];
+    @kc12_first_3 = [\guillemotleft ];
+    @kc12_first_4 = [\guillemotright ];
+    @kc12_first_5 = [\quotedblbase ];
+    @kc12_second_1 = [\T ];
+    @kc12_second_2 = [\V ];
+    @kc12_second_3 = [\W ];
+    @kc12_second_4 = [\Y ];
+    @kc12_second_5 = [\A \Aring ];
+    @kc12_second_6 = [\J ];
+    @kc12_second_7 = [\AE ];
+    @kc12_second_8 = [\c \d \e \o \q \oe ];
+    @kc12_second_9 = [\s ];
+    @kc12_second_10 = [\v \w \y ];
+    pos @kc12_first_0 @kc12_second_1 -72;
+    pos @kc12_first_0 @kc12_second_2 -40;
+    pos @kc12_first_0 @kc12_second_3 -32;
+    pos @kc12_first_0 @kc12_second_4 -72;
+    pos @kc12_first_1 @kc12_second_2 20;
+    pos @kc12_first_1 @kc12_second_4 20;
+    pos @kc12_first_1 @kc12_second_5 -54;
+    pos @kc12_first_1 @kc12_second_6 -77;
+    pos @kc12_first_1 @kc12_second_7 -164;
+    pos @kc12_first_2 @kc12_second_8 -65;
+    pos @kc12_first_2 @kc12_second_9 -45;
+    pos @kc12_first_2 @kc12_second_10 16;
+    pos @kc12_first_3 @kc12_second_2 -10;
+    pos @kc12_first_3 @kc12_second_4 -51;
+    pos @kc12_first_4 @kc12_second_1 -51;
+    pos @kc12_first_4 @kc12_second_4 -61;
+    pos @kc12_first_5 @kc12_second_1 -72;
+    pos @kc12_first_5 @kc12_second_2 -72;
+    pos @kc12_first_5 @kc12_second_4 -72;
+} kernHorizontalKerninglookup0;
+
+lookup kernHorizontalKerninglookup1 {
+  lookupflag 0;
+    pos \zero \seven -20;
+    pos \two \seven -10;
+    pos \three \seven -31;
+    pos \four \seven -41;
+    pos \six \seven -32;
+    pos \seven \nine -15;
+    pos \seven \eight -10;
+    pos \seven \six -41;
+    pos \seven \four -41;
+    pos \seven \three -20;
+    pos \eight \seven -31;
+    pos \nine \seven -20;
+  subtable;
+    @kc14_first_0 = [\comma \period \quotesinglbase ];
+    @kc14_second_1 = [\four ];
+    @kc14_second_2 = [\nine ];
+    @kc14_second_3 = [\one ];
+    @kc14_second_4 = [\seven ];
+    @kc14_second_5 = [\three ];
+    @kc14_second_6 = [\zero ];
+    pos @kc14_first_0 @kc14_second_1 -11;
+    pos @kc14_first_0 @kc14_second_2 -58;
+    pos @kc14_first_0 @kc14_second_3 -34;
+    pos @kc14_first_0 @kc14_second_4 -4;
+    pos @kc14_first_0 @kc14_second_5 -3;
+    pos @kc14_first_0 @kc14_second_6 -13;
+  subtable;
+    @kc15_first_0 = [\nine ];
+    @kc15_first_1 = [\seven ];
+    @kc15_second_1 = [\comma \period \quotesinglbase \quotedblbase ];
+    pos @kc15_first_0 @kc15_second_1 -38;
+    pos @kc15_first_1 @kc15_second_1 -95;
+} kernHorizontalKerninglookup1;
+
+lookup markMarkPositioninglookup2 {
+  lookupflag 0;
+  markClass [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ] <anchor 55 519> @Anchor0;
+  pos base [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring ] <anchor 370 692> mark @Anchor0;
+  pos base [\E \Egrave \Eacute \Ecircumflex \Edieresis ] <anchor 382 707> mark @Anchor0;
+  pos base [\I \Igrave \Iacute \Icircumflex \Idieresis ] <anchor 222 707> mark @Anchor0;
+  pos base [\N \Ntilde ] <anchor 424 707> mark @Anchor0;
+  pos base [\O \Q \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash ] <anchor 396 707> mark @Anchor0;
+  pos base [\S \Z \Scaron \Zcaron ] <anchor 349 707> mark @Anchor0;
+  pos base [\U \Ugrave \Uacute \Ucircumflex \Udieresis ] <anchor 415 707> mark @Anchor0;
+  pos base [\Y \Yacute \Ydieresis ] <anchor 340 707> mark @Anchor0;
+  pos base [\a \agrave \aacute \acircumflex \atilde \adieresis \aring ] <anchor 301 519> mark @Anchor0;
+  pos base [\e \egrave \eacute \ecircumflex \edieresis ] <anchor 307 519> mark @Anchor0;
+  pos base [\i \igrave \iacute \icircumflex \idieresis \dotlessi ] <anchor 167 519> mark @Anchor0;
+  pos base [\n \ntilde ] <anchor 318 519> mark @Anchor0;
+  pos base [\o \ograve \oacute \ocircumflex \otilde \odieresis ] <anchor 309 519> mark @Anchor0;
+  pos base [\s \scaron ] <anchor 262 519> mark @Anchor0;
+  pos base [\u \ugrave \uacute \ucircumflex \udieresis ] <anchor 323 519> mark @Anchor0;
+  pos base [\y \yacute \ydieresis ] <anchor 271 519> mark @Anchor0;
+  pos base [\z \zcaron ] <anchor 267 519> mark @Anchor0;
+  pos base [\oe ] <anchor 824 519> mark @Anchor0;
+} markMarkPositioninglookup2;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup1;
+} kern;
+
+feature mark {
+
+ script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup2;
+} mark;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+@MarkClass1 = [ gravecomb acutecomb uni0302 tildecomb uni0308 uni030A ];
+
+@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
+	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
+	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
+	\nine \colon \semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J 
+	\K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright 
+	\asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u 
+	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent 
+	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine 
+	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus 
+	\uni00B2 \uni00B3 \acute \uni00B5 \paragraph \periodcentered \cedilla \uni00B9 
+	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex 
+	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis 
+	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute 
+	\Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave \Uacute \Ucircumflex 
+	\Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde 
+	\adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \igrave 
+	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex 
+	\otilde \odieresis \divide \oslash \ugrave \uacute \ucircumflex \udieresis 
+	\yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron \scaron \Ydieresis \Zcaron 
+	\zcaron \florin \circumflex \caron \dotaccent \ring \tilde \endash \emdash 
+	\quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright 
+	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft 
+	\guilsinglright \Euro \trademark \NULL \zero.dnom \one.dnom \two.dnom 
+	\three.dnom \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr 
+	\zero.sups \one.sups \two.sups \three.sups \four.sups \glyph249 ];
+@GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
+@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+

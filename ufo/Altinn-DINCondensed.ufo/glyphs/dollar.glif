@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="380"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="280" y="37"/>
+      <point x="217" y="28" type="qcurve"/>
+      <point x="217" y="-74" type="line"/>
+      <point x="163" y="-74" type="line"/>
+      <point x="163" y="27" type="line"/>
+      <point x="33" y="37"/>
+      <point x="27" y="200" type="qcurve"/>
+      <point x="97" y="200" type="line"/>
+      <point x="102" y="105"/>
+      <point x="163" y="88" type="qcurve"/>
+      <point x="163" y="327" type="line"/>
+      <point x="152" y="332" type="line" smooth="yes"/>
+      <point x="84" y="361"/>
+      <point x="29" y="438"/>
+      <point x="29" y="502" type="qcurve" smooth="yes"/>
+      <point x="29" y="580"/>
+      <point x="101" y="668"/>
+      <point x="163" y="675" type="qcurve"/>
+      <point x="163" y="771" type="line"/>
+      <point x="217" y="771" type="line"/>
+      <point x="217" y="674" type="line"/>
+      <point x="328" y="657"/>
+      <point x="337" y="502" type="qcurve"/>
+      <point x="273" y="502" type="line"/>
+      <point x="270" y="591"/>
+      <point x="217" y="608" type="qcurve"/>
+      <point x="217" y="386" type="line"/>
+      <point x="283" y="358"/>
+      <point x="344" y="271"/>
+      <point x="344" y="202" type="qcurve" smooth="yes"/>
+      <point x="344" y="126"/>
+    </contour>
+    <contour>
+      <point x="129" y="424"/>
+      <point x="163" y="408" type="qcurve"/>
+      <point x="163" y="611" type="line"/>
+      <point x="131" y="604"/>
+      <point x="97" y="553"/>
+      <point x="97" y="512" type="qcurve" smooth="yes"/>
+      <point x="97" y="472"/>
+    </contour>
+    <contour>
+      <point x="275" y="193" type="qcurve" smooth="yes"/>
+      <point x="275" y="235"/>
+      <point x="248" y="284"/>
+      <point x="217" y="301" type="qcurve"/>
+      <point x="217" y="89" type="line"/>
+      <point x="275" y="107"/>
+    </contour>
+    <contour>
+      <point x="59" y="707" type="move" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="2">
+  <advance width="544"/>
+  <unicode hex="00CA"/>
+  <anchor x="274" y="707" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="195" y="590" type="line"/>
+      <point x="195" y="415" type="line"/>
+      <point x="463" y="415" type="line"/>
+      <point x="463" y="298" type="line"/>
+      <point x="195" y="298" type="line"/>
+      <point x="195" y="117" type="line"/>
+      <point x="509" y="117" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="707" type="line"/>
+      <point x="509" y="707" type="line"/>
+      <point x="509" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="920" type="line"/>
+      <point x="321" y="920" type="line"/>
+      <point x="438" y="765" type="line"/>
+      <point x="339" y="765" type="line"/>
+      <point x="274" y="845" type="line"/>
+      <point x="210" y="765" type="line"/>
+      <point x="110" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>298</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>590</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>60</integer>
+            <key>width</key>
+            <integer>135</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
