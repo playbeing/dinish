@@ -1,12 +1,20 @@
-![Altinn-DIN](altinn-din.png "Altinn-DIN")
+![DINish](altinn-din.png "Altinn-DIN")
 
-The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://www.datto.com/fonts/d-din).
+The [DINish](https://github.com/driehuis/dinish) font is derived from
+[Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
+based on Datto's [D-DIN](https://www.datto.com/fonts/d-din). Datto
+acquired the rights to Monotype DIN to open source it. Monotype DIN
+is designed by Charles Nix.
 The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 
 Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.txt)).
 
 
 ## Basic Font Information
+
+The name DINish refers to the fact that the font looks
+like DIN 1451 but the author had no way to verify its compliance with
+that standard.
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
 that is widely used for traffic, administrative and technical applications.
