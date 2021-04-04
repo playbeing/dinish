@@ -15,7 +15,7 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2021 Bert Driehuis. All rights reserved.</string>
+    <string>Copyright 2021 The DINish Project Authors (https://github.com/driehuis/dinish)</string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>capHeight</key>
@@ -47,7 +47,7 @@
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -137,7 +137,7 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
-    <string>http://scripts.sil.org/OFL</string>
+    <string>https://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
