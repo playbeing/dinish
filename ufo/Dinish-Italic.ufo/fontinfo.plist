@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>DINish Expanded</string>
+    <string>Dinish</string>
     <key>styleName</key>
     <string>Italic</string>
     <key>styleMapFamilyName</key>
-    <string>DINish Expanded Italic</string>
+    <string>Dinish Italic</string>
     <key>styleMapStyleName</key>
     <string>italic</string>
     <key>versionMajor</key>
@@ -21,7 +21,7 @@
     <key>capHeight</key>
     <integer>707</integer>
     <key>xHeight</key>
-    <integer>523</integer>
+    <integer>519</integer>
     <key>ascender</key>
     <integer>782</integer>
     <key>descender</key>
@@ -31,11 +31,11 @@
     <key>openTypeHeadCreated</key>
     <string>2016/05/10 19:45:33</string>
     <key>openTypeHheaAscender</key>
-    <integer>924</integer>
+    <integer>851</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-188</integer>
+    <integer>-173</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>0</integer>
+    <integer>88</integer>
     <key>openTypeNameDesigner</key>
     <string>Charles Nix</string>
     <key>openTypeNameManufacturer</key>
@@ -141,14 +141,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
-    <string>DINish Expanded Italic</string>
+    <string>Dinish Italic</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
       <integer>11</integer>
-      <integer>8</integer>
+      <integer>5</integer>
       <integer>4</integer>
-      <integer>2</integer>
+      <integer>3</integer>
       <integer>2</integer>
       <integer>2</integer>
       <integer>10</integer>
@@ -156,7 +156,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
       <integer>4</integer>
     </array>
     <key>openTypeOS2WidthClass</key>
-    <integer>7</integer>
+    <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2VendorID</key>
@@ -197,7 +197,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>51</integer>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>313</integer>
+    <integer>311</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -214,11 +214,12 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
+      <integer>29</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>DINishExp-Italic</string>
+    <string>Dinish-Italic</string>
     <key>postscriptFullName</key>
-    <string>DINish Expanded Italic</string>
+    <string>Dinish Italic</string>
     <key>postscriptWeightName</key>
     <string>Book</string>
     <key>postscriptUnderlineThickness</key>

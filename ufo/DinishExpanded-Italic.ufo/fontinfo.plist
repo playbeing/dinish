@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>DINish</string>
+    <string>Dinish Expanded</string>
     <key>styleName</key>
-    <string>DIN</string>
+    <string>Italic</string>
     <key>styleMapFamilyName</key>
-    <string>DINish</string>
+    <string>Dinish Expanded Italic</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>italic</string>
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
@@ -21,21 +21,21 @@
     <key>capHeight</key>
     <integer>707</integer>
     <key>xHeight</key>
-    <integer>519</integer>
+    <integer>523</integer>
     <key>ascender</key>
     <integer>782</integer>
     <key>descender</key>
     <integer>-242</integer>
     <key>italicAngle</key>
-    <real>0</real>
+    <real>-12</real>
     <key>openTypeHeadCreated</key>
-    <string>2016/05/10 19:45:13</string>
+    <string>2016/05/10 19:45:33</string>
     <key>openTypeHheaAscender</key>
-    <integer>851</integer>
+    <integer>924</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-173</integer>
+    <integer>-188</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>88</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Charles Nix</string>
     <key>openTypeNameManufacturer</key>
@@ -141,22 +141,22 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
-    <string>DINish</string>
+    <string>Dinish Expanded Italic</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
       <integer>11</integer>
-      <integer>5</integer>
+      <integer>8</integer>
       <integer>4</integer>
-      <integer>3</integer>
       <integer>2</integer>
       <integer>2</integer>
-      <integer>3</integer>
+      <integer>2</integer>
+      <integer>10</integer>
       <integer>2</integer>
       <integer>4</integer>
     </array>
     <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
+    <integer>7</integer>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2VendorID</key>
@@ -183,7 +183,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2SubscriptYSize</key>
     <integer>614</integer>
     <key>openTypeOS2SubscriptXOffset</key>
-    <integer>0</integer>
+    <integer>-16</integer>
     <key>openTypeOS2SubscriptYOffset</key>
     <integer>77</integer>
     <key>openTypeOS2SuperscriptXSize</key>
@@ -191,13 +191,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2SuperscriptYSize</key>
     <integer>614</integer>
     <key>openTypeOS2SuperscriptXOffset</key>
-    <integer>0</integer>
+    <integer>76</integer>
     <key>openTypeOS2SuperscriptYOffset</key>
     <integer>358</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>51</integer>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>311</integer>
+    <integer>313</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -214,34 +214,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
-      <integer>29</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>DINish</string>
+    <string>DinishExp-Italic</string>
     <key>postscriptFullName</key>
-    <string>DINish</string>
+    <string>Dinish Expanded Italic</string>
     <key>postscriptWeightName</key>
     <string>Book</string>
     <key>postscriptUnderlineThickness</key>
     <integer>51</integer>
     <key>postscriptUnderlinePosition</key>
     <integer>-153</integer>
-    <key>postscriptBlueValues</key>
-    <array>
-      <integer>-8</integer>
-      <integer>0</integer>
-      <integer>519</integer>
-      <integer>526</integer>
-      <integer>707</integer>
-      <integer>716</integer>
-    </array>
-    <key>postscriptOtherBlues</key>
-    <array>
-      <integer>-156</integer>
-      <integer>-156</integer>
-    </array>
-    <key>postscriptBlueShift</key>
-    <integer>0</integer>
     <key>guidelines</key>
     <array/>
   </dict>

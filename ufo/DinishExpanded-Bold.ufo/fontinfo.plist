@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>DINish Condensed</string>
+    <string>Dinish Expanded</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>styleMapFamilyName</key>
-    <string>DINish Condensed Bold</string>
+    <string>Dinish Expanded Bold</string>
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>versionMajor</key>
@@ -21,7 +21,7 @@
     <key>capHeight</key>
     <integer>707</integer>
     <key>xHeight</key>
-    <integer>541</integer>
+    <integer>532</integer>
     <key>ascender</key>
     <integer>782</integer>
     <key>descender</key>
@@ -31,9 +31,9 @@
     <key>openTypeHeadCreated</key>
     <string>2016/05/10 19:45:13</string>
     <key>openTypeHheaAscender</key>
-    <integer>801</integer>
+    <integer>924</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-248</integer>
+    <integer>-188</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -141,14 +141,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
-    <string>DINish Condensed Bold</string>
+    <string>Dinish Expanded Bold</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
       <integer>11</integer>
       <integer>8</integer>
-      <integer>6</integer>
-      <integer>3</integer>
+      <integer>4</integer>
+      <integer>2</integer>
       <integer>2</integer>
       <integer>2</integer>
       <integer>3</integer>
@@ -156,7 +156,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
       <integer>4</integer>
     </array>
     <key>openTypeOS2WidthClass</key>
-    <integer>3</integer>
+    <integer>7</integer>
     <key>openTypeOS2WeightClass</key>
     <integer>700</integer>
     <key>openTypeOS2VendorID</key>
@@ -169,9 +169,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>801</integer>
+    <integer>782</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-248</integer>
+    <integer>-242</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
@@ -197,7 +197,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>51</integer>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>324</integer>
+    <integer>319</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -214,12 +214,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
-      <integer>29</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>DINishCondensed-Bold</string>
+    <string>DinishExp-Bold</string>
     <key>postscriptFullName</key>
-    <string>DINish Condensed Bold</string>
+    <string>Dinish Expanded Bold</string>
     <key>postscriptWeightName</key>
     <string>Bold</string>
     <key>postscriptUnderlineThickness</key>
