@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>Altinn-DIN</string>
+    <string>DINish</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>styleMapFamilyName</key>
-    <string>Altinn-DIN Bold</string>
+    <string>DINish Bold</string>
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>versionMajor</key>
@@ -15,7 +15,7 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright © Altinn. All rights reserved.</string>
+    <string>Copyright (c) 2021 Bert Driehuis. All rights reserved.</string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>capHeight</key>
@@ -39,12 +39,11 @@
     <key>openTypeNameDesigner</key>
     <string>Charles Nix</string>
     <key>openTypeNameManufacturer</key>
-    <string>Altinn</string>
+    <string>Playbeing</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>https://github.com/Altinn/altinn-din</string>
+    <string>https://github.com/driehuis/dinish</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2019, Altinn. (https://github.com/Altinn/altinn-din),
-with Reserved Font Name Altinn-DIN.
+    <string>Copyright (c) 2021 Bert Driehuis (https://github.com/driehuis/dinish)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -64,7 +63,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -140,9 +139,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 2.00</string>
+    <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
-    <string>Altinn-DIN Bold</string>
+    <string>DINish Bold</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -218,9 +217,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
       <integer>29</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>Altinn-DIN-Bold</string>
+    <string>DINish-Bold</string>
     <key>postscriptFullName</key>
-    <string>Altinn-DIN Bold</string>
+    <string>DINish Bold</string>
     <key>postscriptWeightName</key>
     <string>Bold</string>
     <key>postscriptUnderlineThickness</key>
