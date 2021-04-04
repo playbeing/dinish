@@ -3,8 +3,8 @@
 The [DINish](https://github.com/driehuis/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
 based on Datto's [D-DIN](https://www.datto.com/fonts/d-din). Datto
-acquired the rights to Monotype DIN to open source it. Monotype DIN
-is designed by Charles Nix.
+derived D-DIN from Monotype DIN, designed by Charles Nix, and open
+sourced it.
 The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 
 Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.txt)).
@@ -40,7 +40,7 @@ OFL v1.1 license.
 Altinn changed the reserved font names from "D-DIN" to "Altinn-DIN"
 to be able to do modifications, as required by the SIL OFL v1.1 license.
 
-Altinn-DIN currently provides the following Unicode coverage:
+DINish currently provides the following Unicode coverage:
 
 - Basic Latin: complete
 - Latin-1 Supplement: complete
@@ -52,10 +52,13 @@ This Font Software is licensed under the [SIL Open Font License, Version 1.1](OF
 
 [FontForge](https://github.com/fontforge/fontforge) is used for editing the Altinn-DIN sfd source files and generating fonts.
 
+Copyright © 2021, Bert Driehuis (https://github.com/driehuis/dinish)
 Copyright © 2019 Altinn https://github.com/Altinn/altinn-din  
 Copyright © 2017 Datto Inc. https://www.datto.com/fonts/d-din
 
 ## Acknowledgements
+
+DINish is derived from Altinn-DIN.
 
 The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://www.datto.com/fonts/d-din).
 
