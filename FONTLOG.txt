@@ -1,13 +1,20 @@
-FONTLOG for Altinn-DIN family
+FONTLOG for DINish font family
 ------------------------
-This file provides detailed information on the Altinn-DIN font software.
-This information should be distributed along with the Altinn-DIN fonts
+This file provides detailed information on the DINish font software.
+This information should be distributed along with the DINish fonts
 and any derivative works.
 
 Basic Font Information
 ----------------------
+Copyright (c) 2021, Bert Driehuis (https://github.com/driehuis/dinish)
 Copyright (c) 2019, Altinn (https://github.com/Altinn/altinn-din)
 Copyright (c) 2017, Datto Inc. (https://www.datto.com/fonts/d-din)
+
+DINish is derived from Altinn-DIN, which is derived from Datto's D-DIN
+font family, itself derived from the DIN font designed by Charles Nix
+for Monotype. The name DINish refers to the fact that the font looks
+like DIN 1451 but the author had no way to verify its compliance with
+that standard.
 
 DIN 1451 is a sans-serif typeface that is widely used for traffic,
 administrative and technical applications. It was defined by the German
@@ -29,8 +36,10 @@ OFL v1.1 license.
 
 Altinn changed the reserved font names from D-DIN to Altinn-DIN
 to be able to do modifications, as required by the SIL OFL v1.1 license.
+Bert Driehuis changed the font name to DINish and removed the Reserved
+Font Name.
 
-Altinn-DIN currently provides the following Unicode coverage:
+DINish currently provides the following Unicode coverage:
 Basic Latin: complete
 Latin-1 Supplement: complete
 Plus ISO 8859-15 characters missing in the above.
@@ -50,6 +59,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2021-04-04 - v2.0.2: Renamed to DINish
 2021-04-03 - v2.0.1: Converted to ufo, see NOTES.md
 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications.
 2017-10-26 - v1.0: First public release
@@ -57,6 +67,9 @@ ChangeLog
 
 Acknowledgements
 -------------------------
+This font is based on Altinn-DIN. Altinn added missing glyphs and released the
+source in FontForge format.
+
 This font is based on Datto D-DIN.
 https://www.datto.com/fonts/d-din
 
