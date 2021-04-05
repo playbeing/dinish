@@ -5,7 +5,7 @@
     <key>familyName</key>
     <string>Dinish Condensed</string>
     <key>styleName</key>
-    <string>DINCondensed</string>
+    <string>Regular</string>
     <key>styleMapFamilyName</key>
     <string>Dinish Condensed</string>
     <key>styleMapStyleName</key>
@@ -141,7 +141,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.0.2</string>
     <key>openTypeNameUniqueID</key>
-    <string>Dinish Condensed</string>
+    <string>Dinish Condensed Regular</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -216,11 +216,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>DinishCondensed</string>
+    <string>DinishCond</string>
     <key>postscriptFullName</key>
-    <string>Dinish Condensed</string>
+    <string>Dinish Condensed Regular</string>
     <key>postscriptWeightName</key>
-    <string>Book</string>
+    <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
     <integer>51</integer>
     <key>postscriptUnderlinePosition</key>

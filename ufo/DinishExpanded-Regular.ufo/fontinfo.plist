@@ -5,7 +5,7 @@
     <key>familyName</key>
     <string>Dinish Expanded</string>
     <key>styleName</key>
-    <string>DINExp</string>
+    <string>Regular</string>
     <key>styleMapFamilyName</key>
     <string>Dinish Expanded</string>
     <key>styleMapStyleName</key>
@@ -220,7 +220,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>postscriptFullName</key>
     <string>Dinish Expanded</string>
     <key>postscriptWeightName</key>
-    <string>Book</string>
+    <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
     <integer>51</integer>
     <key>postscriptUnderlinePosition</key>
