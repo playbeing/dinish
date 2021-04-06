@@ -2,4 +2,5 @@
 <glyph name="nonmarkingreturn" format="2">
   <advance width="234"/>
   <unicode hex="000D"/>
+  <outline/>
 </glyph>
