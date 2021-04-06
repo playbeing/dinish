@@ -13,7 +13,7 @@ Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.tx
 ## Basic Font Information
 
 The name DINish refers to the fact that the font looks
-like DIN 1451~~ but the author has no way to verify its compliance with
+like DIN 1451 ~~but the author has no way to verify its compliance with
 that standard~~. Actually, a quick comparison with some excerpts from
 the standard that can be found on the Internet shows DINish to not be
 fully compatible with the standard, at least as it was in 1936. That said,
