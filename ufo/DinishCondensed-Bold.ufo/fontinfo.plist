@@ -15,7 +15,7 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>copyright</key>
-    <string>Copyright 2021 The DINish Project Authors (https://github.com/driehuis/dinish)</string>
+    <string>Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)</string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>capHeight</key>
@@ -41,9 +41,9 @@
     <key>openTypeNameManufacturer</key>
     <string>Playbeing</string>
     <key>openTypeNameManufacturerURL</key>
-    <string>https://github.com/driehuis/dinish</string>
+    <string>https://github.com/playbeing/dinish</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2021 Bert Driehuis (https://github.com/driehuis/dinish)
+    <string>Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
