@@ -15,9 +15,15 @@ Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.tx
 The name DINish refers to the fact that the font looks
 like DIN 1451 ~~but the author has no way to verify its compliance with
 that standard~~. Actually, a quick comparison with some excerpts from
-the standard that can be found on the Internet shows DINish to not be
-fully compatible with the standard, at least as it was in 1936. That said,
-it retains DIN's clarity and as such, it is a typeface with a purpose,
+the standard that can be found in historic sources shows DINish to not be
+fully compatible with the standard, at least as it was in 1936. That is
+probably a good thing.
+
+DIN 1451 shows its heritage from lettering standards for technical drawings.
+The standard has no concern for how the brain processes shapes and whitespace. 
+DINish was drawn with the human reader in mind, with subtle but loving exceptions
+to the rigid grid-and-ruler specification from the _Deutsche Norm_.
+That said, it retains DIN's clarity and as such it is a typeface with a purpose,
 if not a mission.
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
