@@ -13,8 +13,12 @@ Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.tx
 ## Basic Font Information
 
 The name DINish refers to the fact that the font looks
-like DIN 1451 but the author had no way to verify its compliance with
-that standard.
+like DIN 1451~~ but the author has no way to verify its compliance with
+that standard~~. Actually, a quick comparison with some excerpts from
+the standard that can be found on the Internet shows DINish to not be
+fully compatible with the standard, at least as it was in 1936. That said,
+it retains DIN's clarity and as such, it is a typeface with a purpose,
+if not a mission.
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
 that is widely used for traffic, administrative and technical applications.
@@ -39,6 +43,8 @@ OFL v1.1 license.
 
 Altinn changed the reserved font names from "D-DIN" to "Altinn-DIN"
 to be able to do modifications, as required by the SIL OFL v1.1 license.
+Pursuant to the same license, the name had to be changed yet again
+to drop the reserved font names. Hopefully, DINish will stick.
 
 DINish currently provides the following Unicode coverage:
 
