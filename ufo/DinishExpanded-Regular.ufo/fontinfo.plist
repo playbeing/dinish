@@ -16,8 +16,10 @@
   <array/>
   <key>italicAngle</key>
   <integer>0</integer>
+  <key>note</key>
+  <string/>
   <key>openTypeHeadCreated</key>
-  <string>2021/04/06 23:31:03</string>
+  <string>2021/04/07 22:36:56</string>
   <key>openTypeHheaAscender</key>
   <integer>924</integer>
   <key>openTypeHheaDescender</key>
@@ -26,6 +28,8 @@
   <integer>0</integer>
   <key>openTypeNameDesigner</key>
   <string>Charles Nix</string>
+  <key>openTypeNameDesignerURL</key>
+  <string/>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
@@ -52,7 +56,7 @@
     <integer>2</integer>
     <integer>11</integer>
     <integer>5</integer>
-    <integer>4</integer>
+    <integer>5</integer>
     <integer>2</integer>
     <integer>2</integer>
     <integer>2</integer>
@@ -111,10 +115,22 @@
   <integer>924</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>188</integer>
+  <key>postscriptBlueValues</key>
+  <array/>
+  <key>postscriptFamilyBlues</key>
+  <array/>
+  <key>postscriptFamilyOtherBlues</key>
+  <array/>
   <key>postscriptFontName</key>
   <string>DinishExpanded-Regular</string>
   <key>postscriptFullName</key>
   <string>Dinish Expanded</string>
+  <key>postscriptOtherBlues</key>
+  <array/>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-153</integer>
   <key>postscriptUnderlineThickness</key>
@@ -127,6 +143,8 @@
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
+  <key>trademark</key>
+  <string/>
   <key>unitsPerEm</key>
   <integer>1024</integer>
   <key>versionMajor</key>
