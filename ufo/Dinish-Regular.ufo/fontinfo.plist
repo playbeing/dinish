@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>782</integer>
+  <integer>801</integer>
   <key>capHeight</key>
   <integer>707</integer>
   <key>copyright</key>
   <string>Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)</string>
   <key>descender</key>
-  <integer>-242</integer>
+  <integer>-248</integer>
   <key>familyName</key>
   <string>Dinish</string>
   <key>guidelines</key>
