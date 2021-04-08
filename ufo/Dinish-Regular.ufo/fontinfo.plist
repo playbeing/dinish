@@ -23,7 +23,7 @@
   <key>openTypeHheaDescender</key>
   <integer>-173</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>88</integer>
+  <integer>0</integer>
   <key>openTypeNameDesigner</key>
   <string>Charles Nix</string>
   <key>openTypeNameLicense</key>
@@ -84,9 +84,9 @@
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>801</integer>
+  <integer>851</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-248</integer>
+  <integer>-173</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
