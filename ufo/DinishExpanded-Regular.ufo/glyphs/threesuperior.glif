@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threesuperior" format="2">
-  <advance width="339"/>
+  <advance width="381"/>
   <unicode hex="2073"/>
   <outline>
     <component base="uni00B3"/>

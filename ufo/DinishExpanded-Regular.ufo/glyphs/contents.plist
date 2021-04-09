@@ -256,6 +256,8 @@
   <string>florin.glif</string>
   <key>four</key>
   <string>four.glif</string>
+  <key>four.sups</key>
+  <string>four.sups.glif</string>
   <key>foursuperior</key>
   <string>foursuperior.glif</string>
   <key>fraction</key>
