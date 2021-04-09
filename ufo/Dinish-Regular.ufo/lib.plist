@@ -434,7 +434,8 @@
     <string>fl</string>
     <string>oe</string>
     <string>guilsinglright</string>
-    <string>glyph249</string>
+    <string>fraction</string>
+    <string>divisionslash</string>
     <string>one.dnom</string>
     <string>two.sups</string>
     <string>guilsinglleft</string>
@@ -470,6 +471,7 @@
     <string>three.numr</string>
     <string>four.numr</string>
     <string>one.numr</string>
+    <string>foursuperior</string>
   </array>
 </dict>
 </plist>
