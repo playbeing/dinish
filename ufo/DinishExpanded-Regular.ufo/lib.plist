@@ -328,7 +328,6 @@
     <string>paragraph</string>
     <string>periodcentered</string>
     <string>onesuperior</string>
-    <string>foursuperior</string>
     <string>ordmasculine</string>
     <string>guillemotright</string>
     <string>onequarter</string>
@@ -452,6 +451,7 @@
     <string>cedilla</string>
     <string>tilde</string>
     <string>uni00A0</string>
+    <string>foursuperior</string>
     <string>four.sups</string>
     <string>fraction</string>
     <string>divisionslash</string>
