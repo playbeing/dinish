@@ -407,7 +407,7 @@ feature kern {
 	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent 
 	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine 
 	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus 
-	\uni00B2 \uni00B3 \acute \uni00B5 \paragraph \periodcentered \cedilla \uni00B9 
+	\uni00B2 \uni00B3 \acute \mu \paragraph \periodcentered \cedilla \uni00B9 
 	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex 
 	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis 
 	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute 
@@ -423,7 +423,8 @@ feature kern {
 	\bullet \ellipsis \perthousand \guilsinglleft \guilsinglright \Euro \trademark 
 	\.null \NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr 
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups 
-	\three.sups \four.sups \fraction \divisionslash \minus \foursuperior ];
+	\three.sups \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior
+	\threesuperior \foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
 
 table GDEF {
