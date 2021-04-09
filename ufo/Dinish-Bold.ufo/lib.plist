@@ -420,7 +420,8 @@
     <string>quotedblright</string>
     <string>acute</string>
     <string>OE</string>
-    <string>glyph249</string>
+    <string>fraction</string>
+    <string>divisionslash</string>
     <string>uni00B5</string>
     <string>one.numr</string>
     <string>quotesinglbase</string>
@@ -441,6 +442,7 @@
     <string>one.sups</string>
     <string>dotaccent</string>
     <string>four.sups</string>
+    <string>foursuperior</string>
     <string>ring</string>
     <string>circumflex</string>
     <string>two.numr</string>

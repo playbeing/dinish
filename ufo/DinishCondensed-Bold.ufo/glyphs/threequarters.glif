@@ -5,6 +5,6 @@
   <outline>
     <component base="three.sups" yOffset="-161"/>
     <component base="four.sups" xOffset="483" yOffset="-440"/>
-    <component base="glyph249" xOffset="285"/>
+    <component base="fraction" xOffset="285"/>
   </outline>
 </glyph>

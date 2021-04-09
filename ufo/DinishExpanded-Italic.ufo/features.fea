@@ -378,7 +378,8 @@ feature kern {
 	\tilde \gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A \endash 
 	\emdash \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright 
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft 
-	\guilsinglright \Euro \trademark \fi \fl ];
+	\guilsinglright \Euro \trademark \fi \fl \fraction \divisionslash \minus
+	\foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
 
 table GDEF {

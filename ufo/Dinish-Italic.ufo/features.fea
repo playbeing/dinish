@@ -419,7 +419,8 @@ feature mark {
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft 
 	\guilsinglright \Euro \trademark \NULL \zero.dnom \one.dnom \two.dnom 
 	\three.dnom \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr 
-	\zero.sups \one.sups \two.sups \three.sups \four.sups \glyph249 ];
+	\zero.sups \one.sups \two.sups \three.sups \four.sups \fraction \divisionslash
+	\minus \foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
 @GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ];
 
