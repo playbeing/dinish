@@ -1,4 +1,4 @@
-![DINish](altinn-din.png "Altinn-DIN")
+![DINish](din-vs-dinish.jpeg "DIN vs DINish")
 
 The [DINish](https://github.com/driehuis/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
