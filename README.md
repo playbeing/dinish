@@ -10,21 +10,22 @@ The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.txt)).
 
 
-## Basic Font Information
+## Introduction
 
-The name DINish refers to the fact that the font looks
-like DIN 1451 ~~but the author has no way to verify its compliance with
-that standard~~. Actually, a quick comparison with some excerpts from
-the standard that can be found in historic sources shows DINish to not be
-fully compatible with the standard, at least as it was in 1936. That is
-probably a good thing.
+The name DINish refers to the fact that the typeface looks like DIN 1451.
+Actually, a quick comparison with the standard as can be found in historic
+sources shows DINish to not be fully compatible with the standard,
+at least not as it was in 1936. That is probably a good thing.
 
-DIN 1451 shows its heritage from lettering standards for technical drawings.
-The standard has no concern for how the brain processes shapes and whitespace. 
-DINish was drawn with the human reader in mind, with subtle but loving exceptions
-to the rigid grid-and-ruler specification from the _Deutsche Norm_.
-That said, it retains DIN's clarity and as such it is a typeface with a purpose,
-if not a mission.
+Reading the DIN 1451 standard with modern eyes reveals that it is
+more like a lettering standard for technical drawings than a typeface
+specification. The standard has no concern for how the brain processes
+shapes and whitespace. DINish was drawn with the human reader in
+mind, with subtle but loving exceptions to the rigid grid-and-ruler
+specification from the _Deutsche Norm_. That said, it retains DIN's
+clarity and as such it is a typeface with a purpose, if not a mission.
+
+## Historic roots
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
 that is widely used for traffic, administrative and technical applications.
@@ -62,10 +63,15 @@ DINish currently provides the following Unicode coverage:
 
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
 
-[FontForge](https://github.com/fontforge/fontforge) is used for editing the Altinn-DIN sfd source files and generating fonts.
+[FontForge](https://github.com/fontforge/fontforge) is used for generating
+fonts, as is [Sil's pysilfont](https://github.com/silnrsi/pysilfont),
+[Google's fontbakery](https://github.com/googlefonts/fontbakery) and
+[gf-tools](https://github.com/googlefonts/gftools). Both FontForge and
+[TruFont](https://github.com/trufont/trufont) have proven invaluable
+for editing.
 
-Copyright © 2021, Bert Driehuis (https://github.com/driehuis/dinish)
-Copyright © 2019 Altinn https://github.com/Altinn/altinn-din  
+Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
+Copyright © 2019 Altinn https://github.com/Altinn/altinn-din
 Copyright © 2017 Datto Inc. https://www.datto.com/fonts/d-din
 
 ## Acknowledgements
@@ -74,7 +80,7 @@ DINish is derived from Altinn-DIN.
 
 The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://www.datto.com/fonts/d-din).
 
-D-DIN is based on a Monotype-font that Datto acquired to be open sourced.  
+D-DIN is based on a Monotype-font that Datto acquired to be open sourced.
 Design: Charles Nix (Monotype).
 
 ## ChangeLog
