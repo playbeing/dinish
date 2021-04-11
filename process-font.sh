@@ -22,6 +22,7 @@ res="`gftools fix-unwanted-tables $out 2>&1`"
 rv=$?
 echo "$res" | grep -Ev '(since they are not in the font)' || true
 [ "$rv" = "0" ] || die "gftools fix-unwanted-tables failed"
-gftools fix-dsig --autofix $out
+res="`gftools fix-dsig --autofix $out 2>&1`"
 rv=$?
+echo "$res" | grep -Ev '(so we just added a dummy placeholder)' || true
 [ "$rv" = "0" ] || die "gftools fix-dsig failed"
