@@ -25,6 +25,13 @@ mind, with subtle but loving exceptions to the rigid grid-and-ruler
 specification from the _Deutsche Norm_. That said, it retains DIN's
 clarity and as such it is a typeface with a purpose, if not a mission.
 
+DINish is available in three widths: standard, Condensed and Expanded. The
+standard width roughly matched DIN Mittelschrift, the Condensed width
+roughly matches the DIN Engschrift, and Expanded is like DIN
+Breitschrift (rarely used in Germany, actually). There are Regular,
+Bold and Italic variants; the only combination that is missing is
+Condensed Italic.
+
 ## Historic roots
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
