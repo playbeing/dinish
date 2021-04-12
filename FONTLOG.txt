@@ -6,15 +6,37 @@ and any derivative works.
 
 Basic Font Information
 ----------------------
-Copyright (c) 2021, Bert Driehuis (https://github.com/driehuis/dinish)
+Copyright (c) 2021, Bert Driehuis (https://github.com/playbeing/dinish)
 Copyright (c) 2019, Altinn (https://github.com/Altinn/altinn-din)
 Copyright (c) 2017, Datto Inc. (https://www.datto.com/fonts/d-din)
 
-DINish is derived from Altinn-DIN, which is derived from Datto's D-DIN
-font family, itself derived from the DIN font designed by Charles Nix
-for Monotype. The name DINish refers to the fact that the font looks
-like DIN 1451 but the author had no way to verify its compliance with
-that standard.
+The DINish font is derived from Altinn-DIN, which in turn is based on
+Datto's D-DIN. Datto commissioned Monotype to create D-DIN, designed by
+Charles Nix, and open sourced it. The font is made available under the
+SIL Open Font License v1.1.
+
+Introduction
+
+The name DINish refers to the fact that the typeface looks like DIN
+1451. Actually, a quick comparison with the standard as can be found
+in historic sources shows DINish to not be fully compatible with the
+standard, at least not as it was in 1936. That is probably a good thing.
+
+Reading the DIN 1451 standard with modern eyes reveals that it is
+more like a lettering standard for technical drawings than a typeface
+specification. The standard has no concern for how the brain processes
+shapes and whitespace. DINish was drawn with the human reader in
+mind, with subtle but loving exceptions to the rigid grid-and-ruler
+specification from the Deutsche Norm. That said, it retains DIN's clarity
+and as such it is a typeface with a purpose, if not a mission.
+
+DINish is available in three widths: standard, Condensed and Expanded. The
+standard width roughly matches DIN Mittelschrift, the Condensed width
+roughly matches the DIN Engschrift, and Expanded is like DIN Breitschrift
+(rarely used in Germany, actually). There are Regular, Bold and Italic
+variants; the only combination that is missing is Condensed Italic.
+
+Historic roots
 
 DIN 1451 is a sans-serif typeface that is widely used for traffic,
 administrative and technical applications. It was defined by the German
@@ -47,6 +69,14 @@ Plus ISO 8859-15 characters missing in the above.
 
 Information for Contributors
 ----------------------------
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+FontForge is used for generating fonts, as is SIL's pysilfont, Google's
+fontbakery and gf-tools. Both FontForge and TruFont have proven invaluable
+for editing.
+
+Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
+
 Copyright © 2019 Altinn 
 https://github.com/Altinn/altinn-din
 
@@ -59,14 +89,17 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2021-04-04 - v2.0.2: Renamed to DINish
-2021-04-03 - v2.0.1: Converted to ufo, see NOTES.md
+2021-04-13 - v2.2: Renamed to DINish, cleaned up for submission to Google Fonts.
+2021-04-03 - v2.1: Converted to ufo, see NOTES.md
 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications.
 2017-10-26 - v1.0: First public release
 
 
 Acknowledgements
 -------------------------
+Bert Driehuis converted the font sources to UFO format, and cleaned up the
+font to hopefully meet the standards for Google Fonts.
+
 This font is based on Altinn-DIN. Altinn added missing glyphs and released the
 source in FontForge format.
 
