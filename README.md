@@ -1,9 +1,9 @@
 ![DINish](din-vs-dinish.jpeg "DIN vs DINish")
 
-The [DINish](https://github.com/driehuis/dinish) font is derived from
+The [DINish](https://github.com/playbeing/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
 based on Datto's [D-DIN](https://www.datto.com/fonts/d-din). Datto
-derived D-DIN from Monotype DIN, designed by Charles Nix, and open
+commissioned Monotype to create D-DIN, designed by Charles Nix, and open
 sourced it.
 The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 
