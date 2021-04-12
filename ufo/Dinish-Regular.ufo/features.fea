@@ -426,9 +426,10 @@ feature kern {
 	\three.sups \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior
 	\threesuperior \foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
+@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
 
 } GDEF;
 
