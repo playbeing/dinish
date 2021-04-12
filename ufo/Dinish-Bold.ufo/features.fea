@@ -1,14 +1,15 @@
 languagesystem DFLT dflt;
 
 
-# GSUB 
+# GSUB
 
 
 lookup aaltAccessAllAlternateslookup0 {
   lookupflag 0;
-    sub \one by \uni00B9 ;
-    sub \two by \uni00B2 ;
-    sub \three by \uni00B3 ;
+    sub \one by \onesuperior ;
+    sub \two by \twosuperior ;
+    sub \three by \threesuperior ;
+    sub \four by \foursuperior ;
     sub \A by \ordfeminine ;
     sub \O by \ordmasculine ;
     sub \a by \ordfeminine ;
@@ -17,9 +18,10 @@ lookup aaltAccessAllAlternateslookup0 {
 
 lookup supsSuperscriptlookup1 {
   lookupflag 0;
-    sub \one by \uni00B9 ;
-    sub \two by \uni00B2 ;
-    sub \three by \uni00B3 ;
+    sub \one by \onesuperior ;
+    sub \two by \twosuperior ;
+    sub \three by \threesuperior ;
+    sub \four by \foursuperior ;
 } supsSuperscriptlookup1;
 
 lookup fracDiagonalFractionslookup2 {
@@ -96,7 +98,7 @@ feature liga {
       lookup ligaStandardLigatureslookup5;
 } liga;
 
-# GPOS 
+# GPOS
 
 
 lookup kernHorizontalKerninglookup0 {
@@ -228,13 +230,13 @@ lookup kernHorizontalKerninglookup0 {
     @kc9_second_4 = [\V ];
     @kc9_second_5 = [\W ];
     @kc9_second_6 = [\Y \Yacute \Ydieresis ];
-    @kc9_second_7 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave 
+    @kc9_second_7 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave
 	\uacute \ucircumflex \udieresis \thorn ];
-    @kc9_second_8 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc9_second_8 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute
 	\ocircumflex \otilde \odieresis \oe ];
     @kc9_second_9 = [\quoteright \quotedblright ];
     @kc9_second_10 = [\v \w \y \yacute \ydieresis ];
-    @kc9_second_11 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave 
+    @kc9_second_11 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave
 	\Iacute \Icircumflex \Idieresis \Ntilde \Thorn ];
     @kc9_second_12 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE ];
     @kc9_second_13 = [\a \agrave \aacute \acircumflex \atilde \adieresis \aring \ae ];
@@ -326,10 +328,10 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc9_first_14 @kc9_second_1 -26;
     pos @kc9_first_14 @kc9_second_12 -82;
   subtable;
-    @kc10_first_0 = [\space \C \D \G \O \Ccedilla \Eth \Ograve \Oacute \Ocircumflex \Otilde \Odieresis 
+    @kc10_first_0 = [\space \C \D \G \O \Ccedilla \Eth \Ograve \Oacute \Ocircumflex \Otilde \Odieresis
 	\Oslash ];
     @kc10_second_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE ];
-    @kc10_second_2 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave 
+    @kc10_second_2 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave
 	\Iacute \Icircumflex \Idieresis \Ntilde \Thorn ];
     @kc10_second_3 = [\J ];
     @kc10_second_4 = [\T ];
@@ -340,9 +342,9 @@ lookup kernHorizontalKerninglookup0 {
     @kc10_second_9 = [\Z \Zcaron ];
     @kc10_second_10 = [\a \agrave \aacute \acircumflex \atilde \adieresis \aring \ae ];
     @kc10_second_11 = [\f \fi \fl ];
-    @kc10_second_12 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave 
+    @kc10_second_12 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave
 	\uacute \ucircumflex \udieresis \thorn ];
-    @kc10_second_13 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc10_second_13 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute
 	\ocircumflex \otilde \odieresis \oe ];
     @kc10_second_14 = [\comma \period \quotesinglbase \quotedblbase ];
     @kc10_second_15 = [\s \scaron ];
@@ -371,10 +373,10 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc10_first_0 @kc10_second_19 -10;
   subtable;
     @kc11_first_0 = [\f ];
-    @kc11_first_1 = [\a \d \g \h \i \j \m \n \q \u \agrave \aacute \acircumflex \atilde \adieresis \aring 
-	\igrave \iacute \icircumflex \idieresis \ntilde \ugrave \uacute 
+    @kc11_first_1 = [\a \d \g \h \i \j \m \n \q \u \agrave \aacute \acircumflex \atilde \adieresis \aring
+	\igrave \iacute \icircumflex \idieresis \ntilde \ugrave \uacute
 	\ucircumflex \udieresis \fi ];
-    @kc11_first_2 = [\b \c \e \o \p \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc11_first_2 = [\b \c \e \o \p \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute
 	\ocircumflex \otilde \odieresis \oslash \thorn \oe ];
     @kc11_first_3 = [\r ];
     @kc11_first_4 = [\s \scaron ];
@@ -384,7 +386,7 @@ lookup kernHorizontalKerninglookup0 {
     @kc11_first_8 = [\k ];
     @kc11_first_9 = [\t ];
     @kc11_second_1 = [\a \agrave \aacute \acircumflex \atilde \adieresis \aring \ae ];
-    @kc11_second_2 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc11_second_2 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute
 	\ocircumflex \otilde \odieresis \oe ];
     @kc11_second_3 = [\comma \period \quotesinglbase \quotedblbase ];
     @kc11_second_4 = [\quoteright \quotedblright ];
@@ -394,7 +396,7 @@ lookup kernHorizontalKerninglookup0 {
     @kc11_second_8 = [\t ];
     @kc11_second_9 = [\x ];
     @kc11_second_10 = [\z \zcaron ];
-    @kc11_second_11 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave 
+    @kc11_second_11 = [\b \h \i \k \l \m \n \p \r \u \igrave \iacute \icircumflex \idieresis \ntilde \ugrave
 	\uacute \ucircumflex \udieresis \thorn ];
     pos @kc11_first_0 @kc11_second_1 -15;
     pos @kc11_first_0 @kc11_second_2 -31;
@@ -439,9 +441,9 @@ lookup kernHorizontalKerninglookup0 {
     @kc12_second_4 = [\Y \Yacute \Ydieresis ];
     @kc12_second_5 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE ];
     @kc12_second_6 = [\J ];
-    @kc12_second_7 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave 
+    @kc12_second_7 = [\B \D \E \F \H \I \K \L \M \N \P \R \Egrave \Eacute \Ecircumflex \Edieresis \Igrave
 	\Iacute \Icircumflex \Idieresis \Ntilde \Thorn ];
-    @kc12_second_8 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+    @kc12_second_8 = [\c \d \e \g \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute
 	\ocircumflex \otilde \odieresis \oe ];
     @kc12_second_9 = [\s \scaron ];
     @kc12_second_10 = [\v \w \y \yacute \ydieresis ];
@@ -523,30 +525,30 @@ feature mark {
 } mark;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\nonmarkingreturn \space \exclam \quotedbl \numbersign \dollar 
-	\percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus \comma 
-	\hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight \nine 
-	\colon \semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L 
-	\M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright 
-	\asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u 
-	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent 
-	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine 
-	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus 
-	\uni00B2 \uni00B3 \acute \uni00B5 \paragraph \periodcentered \cedilla \uni00B9 
-	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex 
-	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis 
-	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute 
-	\Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave \Uacute \Ucircumflex 
-	\Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde 
-	\adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \igrave 
-	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex 
-	\otilde \odieresis \divide \oslash \ugrave \uacute \ucircumflex \udieresis 
-	\yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron \scaron \Ydieresis \Zcaron 
-	\zcaron \florin \circumflex \caron \dotaccent \ring \tilde \endash \emdash 
-	\quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright 
-	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft 
-	\guilsinglright \Euro \trademark \.null \NULL \zero.dnom \one.dnom \two.dnom 
-	\three.dnom \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr 
+@GDEF_Simple = [\nonmarkingreturn \space \exclam \quotedbl \numbersign \dollar
+	\percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus \comma
+	\hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight \nine
+	\colon \semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L
+	\M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash \bracketright
+	\asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u
+	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent
+	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine
+	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus
+	\acute \uni00B5 \paragraph \periodcentered \cedilla
+	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex
+	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis
+	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute
+	\Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave \Uacute \Ucircumflex
+	\Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde
+	\adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \igrave
+	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex
+	\otilde \odieresis \divide \oslash \ugrave \uacute \ucircumflex \udieresis
+	\yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron \scaron \Ydieresis \Zcaron
+	\zcaron \florin \circumflex \caron \dotaccent \ring \tilde \endash \emdash
+	\quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
+	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft
+	\guilsinglright \Euro \trademark \.null \NULL \zero.dnom \one.dnom \two.dnom
+	\three.dnom \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr
 	\zero.sups \one.sups \two.sups \three.sups \four.sups \fraction \divisionslash
 	\minus \foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];

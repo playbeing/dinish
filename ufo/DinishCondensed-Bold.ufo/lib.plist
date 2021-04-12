@@ -413,7 +413,6 @@
     <string>guilsinglleft</string>
     <string>.null</string>
     <string>uni00AD</string>
-    <string>uni00B2</string>
     <string>zero.numr</string>
     <string>quotedblright</string>
     <string>acute</string>
@@ -448,8 +447,6 @@
     <string>daggerdbl</string>
     <string>florin</string>
     <string>three.numr</string>
-    <string>uni00B3</string>
-    <string>uni00B9</string>
     <string>two.sups</string>
     <string>three.dnom</string>
     <string>four.numr</string>
