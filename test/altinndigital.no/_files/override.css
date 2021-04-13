@@ -1,9 +1,0 @@
-@font-face{font-family:'DIN-reg';src:url(../../../generated/woff/Altinn-DIN.woff)}
-
-@font-face{font-family:'DIN-medium';src:url(../../../generated/woff/Altinn-DIN.woff)}
-
-@font-face{font-family:'DIN-bold';src:url(../../../generated/woff/Altinn-DIN-Bold.woff)}
-
-body{
-    letter-spacing:0.0645em;
-}
