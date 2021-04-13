@@ -13,7 +13,7 @@ rv=$?
 echo "$res" | grep -Ev '(See AUTHORS|License GPLv3|with many parts BSD|Version: 201|Based on sources)' || true
 [ "$rv" = "0" ] || die "fontforge failed"
 
-case "$2" in
+case "$out" in
 	*.woff|*.woff2)
 		exit 0;;
 esac
@@ -26,3 +26,11 @@ res="`gftools fix-dsig --autofix $out 2>&1`"
 rv=$?
 echo "$res" | grep -Ev '(so we just added a dummy placeholder)' || true
 [ "$rv" = "0" ] || die "gftools fix-dsig failed"
+
+case "$out" in
+	*.ttf)
+		tmpout="tmp-$$.ttf"
+		ttfautohint $out $tmpout
+		mv $tmpout $out
+		;;
+esac
