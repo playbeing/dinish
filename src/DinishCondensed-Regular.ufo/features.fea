@@ -528,7 +528,7 @@ feature kern {
 	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent
 	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine
 	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus
-	\acute \uni00B5 \paragraph \periodcentered \cedilla
+	\acute \mu \paragraph \periodcentered \cedilla
 	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex
 	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis
 	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute

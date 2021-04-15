@@ -308,6 +308,8 @@
   <string>macron.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
+  <key>mu</key>
+  <string>mu.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
   <key>n</key>
@@ -450,8 +452,6 @@
   <string>uni00A_0.glif</string>
   <key>uni00AD</key>
   <string>uni00A_D_.glif</string>
-  <key>uni00B5</key>
-  <string>uni00B_5.glif</string>
   <key>uni0302</key>
   <string>uni0302.glif</string>
   <key>uni0308</key>
