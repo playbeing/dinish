@@ -57,9 +57,6 @@ lookup ligaStandardLigatureslookup5 {
 } ligaStandardLigatureslookup5;
 
 feature aalt {
-
- script DFLT;
-     language dflt ;
       lookup aaltAccessAllAlternateslookup0;
 } aalt;
 

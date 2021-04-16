@@ -417,8 +417,8 @@ feature kern {
 	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex
 	\otilde \odieresis \divide \oslash \ugrave \uacute \ucircumflex \udieresis
 	\yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron \scaron \Ydieresis \Zcaron
-	\zcaron \florin \circumflex \caron \dotaccent \ring \tilde \gravecomb \acutecomb
-	\uni0302 \tildecomb \uni0308 \uni030A \endash \emdash \quoteleft \quoteright
+	\zcaron \florin \circumflex \caron \dotaccent \ring \tilde
+	\endash \emdash \quoteleft \quoteright
 	\quotesinglbase \quotedblleft \quotedblright \quotedblbase \dagger \daggerdbl
 	\bullet \ellipsis \perthousand \guilsinglleft \guilsinglright \Euro \trademark
 	\.null \NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr

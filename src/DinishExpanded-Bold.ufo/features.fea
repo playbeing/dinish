@@ -399,7 +399,7 @@ feature kern {
 	\ograve \oacute \ocircumflex \otilde \odieresis \divide \oslash \ugrave \uacute
 	\ucircumflex \udieresis \yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron
 	\scaron \Ydieresis \Zcaron \zcaron \florin \circumflex \caron \dotaccent \ring
-	\tilde \gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A \endash
+	\tilde \endash
 	\emdash \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft
 	\guilsinglright \Euro \trademark \fi \fl \fraction \divisionslash \minus
