@@ -8,7 +8,8 @@ die() {
 	exit 1
 }
 
-res="`fontforge -c 'open(argv[1]).generate(argv[2])' $in $out 2>&1`"
+#res="`fontforge -c 'open(argv[1]).generate(argv[2])' $in $out 2>&1`"
+res="`fontmake --overlaps-backend pathops --ufo-paths $in -o otf --output-path $out 2>&1`"
 rv=$?
 echo "$res" | grep -Ev '(See AUTHORS|License GPLv3|with many parts BSD|Version: 201|Based on sources)' || true
 [ "$rv" = "0" ] || die "fontforge failed"
