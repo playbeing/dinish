@@ -2,27 +2,26 @@
 
 in="$1"
 out="$2"
+outtype="`echo $out | sed -e 's/.*\.//'`"
 
 die() {
 	echo "$@"
 	exit 1
 }
 
-#res="`fontforge -c 'open(argv[1]).generate(argv[2])' $in $out 2>&1`"
-res="`fontmake --overlaps-backend pathops --ufo-paths $in -o otf --output-path $out 2>&1`"
-rv=$?
-echo "$res" | grep -Ev '(See AUTHORS|License GPLv3|with many parts BSD|Version: 201|Based on sources)' || true
-[ "$rv" = "0" ] || die "fontforge failed"
-
-case "$out" in
-	*.woff|*.woff2)
+case "$outtype" in
+	woff|woff2)
+		fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
+		[ "$?" = "0" ] || die "fontmake failed"
+		python -c "from fontTools.ttLib import TTFont; f = TTFont('$out.ttf');f.flavor='$outtype';f.save('$out')"
+		[ "$?" = "0" ] || die "conversion to $outtype failed"
+		rm -f $out.ttf
 		exit 0;;
 esac
 
-res="`gftools fix-unwanted-tables $out 2>&1`"
-rv=$?
-echo "$res" | grep -Ev '(since they are not in the font)' || true
-[ "$rv" = "0" ] || die "gftools fix-unwanted-tables failed"
+fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
+[ "$?" = "0" ] || die "fontmake failed"
+
 res="`gftools fix-dsig --autofix $out 2>&1`"
 rv=$?
 echo "$res" | grep -Ev '(so we just added a dummy placeholder)' || true
