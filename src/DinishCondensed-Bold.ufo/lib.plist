@@ -465,6 +465,8 @@
     <string>cedilla</string>
     <string>tilde</string>
     <string>uni00A0</string>
+    <string>foursuperior</string>
+    <string>divisionslash</string>
   </array>
 </dict>
 </plist>

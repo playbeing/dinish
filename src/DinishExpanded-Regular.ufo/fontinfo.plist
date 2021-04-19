@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2021/04/12 18:55:53</string>
+  <string>2021/04/20 01:54:21</string>
   <key>openTypeHheaAscender</key>
   <integer>851</integer>
   <key>openTypeHheaDescender</key>
@@ -141,10 +141,6 @@
   <integer>51</integer>
   <key>postscriptWeightName</key>
   <string>Regular</string>
-  <key>styleMapFamilyName</key>
-  <string>Dinish Expanded</string>
-  <key>styleMapStyleName</key>
-  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
