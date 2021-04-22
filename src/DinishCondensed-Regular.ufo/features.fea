@@ -550,6 +550,6 @@ feature kern {
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
-
+  LigatureCaretByPos fi 310;
+  LigatureCaretByPos fl 310;
 } GDEF;
-

@@ -553,6 +553,6 @@ feature mark {
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
-
+  LigatureCaretByPos fi 360;
+  LigatureCaretByPos fl 360;
 } GDEF;
-
