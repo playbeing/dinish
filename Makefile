@@ -1,9 +1,13 @@
-SOURCES := $(wildcard ./src/*.ufo)
+SOURCES := $(wildcard src/*/*.ufo)
 
-OTFS := $(patsubst ./src/%.ufo,./generated/otf/%.otf,$(SOURCES))
-TTFS := $(patsubst ./src/%.ufo,./generated/ttf/%.ttf,$(SOURCES))
-WOFFS := $(patsubst ./src/%.ufo,./generated/woff/%.woff,$(SOURCES))
-WOFF2S := $(patsubst ./src/%.ufo,./generated/woff2/%.woff2,$(SOURCES))
+OTFNAMES := $(patsubst src/%.ufo,otf/%.otf,$(SOURCES))
+TTFNAMES := $(patsubst src/%.ufo,ttf/%.ttf,$(SOURCES))
+WOFFNAMES := $(patsubst src/%.ufo,woff/%.woff,$(SOURCES))
+WOFF2NAMES := $(patsubst src/%.ufo,woff2/%.woff2,$(SOURCES))
+OTFS := $(patsubst otf/%.otf,generated/otf/%.otf,$(OTFNAMES))
+TTFS := $(patsubst ttf/%.ttf,generated/ttf/%.ttf,$(TTFNAMES))
+WOFFS := $(patsubst woff/%.woff,generated/woff/%.woff,$(WOFFNAMES))
+WOFF2S := $(patsubst woff2/%.woff2,generated/woff2/%.woff2,$(WOFF2NAMES))
 
 all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S)
 
@@ -30,4 +34,6 @@ generated/woff2/%.woff2: src/%.ufo
 	./process-font.sh $< $@
 
 fontbakery: all
-	fontbakery check-googlefonts --html fontbakery-report.html generated/otf/*.otf
+	fontbakery check-googlefonts --html fontbakery-dinish-report.html generated/otf/Dinish/*.otf
+	fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html generated/otf/DinishCondensed/*.otf
+	fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html generated/otf/DinishExpanded/*.otf
