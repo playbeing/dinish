@@ -73,15 +73,15 @@ DINish currently provides the following Unicode coverage:
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
 
 [FontForge](https://github.com/fontforge/fontforge) is used for generating
-fonts, as is [Sil's pysilfont](https://github.com/silnrsi/pysilfont),
+fonts, as are [Sil's pysilfont](https://github.com/silnrsi/pysilfont),
 [Google's fontbakery](https://github.com/googlefonts/fontbakery) and
 [gf-tools](https://github.com/googlefonts/gftools). Both FontForge and
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
 for editing.
 
 Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
-Copyright © 2019 Altinn https://github.com/Altinn/altinn-din
-Copyright © 2017 Datto Inc. https://www.datto.com/fonts/d-din
+Copyright © 2019 Altinn (https://github.com/Altinn/altinn-din)
+Copyright © 2017 Datto Inc. (https://web.archive.org/web/20210204024059/https://www.datto.com/fonts/d-din/)
 
 ## Acknowledgements
 
