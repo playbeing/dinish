@@ -3,8 +3,10 @@
 The [DINish](https://github.com/playbeing/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
 based on Datto's [D-DIN](https://www.datto.com/fonts/d-din). Datto
-commissioned Monotype to create D-DIN, designed by Charles Nix, and open
-sourced it.
+commissioned Monotype to create D-DIN and open sourced it. Monotype's
+Creative Type Director
+[Charles Nix](https://www.monotype.com/studio/charles-nix)
+did the actual design.
 The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 
 Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.txt)).
