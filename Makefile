@@ -34,6 +34,7 @@ generated/woff2/%.woff2: src/%.ufo
 	./process-font.sh $< $@
 
 fontbakery: all
+	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp src/$$f/{METADATA.pb,DESCRIPTION.en_us.html} generated/otf/$$f; done'
 	fontbakery check-googlefonts --html fontbakery-dinish-report.html generated/otf/Dinish/*.otf
 	fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html generated/otf/DinishCondensed/*.otf
 	fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html generated/otf/DinishExpanded/*.otf
