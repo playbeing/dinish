@@ -1,9 +1,3 @@
----
-layout: default
-title: DINish -- a new take on a classic typeface
-permalink: /
----
-
 ![DINish](din-vs-dinish.jpeg "DIN vs DINish")
 
 The [DINish](https://github.com/playbeing/dinish) font is derived from

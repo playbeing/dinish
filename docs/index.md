@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DINish -- a new take on a classic typeface
+title: DINish -- a fresh take on a classic typeface
 permalink: /
 ---
 
