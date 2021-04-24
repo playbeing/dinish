@@ -94,7 +94,8 @@ Design: Charles Nix (Monotype).
 
 ## ChangeLog
 
+- 2021-04-24 - v2.003: Split into three families, minor cleanups
 - 2021-04-13 - v2.002: Renamed to DINish, cleaned up for submission to Google Fonts
 - 2021-04-03 - v2.001: Converted to ufo, see NOTES.md
-- 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications.
+- 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications
 - 2017-10-26 - v1.0: First public release

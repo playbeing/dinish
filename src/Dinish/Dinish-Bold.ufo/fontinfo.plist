@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.002</string>
+  <string>Version 2.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -165,7 +165,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>xHeight</key>
   <integer>532</integer>
 </dict>
