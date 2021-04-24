@@ -15,7 +15,7 @@ Creative Type Director
 did the actual design.
 The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
 
-Below is the description of the font (also contained in [FONTLOG.txt](FONTLOG.txt)).
+Below is the description of the font (also contained in [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt)).
 
 
 ## Introduction
