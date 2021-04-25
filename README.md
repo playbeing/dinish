@@ -73,7 +73,7 @@ DINish currently provides the following Unicode coverage:
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
 
 [FontForge](https://github.com/fontforge/fontforge) is used for generating
-fonts, as are [Sil's pysilfont](https://github.com/silnrsi/pysilfont),
+fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
 [Google's fontbakery](https://github.com/googlefonts/fontbakery) and
 [gf-tools](https://github.com/googlefonts/gftools). Both FontForge and
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
