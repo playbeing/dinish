@@ -36,9 +36,9 @@ generated/woff2/%.woff2: src/%.ufo
 
 fontbakery: all
 	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp src/$$f/{METADATA.pb,DESCRIPTION.en_us.html} generated/otf/$$f; done'
-	fontbakery check-googlefonts --html fontbakery-dinish-report.html generated/otf/Dinish/*.otf
-	fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html generated/otf/DinishCondensed/*.otf
-	fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html generated/otf/DinishExpanded/*.otf
+	-fontbakery check-googlefonts --html fontbakery-dinish-report.html generated/otf/Dinish/*.otf
+	-fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html generated/otf/DinishCondensed/*.otf
+	-fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html generated/otf/DinishExpanded/*.otf
 
 metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp generated/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
