@@ -8,8 +8,9 @@ OTFS := $(patsubst otf/%.otf,generated/otf/%.otf,$(OTFNAMES))
 TTFS := $(patsubst ttf/%.ttf,generated/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,generated/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,generated/woff2/%.woff2,$(WOFF2NAMES))
+DOCS := docs/index.md
 
-all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S)
+all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) $(DOCS)
 
 clean:
 	rm -rf generated
@@ -41,3 +42,6 @@ fontbakery: all
 
 metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp generated/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
+
+docs/index.md: README.md
+	bash -c 'cat docs/index.md.header README.md >docs/index.md'
