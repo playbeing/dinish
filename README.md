@@ -40,9 +40,9 @@ DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
 that is widely used for traffic, administrative and technical applications.
 
 It was defined by the German standards body DIN -
-[Deutsches Institut fur Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)
-(German Institute for Standardization) in the standard sheet DIN 1451-Schriften (typefaces) in
-1931. Similar standards existed for stencilled letters.
+[Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)
+(German Institute for Standardization) in the standard sheet DIN 1451-Schriften (typefaces)
+in 1931. Similar standards existed for stencilled letters.
 
 Originally designed for industrial uses, the first DIN-type fonts were a
 simplified design that could be applied with limited technical difficulty.
@@ -51,7 +51,7 @@ become popular for general purpose use in signage and display adaptations.
 Many adaptations and expansions of the original design have been released
 digitally.
 
-See https://en.wikipedia.org/wiki/DIN_1451 for more information.
+See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1451) for more information.
 
 Datto uses a DIN-font as primary corporate font and commissioned Monotype to
 create several styles, for internal use and to be open sourced under a SIL
@@ -72,10 +72,11 @@ DINish currently provides the following Unicode coverage:
 
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
 
-[FontForge](https://github.com/fontforge/fontforge) is used for generating
+[Fontmake](https://github.com/googlefonts/fontmake) is used for generating
 fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
 [Google's fontbakery](https://github.com/googlefonts/fontbakery) and
-[gf-tools](https://github.com/googlefonts/gftools). Both FontForge and
+[gf-tools](https://github.com/googlefonts/gftools). Both
+[FontForge](https://github.com/fontforge/fontforge) and
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
 for editing.
 
