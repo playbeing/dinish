@@ -47,8 +47,8 @@ that is widely used for traffic, administrative and technical applications.
 
 It was defined by the German standards body DIN -
 [Deutsches Institut fur Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung)
-(German Institute for Standardization) in the standard sheet DIN 1451-Schriften (typefaces) in
-1931. Similar standards existed for stencilled letters.
+(German Institute for Standardization) in the standard sheet DIN 1451-Schriften (typefaces)
+in 1931. Similar standards existed for stencilled letters.
 
 Originally designed for industrial uses, the first DIN-type fonts were a
 simplified design that could be applied with limited technical difficulty.
