@@ -1,47 +1,47 @@
-SOURCES := $(wildcard src/*/*.ufo)
+SOURCES := $(wildcard sources/*/*.ufo)
 
-OTFNAMES := $(patsubst src/%.ufo,otf/%.otf,$(SOURCES))
-TTFNAMES := $(patsubst src/%.ufo,ttf/%.ttf,$(SOURCES))
-WOFFNAMES := $(patsubst src/%.ufo,woff/%.woff,$(SOURCES))
-WOFF2NAMES := $(patsubst src/%.ufo,woff2/%.woff2,$(SOURCES))
-OTFS := $(patsubst otf/%.otf,generated/otf/%.otf,$(OTFNAMES))
-TTFS := $(patsubst ttf/%.ttf,generated/ttf/%.ttf,$(TTFNAMES))
-WOFFS := $(patsubst woff/%.woff,generated/woff/%.woff,$(WOFFNAMES))
-WOFF2S := $(patsubst woff2/%.woff2,generated/woff2/%.woff2,$(WOFF2NAMES))
+OTFNAMES := $(patsubst sources/%.ufo,otf/%.otf,$(SOURCES))
+TTFNAMES := $(patsubst sources/%.ufo,ttf/%.ttf,$(SOURCES))
+WOFFNAMES := $(patsubst sources/%.ufo,woff/%.woff,$(SOURCES))
+WOFF2NAMES := $(patsubst sources/%.ufo,woff2/%.woff2,$(SOURCES))
+OTFS := $(patsubst otf/%.otf,fonts/otf/%.otf,$(OTFNAMES))
+TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
+WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
+WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 DOCS := docs/index.md
 
 all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) $(DOCS)
 
 clean:
-	rm -rf generated
+	rm -rf fonts
 
 psfnormalize:
-	(cd src && sh -c 'for font in *.ufo; do psfnormalize $$font; done')
+	(cd sources && sh -c 'for font in *.ufo; do psfnormalize $$font; done')
 
-generated/otf/%.otf: src/%.ufo
+fonts/otf/%.otf: sources/%.ufo
 	@mkdir -p $(@D)
 	./process-font.sh $< $@
 
-generated/ttf/%.ttf: src/%.ufo
+fonts/ttf/%.ttf: sources/%.ufo
 	@mkdir -p $(@D)
 	./process-font.sh $< $@
 
-generated/woff/%.woff: src/%.ufo
+fonts/woff/%.woff: sources/%.ufo
 	@mkdir -p $(@D)
 	./process-font.sh $< $@
 
-generated/woff2/%.woff2: src/%.ufo
+fonts/woff2/%.woff2: sources/%.ufo
 	@mkdir -p $(@D)
 	./process-font.sh $< $@
 
 fontbakery: all
-	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp src/$$f/{METADATA.pb,DESCRIPTION.en_us.html} generated/otf/$$f; done'
-	-fontbakery check-googlefonts --html fontbakery-dinish-report.html generated/otf/Dinish/*.otf
-	-fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html generated/otf/DinishCondensed/*.otf
-	-fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html generated/otf/DinishExpanded/*.otf
+	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
+	-fontbakery check-googlefonts --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
+	-fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html fonts/otf/DinishCondensed/*.otf
+	-fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html fonts/otf/DinishExpanded/*.otf
 
 metadata_templates: all
-	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp generated/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
+	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
 
 docs/index.md: README.md
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
