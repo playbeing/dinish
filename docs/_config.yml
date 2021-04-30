@@ -8,7 +8,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 theme: jekyll-theme-slate
 plugins:
   #- jekyll-feed

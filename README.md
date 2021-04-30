@@ -2,12 +2,12 @@
 
 The [DINish](https://github.com/playbeing/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
-based on Datto's [D-DIN](https://www.datto.com/fonts/d-din). Datto
+based on Datto's [D-DIN](https://web.archive.org/web/20210204024059/https://www.datto.com/fonts/d-din/). Datto
 commissioned Monotype to create D-DIN and open sourced it. Monotype's
 Creative Type Director
 [Charles Nix](https://www.monotype.com/studio/charles-nix)
 did the actual design.
-The font is made available under the [SIL Open Font License v1.1](OFL-1.1.txt).
+The font is made available under the [SIL Open Font License v1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL.txt).
 
 Below is the description of the font (also contained in [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt)).
 
@@ -70,7 +70,7 @@ DINish currently provides the following Unicode coverage:
 
 ## Information for Contributors
 
-This Font Software is licensed under the [SIL Open Font License, Version 1.1](OFL-1.1.txt).
+This Font Software is licensed under the [SIL Open Font License, Version 1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL-1.1.txt).
 
 [Fontmake](https://github.com/googlefonts/fontmake) is used for generating
 fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
@@ -80,15 +80,15 @@ fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
 for editing.
 
-Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
-Copyright © 2019 Altinn (https://github.com/Altinn/altinn-din)
-Copyright © 2017 Datto Inc. (https://web.archive.org/web/20210204024059/https://www.datto.com/fonts/d-din/)
+Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)\
+Copyright © 2019 Altinn (https://github.com/Altinn/altinn-din)\
+Copyright © 2017 Datto Inc. (https://www.datto.com/fonts/d-din)
 
 ## Acknowledgements
 
 DINish is derived from Altinn-DIN.
 
-The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://www.datto.com/fonts/d-din).
+The [Altinn-DIN](https://github.com/Altinn/altinn-din) font is based on Datto [D-DIN](https://web.archive.org/web/20210204024059/https://www.datto.com/fonts/d-din/).
 
 D-DIN is based on a Monotype-font that Datto acquired to be open sourced.
 Design: Charles Nix (Monotype).
