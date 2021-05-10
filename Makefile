@@ -8,9 +8,8 @@ OTFS := $(patsubst otf/%.otf,fonts/otf/%.otf,$(OTFNAMES))
 TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
-DOCS := docs/index.md
 
-all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) $(DOCS)
+all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs
 
 clean:
 	rm -rf fonts
@@ -35,7 +34,6 @@ fonts/woff2/%.woff2: sources/%.ufo
 	./process-font.sh $< $@
 
 fontbakery: all
-	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
 	-fontbakery check-googlefonts --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
 	-fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html fonts/otf/DinishCondensed/*.otf
 	-fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html fonts/otf/DinishExpanded/*.otf
@@ -43,5 +41,7 @@ fontbakery: all
 metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
 
-docs/index.md: README.md
+.PHONY: docs
+docs:
+	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
