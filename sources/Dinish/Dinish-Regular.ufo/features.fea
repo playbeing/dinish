@@ -432,4 +432,5 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
   LigatureCaretByPos fi 350;
   LigatureCaretByPos fl 350;
+  LigatureCaretByPos t_t 335;
 } GDEF;
