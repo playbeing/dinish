@@ -4,8 +4,9 @@ description: >-
   a fresh take on a classic typeface
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fonts.playbeing.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  playbeing
+google_analytics: UA-197060314-1
 
 # Build settings
 markdown: CommonMarkGhPages
