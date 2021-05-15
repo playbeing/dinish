@@ -12,10 +12,10 @@ based on Datto's [D-DIN](https://web.archive.org/web/20210204024059/https://www.
 commissioned Monotype to create D-DIN and open sourced it. Monotype's
 Creative Type Director
 [Charles Nix](https://www.monotype.com/studio/charles-nix)
-did the actual design.
+did the original design, but any errors are the responsibility of the contributors.
 The font is made available under the [SIL Open Font License v1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL.txt).
 
-Below is the description of the font (also contained in [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt)).
+Below is the description of the font (and also see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt)).
 
 
 ## Introduction
