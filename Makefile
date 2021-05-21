@@ -9,10 +9,10 @@ TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 
-all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs
+all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips
 
 clean:
-	rm -rf fonts
+	rm -rf fonts zips
 
 psfnormalize:
 	(cd sources && sh -c 'for font in *.ufo; do psfnormalize $$font; done')
@@ -41,7 +41,12 @@ fontbakery: all
 metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
 
-.PHONY: docs
+
+.PHONY: docs zips
 docs:
 	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
+
+zips:
+	@mkdir -p zips
+	sh -c 'for t in otf ttf woff woff2; do (cd fonts/$$t && zip ../../zips/dinish-$$t.zip */*.$$t); done'
