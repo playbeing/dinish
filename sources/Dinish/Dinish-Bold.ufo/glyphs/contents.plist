@@ -230,6 +230,8 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.tlf</key>
+  <string>eight.tlf.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
@@ -250,6 +252,8 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.tlf</key>
+  <string>five.tlf.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -262,6 +266,8 @@
   <string>four.numr.glif</string>
   <key>four.sups</key>
   <string>four.sups.glif</string>
+  <key>four.tlf</key>
+  <string>four.tlf.glif</string>
   <key>foursuperior</key>
   <string>foursuperior.glif</string>
   <key>fraction</key>
@@ -322,6 +328,8 @@
   <string>n.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.tlf</key>
+  <string>nine.tlf.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>ntilde</key>
@@ -348,6 +356,8 @@
   <string>one.numr.glif</string>
   <key>one.sups</key>
   <string>one.sups.glif</string>
+  <key>one.tlf</key>
+  <string>one.tlf.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -420,8 +430,12 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.tlf</key>
+  <string>seven.tlf.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.tlf</key>
+  <string>six.tlf.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -442,6 +456,8 @@
   <string>three.numr.glif</string>
   <key>three.sups</key>
   <string>three.sups.glif</string>
+  <key>three.tlf</key>
+  <string>three.tlf.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -460,6 +476,8 @@
   <string>two.numr.glif</string>
   <key>two.sups</key>
   <string>two.sups.glif</string>
+  <key>two.tlf</key>
+  <string>two.tlf.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
@@ -510,5 +528,7 @@
   <string>zero.numr.glif</string>
   <key>zero.sups</key>
   <string>zero.sups.glif</string>
+  <key>zero.tlf</key>
+  <string>zero.tlf.glif</string>
 </dict>
 </plist>
