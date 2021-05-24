@@ -9,8 +9,5 @@
       <point x="30" y="651" type="line"/>
       <point x="145" y="744" type="line"/>
     </contour>
-    <contour>
-      <point x="73" y="707" type="move" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>
