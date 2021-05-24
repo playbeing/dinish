@@ -230,6 +230,8 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.tlf</key>
+  <string>eight.tlf.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
@@ -250,6 +252,8 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.tlf</key>
+  <string>five.tlf.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -258,6 +262,8 @@
   <string>four.glif</string>
   <key>four.sups</key>
   <string>four.sups.glif</string>
+  <key>four.tlf</key>
+  <string>four.tlf.glif</string>
   <key>foursuperior</key>
   <string>foursuperior.glif</string>
   <key>fraction</key>
@@ -318,6 +324,8 @@
   <string>n.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.tlf</key>
+  <string>nine.tlf.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>ntilde</key>
@@ -338,6 +346,8 @@
   <string>ograve.glif</string>
   <key>one</key>
   <string>one.glif</string>
+  <key>one.tlf</key>
+  <string>one.tlf.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -410,8 +420,12 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.tlf</key>
+  <string>seven.tlf.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.tlf</key>
+  <string>six.tlf.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -424,6 +438,8 @@
   <string>thorn.glif</string>
   <key>three</key>
   <string>three.glif</string>
+  <key>three.tlf</key>
+  <string>three.tlf.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -436,6 +452,8 @@
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
+  <key>two.tlf</key>
+  <string>two.tlf.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
@@ -480,5 +498,7 @@
   <string>zcaron.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zero.tlf</key>
+  <string>zero.tlf.glif</string>
 </dict>
 </plist>

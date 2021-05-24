@@ -33,6 +33,16 @@
         <string>seven</string>
         <string>eight</string>
         <string>nine</string>
+        <string>zero.tlf</string>
+        <string>one.tlf</string>
+        <string>two.tlf</string>
+        <string>three.tlf</string>
+        <string>four.tlf</string>
+        <string>five.tlf</string>
+        <string>six.tlf</string>
+        <string>seven.tlf</string>
+        <string>eight.tlf</string>
+        <string>nine.tlf</string>
         <string>colon</string>
         <string>semicolon</string>
         <string>less</string>
@@ -238,6 +248,16 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
+    <string>zero.tlf</string>
+    <string>one.tlf</string>
+    <string>two.tlf</string>
+    <string>three.tlf</string>
+    <string>four.tlf</string>
+    <string>five.tlf</string>
+    <string>six.tlf</string>
+    <string>seven.tlf</string>
+    <string>eight.tlf</string>
+    <string>nine.tlf</string>
     <string>colon</string>
     <string>semicolon</string>
     <string>less</string>
