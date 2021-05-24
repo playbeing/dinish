@@ -44,8 +44,5 @@
       <point x="179" y="496" type="qcurve" smooth="yes"/>
       <point x="222" y="496"/>
     </contour>
-    <contour>
-      <point x="8" y="717" type="move" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>
