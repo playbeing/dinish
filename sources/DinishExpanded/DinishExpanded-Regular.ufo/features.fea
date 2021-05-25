@@ -508,6 +508,32 @@ feature kern {
       lookup kernHorizontalKerninginLatinlookup3;
       lookup kernHorizontalKerninginLatinlookup5;
 } kern;
+
+lookup tnumTabularNumbersinLatinlookup5 {
+  lookupflag 0;
+    sub \zero by \zero.tlf ;
+    sub \one by \one.tlf ;
+    sub \two by \two.tlf ;
+    sub \three by \three.tlf ;
+    sub \four by \four.tlf ;
+    sub \five by \five.tlf ;
+    sub \six by \six.tlf ;
+    sub \seven by \seven.tlf ;
+    sub \eight by \eight.tlf ;
+    sub \nine by \nine.tlf ;
+} tnumTabularNumbersinLatinlookup5;
+
+feature tnum {
+
+ script DFLT;
+     language dflt ;
+      lookup tnumTabularNumbersinLatinlookup5;
+
+ script latn;
+     language dflt ;
+      lookup tnumTabularNumbersinLatinlookup5;
+} tnum;
+
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\.null \nonmarkingreturn \NULL \space \exclam \quotedbl
@@ -537,9 +563,9 @@ feature kern {
 	\foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
 @GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ];
+@GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, @GDEF_Component;
 
 } GDEF;
-
