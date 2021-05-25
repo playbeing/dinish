@@ -126,9 +126,6 @@
       <point x="295" y="163"/>
       <point x="320" y="173"/>
     </contour>
-    <contour>
-      <point x="243" y="724" type="move" smooth="yes"/>
-    </contour>
   </outline>
   <lib>
     <dict>
