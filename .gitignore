@@ -12,6 +12,6 @@ __MACOSX
 ehthumbs.db
 Thumbs.db
 DINWeb*
-src/backups
-src/logs
+sources/*/backups
+sources/*/logs
 fontbakery-*.html
