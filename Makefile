@@ -15,7 +15,7 @@ clean:
 	rm -rf fonts zips
 
 psfnormalize:
-	(cd sources && sh -c 'for font in *.ufo; do psfnormalize $$font; done')
+	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize $$font; done')
 
 fonts/otf/%.otf: sources/%.ufo
 	@mkdir -p $(@D)
