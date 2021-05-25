@@ -89,6 +89,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2021-05-25 - v2.004: Add tabular numbers (OpenType tnum feature), minor cleanups
 2021-04-24 - v2.003: Split into three families, minor cleanups
 2021-04-13 - v2.002: Renamed to DINish, cleaned up for submission to Google Fonts.
 * Vertical metrics were made consistent within the family (this is an

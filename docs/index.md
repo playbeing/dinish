@@ -74,6 +74,14 @@ DINish currently provides the following Unicode coverage:
 - Latin-1 Supplement: complete
 - Plus ISO 8859-15 characters missing in the above.
 
+## OpenType features
+
+By default, numbers are proportionally spaced. For use in spreadsheets
+or other tabular document formats, tabular numbers are available
+that line up vertically. In libreOffice, use the Features button in
+the Font Style dialog, or type the font name as `Dinish:tnum` in the
+font selector. In CSS, use `font-feature-settings: "tnum";`.
+
 ## Information for Contributors
 
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL-1.1.txt).
@@ -101,6 +109,7 @@ Design: Charles Nix (Monotype).
 
 ## ChangeLog
 
+- 2021-05-25 - v2.004: Add tabular numbers (OpenType tnum feature), minor cleanups
 - 2021-04-24 - v2.003: Split into three families, minor cleanups
 - 2021-04-13 - v2.002: Renamed to DINish, cleaned up for submission to Google Fonts
 - 2021-04-03 - v2.001: Converted to ufo, see NOTES.md
