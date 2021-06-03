@@ -129,6 +129,7 @@
         <string>plusminus</string>
         <string>twosuperior</string>
         <string>threesuperior</string>
+        <string>alpha</string>
         <string>mu</string>
         <string>paragraph</string>
         <string>periodcentered</string>
@@ -204,15 +205,25 @@
         <string>thorn</string>
         <string>ydieresis</string>
         <string>dotlessi</string>
+        <string>gbreve</string>
+        <string>Gbreve</string>
+        <string>Idot</string>
+        <string>scedilla</string>
+        <string>Scedilla</string>
         <string>gravecomb</string>
         <string>acutecomb</string>
         <string>uni0302</string>
+        <string>uni0306</string>
         <string>uni0308</string>
         <string>uni030A</string>
+        <string>uni0327</string>
         <string>tildecomb</string>
         <string>quoteleft</string>
         <string>quoteright</string>
         <string>minus</string>
+        <string>breve</string>
+        <string>caron</string>
+        <string>cedilla</string>
       </array>
       <key>name</key>
       <string>Latin-default</string>
@@ -344,6 +355,7 @@
     <string>plusminus</string>
     <string>twosuperior</string>
     <string>threesuperior</string>
+    <string>alpha</string>
     <string>mu</string>
     <string>paragraph</string>
     <string>periodcentered</string>
@@ -419,11 +431,17 @@
     <string>thorn</string>
     <string>ydieresis</string>
     <string>dotlessi</string>
+    <string>gbreve</string>
+    <string>Gbreve</string>
+    <string>Idot</string>
+    <string>scedilla</string>
+    <string>Scedilla</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>uni0302</string>
     <string>uni0308</string>
     <string>uni030A</string>
+    <string>uni0327</string>
     <string>tildecomb</string>
     <string>quoteleft</string>
     <string>quoteright</string>
@@ -462,6 +480,7 @@
     <string>Zcaron</string>
     <string>zero.dnom</string>
     <string>two.dnom</string>
+    <string>breve</string>
     <string>caron</string>
     <string>cedilla</string>
     <string>dagger</string>
@@ -486,6 +505,7 @@
     <string>four.numr</string>
     <string>one.numr</string>
     <string>foursuperior</string>
+    <string>uni0306</string>
   </array>
 </dict>
 </plist>
