@@ -391,7 +391,7 @@ feature tnum {
 	\p \q \r \s \t \u \v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0
 	\exclamdown \cent \sterling \currency \yen \brokenbar \section \dieresis
 	\copyright \ordfeminine \guillemotleft \logicalnot \uni00AD \registered
-	\macron \degree \plusminus \acute \mu \paragraph
+	\macron \degree \plusminus \acute \alpha \mu \paragraph
 	\periodcentered \cedilla \ordmasculine \guillemotright \questiondown
 	\Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave
 	\Eacute \Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth
@@ -400,8 +400,9 @@ feature tnum {
 	\aacute \acircumflex \atilde \adieresis \aring \ae \ccedilla \egrave \eacute
 	\ecircumflex \edieresis \igrave \iacute \icircumflex \idieresis \eth \ntilde
 	\ograve \oacute \ocircumflex \otilde \odieresis \divide \oslash \ugrave \uacute
+  \Gbreve \gbreve \Idot \scedilla \Scedilla
 	\ucircumflex \udieresis \yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron
-	\scaron \Ydieresis \Zcaron \zcaron \florin \circumflex \caron \dotaccent \ring
+	\scaron \Ydieresis \Zcaron \zcaron \florin \circumflex \breve \caron \dotaccent \ring
 	\tilde \endash
 	\emdash \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft
@@ -415,4 +416,3 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, @GDEF_Component;
 
 } GDEF;
-
