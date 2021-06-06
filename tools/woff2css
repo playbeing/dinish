@@ -1,0 +1,58 @@
+#!/usr/bin/python
+
+# Embed a woff2 font in a static CSS file.
+# Usage: woff2css in.woff2 out.css
+#
+# Limitations: takes weight and style information from the file name of the font.
+# This script will throw an unhelpful exception if weight and style cannot
+# be determined.
+
+# @font-face {
+#  font-family: "Dinish";
+#  font-weight: 700;
+#  font-style: bold;
+#  src: url(data:font/woff2;base64,d09GMgABAAAAACzcAA0AAAAAc/wAACyGAAIAxQAAAAAAAAAAAAAAAAAAAAAAAAAAGnYbnkIcg0IGYACDHAqBpT
+# }
+
+import base64
+import os
+import re
+import sys
+
+style2weight = {"Regular": 400, "Bold": 700, "Italic": 400}
+style2style = {"Regular": "normal", "Bold": "bold", "Italic": "italic"}
+
+if not re.search(r"\.woff2$", sys.argv[1]) or not re.search(r"\.css$", sys.argv[2]):
+    print("Usage: woff2css in.woff2 out.css")
+    sys.exit(1)
+
+src = sys.argv[1]
+out = sys.argv[2]
+
+m = re.match(r"(\w+)-(\w+)\.", os.path.basename(src))
+if m:
+    family = m.group(1)
+    style = m.group(2)
+else:
+    print("Font should be named Family-Style.woff2; could not determine font weight.")
+    sys.exit(1)
+
+css_family = family
+css_weight = style2weight[style]
+css_style = style2style[style]
+
+with open(src, "rb") as infile:
+    data = infile.read()
+    encoded = base64.b64encode(data)
+    with open(out, "w") as outfile:
+        original_stdout = sys.stdout
+        sys.stdout = outfile
+        print("@font-face {")
+        print(f'  font-family: "{css_family}";')
+        print(f"  font-weight: {css_weight};")
+        print(f'  font-style: "{css_style}";')
+        outfile.write("  src: url(data:font/woff2;base64,")
+        outfile.write(encoded.decode("ascii"))
+        outfile.write(");\n")
+        print("}")
+        sys.stdout = original_stdout
