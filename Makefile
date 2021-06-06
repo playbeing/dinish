@@ -19,19 +19,19 @@ psfnormalize:
 
 fonts/otf/%.otf: sources/%.ufo
 	@mkdir -p $(@D)
-	./process-font.sh $< $@
+	tools/process-font.sh $< $@
 
 fonts/ttf/%.ttf: sources/%.ufo
 	@mkdir -p $(@D)
-	./process-font.sh $< $@
+	tools/process-font.sh $< $@
 
 fonts/woff/%.woff: sources/%.ufo
 	@mkdir -p $(@D)
-	./process-font.sh $< $@
+	tools/process-font.sh $< $@
 
 fonts/woff2/%.woff2: sources/%.ufo
 	@mkdir -p $(@D)
-	./process-font.sh $< $@
+	tools/process-font.sh $< $@
 
 fontbakery: all
 	-fontbakery check-googlefonts --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
