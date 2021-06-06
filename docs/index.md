@@ -109,6 +109,7 @@ Design: Charles Nix (Monotype).
 
 ## ChangeLog
 
+- 2021-06-06 - v2.005: Add missing glyphs for Turkish language, add lower case alpha.
 - 2021-05-25 - v2.004: Add tabular numbers (OpenType tnum feature), minor cleanups
 - 2021-04-24 - v2.003: Split into three families, minor cleanups
 - 2021-04-13 - v2.002: Renamed to DINish, cleaned up for submission to Google Fonts
