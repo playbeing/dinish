@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish Expanded Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.004</string>
+  <string>Version 2.005</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -150,7 +150,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>4</integer>
+  <integer>5</integer>
   <key>xHeight</key>
   <integer>523</integer>
 </dict>
