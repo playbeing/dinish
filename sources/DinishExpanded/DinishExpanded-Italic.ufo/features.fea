@@ -409,7 +409,7 @@ feature tnum {
 	\guilsinglright \Euro \trademark \fi \fl \fraction \divisionslash \minus
 	\foursuperior ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
-@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0308 \uni030A ];
+@GDEF_Mark = [\gravecomb \acutecomb \tildecomb \uni0302 \uni0306 \uni0308 \uni030A \uni0327 ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
 
 table GDEF {
