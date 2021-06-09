@@ -1,5 +1,5 @@
 name: "Dinish Expanded"
-designer: "Charles Nix"
+designer: "Bert Driehuis"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2021-04-24"
