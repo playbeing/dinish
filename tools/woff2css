@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # Embed a woff2 font in a static CSS file.
 # Usage: woff2css in.woff2 out.css
