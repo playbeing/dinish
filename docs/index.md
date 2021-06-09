@@ -36,8 +36,7 @@ DINish is available in three widths: standard, Condensed and Expanded. The
 standard width roughly matches DIN Mittelschrift, the Condensed width
 roughly matches the DIN Engschrift, and Expanded is like DIN
 Breitschrift (rarely used in Germany, actually). There are Regular,
-Bold and Italic variants; the only combination that is missing is
-Condensed Italic.
+Bold and Italic variants.
 
 ## Historic roots
 
@@ -116,11 +115,12 @@ commissioned Monotype to create D-DIN and open source it.
 Monotype's Creative Type Director
 [Charles Nix](https://www.monotype.com/studio/charles-nix)
 did the original design.
-Many glyphs have been touched since then, and it follows that any errors are the responsibility of the contributors who followed in his footsteps.
+Many glyphs have been touched since then, and any errors are the responsibility of the contributors who followed in his footsteps.
 The font is made available under the [SIL Open Font License v1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL.txt).
 
 ## ChangeLog
 
+- 2021-06-09 - v2.006: Add DINish Condensed Italic to complete the family
 - 2021-06-06 - v2.005: Add missing glyphs for Turkish language, add lower case alpha.
 - 2021-05-25 - v2.004: Add tabular numbers (OpenType tnum feature), minor cleanups
 - 2021-04-24 - v2.003: Split into three families, minor cleanups
