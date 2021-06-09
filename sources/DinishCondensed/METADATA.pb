@@ -21,6 +21,15 @@ fonts {
   full_name: "Dinish Condensed Bold"
   copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
 }
+fonts {
+  name: "Dinish Condensed"
+  style: "italic"
+  weight: 400
+  filename: "DinishCondensed-Italic.otf"
+  post_script_name: "DinishCondensed-Italic"
+  full_name: "Dinish Condensed Italic"
+  copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
+}
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
