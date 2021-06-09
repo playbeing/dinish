@@ -56,22 +56,22 @@ Datto uses a DIN-font as primary corporate font and commissioned Monotype to
 create several styles, for internal use and to be open sourced under a SIL
 OFL v1.1 license.
 
-Altinn changed the reserved font names from D-DIN to Altinn-DIN
+Altinn changed the reserved font names from "D-DIN" to "Altinn-DIN"
 to be able to do modifications, as required by the SIL OFL v1.1 license.
-Bert Driehuis changed the font name to DINish and chose not to apply
-Reserved Font Names to DINish.
+Pursuant to the same license, the name had to be changed yet again
+to drop the reserved font names. Hopefully, DINish will stick.
 
 DINish currently provides the following Unicode coverage:
-Basic Latin: complete
-Latin-1 Supplement: complete
-Plus ISO 8859-15 characters missing in the above.
+- Basic Latin: complete
+- Latin-1 Supplement: complete
+- Plus ISO 8859-15 characters missing in the above.
 
 
 Information for Contributors
 ----------------------------
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
-FontForge is used for generating fonts, as is SIL's pysilfont, Google's
+Fontmake is used for generating fonts, as are SIL's pysilfont, Google's
 fontbakery and gf-tools. Both FontForge and TruFont have proven invaluable
 for editing.
 
