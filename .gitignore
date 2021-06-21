@@ -15,3 +15,5 @@ DINWeb*
 sources/*/backups
 sources/*/logs
 fontbakery-*.html
+logs
+grot
