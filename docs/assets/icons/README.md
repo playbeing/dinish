@@ -1,10 +1,7 @@
 # Playbeing icon
 
-Based on images believed to be in the public domain:
+Logo designed by thwipz_studio via Fiverr.
 
-alien-peterm-01 (openclipart)
-Easter Egg Background (cleanpng)
-
-Edited with Inkscape
+Edited with Inkscape and GIMP to provide a white halo for dark theme browsers.
 
 Converted to favicon format using https://realfavicongenerator.net/
