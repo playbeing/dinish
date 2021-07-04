@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@import "Dinish-Regular.css";
-@import "Dinish-Bold.css";
+@import "Dinish-Regular.scss";
+@import "Dinish-Bold.scss";
 
 body, h1, h2, h3, h4, h5, h6 {
       font-family: DINish;
