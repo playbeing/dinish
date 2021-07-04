@@ -69,9 +69,9 @@ font selector. In CSS, use `font-feature-settings: "tnum";`.
 
 As DINish is not yet available on any of the major free font CDNs, you
 will have to host the font yourself. Fortunately, the font is light
-in weight: the page you are looking at contains two styles of DINish
-in just 30k worth of CSS. Chances are that one JPEG image adds more
-weight to your page!
+in weight: the [DINish font homepage](https://fonts.playbeing.com/)
+contains two styles of DINish in just 30k worth of CSS. Chances are
+that one JPEG image adds more weight to your page!
 On the [Github page](https://github.com/playbeing/dinish/tree/master/tools),
 you'll find a quick Python script to convert a woff2 file into
 embeddable CSS. Quick tip, not just for this font: use a tool like
