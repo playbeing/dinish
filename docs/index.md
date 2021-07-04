@@ -81,10 +81,9 @@ that one JPEG image adds more weight to your page!
 On the [Github page](https://github.com/playbeing/dinish/tree/master/tools),
 you'll find a quick Python script to convert a woff2 file into
 embeddable CSS. Quick tip, not just for this font: use a tool like
-the venerable [yuicompressor](http://yui.github.io/yuicompressor/) to
-merge and compress your CSS and JS assets; less hits
-on the webserver automatically translates into free performance for
-your site visitor!
+SASS to merge and compress your CSS; less hits on the webserver
+automatically translates into free performance for your site visitor!
+In Jekyll, that is a [trivial change](https://github.com/playbeing/dinish/commit/4467855a292e0bd58ff7d933b7ef2148098eba66).
 
 ## Information for Contributors
 
