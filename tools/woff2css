@@ -22,7 +22,7 @@ import sys
 style2weight = {"Regular": 400, "Bold": 700, "Italic": 400}
 style2style = {"Regular": "normal", "Bold": "bold", "Italic": "italic"}
 
-if not re.search(r"\.woff2$", sys.argv[1]) or not re.search(r"\.css$", sys.argv[2]):
+if not re.search(r"\.woff2$", sys.argv[1]) or not re.search(r"\.s?css$", sys.argv[2]):
     print("Usage: woff2css in.woff2 out.css")
     sys.exit(1)
 
