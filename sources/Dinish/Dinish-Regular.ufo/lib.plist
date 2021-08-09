@@ -242,25 +242,39 @@
     <string>yacute</string>
     <string>thorn</string>
     <string>ydieresis</string>
+    <string>Aogonek</string>
+    <string>aogonek</string>
+    <string>Eogonek</string>
+    <string>eogonek</string>
     <string>Gbreve</string>
     <string>gbreve</string>
+    <string>Iogonek</string>
+    <string>iogonek</string>
     <string>Idot</string>
     <string>dotlessi</string>
+    <string>Lslash</string>
+    <string>lslash</string>
     <string>OE</string>
     <string>oe</string>
     <string>Scedilla</string>
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
+    <string>Uogonek</string>
+    <string>uogonek</string>
     <string>Ydieresis</string>
     <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
+    <string>Oogonek</string>
+    <string>oogonek</string>
+    <string>Oogonekmacron</string>
     <string>breve</string>
     <string>circumflex</string>
     <string>caron</string>
     <string>dotaccent</string>
     <string>ring</string>
+    <string>ogonek</string>
     <string>tilde</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
@@ -270,6 +284,7 @@
     <string>uni0308</string>
     <string>uni030A</string>
     <string>uni0327</string>
+    <string>ogonekcmb</string>
     <string>alpha</string>
     <string>endash</string>
     <string>emdash</string>

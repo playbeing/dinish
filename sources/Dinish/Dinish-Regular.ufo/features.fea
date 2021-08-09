@@ -433,7 +433,7 @@ feature tnum {
 	\v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni00A0 \exclamdown \cent
 	\sterling \currency \yen \brokenbar \section \dieresis \copyright \ordfeminine
 	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus
-	\acute \alpha \mu \paragraph \periodcentered \cedilla
+	\acute \alpha \mu \paragraph \periodcentered \cedilla \ogonek
 	\ordmasculine \guillemotright \questiondown \Agrave \Aacute \Acircumflex
 	\Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis
 	\Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute
@@ -441,7 +441,8 @@ feature tnum {
 	\Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex \atilde
 	\adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis \igrave
 	\iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute \ocircumflex
-	\otilde \odieresis \divide \oslash \Gbreve \gbreve \Idot \scedilla \Scedilla \ugrave \uacute \ucircumflex \udieresis
+	\otilde \odieresis \divide \oslash \Gbreve \gbreve \Idot \scedilla \Scedilla
+	\ugrave \uacute \ucircumflex \udieresis
 	\yacute \thorn \ydieresis \dotlessi \OE \oe \Scaron \scaron \Ydieresis \Zcaron
 	\zcaron \florin \circumflex \breve \caron \dotaccent \ring \tilde
 	\endash \emdash \quoteleft \quoteright
@@ -450,7 +451,8 @@ feature tnum {
 	\.null \NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups
 	\three.sups \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior
-	\threesuperior \foursuperior ];
+	\threesuperior \foursuperior \Aogonek \Eogonek \ogonekcmb \Iogonek \Oogonek
+	\Uogonek \Oogonekmacron \oogonek \aogonek \eogonek \uogonek \iogonek \lslash \Lslash ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
 @GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
