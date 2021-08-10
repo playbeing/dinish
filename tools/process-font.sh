@@ -13,7 +13,7 @@ case "$outtype" in
 	woff|woff2)
 		fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
 		[ "$?" = "0" ] || die "fontmake failed"
-		python -c "from fontTools.ttLib import TTFont; f = TTFont('$out.ttf');f.flavor='$outtype';f.save('$out')"
+		python3 -c "from fontTools.ttLib import TTFont; f = TTFont('$out.ttf');f.flavor='$outtype';f.save('$out')"
 		[ "$?" = "0" ] || die "conversion to $outtype failed"
 		rm -f $out.ttf
 		exit 0;;
