@@ -11,11 +11,14 @@ A workflow was set up in the form of a naive Makefile (in particular, it
 does not contain full dependencies, so running `make` without a preceding
 `make clean` does not guarantee that all changes are reflected in the
 generated fonts). This workflow requires these tools (in parentheses the
-versions used for the 2.002 release).
+versions used for the 2.007 release). Of note: ufo2ft must be at least
+version 2.24.0 to support the "meta" font table added to 2.007.
 
 * FontForge (20190801)
-* fontbakery (0.7.34)
-* gftools (0.7.0)
+* fontbakery (0.8.0)
+* gftools (0.7.1)
+* fontmake (2.4.1)
+* ufo2ft (2.24.0)
 * psfnormalize (1.5.1.dev0)
 * ttfautohint (1.8.3)
 
