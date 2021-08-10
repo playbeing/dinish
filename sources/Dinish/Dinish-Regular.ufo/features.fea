@@ -451,10 +451,10 @@ feature tnum {
 	\.null \NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups
 	\three.sups \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior
-	\threesuperior \foursuperior \Aogonek \Eogonek \ogonekcmb \Iogonek \Oogonek
+	\threesuperior \foursuperior \Aogonek \Eogonek \Iogonek \Oogonek
 	\Uogonek \Oogonekmacron \oogonek \aogonek \eogonek \uogonek \iogonek \lslash \Lslash ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
-@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 ];
+@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 \ogonekcmb ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
 
 table GDEF {
