@@ -2,17 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>public.openTypeMeta</key>
-  <dict>
-    <key>dlng</key>
-    <array>
-      <string>Latn</string>
-    </array>
-    <key>slng</key>
-    <array>
-      <string>Latn</string>
-    </array>
-  </dict>
   <key>com.typesupply.defcon.sortDescriptor</key>
   <array>
     <dict>
@@ -292,5 +281,16 @@
     <string>fl</string>
     <string>.notdef</string>
   </array>
+  <key>public.openTypeMeta</key>
+  <dict>
+    <key>dlng</key>
+    <array>
+      <string>Latn</string>
+    </array>
+    <key>slng</key>
+    <array>
+      <string>Latn</string>
+    </array>
+  </dict>
 </dict>
 </plist>
