@@ -53,3 +53,7 @@ docs/_sass/%.scss: fonts/woff2/Dinish/%.woff2
 zips:
 	@mkdir -p zips
 	sh -c 'for t in otf ttf woff woff2; do (cd fonts/$$t && zip ../../zips/dinish-$$t.zip */*.$$t); done'
+
+# Danger, Will Robinson!
+revert_auto_changes:
+	git checkout docs/_sass/Dinish*.scss fonts/ sources/*.*/fontinfo.plist
