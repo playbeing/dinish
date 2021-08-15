@@ -1,5 +1,5 @@
 name: "Dinish"
-designer: "Bert Driehuis"
+designer: "Bert Driehuis, Altinn, Charles Nix"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2021-04-22"
