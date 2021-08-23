@@ -311,6 +311,28 @@
     <string>uogonek</string>
     <string>lslash</string>
     <string>Lslash</string>
+    <string>Cacute</string>
+    <string>Gacute</string>
+    <string>Kacute</string>
+    <string>Lacute</string>
+    <string>Macute</string>
+    <string>Nacute</string>
+    <string>Pacute</string>
+    <string>Racute</string>
+    <string>Sacute</string>
+    <string>Wacute</string>
+    <string>Zacute</string>
+    <string>cacute</string>
+    <string>gacute</string>
+    <string>kacute</string>
+    <string>lacute</string>
+    <string>macute</string>
+    <string>nacute</string>
+    <string>pacute</string>
+    <string>racute</string>
+    <string>sacute</string>
+    <string>wacute</string>
+    <string>zacute</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

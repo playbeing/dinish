@@ -28,6 +28,8 @@
   <string>B_.glif</string>
   <key>C</key>
   <string>C_.glif</string>
+  <key>Cacute</key>
+  <string>C_acute.glif</string>
   <key>Ccedilla</key>
   <string>C_cedilla.glif</string>
   <key>D</key>
@@ -52,6 +54,8 @@
   <string>F_.glif</string>
   <key>G</key>
   <string>G_.glif</string>
+  <key>Gacute</key>
+  <string>G_acute.glif</string>
   <key>Gbreve</key>
   <string>G_breve.glif</string>
   <key>H</key>
@@ -74,16 +78,24 @@
   <string>J_.glif</string>
   <key>K</key>
   <string>K_.glif</string>
+  <key>Kacute</key>
+  <string>K_acute.glif</string>
   <key>L</key>
   <string>L_.glif</string>
+  <key>Lacute</key>
+  <string>L_acute.glif</string>
   <key>Lslash</key>
   <string>L_slash.glif</string>
   <key>M</key>
   <string>M_.glif</string>
+  <key>Macute</key>
+  <string>M_acute.glif</string>
   <key>N</key>
   <string>N_.glif</string>
   <key>NULL</key>
   <string>N_U_L_L_.glif</string>
+  <key>Nacute</key>
+  <string>N_acute.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -108,12 +120,18 @@
   <string>O_tilde.glif</string>
   <key>P</key>
   <string>P_.glif</string>
+  <key>Pacute</key>
+  <string>P_acute.glif</string>
   <key>Q</key>
   <string>Q_.glif</string>
   <key>R</key>
   <string>R_.glif</string>
+  <key>Racute</key>
+  <string>R_acute.glif</string>
   <key>S</key>
   <string>S_.glif</string>
+  <key>Sacute</key>
+  <string>S_acute.glif</string>
   <key>Scaron</key>
   <string>S_caron.glif</string>
   <key>Scedilla</key>
@@ -138,6 +156,8 @@
   <string>V_.glif</string>
   <key>W</key>
   <string>W_.glif</string>
+  <key>Wacute</key>
+  <string>W_acute.glif</string>
   <key>X</key>
   <string>X_.glif</string>
   <key>Y</key>
@@ -148,6 +168,8 @@
   <string>Y_dieresis.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
+  <key>Zacute</key>
+  <string>Z_acute.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
   <key>a</key>
@@ -206,6 +228,8 @@
   <string>bullet.glif</string>
   <key>c</key>
   <string>c.glif</string>
+  <key>cacute</key>
+  <string>cacute.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
   <key>ccedilla</key>
@@ -302,6 +326,8 @@
   <string>fraction.glif</string>
   <key>g</key>
   <string>g.glif</string>
+  <key>gacute</key>
+  <string>gacute.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
   <key>germandbls</key>
@@ -340,8 +366,12 @@
   <string>j.glif</string>
   <key>k</key>
   <string>k.glif</string>
+  <key>kacute</key>
+  <string>kacute.glif</string>
   <key>l</key>
   <string>l.glif</string>
+  <key>lacute</key>
+  <string>lacute.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -352,6 +382,8 @@
   <string>m.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
+  <key>macute</key>
+  <string>macute.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
   <key>mu</key>
@@ -360,6 +392,8 @@
   <string>multiply.glif</string>
   <key>n</key>
   <string>n.glif</string>
+  <key>nacute</key>
+  <string>nacute.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.tlf</key>
@@ -414,6 +448,8 @@
   <string>otilde.glif</string>
   <key>p</key>
   <string>p.glif</string>
+  <key>pacute</key>
+  <string>pacute.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>parenleft</key>
@@ -456,12 +492,16 @@
   <string>quotesingle.glif</string>
   <key>r</key>
   <string>r.glif</string>
+  <key>racute</key>
+  <string>racute.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
   <key>ring</key>
   <string>ring.glif</string>
   <key>s</key>
   <string>s.glif</string>
+  <key>sacute</key>
+  <string>sacute.glif</string>
   <key>scaron</key>
   <string>scaron.glif</string>
   <key>scedilla</key>
@@ -554,6 +594,8 @@
   <string>v.glif</string>
   <key>w</key>
   <string>w.glif</string>
+  <key>wacute</key>
+  <string>wacute.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>y</key>
@@ -566,6 +608,8 @@
   <string>yen.glif</string>
   <key>z</key>
   <string>z.glif</string>
+  <key>zacute</key>
+  <string>zacute.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
   <key>zero</key>
