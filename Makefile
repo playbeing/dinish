@@ -9,7 +9,7 @@ TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 
-all: $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips
+all: update_version $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips
 
 clean:
 	rm -rf fonts zips
@@ -42,7 +42,7 @@ metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
 
 
-.PHONY: docs zips
+.PHONY: docs zips update_version
 docs:	docs/_sass/Dinish-Regular.scss docs/_sass/Dinish-Bold.scss
 	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
@@ -53,6 +53,9 @@ docs/_sass/%.scss: fonts/woff2/Dinish/%.woff2
 zips:
 	@mkdir -p zips
 	sh -c 'for t in otf ttf woff woff2; do (cd fonts/$$t && zip ../../zips/dinish-$$t.zip */*.$$t); done'
+
+update_version:
+	tools/update-version.sh
 
 # Danger, Will Robinson!
 revert_auto_changes:
