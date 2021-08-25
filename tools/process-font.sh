@@ -22,10 +22,13 @@ esac
 fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
 [ "$?" = "0" ] || die "fontmake failed"
 
-res="`gftools fix-dsig --autofix $out 2>&1`"
-rv=$?
-echo "$res" | grep -Ev '(so we just added a dummy placeholder)' || true
-[ "$rv" = "0" ] || die "gftools fix-dsig failed"
+# 20210825 We stop adding a dummy dsig table after fontbakery 0.8.1 started complaining
+# about the table we added because fontbakery 0.7 required it :-)
+
+#res="`gftools fix-dsig --autofix $out 2>&1`"
+#rv=$?
+#echo "$res" | grep -Ev '(so we just added a dummy placeholder)' || true
+#[ "$rv" = "0" ] || die "gftools fix-dsig failed"
 
 case "$out" in
 	*.ttf)
