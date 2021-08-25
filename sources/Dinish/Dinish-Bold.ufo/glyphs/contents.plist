@@ -266,6 +266,8 @@
   <string>dollar.glif</string>
   <key>dotaccent</key>
   <string>dotaccent.glif</string>
+  <key>dotaccentcmb</key>
+  <string>dotaccentcmb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
   <key>e</key>

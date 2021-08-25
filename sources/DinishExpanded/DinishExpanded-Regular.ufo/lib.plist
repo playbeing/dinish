@@ -303,6 +303,7 @@
     <string>sacute</string>
     <string>wacute</string>
     <string>zacute</string>
+    <string>dotaccentcmb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
