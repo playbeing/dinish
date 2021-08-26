@@ -18,6 +18,8 @@
   <string>A_dieresis.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
+  <key>Aogonek</key>
+  <string>A_ogonek.glif</string>
   <key>Aring</key>
   <string>A_ring.glif</string>
   <key>Atilde</key>
@@ -42,6 +44,8 @@
   <string>E_dieresis.glif</string>
   <key>Egrave</key>
   <string>E_grave.glif</string>
+  <key>Eogonek</key>
+  <string>E_ogonek.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
   <key>Euro</key>
@@ -68,6 +72,8 @@
   <string>I_dot.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
+  <key>Iogonek</key>
+  <string>I_ogonek.glif</string>
   <key>J</key>
   <string>J_.glif</string>
   <key>K</key>
@@ -78,6 +84,8 @@
   <string>L_.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
+  <key>Lslash</key>
+  <string>L_slash.glif</string>
   <key>M</key>
   <string>M_.glif</string>
   <key>Macute</key>
@@ -102,6 +110,10 @@
   <string>O_dieresis.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
+  <key>Oogonek</key>
+  <string>O_ogonek.glif</string>
+  <key>Oogonekmacron</key>
+  <string>O_ogonekmacron.glif</string>
   <key>Oslash</key>
   <string>O_slash.glif</string>
   <key>Otilde</key>
@@ -138,6 +150,8 @@
   <string>U_dieresis.glif</string>
   <key>Ugrave</key>
   <string>U_grave.glif</string>
+  <key>Uogonek</key>
+  <string>U_ogonek.glif</string>
   <key>V</key>
   <string>V_.glif</string>
   <key>W</key>
@@ -180,6 +194,8 @@
   <string>alpha.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
+  <key>aogonek</key>
+  <string>aogonek.glif</string>
   <key>aring</key>
   <string>aring.glif</string>
   <key>asciicircum</key>
@@ -276,6 +292,8 @@
   <string>emdash.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
+  <key>eogonek</key>
+  <string>eogonek.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
   <key>eth</key>
@@ -342,6 +360,8 @@
   <string>idieresis.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>iogonek</key>
+  <string>iogonek.glif</string>
   <key>j</key>
   <string>j.glif</string>
   <key>k</key>
@@ -356,6 +376,8 @@
   <string>less.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
+  <key>lslash</key>
+  <string>lslash.glif</string>
   <key>m</key>
   <string>m.glif</string>
   <key>macron</key>
@@ -392,6 +414,10 @@
   <string>odieresis.glif</string>
   <key>oe</key>
   <string>oe.glif</string>
+  <key>ogonek</key>
+  <string>ogonek.glif</string>
+  <key>ogonekcmb</key>
+  <string>ogonekcmb.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
   <key>one</key>
@@ -404,6 +430,8 @@
   <string>onequarter.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
+  <key>oogonek</key>
+  <string>oogonek.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>ordmasculine</key>
@@ -540,6 +568,8 @@
   <string>uni030A_.glif</string>
   <key>uni0327</key>
   <string>uni0327.glif</string>
+  <key>uogonek</key>
+  <string>uogonek.glif</string>
   <key>v</key>
   <string>v.glif</string>
   <key>w</key>

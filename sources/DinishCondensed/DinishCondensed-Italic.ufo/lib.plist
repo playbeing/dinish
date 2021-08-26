@@ -321,6 +321,21 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>ogonek</string>
+    <string>ogonekcmb</string>
+    <string>Aogonek</string>
+    <string>Eogonek</string>
+    <string>Iogonek</string>
+    <string>Oogonek</string>
+    <string>Oogonekmacron</string>
+    <string>Uogonek</string>
+    <string>aogonek</string>
+    <string>eogonek</string>
+    <string>iogonek</string>
+    <string>oogonek</string>
+    <string>uogonek</string>
+    <string>lslash</string>
+    <string>Lslash</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
