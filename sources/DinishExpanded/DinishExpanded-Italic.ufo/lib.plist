@@ -227,23 +227,39 @@
     <string>yacute</string>
     <string>thorn</string>
     <string>ydieresis</string>
+    <string>Cacute</string>
+    <string>cacute</string>
     <string>Gbreve</string>
     <string>gbreve</string>
     <string>Idot</string>
     <string>dotlessi</string>
+    <string>Lacute</string>
+    <string>lacute</string>
+    <string>Nacute</string>
+    <string>nacute</string>
     <string>OE</string>
     <string>oe</string>
+    <string>Racute</string>
+    <string>racute</string>
+    <string>Sacute</string>
+    <string>sacute</string>
     <string>Scedilla</string>
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
     <string>Ydieresis</string>
+    <string>Zacute</string>
+    <string>zacute</string>
+    <string>Zdotaccent</string>
+    <string>zdotaccent</string>
     <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
-    <string>breve</string>
+    <string>Gacute</string>
+    <string>gacute</string>
     <string>circumflex</string>
     <string>caron</string>
+    <string>breve</string>
     <string>dotaccent</string>
     <string>ring</string>
     <string>tilde</string>
@@ -252,10 +268,19 @@
     <string>uni0302</string>
     <string>tildecomb</string>
     <string>uni0306</string>
+    <string>dotaccentcmb</string>
     <string>uni0308</string>
     <string>uni030A</string>
     <string>uni0327</string>
     <string>alpha</string>
+    <string>Kacute</string>
+    <string>kacute</string>
+    <string>Macute</string>
+    <string>macute</string>
+    <string>Pacute</string>
+    <string>pacute</string>
+    <string>Wacute</string>
+    <string>wacute</string>
     <string>endash</string>
     <string>emdash</string>
     <string>quoteleft</string>
@@ -280,31 +305,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>Cacute</string>
-    <string>Gacute</string>
-    <string>Kacute</string>
-    <string>Lacute</string>
-    <string>Macute</string>
-    <string>Nacute</string>
-    <string>Pacute</string>
-    <string>Racute</string>
-    <string>Sacute</string>
-    <string>Wacute</string>
-    <string>Zacute</string>
-    <string>cacute</string>
-    <string>gacute</string>
-    <string>kacute</string>
-    <string>lacute</string>
-    <string>macute</string>
-    <string>nacute</string>
-    <string>pacute</string>
-    <string>racute</string>
-    <string>sacute</string>
-    <string>wacute</string>
-    <string>zacute</string>
-    <string>dotaccentcmb</string>
-    <string>zdotaccent</string>
-    <string>Zdotaccent</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

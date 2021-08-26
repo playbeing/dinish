@@ -158,6 +158,8 @@
   <string>Z_acute.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
+  <key>Zdotaccent</key>
+  <string>Z_dotaccent.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>aacute</key>
@@ -584,6 +586,8 @@
   <string>zacute.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
+  <key>zdotaccent</key>
+  <string>zdotaccent.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
   <key>zero.dnom</key>
@@ -594,9 +598,5 @@
   <string>zero.sups.glif</string>
   <key>zero.tlf</key>
   <string>zero.tlf.glif</string>
-  <key>zdotaccent</key>
-  <string>zdotaccent.glif</string>
-  <key>Zdotaccent</key>
-  <string>Z_dotaccent.glif</string>
 </dict>
 </plist>

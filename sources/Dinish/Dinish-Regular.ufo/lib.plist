@@ -244,6 +244,8 @@
     <string>ydieresis</string>
     <string>Aogonek</string>
     <string>aogonek</string>
+    <string>Cacute</string>
+    <string>cacute</string>
     <string>Eogonek</string>
     <string>eogonek</string>
     <string>Gbreve</string>
@@ -252,10 +254,18 @@
     <string>iogonek</string>
     <string>Idot</string>
     <string>dotlessi</string>
+    <string>Lacute</string>
+    <string>lacute</string>
     <string>Lslash</string>
     <string>lslash</string>
+    <string>Nacute</string>
+    <string>nacute</string>
     <string>OE</string>
     <string>oe</string>
+    <string>Racute</string>
+    <string>racute</string>
+    <string>Sacute</string>
+    <string>sacute</string>
     <string>Scedilla</string>
     <string>scedilla</string>
     <string>Scaron</string>
@@ -263,15 +273,21 @@
     <string>Uogonek</string>
     <string>uogonek</string>
     <string>Ydieresis</string>
+    <string>Zacute</string>
+    <string>zacute</string>
+    <string>Zdotaccent</string>
+    <string>zdotaccent</string>
     <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
     <string>Oogonek</string>
     <string>oogonek</string>
     <string>Oogonekmacron</string>
-    <string>breve</string>
+    <string>Gacute</string>
+    <string>gacute</string>
     <string>circumflex</string>
     <string>caron</string>
+    <string>breve</string>
     <string>dotaccent</string>
     <string>ring</string>
     <string>ogonek</string>
@@ -281,11 +297,20 @@
     <string>uni0302</string>
     <string>tildecomb</string>
     <string>uni0306</string>
+    <string>dotaccentcmb</string>
     <string>uni0308</string>
     <string>uni030A</string>
     <string>uni0327</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
+    <string>Kacute</string>
+    <string>kacute</string>
+    <string>Macute</string>
+    <string>macute</string>
+    <string>Pacute</string>
+    <string>pacute</string>
+    <string>Wacute</string>
+    <string>wacute</string>
     <string>endash</string>
     <string>emdash</string>
     <string>quoteleft</string>
@@ -311,31 +336,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>Cacute</string>
-    <string>Gacute</string>
-    <string>Kacute</string>
-    <string>Lacute</string>
-    <string>Macute</string>
-    <string>Nacute</string>
-    <string>Pacute</string>
-    <string>Racute</string>
-    <string>Sacute</string>
-    <string>Wacute</string>
-    <string>Zacute</string>
-    <string>cacute</string>
-    <string>gacute</string>
-    <string>kacute</string>
-    <string>lacute</string>
-    <string>macute</string>
-    <string>nacute</string>
-    <string>pacute</string>
-    <string>racute</string>
-    <string>sacute</string>
-    <string>wacute</string>
-    <string>zacute</string>
-    <string>dotaccentcmb</string>
-    <string>zdotaccent</string>
-    <string>Zdotaccent</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
