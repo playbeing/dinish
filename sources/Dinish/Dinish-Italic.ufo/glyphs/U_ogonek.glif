@@ -3,7 +3,24 @@
   <advance width="650"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="U" xOffset="0" yOffset="0"/>
-    <component base="ogonek" xOffset="0" yOffset="0"/>
+    <component base="U"/>
+    <contour>
+      <point x="376.73964879304856" y="42" type="line"/>
+      <point x="425.73964879304856" y="42" type="line"/>
+      <point x="290.8592433827213" y="-44" type="line"/>
+      <point x="293.6117732378147" y="-50"/>
+      <point x="296.5722147837259" y="-55"/>
+      <point x="300.5326563296371" y="-60" type="curve" smooth="yes"/>
+      <point x="318.9585991316464" y="-82"/>
+      <point x="358.4636588418333" y="-94"/>
+      <point x="398.2557471510155" y="-95" type="curve"/>
+      <point x="385.36522232031444" y="-157" type="line"/>
+      <point x="325.5731340111322" y="-156"/>
+      <point x="280.1076327550341" y="-139"/>
+      <point x="250.96871855202016" y="-106" type="curve" smooth="yes"/>
+      <point x="235.50321729592207" y="-89"/>
+      <point x="227.0772744939128" y="-67"/>
+      <point x="223.69089014599228" y="-40" type="curve"/>
+    </contour>
   </outline>
 </glyph>

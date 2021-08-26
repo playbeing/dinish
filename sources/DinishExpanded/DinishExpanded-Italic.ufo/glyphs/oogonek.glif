@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oogonek" format="2">
-  <advance width="577"/>
+  <advance width="585"/>
   <unicode hex="01EB"/>
   <outline>
-    <component base="o" xOffset="0" yOffset="0"/>
-    <component base="ogonek" xOffset="0" yOffset="0"/>
+    <component base="o" xOffset="0.0" yOffset="0"/>
+    <contour>
+      <point x="373.16559159505783" y="20" type="line"/>
+      <point x="206.94847971127263" y="-58" type="line"/>
+      <point x="235.75068744082864" y="-83"/>
+      <point x="293.4636588418333" y="-94"/>
+      <point x="349.2557471510155" y="-95" type="curve"/>
+      <point x="336.36522232031444" y="-157" type="line"/>
+      <point x="252.5731340111322" y="-156"/>
+      <point x="188.1076327550341" y="-139"/>
+      <point x="143.96871855202016" y="-106" type="curve" smooth="yes"/>
+      <point x="121.50321729592207" y="-89"/>
+      <point x="107.07727449391278" y="-67"/>
+      <point x="100.69089014599228" y="-40" type="curve"/>
+    </contour>
   </outline>
 </glyph>
