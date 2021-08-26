@@ -594,5 +594,9 @@
   <string>zero.sups.glif</string>
   <key>zero.tlf</key>
   <string>zero.tlf.glif</string>
+  <key>zdotaccent</key>
+  <string>zdotaccent.glif</string>
+  <key>Zdotaccent</key>
+  <string>Z_dotaccent.glif</string>
 </dict>
 </plist>

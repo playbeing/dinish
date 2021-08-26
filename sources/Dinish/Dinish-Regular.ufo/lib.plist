@@ -334,6 +334,8 @@
     <string>wacute</string>
     <string>zacute</string>
     <string>dotaccentcmb</string>
+    <string>zdotaccent</string>
+    <string>Zdotaccent</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

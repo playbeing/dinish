@@ -570,7 +570,7 @@ feature tnum {
 	\bullet \ellipsis \perthousand \guilsinglleft \guilsinglright \Euro \trademark
 	\NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups
-	\three.sups \four.sups \divisionslash \minus \foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute ];
+	\three.sups \four.sups \divisionslash \minus \foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
 @GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 \dotaccentcmb ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
