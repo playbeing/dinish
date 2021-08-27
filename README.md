@@ -113,6 +113,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-08-27 - v2.007: Add support for the Polish language. Misc fixes, see FONTLOG.
 - 2021-06-09 - v2.006: Add DINish Condensed Italic to complete the family
 - 2021-06-06 - v2.005: Add missing glyphs for Turkish language, add lower case alpha.
 - 2021-05-25 - v2.004: Add tabular numbers (OpenType tnum feature), minor cleanups
