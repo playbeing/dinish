@@ -5,22 +5,22 @@
   <outline>
     <component base="O"/>
     <contour>
-      <point x="354.660531884871" y="32" type="line"/>
-      <point x="403.660531884871" y="32" type="line"/>
-      <point x="270.8592433827213" y="-44" type="line"/>
-      <point x="273.6117732378147" y="-50"/>
-      <point x="276.5722147837259" y="-55"/>
-      <point x="280.5326563296371" y="-60" type="curve" smooth="yes"/>
-      <point x="298.9585991316464" y="-82"/>
-      <point x="338.4636588418333" y="-94"/>
-      <point x="378.2557471510155" y="-95" type="curve"/>
-      <point x="365.36522232031444" y="-157" type="line"/>
-      <point x="305.5731340111322" y="-156"/>
-      <point x="260.1076327550341" y="-139"/>
-      <point x="230.96871855202016" y="-106" type="curve" smooth="yes"/>
-      <point x="215.50321729592207" y="-89"/>
-      <point x="207.0772744939128" y="-67"/>
-      <point x="203.69089014599228" y="-40" type="curve"/>
+      <point x="355" y="32" type="line"/>
+      <point x="404" y="32" type="line"/>
+      <point x="271" y="-44" type="line"/>
+      <point x="274" y="-50"/>
+      <point x="277" y="-55"/>
+      <point x="281" y="-60" type="curve" smooth="yes"/>
+      <point x="299" y="-82"/>
+      <point x="338" y="-94"/>
+      <point x="378" y="-95" type="curve"/>
+      <point x="365" y="-157" type="line"/>
+      <point x="306" y="-156"/>
+      <point x="260" y="-139"/>
+      <point x="231" y="-106" type="curve" smooth="yes"/>
+      <point x="216" y="-89"/>
+      <point x="207" y="-67"/>
+      <point x="204" y="-40" type="curve"/>
     </contour>
   </outline>
 </glyph>
