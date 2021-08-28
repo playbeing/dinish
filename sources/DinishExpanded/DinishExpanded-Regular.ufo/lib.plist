@@ -24,7 +24,6 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.null</string>
-    <string>NULL</string>
     <string>nonmarkingreturn</string>
     <string>space</string>
     <string>exclam</string>

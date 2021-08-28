@@ -405,7 +405,7 @@ feature tnum {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\.null \nonmarkingreturn \NULL \space \exclam \quotedbl
+@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl
 	\numbersign \dollar \percent \ampersand \quotesingle \parenleft \parenright
 	\asterisk \plus \comma \hyphen \period \slash \zero \one \two \three \four \five
 	\six \seven \eight \nine \colon \semicolon \less \equal \greater \question \at \A \B
