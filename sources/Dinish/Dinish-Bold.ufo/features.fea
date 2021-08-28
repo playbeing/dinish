@@ -406,7 +406,7 @@ lookup kernHorizontalKerninglookup0 {
     pos @kc11_first_1 @kc11_second_8 -5;
     pos @kc11_first_2 @kc11_second_5 -15;
     pos @kc11_first_2 @kc11_second_7 -15;
-    pos @kc11_first_2 @kc11_second_8 -40;
+    pos @kc11_first_2 @kc11_second_8 -30;
     pos @kc11_first_2 @kc11_second_9 -31;
     pos @kc11_first_2 @kc11_second_10 -15;
     pos @kc11_first_3 @kc11_second_1 -10;
