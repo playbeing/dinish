@@ -284,8 +284,12 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.osf</key>
+  <string>eight.osf.glif</string>
   <key>eight.tlf</key>
   <string>eight.tlf.glif</string>
+  <key>eight.tosf</key>
+  <string>eight.tosf.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
@@ -308,8 +312,12 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.osf</key>
+  <string>five.osf.glif</string>
   <key>five.tlf</key>
   <string>five.tlf.glif</string>
+  <key>five.tosf</key>
+  <string>five.tosf.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -320,10 +328,14 @@
   <string>four.dnom.glif</string>
   <key>four.numr</key>
   <string>four.numr.glif</string>
+  <key>four.osf</key>
+  <string>four.osf.glif</string>
   <key>four.sups</key>
   <string>four.sups.glif</string>
   <key>four.tlf</key>
   <string>four.tlf.glif</string>
+  <key>four.tosf</key>
+  <string>four.tosf.glif</string>
   <key>foursuperior</key>
   <string>foursuperior.glif</string>
   <key>fraction</key>
@@ -400,8 +412,12 @@
   <string>nacute.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.osf</key>
+  <string>nine.osf.glif</string>
   <key>nine.tlf</key>
   <string>nine.tlf.glif</string>
+  <key>nine.tosf</key>
+  <string>nine.tosf.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>ntilde</key>
@@ -430,10 +446,14 @@
   <string>one.dnom.glif</string>
   <key>one.numr</key>
   <string>one.numr.glif</string>
+  <key>one.osf</key>
+  <string>one.osf.glif</string>
   <key>one.sups</key>
   <string>one.sups.glif</string>
   <key>one.tlf</key>
   <string>one.tlf.glif</string>
+  <key>one.tosf</key>
+  <string>one.tosf.glif</string>
   <key>onehalf</key>
   <string>onehalf.glif</string>
   <key>onequarter</key>
@@ -516,12 +536,20 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.osf</key>
+  <string>seven.osf.glif</string>
   <key>seven.tlf</key>
   <string>seven.tlf.glif</string>
+  <key>seven.tosf</key>
+  <string>seven.tosf.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.osf</key>
+  <string>six.osf.glif</string>
   <key>six.tlf</key>
   <string>six.tlf.glif</string>
+  <key>six.tosf</key>
+  <string>six.tosf.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -540,10 +568,14 @@
   <string>three.dnom.glif</string>
   <key>three.numr</key>
   <string>three.numr.glif</string>
+  <key>three.osf</key>
+  <string>three.osf.glif</string>
   <key>three.sups</key>
   <string>three.sups.glif</string>
   <key>three.tlf</key>
   <string>three.tlf.glif</string>
+  <key>three.tosf</key>
+  <string>three.tosf.glif</string>
   <key>threequarters</key>
   <string>threequarters.glif</string>
   <key>threesuperior</key>
@@ -560,10 +592,14 @@
   <string>two.dnom.glif</string>
   <key>two.numr</key>
   <string>two.numr.glif</string>
+  <key>two.osf</key>
+  <string>two.osf.glif</string>
   <key>two.sups</key>
   <string>two.sups.glif</string>
   <key>two.tlf</key>
   <string>two.tlf.glif</string>
+  <key>two.tosf</key>
+  <string>two.tosf.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
@@ -624,9 +660,13 @@
   <string>zero.dnom.glif</string>
   <key>zero.numr</key>
   <string>zero.numr.glif</string>
+  <key>zero.osf</key>
+  <string>zero.osf.glif</string>
   <key>zero.sups</key>
   <string>zero.sups.glif</string>
   <key>zero.tlf</key>
   <string>zero.tlf.glif</string>
+  <key>zero.tosf</key>
+  <string>zero.tosf.glif</string>
 </dict>
 </plist>
