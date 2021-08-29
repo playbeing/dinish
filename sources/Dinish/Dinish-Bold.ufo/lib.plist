@@ -44,38 +44,58 @@
     <string>zero</string>
     <string>zero.dnom</string>
     <string>zero.numr</string>
+    <string>zero.osf</string>
     <string>zero.sups</string>
     <string>zero.tlf</string>
+    <string>zero.tosf</string>
     <string>one</string>
     <string>one.dnom</string>
     <string>one.numr</string>
+    <string>one.osf</string>
     <string>one.sups</string>
     <string>one.tlf</string>
+    <string>one.tosf</string>
     <string>two</string>
     <string>two.dnom</string>
     <string>two.numr</string>
+    <string>two.osf</string>
     <string>two.sups</string>
     <string>two.tlf</string>
+    <string>two.tosf</string>
     <string>three</string>
     <string>three.dnom</string>
     <string>three.numr</string>
+    <string>three.osf</string>
     <string>three.sups</string>
     <string>three.tlf</string>
+    <string>three.tosf</string>
     <string>four</string>
     <string>four.dnom</string>
     <string>four.numr</string>
+    <string>four.osf</string>
     <string>four.sups</string>
     <string>four.tlf</string>
+    <string>four.tosf</string>
     <string>five</string>
+    <string>five.osf</string>
     <string>five.tlf</string>
+    <string>five.tosf</string>
     <string>six</string>
+    <string>six.osf</string>
     <string>six.tlf</string>
+    <string>six.tosf</string>
     <string>seven</string>
+    <string>seven.osf</string>
     <string>seven.tlf</string>
+    <string>seven.tosf</string>
     <string>eight</string>
+    <string>eight.osf</string>
     <string>eight.tlf</string>
+    <string>eight.tosf</string>
     <string>nine</string>
+    <string>nine.osf</string>
     <string>nine.tlf</string>
+    <string>nine.tosf</string>
     <string>colon</string>
     <string>semicolon</string>
     <string>less</string>
@@ -336,26 +356,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>two.tosf</string>
-    <string>seven.tosf</string>
-    <string>zero.tosf</string>
-    <string>one.tosf</string>
-    <string>four.tosf</string>
-    <string>eight.tosf</string>
-    <string>three.tosf</string>
-    <string>nine.tosf</string>
-    <string>six.tosf</string>
-    <string>five.tosf</string>
-    <string>zero.osf</string>
-    <string>one.osf</string>
-    <string>two.osf</string>
-    <string>three.osf</string>
-    <string>four.osf</string>
-    <string>five.osf</string>
-    <string>six.osf</string>
-    <string>seven.osf</string>
-    <string>eight.osf</string>
-    <string>nine.osf</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
