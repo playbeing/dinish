@@ -521,30 +521,138 @@ feature mark {
       lookup markMarkPositioninglookup2;
 } mark;
 
-lookup tnumTabularNumbersinLatinlookup5 {
-  lookupflag 0;
-    sub \zero by \zero.tlf ;
-    sub \one by \one.tlf ;
-    sub \two by \two.tlf ;
-    sub \three by \three.tlf ;
-    sub \four by \four.tlf ;
-    sub \five by \five.tlf ;
-    sub \six by \six.tlf ;
-    sub \seven by \seven.tlf ;
-    sub \eight by \eight.tlf ;
-    sub \nine by \nine.tlf ;
-} tnumTabularNumbersinLatinlookup5;
+lookup onumOldstyleFigures {
+    lookupflag 0;
+    sub \zero.tlf by \zero.tosf;
+    sub \one.tlf by \one.tosf;
+    sub \two.tlf by \two.tosf;
+    sub \three.tlf by \three.tosf;
+    sub \four.tlf by \four.tosf;
+    sub \five.tlf by \five.tosf;
+    sub \six.tlf by \six.tosf;
+    sub \seven.tlf by \seven.tosf;
+    sub \eight.tlf by \eight.tosf;
+    sub \nine.tlf by \nine.tosf;
+    sub \zero by \zero.osf;
+    sub \one by \one.osf;
+    sub \two by \two.osf;
+    sub \three by \three.osf;
+    sub \four by \four.osf;
+    sub \five by \five.osf;
+    sub \six by \six.osf;
+    sub \seven by \seven.osf;
+    sub \eight by \eight.osf;
+    sub \nine by \nine.osf;
+} onumOldstyleFigures;
+
+lookup lnumLiningFigures {
+    lookupflag 0;
+    sub \zero.osf by \zero;
+    sub \one.osf by \one;
+    sub \two.osf by \two;
+    sub \three.osf by \three;
+    sub \four.osf by \four;
+    sub \five.osf by \five;
+    sub \six.osf by \six;
+    sub \seven.osf by \seven;
+    sub \eight.osf by \eight;
+    sub \nine.osf by \nine;
+    sub \zero.tosf by \zero.tlf;
+    sub \one.tosf by \one.tlf;
+    sub \two.tosf by \two.tlf;
+    sub \three.tosf by \three.tlf;
+    sub \four.tosf by \four.tlf;
+    sub \five.tosf by \five.tlf;
+    sub \six.tosf by \six.tlf;
+    sub \seven.tosf by \seven.tlf;
+    sub \eight.tosf by \eight.tlf;
+    sub \nine.tosf by \nine.tlf;
+} lnumLiningFigures;
+
+lookup pnumProportionalNumbers {
+    lookupflag 0;
+    sub \zero.tlf by \zero;
+    sub \one.tlf by \one;
+    sub \two.tlf by \two;
+    sub \three.tlf by \three;
+    sub \four.tlf by \four;
+    sub \five.tlf by \five;
+    sub \six.tlf by \six;
+    sub \seven.tlf by \seven;
+    sub \eight.tlf by \eight;
+    sub \nine.tlf by \nine;
+    sub \zero.tosf by \zero.osf;
+    sub \one.tosf by \one.osf;
+    sub \two.tosf by \two.osf;
+    sub \three.tosf by \three.osf;
+    sub \four.tosf by \four.osf;
+    sub \five.tosf by \five.osf;
+    sub \six.tosf by \six.osf;
+    sub \seven.tosf by \seven.osf;
+    sub \eight.tosf by \eight.osf;
+    sub \nine.tosf by \nine.osf;
+} pnumProportionalNumbers;
+
+lookup tnumTabularNumbers {
+    lookupflag 0;
+    sub \zero by \zero.tlf;
+    sub \one by \one.tlf;
+    sub \two by \two.tlf;
+    sub \three by \three.tlf;
+    sub \four by \four.tlf;
+    sub \five by \five.tlf;
+    sub \six by \six.tlf;
+    sub \seven by \seven.tlf;
+    sub \eight by \eight.tlf;
+    sub \nine by \nine.tlf;
+    sub \zero.osf by \zero.tosf;
+    sub \one.osf by \one.tosf;
+    sub \two.osf by \two.tosf;
+    sub \three.osf by \three.tosf;
+    sub \four.osf by \four.tosf;
+    sub \five.osf by \five.tosf;
+    sub \six.osf by \six.tosf;
+    sub \seven.osf by \seven.tosf;
+    sub \eight.osf by \eight.tosf;
+    sub \nine.osf by \nine.tosf;
+} tnumTabularNumbers;
+
+feature onum {
+    script DFLT;
+    language dflt;
+    lookup onumOldstyleFigures;
+    script latn;
+    language dflt;
+    lookup onumOldstyleFigures;
+} onum;
+
+feature lnum {
+    script DFLT;
+    language dflt;
+    lookup lnumLiningFigures;
+    script latn;
+    language dflt;
+    lookup lnumLiningFigures;
+} lnum;
+
+feature pnum {
+    script DFLT;
+    language dflt;
+    lookup pnumProportionalNumbers;
+    script latn;
+    language dflt;
+    lookup pnumProportionalNumbers;
+} pnum;
 
 feature tnum {
-
- script DFLT;
-     language dflt ;
-      lookup tnumTabularNumbersinLatinlookup5;
-
- script latn;
-     language dflt ;
-      lookup tnumTabularNumbersinLatinlookup5;
+    script DFLT;
+    language dflt;
+    lookup tnumTabularNumbers;
+    script latn;
+    language dflt;
+    lookup tnumTabularNumbers;
 } tnum;
+
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.osf" format="2">
-  <advance width="494"/>
+  <advance width="495"/>
   <unicode hex="0035"/>
   <outline>
-    <component base="five"/>
+    <component base="five.tosf"/>
   </outline>
 </glyph>
