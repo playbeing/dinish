@@ -564,7 +564,7 @@ feature tnum {
 	\foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \ogonekcmb \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
 @GDEF_Mark = [\gravecomb \acutecomb \tildecomb \uni0302 \uni0306 \uni0308 \uni030A \uni0327 \dotaccentcmb ];
-@GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf ];
+@GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf \five.tosf \eight.tosf \seven.tosf \one.tosf \four.tosf \three.tosf \zero.tosf \nine.tosf \six.tosf \two.tosf \zero.osf \one.osf \two.osf \three.osf \four.osf \five.osf \six.osf \seven.osf \eight.osf \nine.osf ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, @GDEF_Component;

@@ -336,6 +336,26 @@
     <string>uogonek</string>
     <string>lslash</string>
     <string>Lslash</string>
+    <string>two.tosf</string>
+    <string>four.tosf</string>
+    <string>nine.tosf</string>
+    <string>seven.tosf</string>
+    <string>eight.tosf</string>
+    <string>zero.tosf</string>
+    <string>five.tosf</string>
+    <string>three.tosf</string>
+    <string>one.tosf</string>
+    <string>six.tosf</string>
+    <string>zero.osf</string>
+    <string>one.osf</string>
+    <string>two.osf</string>
+    <string>three.osf</string>
+    <string>four.osf</string>
+    <string>five.osf</string>
+    <string>six.osf</string>
+    <string>seven.osf</string>
+    <string>eight.osf</string>
+    <string>nine.osf</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
