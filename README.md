@@ -60,10 +60,15 @@ DINish currently provides the following Unicode coverage:
 ## OpenType Features
 
 By default, numbers are proportionally spaced. For use in spreadsheets
-or other tabular document formats, tabular numbers are available
-that line up vertically. In libreOffice, use the Features button in
-the Font Style dialog, or type the font name as `Dinish:tnum` in the
-font selector. In CSS, use `font-feature-settings: "tnum";`.
+or other tabular document formats, tabular numbers are available that
+line up vertically.  In libreOffice, use the Features button in the
+Font Style dialog, or type the font name as `Dinish:tnum` in the font
+selector. In CSS, use `font-feature-settings: "tnum";`.
+
+DINish also comes with a full set of old style numerals. These can be
+selected with the `onum` tag. They are even available in tabular form
+for use in spreadsheets: in libreOffice, use `Dinish:onum&tnum`. For
+CSS, try `font-feature-settings: "onum", "tnum";`
 
 ## As a webfont
 
@@ -113,6 +118,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-08-30 - v2.008: Add old style numerals.
 - 2021-08-27 - v2.007: Add support for the Polish language. Misc fixes, see FONTLOG.
 - 2021-06-09 - v2.006: Add DINish Condensed Italic to complete the family
 - 2021-06-06 - v2.005: Add missing glyphs for Turkish language, add lower case alpha.
