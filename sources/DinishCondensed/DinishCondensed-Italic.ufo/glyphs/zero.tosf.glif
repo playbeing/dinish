@@ -3,6 +3,33 @@
   <advance width="418"/>
   <unicode hex="0030"/>
   <outline>
-    <component base="zero.tlf"/>
+    <contour>
+      <point x="38" y="178" type="qcurve" smooth="yes"/>
+      <point x="74" y="352" type="line" smooth="yes"/>
+      <point x="113" y="538"/>
+      <point x="267" y="539" type="qcurve" smooth="yes"/>
+      <point x="419" y="539"/>
+      <point x="380" y="352" type="qcurve" smooth="yes"/>
+      <point x="344" y="178" type="line" smooth="yes"/>
+      <point x="305" y="-9"/>
+      <point x="153" y="-9" type="qcurve" smooth="yes"/>
+      <point x="-1" y="-9"/>
+    </contour>
+    <contour>
+      <point x="257" y="117"/>
+      <point x="272" y="189" type="qcurve" smooth="yes"/>
+      <point x="304" y="340" type="line" smooth="yes"/>
+      <point x="319" y="413"/>
+      <point x="297" y="472"/>
+      <point x="253" y="472" type="qcurve" smooth="yes"/>
+      <point x="209" y="472"/>
+      <point x="162" y="413"/>
+      <point x="147" y="340" type="qcurve" smooth="yes"/>
+      <point x="115" y="189" type="line" smooth="yes"/>
+      <point x="100" y="116"/>
+      <point x="123" y="57"/>
+      <point x="167" y="57" type="qcurve" smooth="yes"/>
+      <point x="211" y="57"/>
+    </contour>
   </outline>
 </glyph>

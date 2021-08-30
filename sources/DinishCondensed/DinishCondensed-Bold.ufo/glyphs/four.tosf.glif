@@ -3,6 +3,22 @@
   <advance width="418"/>
   <unicode hex="0034"/>
   <outline>
-    <component base="four.tlf"/>
+    <contour>
+      <point x="414" y="-44" type="line"/>
+      <point x="370" y="-44" type="line"/>
+      <point x="370" y="-162" type="line"/>
+      <point x="244" y="-162" type="line"/>
+      <point x="244" y="-44" type="line"/>
+      <point x="32" y="-44" type="line"/>
+      <point x="32" y="69" type="line"/>
+      <point x="172" y="545" type="line"/>
+      <point x="298" y="545" type="line"/>
+      <point x="158" y="69" type="line"/>
+      <point x="244" y="69" type="line"/>
+      <point x="244" y="225" type="line"/>
+      <point x="370" y="225" type="line"/>
+      <point x="370" y="69" type="line"/>
+      <point x="414" y="69" type="line"/>
+    </contour>
   </outline>
 </glyph>
