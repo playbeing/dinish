@@ -3,6 +3,14 @@
   <advance width="562"/>
   <unicode hex="0037"/>
   <outline>
-    <component base="seven.tlf"/>
+    <contour>
+      <point x="513" y="533" type="line"/>
+      <point x="513" y="416" type="line"/>
+      <point x="264" y="-168" type="line"/>
+      <point x="127" y="-168" type="line"/>
+      <point x="378" y="416" type="line"/>
+      <point x="55" y="416" type="line"/>
+      <point x="55" y="533" type="line"/>
+    </contour>
   </outline>
 </glyph>

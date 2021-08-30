@@ -3,6 +3,41 @@
   <advance width="562"/>
   <unicode hex="0039"/>
   <outline>
-    <component base="nine.tlf"/>
+    <contour>
+      <point x="315" y="115" type="line"/>
+      <point x="283" y="101"/>
+      <point x="241" y="100" type="qcurve" smooth="yes"/>
+      <point x="149" y="100"/>
+      <point x="36" y="211"/>
+      <point x="36" y="303" type="qcurve" smooth="yes"/>
+      <point x="36" y="325" type="line" smooth="yes"/>
+      <point x="36" y="427"/>
+      <point x="167" y="543"/>
+      <point x="281" y="543" type="qcurve" smooth="yes"/>
+      <point x="397" y="543"/>
+      <point x="527" y="429"/>
+      <point x="527" y="329" type="qcurve" smooth="yes"/>
+      <point x="527" y="307" type="line" smooth="yes"/>
+      <point x="526" y="227"/>
+      <point x="474" y="139" type="qcurve" smooth="yes"/>
+      <point x="292" y="-168" type="line"/>
+      <point x="148" y="-168" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="264"/>
+      <point x="392" y="310" type="qcurve" smooth="yes"/>
+      <point x="392" y="330" type="line" smooth="yes"/>
+      <point x="392" y="377"/>
+      <point x="333" y="429"/>
+      <point x="281" y="429" type="qcurve" smooth="yes"/>
+      <point x="229" y="429"/>
+      <point x="170" y="376"/>
+      <point x="170" y="329" type="qcurve" smooth="yes"/>
+      <point x="170" y="311" type="line" smooth="yes"/>
+      <point x="170" y="264"/>
+      <point x="229" y="212"/>
+      <point x="281" y="212" type="qcurve" smooth="yes"/>
+      <point x="333" y="212"/>
+    </contour>
   </outline>
 </glyph>
