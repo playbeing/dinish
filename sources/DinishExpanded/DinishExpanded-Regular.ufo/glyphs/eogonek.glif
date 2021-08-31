@@ -3,9 +3,9 @@
   <advance width="570"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="e" xOffset="0" yOffset="0"/>
+    <component base="e"/>
     <contour>
-      <point x="424" y="20" type="line"/>
+      <point x="423" y="20" type="line"/>
       <point x="274" y="-58" type="line"/>
       <point x="308" y="-83"/>
       <point x="368" y="-94"/>
