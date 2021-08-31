@@ -26,8 +26,8 @@ modified=`git status -s -uno |grep -v ' fonts/'|wc -l`
 read major minor <<EOD
 `echo $tag|tr -d Vv|tr . ' '`
 EOD
-major=`printf %d $major`
-minor=`printf %d $minor`
+major=`echo $major|sed -e 's/^0*//'`
+minor=`echo $minor|sed -e 's/^0*//'`
 case $major:$minor in
 	[0-9]*:[0-9]*)
 		;;
