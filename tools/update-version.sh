@@ -54,5 +54,5 @@ do
 	sed -i -e "/versionMajor/,+1s/>[0-9]*</>$major</" \
         -e "/versionMinor/,+1s/>[0-9]*</>$minor</" \
         -e "/openTypeHeadCreated/,+1s#>[0-9].*<#>$now<#" \
-        -e "/openTypeNameVersion/,+1s/>Version [0-9.]*</>$versionstr</" $ufo/fontinfo.plist
+        -e "/openTypeNameVersion/,+1s/>Version [^<]*</>$versionstr</" $ufo/fontinfo.plist
 done
