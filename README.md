@@ -65,7 +65,7 @@ line up vertically.  In libreOffice, use the Features button in the
 Font Style dialog, or type the font name as `Dinish:tnum` in the font
 selector. In CSS, use `font-feature-settings: "tnum";`.
 
-DINish will soon come with a full set of old style numerals. These can be
+DINish comes with a full set of old style numerals. These can be
 selected with the `onum` tag. They are even available in tabular form
 for use in spreadsheets: in libreOffice, use `Dinish:onum&tnum`. For
 CSS, try `font-feature-settings: "onum", "tnum";`.
