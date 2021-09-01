@@ -118,6 +118,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-09-01 - v2.009: Add old style numerals.
 - 2021-08-30 - v2.008: Add old style numerals (release pulled due to production issues).
 - 2021-08-27 - v2.007: Add support for the Polish language. Misc fixes, see FONTLOG.
 - 2021-06-09 - v2.006: Add DINish Condensed Italic to complete the family

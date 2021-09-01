@@ -89,7 +89,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2021-08-30 - v2.008: Add old style numerals.
+2021-09-01 - v2.009: Add old style numerals.
+2021-08-30 - v2.008: Add old style numerals (release pulled because of production issues).
 2021-08-27 - v2.007:
  * Add "meta" table to declare support for Latin script.
  * Add missing glyphs for Polish language support.
