@@ -24,6 +24,7 @@ lookup supsSuperscriptlookup1 {
     sub \one by \onesuperior ;
     sub \two by \twosuperior ;
     sub \three by \threesuperior ;
+    sub \four by \foursuperior ;
 } supsSuperscriptlookup1;
 
 lookup fracDiagonalFractionslookup2 {
