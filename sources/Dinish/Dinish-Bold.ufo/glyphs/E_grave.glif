@@ -4,26 +4,8 @@
   <unicode hex="00C8"/>
   <anchor x="274" y="707" name="Anchor-0"/>
   <outline>
-    <contour>
-      <point x="195" y="590" type="line"/>
-      <point x="195" y="415" type="line"/>
-      <point x="463" y="415" type="line"/>
-      <point x="463" y="298" type="line"/>
-      <point x="195" y="298" type="line"/>
-      <point x="195" y="117" type="line"/>
-      <point x="509" y="117" type="line"/>
-      <point x="509" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="707" type="line"/>
-      <point x="509" y="707" type="line"/>
-      <point x="509" y="590" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="912" type="line"/>
-      <point x="252" y="912" type="line"/>
-      <point x="362" y="776" type="line"/>
-      <point x="253" y="776" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="gravecomb" xOffset="274" yOffset="174"/>
   </outline>
   <lib>
     <dict>

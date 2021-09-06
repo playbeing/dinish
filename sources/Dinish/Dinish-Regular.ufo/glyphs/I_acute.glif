@@ -3,17 +3,12 @@
   <advance width="254"/>
   <unicode hex="00CD"/>
   <outline>
+    <component base="acutecomb" xOffset="128" yOffset="187"/>
     <contour>
       <point x="90" y="707" type="line"/>
       <point x="165" y="707" type="line"/>
       <point x="165" y="0" type="line"/>
       <point x="90" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="153" y="901" type="line"/>
-      <point x="239" y="901" type="line"/>
-      <point x="116" y="773" type="line"/>
-      <point x="51" y="773" type="line"/>
     </contour>
   </outline>
   <lib>

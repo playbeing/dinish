@@ -3,73 +3,8 @@
   <advance width="590"/>
   <unicode hex="00C3"/>
   <outline>
-    <contour>
-      <point x="445" y="170" type="line"/>
-      <point x="145" y="170" type="line"/>
-      <point x="86" y="0" type="line"/>
-      <point x="7" y="0" type="line"/>
-      <point x="264" y="707" type="line"/>
-      <point x="327" y="707" type="line"/>
-      <point x="584" y="0" type="line"/>
-      <point x="505" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="233" type="line"/>
-      <point x="295" y="602" type="line"/>
-      <point x="167" y="233" type="line"/>
-    </contour>
-    <contour>
-      <point x="169" y="833" type="line"/>
-      <point x="181" y="847"/>
-      <point x="192" y="856"/>
-      <point x="203" y="862" type="curve" smooth="yes"/>
-      <point x="214" y="868"/>
-      <point x="226" y="871"/>
-      <point x="240" y="871" type="curve" smooth="yes"/>
-      <point x="251" y="871"/>
-      <point x="260" y="869"/>
-      <point x="269" y="866" type="curve" smooth="yes"/>
-      <point x="278" y="863"/>
-      <point x="289" y="858"/>
-      <point x="301" y="851" type="curve" smooth="yes"/>
-      <point x="311" y="845"/>
-      <point x="320" y="840"/>
-      <point x="328" y="837" type="curve" smooth="yes"/>
-      <point x="336" y="834"/>
-      <point x="344" y="831"/>
-      <point x="354" y="831" type="curve" smooth="yes"/>
-      <point x="366" y="831"/>
-      <point x="378" y="834"/>
-      <point x="387" y="840" type="curve" smooth="yes"/>
-      <point x="396" y="846"/>
-      <point x="408" y="856"/>
-      <point x="422" y="871" type="curve"/>
-      <point x="422" y="809" type="line"/>
-      <point x="400" y="784"/>
-      <point x="376" y="771"/>
-      <point x="351" y="771" type="curve" smooth="yes"/>
-      <point x="339" y="771"/>
-      <point x="330" y="773"/>
-      <point x="321" y="776" type="curve" smooth="yes"/>
-      <point x="312" y="779"/>
-      <point x="301" y="785"/>
-      <point x="288" y="793" type="curve" smooth="yes"/>
-      <point x="286" y="794"/>
-      <point x="281" y="797"/>
-      <point x="274" y="800" type="curve" smooth="yes"/>
-      <point x="267" y="803"/>
-      <point x="261" y="805"/>
-      <point x="255" y="807" type="curve" smooth="yes"/>
-      <point x="249" y="809"/>
-      <point x="243" y="810"/>
-      <point x="238" y="810" type="curve" smooth="yes"/>
-      <point x="225" y="810"/>
-      <point x="214" y="807"/>
-      <point x="204" y="801" type="curve" smooth="yes"/>
-      <point x="194" y="795"/>
-      <point x="183" y="785"/>
-      <point x="169" y="770" type="curve"/>
-    </contour>
+    <component base="A"/>
+    <component base="tildecomb" xOffset="296" yOffset="187"/>
   </outline>
   <lib>
     <dict>

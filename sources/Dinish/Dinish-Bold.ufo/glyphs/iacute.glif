@@ -4,18 +4,8 @@
   <unicode hex="00ED"/>
   <anchor x="123" y="532" name="Anchor-0"/>
   <outline>
-    <contour>
-      <point x="60" y="532" type="line"/>
-      <point x="186" y="532" type="line"/>
-      <point x="186" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="138" y="738" type="line"/>
-      <point x="279" y="738" type="line"/>
-      <point x="137" y="602" type="line"/>
-      <point x="28" y="602" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="acutecomb" xOffset="124" yOffset="0"/>
   </outline>
   <lib>
     <dict>
