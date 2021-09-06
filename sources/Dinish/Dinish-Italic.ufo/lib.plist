@@ -356,6 +356,7 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>acutecomb.loclPLK</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

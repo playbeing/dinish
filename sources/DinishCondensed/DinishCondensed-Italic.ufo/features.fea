@@ -680,7 +680,7 @@ feature tnum {
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups
 	\three.sups \four.sups \divisionslash \minus \foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \fi \fl \t_t ];
-@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 \dotaccentcmb \ogonekcmb ];
+@GDEF_Mark = [\gravecomb \acutecomb \uni0302 \tildecomb \uni0306 \uni0308 \uni030A \uni0327 \dotaccentcmb \ogonekcmb \acutecomb.loclPLK ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf \zero.tosf \eight.tosf \five.tosf \nine.tosf \four.tosf \two.tosf \three.tosf \one.tosf \seven.tosf \six.tosf \zero.osf \one.osf \two.osf \three.osf \four.osf \five.osf \six.osf \seven.osf \eight.osf \nine.osf ];
 
 table GDEF {

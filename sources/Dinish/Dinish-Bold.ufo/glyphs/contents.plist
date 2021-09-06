@@ -184,6 +184,8 @@
   <string>acute.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
+  <key>acutecomb.loclPLK</key>
+  <string>acutecomb.loclP_L_K_.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
   <key>ae</key>

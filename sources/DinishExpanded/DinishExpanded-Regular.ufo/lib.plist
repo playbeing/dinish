@@ -340,6 +340,7 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>acutecomb.loclPLK</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
