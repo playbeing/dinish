@@ -30,6 +30,8 @@
   <string>C_.glif</string>
   <key>Cacute</key>
   <string>C_acute.glif</string>
+  <key>Cacute.loclPLK</key>
+  <string>C_acute.loclP_L_K_.glif</string>
   <key>Ccedilla</key>
   <string>C_cedilla.glif</string>
   <key>D</key>
@@ -96,6 +98,8 @@
   <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
+  <key>Nacute.loclPLK</key>
+  <string>N_acute.loclP_L_K_.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -104,6 +108,8 @@
   <string>O_E_.glif</string>
   <key>Oacute</key>
   <string>O_acute.glif</string>
+  <key>Oacute.loclPLK</key>
+  <string>O_acute.loclP_L_K_.glif</string>
   <key>Ocircumflex</key>
   <string>O_circumflex.glif</string>
   <key>Odieresis</key>
@@ -132,6 +138,8 @@
   <string>S_.glif</string>
   <key>Sacute</key>
   <string>S_acute.glif</string>
+  <key>Sacute.loclPLK</key>
+  <string>S_acute.loclP_L_K_.glif</string>
   <key>Scaron</key>
   <string>S_caron.glif</string>
   <key>Scedilla</key>
@@ -170,6 +178,8 @@
   <string>Z_.glif</string>
   <key>Zacute</key>
   <string>Z_acute.glif</string>
+  <key>Zacute.loclPLK</key>
+  <string>Z_acute.loclP_L_K_.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
   <key>Zdotaccent</key>
@@ -234,6 +244,8 @@
   <string>c.glif</string>
   <key>cacute</key>
   <string>cacute.glif</string>
+  <key>cacute.loclPLK</key>
+  <string>cacute.loclP_L_K_.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
   <key>ccedilla</key>
@@ -412,6 +424,8 @@
   <string>n.glif</string>
   <key>nacute</key>
   <string>nacute.glif</string>
+  <key>nacute.loclPLK</key>
+  <string>nacute.loclP_L_K_.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.osf</key>
@@ -430,6 +444,8 @@
   <string>o.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
+  <key>oacute.loclPLK</key>
+  <string>oacute.loclP_L_K_.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
   <key>odieresis</key>
@@ -528,6 +544,8 @@
   <string>s.glif</string>
   <key>sacute</key>
   <string>sacute.glif</string>
+  <key>sacute.loclPLK</key>
+  <string>sacute.loclP_L_K_.glif</string>
   <key>scaron</key>
   <string>scaron.glif</string>
   <key>scedilla</key>
@@ -652,6 +670,8 @@
   <string>z.glif</string>
   <key>zacute</key>
   <string>zacute.glif</string>
+  <key>zacute.loclPLK</key>
+  <string>zacute.loclP_L_K_.glif</string>
   <key>zcaron</key>
   <string>zcaron.glif</string>
   <key>zdotaccent</key>

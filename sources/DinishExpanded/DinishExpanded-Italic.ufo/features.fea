@@ -487,6 +487,26 @@ feature tnum {
     lookup tnumTabularNumbers;
 } tnum;
 
+lookup loclPLK {
+    lookupflag 0;
+    sub \Cacute by \Cacute.loclPLK;
+    sub \Nacute by \Nacute.loclPLK;
+    sub \Oacute by \Oacute.loclPLK;
+    sub \Sacute by \Sacute.loclPLK;
+    sub \Zacute by \Zacute.loclPLK;
+    sub \cacute by \cacute.loclPLK;
+    sub \nacute by \nacute.loclPLK;
+    sub \oacute by \oacute.loclPLK;
+    sub \sacute by \sacute.loclPLK;
+    sub \zacute by \zacute.loclPLK;
+} loclPLK;
+
+feature locl {
+    script latn;
+    language PLK;
+    lookup loclPLK;
+} locl;
+
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
@@ -515,7 +535,7 @@ feature tnum {
 	\emdash \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft
 	\guilsinglright \Euro \trademark \fi \fl \fraction \divisionslash \minus
-	\foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash ];
+	\foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash \Cacute.loclPLK \Nacute.loclPLK \Oacute.loclPLK \Sacute.loclPLK \Zacute.loclPLK \cacute.loclPLK \nacute.loclPLK \oacute.loclPLK \sacute.loclPLK \zacute.loclPLK ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
 @GDEF_Mark = [\gravecomb \acutecomb \tildecomb \uni0302 \uni0306 \uni0308 \uni030A \uni0327 \ogonekcmb \dotaccentcmb \acutecomb.loclPLK ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf \zero.tosf \four.tosf \eight.tosf \nine.tosf \two.tosf \three.tosf \seven.tosf \five.tosf \six.tosf \one.tosf \zero.osf \one.osf \two.osf \three.osf \four.osf \five.osf \six.osf \seven.osf \eight.osf \nine.osf ];

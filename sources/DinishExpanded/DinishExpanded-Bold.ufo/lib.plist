@@ -340,6 +340,16 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>acutecomb.loclPLK</string>
+    <string>Cacute.loclPLK</string>
+    <string>Nacute.loclPLK</string>
+    <string>Oacute.loclPLK</string>
+    <string>Sacute.loclPLK</string>
+    <string>Zacute.loclPLK</string>
+    <string>cacute.loclPLK</string>
+    <string>nacute.loclPLK</string>
+    <string>oacute.loclPLK</string>
+    <string>sacute.loclPLK</string>
+    <string>zacute.loclPLK</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

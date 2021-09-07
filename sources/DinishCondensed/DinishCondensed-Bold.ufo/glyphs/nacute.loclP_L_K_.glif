@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute.loclPLK" format="2">
+  <advance width="419"/>
+  <unicode hex="0144"/>
+  <outline>
+    <component base="n"/>
+    <component base="acutecomb.loclPLK" xOffset="210"/>
+  </outline>
+</glyph>
