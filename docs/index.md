@@ -77,8 +77,8 @@ for use in spreadsheets: in libreOffice, use `Dinish:onum&tnum`. For
 CSS, try `font-feature-settings: "onum", "tnum";`.
 
 The Polish language uses a different style of acute accent called
-kreska. In libreOffice set the document language to Polish to use
-kreska.
+kreska. In libreOffice set the document language to Polish. HTML/CSS
+picks up the kreska when you set the document language to Polish.
 
 ## As a webfont
 
