@@ -535,9 +535,9 @@ feature locl {
 	\emdash \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
 	\quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft
 	\guilsinglright \Euro \trademark \fi \fl \fraction \divisionslash \minus
-	\foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash \Cacute.loclPLK \Nacute.loclPLK \Oacute.loclPLK \Sacute.loclPLK \Zacute.loclPLK \cacute.loclPLK \nacute.loclPLK \oacute.loclPLK \sacute.loclPLK \zacute.loclPLK \hungarumlautcmb \hungarumlaut \Ohungarumlaut \Uhungarumlaut \ohungarumlaut \uhungarumlaut ];
+	\foursuperior \Cacute \Gacute \Kacute \Lacute \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek \uogonek \lslash \Lslash \Cacute.loclPLK \Nacute.loclPLK \Oacute.loclPLK \Sacute.loclPLK \Zacute.loclPLK \cacute.loclPLK \nacute.loclPLK \oacute.loclPLK \sacute.loclPLK \zacute.loclPLK \Ohungarumlaut \Uhungarumlaut \ohungarumlaut \uhungarumlaut ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters ];
-@GDEF_Mark = [\gravecomb \acutecomb \tildecomb \uni0302 \uni0306 \uni0308 \uni030A \uni0327 \ogonekcmb \dotaccentcmb \acutecomb.loclPLK ];
+@GDEF_Mark = [\gravecomb \acutecomb \tildecomb \uni0302 \uni0306 \uni0308 \uni030A \uni0327 \ogonekcmb \dotaccentcmb \acutecomb.loclPLK \hungarumlautcmb ];
 @GDEF_Component = [\zero.tlf \one.tlf \two.tlf \three.tlf \four.tlf \five.tlf \six.tlf \seven.tlf \eight.tlf \nine.tlf \zero.tosf \four.tosf \eight.tosf \nine.tosf \two.tosf \three.tosf \seven.tosf \five.tosf \six.tosf \one.tosf \zero.osf \one.osf \two.osf \three.osf \four.osf \five.osf \six.osf \seven.osf \eight.osf \nine.osf ];
 
 table GDEF {
