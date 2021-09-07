@@ -203,6 +203,7 @@
     <string>Ntilde</string>
     <string>Ograve</string>
     <string>Oacute</string>
+    <string>Oacute.loclPLK</string>
     <string>Ocircumflex</string>
     <string>Otilde</string>
     <string>Odieresis</string>
@@ -235,6 +236,7 @@
     <string>ntilde</string>
     <string>ograve</string>
     <string>oacute</string>
+    <string>oacute.loclPLK</string>
     <string>ocircumflex</string>
     <string>otilde</string>
     <string>odieresis</string>
@@ -250,7 +252,9 @@
     <string>Aogonek</string>
     <string>aogonek</string>
     <string>Cacute</string>
+    <string>Cacute.loclPLK</string>
     <string>cacute</string>
+    <string>cacute.loclPLK</string>
     <string>Eogonek</string>
     <string>eogonek</string>
     <string>Gbreve</string>
@@ -264,22 +268,32 @@
     <string>Lslash</string>
     <string>lslash</string>
     <string>Nacute</string>
+    <string>Nacute.loclPLK</string>
     <string>nacute</string>
+    <string>nacute.loclPLK</string>
+    <string>Ohungarumlaut</string>
+    <string>ohungarumlaut</string>
     <string>OE</string>
     <string>oe</string>
     <string>Racute</string>
     <string>racute</string>
     <string>Sacute</string>
+    <string>Sacute.loclPLK</string>
     <string>sacute</string>
+    <string>sacute.loclPLK</string>
     <string>Scedilla</string>
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
+    <string>Uhungarumlaut</string>
+    <string>uhungarumlaut</string>
     <string>Uogonek</string>
     <string>uogonek</string>
     <string>Ydieresis</string>
     <string>Zacute</string>
+    <string>Zacute.loclPLK</string>
     <string>zacute</string>
+    <string>zacute.loclPLK</string>
     <string>Zdotaccent</string>
     <string>zdotaccent</string>
     <string>Zcaron</string>
@@ -299,13 +313,16 @@
     <string>tilde</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
+    <string>acutecomb.loclPLK</string>
     <string>uni0302</string>
     <string>tildecomb</string>
     <string>uni0306</string>
     <string>dotaccentcmb</string>
     <string>uni0308</string>
     <string>uni030A</string>
+    <string>hungarumlautcmb</string>
     <string>uni0327</string>
+    <string>hungarumlaut</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
     <string>Kacute</string>
@@ -340,19 +357,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>acutecomb.loclPLK</string>
-    <string>Cacute.loclPLK</string>
-    <string>Nacute.loclPLK</string>
-    <string>Oacute.loclPLK</string>
-    <string>Sacute.loclPLK</string>
-    <string>Zacute.loclPLK</string>
-    <string>cacute.loclPLK</string>
-    <string>nacute.loclPLK</string>
-    <string>oacute.loclPLK</string>
-    <string>sacute.loclPLK</string>
-    <string>zacute.loclPLK</string>
-    <string>hungarumlautcmb</string>
-    <string>hungarumlaut</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
