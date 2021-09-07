@@ -89,6 +89,11 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2021-09-07 - v2.010:
+ * Add glyphs with Hungar umlaut.
+ * Add glyphs with the Polish kreska, add Polish locl feature.
+ * Rebuild many glyphs in DINish-Regular and DINish-Bold as composed glyphs
+   to ease maintenance.
 2021-09-01 - v2.009: Add old style numerals.
 2021-08-30 - v2.008: Add old style numerals (release pulled because of production issues).
 2021-08-27 - v2.007:
