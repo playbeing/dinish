@@ -351,6 +351,8 @@
     <string>oacute.loclPLK</string>
     <string>sacute.loclPLK</string>
     <string>zacute.loclPLK</string>
+    <string>hungarumlautcmb</string>
+    <string>hungarumlaut</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
