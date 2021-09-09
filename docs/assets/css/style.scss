@@ -6,7 +6,7 @@
 @import "Dinish-Regular.scss";
 @import "Dinish-Bold.scss";
 
-body, h1, h2, h3, h4, h5, h6 {
+body, h1, h2, h3, h4, h5, h6, th {
       font-family: DINish;
 }
 
@@ -15,7 +15,13 @@ body {
 }
 
 .home_link_bottom {
-  float: right;
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.legend {
+  text-align: right;
 }
 
 .inner {
@@ -25,3 +31,34 @@ body {
   margin: 0 auto;
 }
 
+.sample {
+  padding: 5px 10px;
+  margin-bottom: 1em;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  overflow: auto;
+  background-color: #ecd9ae;
+  font-size: 24px;
+}
+
+#numeral_lnum_pnum {
+  font-feature-settings: "lnum", "pnum";  /* Or leave out; it's the default */
+}
+#numeral_onum_pnum {
+  font-feature-settings: "onum", "pnum";
+}
+#numeral_lnum_tnum {
+  font-feature-settings: "lnum", "tnum";
+}
+#numeral_onum_tnum {
+  font-feature-settings: "onum", "tnum";
+}
+
+table, tr, td, th {
+  border: 1px solid #c1b18d;
+  margin: 0;
+  padding: 0px 5px;
+}
+
+th {
+  background: #c1b18d;
+}

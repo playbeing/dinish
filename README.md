@@ -74,6 +74,10 @@ The Polish language uses a different style of acute accent called
 kreska. In libreOffice set the document language to Polish. HTML/CSS
 picks up the kreska when you set the document language to Polish.
 
+See the [features page](https://fonts.playbeing.com/features) for
+usage examples. For inspiration, look at the
+[serving suggestions](https://fonts.playbeing.com/showcase).
+
 ## As a webfont
 
 As DINish is not yet available on any of the major free font CDNs, you
