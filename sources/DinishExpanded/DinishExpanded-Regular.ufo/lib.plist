@@ -311,6 +311,7 @@
     <string>ring</string>
     <string>ogonek</string>
     <string>tilde</string>
+    <string>hungarumlaut</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>acutecomb.loclPLK</string>
