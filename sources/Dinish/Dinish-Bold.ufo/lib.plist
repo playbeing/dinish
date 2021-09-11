@@ -373,6 +373,9 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>hyphentwo</string>
+    <string>minute</string>
+    <string>second</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

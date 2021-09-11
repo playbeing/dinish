@@ -356,6 +356,9 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>hyphentwo</string>
+    <string>minute</string>
+    <string>second</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
