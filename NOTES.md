@@ -53,3 +53,29 @@ In particular:
   straight line just isn't worth it.
 * `com.google.fonts/check/kerning_for_non_ligated_sequences`: fontbakery
   seems to complain about non-existing ligatures.
+
+### Workflow notes
+
+* After editing the UFO with a tool, such as trufont, normalize the font and undo undesired automatic changes:
+```
+make psfnormalize revert_auto_changes 
+```
+Always review changes with `git diff` to try to catch unintended changes.
+
+Prior to release, sort the fonts from the Trufont Font->Sort menu, then:
+```
+make psfnormalize revert_auto_changes clean docs all fontbakery
+```
+
+Review the fontbakery reports for regressions.
+
+To release:
+
+* Make sure fontbakery gives a clean bill of health
+* Update FONTLOG.txt and README.md
+* Make sure `git status` shows no modified files and no unknown files
+* tag the tree with `git tag --annotate v2.006 -m 'DINish v2.006: Add DINish Condensed Italic'` (do not use `-f`)
+* rebuild with `make psfnormalize revert_auto_changes clean docs all fontbakery`
+* Re-tag the tree with the above `git tag` command, this time add `-f`
+* Push the changes up to github with `git push --tags`
+* Create a new release on Github. Attach the four zips from the `zips/` directory.
