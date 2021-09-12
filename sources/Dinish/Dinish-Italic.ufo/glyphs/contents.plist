@@ -252,6 +252,8 @@
   <string>cacute.loclP_L_K_.glif</string>
   <key>caron</key>
   <string>caron.glif</string>
+  <key>caroncmb</key>
+  <string>caroncmb.glif</string>
   <key>ccedilla</key>
   <string>ccedilla.glif</string>
   <key>cedilla</key>
