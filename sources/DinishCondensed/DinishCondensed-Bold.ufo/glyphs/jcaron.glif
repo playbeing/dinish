@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcaron" format="2">
+  <advance width="210"/>
+  <unicode hex="01F0"/>
+  <outline>
+    <component base="caroncmb" xOffset="105" yOffset="0"/>
+    <contour>
+      <point x="-25" y="-55" type="line"/>
+      <point x="-19" y="-55" type="line" smooth="yes"/>
+      <point x="47" y="-55"/>
+      <point x="46" y="13" type="qcurve" smooth="yes"/>
+      <point x="46" y="541" type="line"/>
+      <point x="165" y="541" type="line"/>
+      <point x="165" y="6" type="line" smooth="yes"/>
+      <point x="165" y="-162"/>
+      <point x="-18" y="-162" type="qcurve" smooth="yes"/>
+      <point x="-25" y="-162" type="line"/>
+    </contour>
+  </outline>
+</glyph>

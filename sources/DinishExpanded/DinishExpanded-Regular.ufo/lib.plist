@@ -255,8 +255,14 @@
     <string>Cacute.loclPLK</string>
     <string>cacute</string>
     <string>cacute.loclPLK</string>
+    <string>Ccaron</string>
+    <string>ccaron</string>
+    <string>Dcaron</string>
+    <string>dcaron</string>
     <string>Eogonek</string>
     <string>eogonek</string>
+    <string>Ecaron</string>
+    <string>ecaron</string>
     <string>Gbreve</string>
     <string>gbreve</string>
     <string>Iogonek</string>
@@ -265,18 +271,24 @@
     <string>dotlessi</string>
     <string>Lacute</string>
     <string>lacute</string>
+    <string>Lcaron</string>
+    <string>lcaron</string>
     <string>Lslash</string>
     <string>lslash</string>
     <string>Nacute</string>
     <string>Nacute.loclPLK</string>
     <string>nacute</string>
     <string>nacute.loclPLK</string>
+    <string>Ncaron</string>
+    <string>ncaron</string>
     <string>Ohungarumlaut</string>
     <string>ohungarumlaut</string>
     <string>OE</string>
     <string>oe</string>
     <string>Racute</string>
     <string>racute</string>
+    <string>Rcaron</string>
+    <string>rcaron</string>
     <string>Sacute</string>
     <string>Sacute.loclPLK</string>
     <string>sacute</string>
@@ -285,6 +297,8 @@
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
+    <string>Tcaron</string>
+    <string>tcaron</string>
     <string>Uhungarumlaut</string>
     <string>uhungarumlaut</string>
     <string>Uogonek</string>
@@ -299,9 +313,22 @@
     <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
+    <string>Acaron</string>
+    <string>acaron</string>
+    <string>Icaron</string>
+    <string>icaron</string>
+    <string>Ocaron</string>
+    <string>ocaron</string>
+    <string>Ucaron</string>
+    <string>ucaron</string>
+    <string>Gcaron</string>
+    <string>gcaron</string>
+    <string>Kcaron</string>
+    <string>kcaron</string>
     <string>Oogonek</string>
     <string>oogonek</string>
     <string>Oogonekmacron</string>
+    <string>jcaron</string>
     <string>Gacute</string>
     <string>gacute</string>
     <string>circumflex</string>
@@ -322,6 +349,8 @@
     <string>uni0308</string>
     <string>uni030A</string>
     <string>hungarumlautcmb</string>
+    <string>caroncmb</string>
+    <string>caroncmb.alt</string>
     <string>uni0327</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
@@ -333,6 +362,7 @@
     <string>pacute</string>
     <string>Wacute</string>
     <string>wacute</string>
+    <string>hyphentwo</string>
     <string>endash</string>
     <string>emdash</string>
     <string>quoteleft</string>
@@ -346,6 +376,8 @@
     <string>bullet</string>
     <string>ellipsis</string>
     <string>perthousand</string>
+    <string>minute</string>
+    <string>second</string>
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
@@ -357,10 +389,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>hyphentwo</string>
-    <string>minute</string>
-    <string>second</string>
-    <string>caroncmb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

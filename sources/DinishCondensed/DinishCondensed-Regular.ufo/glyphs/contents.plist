@@ -12,6 +12,8 @@
   <string>A_E_.glif</string>
   <key>Aacute</key>
   <string>A_acute.glif</string>
+  <key>Acaron</key>
+  <string>A_caron.glif</string>
   <key>Acircumflex</key>
   <string>A_circumflex.glif</string>
   <key>Adieresis</key>
@@ -32,14 +34,20 @@
   <string>C_acute.glif</string>
   <key>Cacute.loclPLK</key>
   <string>C_acute.loclP_L_K_.glif</string>
+  <key>Ccaron</key>
+  <string>C_caron.glif</string>
   <key>Ccedilla</key>
   <string>C_cedilla.glif</string>
   <key>D</key>
   <string>D_.glif</string>
+  <key>Dcaron</key>
+  <string>D_caron.glif</string>
   <key>E</key>
   <string>E_.glif</string>
   <key>Eacute</key>
   <string>E_acute.glif</string>
+  <key>Ecaron</key>
+  <string>E_caron.glif</string>
   <key>Ecircumflex</key>
   <string>E_circumflex.glif</string>
   <key>Edieresis</key>
@@ -60,12 +68,16 @@
   <string>G_acute.glif</string>
   <key>Gbreve</key>
   <string>G_breve.glif</string>
+  <key>Gcaron</key>
+  <string>G_caron.glif</string>
   <key>H</key>
   <string>H_.glif</string>
   <key>I</key>
   <string>I_.glif</string>
   <key>Iacute</key>
   <string>I_acute.glif</string>
+  <key>Icaron</key>
+  <string>I_caron.glif</string>
   <key>Icircumflex</key>
   <string>I_circumflex.glif</string>
   <key>Idieresis</key>
@@ -82,10 +94,14 @@
   <string>K_.glif</string>
   <key>Kacute</key>
   <string>K_acute.glif</string>
+  <key>Kcaron</key>
+  <string>K_caron.glif</string>
   <key>L</key>
   <string>L_.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
+  <key>Lcaron</key>
+  <string>L_caron.glif</string>
   <key>Lslash</key>
   <string>L_slash.glif</string>
   <key>M</key>
@@ -100,6 +116,8 @@
   <string>N_acute.glif</string>
   <key>Nacute.loclPLK</key>
   <string>N_acute.loclP_L_K_.glif</string>
+  <key>Ncaron</key>
+  <string>N_caron.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -110,6 +128,8 @@
   <string>O_acute.glif</string>
   <key>Oacute.loclPLK</key>
   <string>O_acute.loclP_L_K_.glif</string>
+  <key>Ocaron</key>
+  <string>O_caron.glif</string>
   <key>Ocircumflex</key>
   <string>O_circumflex.glif</string>
   <key>Odieresis</key>
@@ -136,6 +156,8 @@
   <string>R_.glif</string>
   <key>Racute</key>
   <string>R_acute.glif</string>
+  <key>Rcaron</key>
+  <string>R_caron.glif</string>
   <key>S</key>
   <string>S_.glif</string>
   <key>Sacute</key>
@@ -148,12 +170,16 @@
   <string>S_cedilla.glif</string>
   <key>T</key>
   <string>T_.glif</string>
+  <key>Tcaron</key>
+  <string>T_caron.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>U</key>
   <string>U_.glif</string>
   <key>Uacute</key>
   <string>U_acute.glif</string>
+  <key>Ucaron</key>
+  <string>U_caron.glif</string>
   <key>Ucircumflex</key>
   <string>U_circumflex.glif</string>
   <key>Udieresis</key>
@@ -192,6 +218,8 @@
   <string>a.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
+  <key>acaron</key>
+  <string>acaron.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
   <key>acute</key>
@@ -254,6 +282,10 @@
   <string>caron.glif</string>
   <key>caroncmb</key>
   <string>caroncmb.glif</string>
+  <key>caroncmb.alt</key>
+  <string>caroncmb.alt.glif</string>
+  <key>ccaron</key>
+  <string>ccaron.glif</string>
   <key>ccedilla</key>
   <string>ccedilla.glif</string>
   <key>cedilla</key>
@@ -276,6 +308,8 @@
   <string>dagger.glif</string>
   <key>daggerdbl</key>
   <string>daggerdbl.glif</string>
+  <key>dcaron</key>
+  <string>dcaron.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
   <key>dieresis</key>
@@ -296,6 +330,8 @@
   <string>e.glif</string>
   <key>eacute</key>
   <string>eacute.glif</string>
+  <key>ecaron</key>
+  <string>ecaron.glif</string>
   <key>ecircumflex</key>
   <string>ecircumflex.glif</string>
   <key>edieresis</key>
@@ -366,6 +402,8 @@
   <string>gacute.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
+  <key>gcaron</key>
+  <string>gcaron.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
   <key>grave</key>
@@ -396,6 +434,8 @@
   <string>i.glif</string>
   <key>iacute</key>
   <string>iacute.glif</string>
+  <key>icaron</key>
+  <string>icaron.glif</string>
   <key>icircumflex</key>
   <string>icircumflex.glif</string>
   <key>idieresis</key>
@@ -406,14 +446,20 @@
   <string>iogonek.glif</string>
   <key>j</key>
   <string>j.glif</string>
+  <key>jcaron</key>
+  <string>jcaron.glif</string>
   <key>k</key>
   <string>k.glif</string>
   <key>kacute</key>
   <string>kacute.glif</string>
+  <key>kcaron</key>
+  <string>kcaron.glif</string>
   <key>l</key>
   <string>l.glif</string>
   <key>lacute</key>
   <string>lacute.glif</string>
+  <key>lcaron</key>
+  <string>lcaron.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
@@ -440,6 +486,8 @@
   <string>nacute.glif</string>
   <key>nacute.loclPLK</key>
   <string>nacute.loclP_L_K_.glif</string>
+  <key>ncaron</key>
+  <string>ncaron.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.osf</key>
@@ -460,6 +508,8 @@
   <string>oacute.glif</string>
   <key>oacute.loclPLK</key>
   <string>oacute.loclP_L_K_.glif</string>
+  <key>ocaron</key>
+  <string>ocaron.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
   <key>odieresis</key>
@@ -552,6 +602,8 @@
   <string>r.glif</string>
   <key>racute</key>
   <string>racute.glif</string>
+  <key>rcaron</key>
+  <string>rcaron.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
   <key>ring</key>
@@ -598,6 +650,8 @@
   <string>t.glif</string>
   <key>t_t</key>
   <string>t_t.glif</string>
+  <key>tcaron</key>
+  <string>tcaron.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
@@ -644,6 +698,8 @@
   <string>u.glif</string>
   <key>uacute</key>
   <string>uacute.glif</string>
+  <key>ucaron</key>
+  <string>ucaron.glif</string>
   <key>ucircumflex</key>
   <string>ucircumflex.glif</string>
   <key>udieresis</key>

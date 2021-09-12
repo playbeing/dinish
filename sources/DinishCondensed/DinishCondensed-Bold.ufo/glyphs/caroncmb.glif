@@ -2,6 +2,6 @@
 <glyph name="caroncmb" format="2">
   <unicode hex="030C"/>
   <outline>
-    <component base="caron" xOffset="-256"/>
+    <component base="caron" xOffset="-256" yOffset="-3"/>
   </outline>
 </glyph>
