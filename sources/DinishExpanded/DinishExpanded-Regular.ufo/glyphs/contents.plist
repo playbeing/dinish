@@ -72,6 +72,8 @@
   <string>G_caron.glif</string>
   <key>H</key>
   <string>H_.glif</string>
+  <key>Hdotbelow</key>
+  <string>H_dotbelow.glif</string>
   <key>I</key>
   <string>I_.glif</string>
   <key>Iacute</key>
@@ -102,6 +104,8 @@
   <string>L_acute.glif</string>
   <key>Lcaron</key>
   <string>L_caron.glif</string>
+  <key>Ldotbelow</key>
+  <string>L_dotbelow.glif</string>
   <key>Lslash</key>
   <string>L_slash.glif</string>
   <key>M</key>
@@ -324,6 +328,8 @@
   <string>dotaccent.glif</string>
   <key>dotaccentcmb</key>
   <string>dotaccentcmb.glif</string>
+  <key>dotbelowcomb</key>
+  <string>dotbelowcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
   <key>e</key>
@@ -418,6 +424,8 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
+  <key>hdotbelow</key>
+  <string>hdotbelow.glif</string>
   <key>hungarumlaut</key>
   <string>hungarumlaut.glif</string>
   <key>hungarumlautcmb</key>
@@ -456,6 +464,8 @@
   <string>lacute.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
+  <key>ldotbelow</key>
+  <string>ldotbelow.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>logicalnot</key>
