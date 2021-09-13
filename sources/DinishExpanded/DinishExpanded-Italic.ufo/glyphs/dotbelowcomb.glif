@@ -2,6 +2,6 @@
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
   <outline>
-    <component base="dotaccentcmb" yOffset="-793"/>
+    <component base="dotaccentcmb" yOffset="-787"/>
   </outline>
 </glyph>
