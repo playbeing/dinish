@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2021/09/07 23:35:54</string>
+  <string>2021/09/13 13:50:45</string>
   <key>openTypeHheaAscender</key>
   <integer>851</integer>
   <key>openTypeHheaDescender</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish Expanded</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.010; git-5e22493-release</string>
+  <string>Version 2.010; git-94d8338+9-30-dev</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
