@@ -22,6 +22,8 @@
   <string>A_dotbelow.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
+  <key>Amacron</key>
+  <string>A_macron.glif</string>
   <key>Aogonek</key>
   <string>A_ogonek.glif</string>
   <key>Aring</key>
@@ -44,6 +46,8 @@
   <string>D_.glif</string>
   <key>Dcaron</key>
   <string>D_caron.glif</string>
+  <key>Dcroat</key>
+  <string>D_croat.glif</string>
   <key>Ddotbelow</key>
   <string>D_dotbelow.glif</string>
   <key>E</key>
@@ -60,6 +64,8 @@
   <string>E_dotbelow.glif</string>
   <key>Egrave</key>
   <string>E_grave.glif</string>
+  <key>Emacron</key>
+  <string>E_macron.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
   <key>Eth</key>
@@ -96,6 +102,8 @@
   <string>I_dotbelow.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
+  <key>Imacron</key>
+  <string>I_macron.glif</string>
   <key>Iogonek</key>
   <string>I_ogonek.glif</string>
   <key>J</key>
@@ -150,6 +158,8 @@
   <string>O_grave.glif</string>
   <key>Ohungarumlaut</key>
   <string>O_hungarumlaut.glif</string>
+  <key>Omacron</key>
+  <string>O_macron.glif</string>
   <key>Oogonek</key>
   <string>O_ogonek.glif</string>
   <key>Oogonekmacron</key>
@@ -208,6 +218,8 @@
   <string>U_grave.glif</string>
   <key>Uhungarumlaut</key>
   <string>U_hungarumlaut.glif</string>
+  <key>Umacron</key>
+  <string>U_macron.glif</string>
   <key>Uogonek</key>
   <string>U_ogonek.glif</string>
   <key>V</key>
@@ -262,6 +274,8 @@
   <string>agrave.glif</string>
   <key>alpha</key>
   <string>alpha.glif</string>
+  <key>amacron</key>
+  <string>amacron.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>aogonek</key>
@@ -338,6 +352,8 @@
   <string>daggerdbl.glif</string>
   <key>dcaron</key>
   <string>dcaron.glif</string>
+  <key>dcroat</key>
+  <string>dcroat.glif</string>
   <key>ddotbelow</key>
   <string>ddotbelow.glif</string>
   <key>degree</key>
@@ -382,6 +398,8 @@
   <string>eight.tosf.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
+  <key>emacron</key>
+  <string>emacron.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
   <key>endash</key>
@@ -474,6 +492,8 @@
   <string>idotbelow.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
+  <key>imacron</key>
+  <string>imacron.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
   <key>j</key>
@@ -562,6 +582,8 @@
   <string>ograve.glif</string>
   <key>ohungarumlaut</key>
   <string>ohungarumlaut.glif</string>
+  <key>omacron</key>
+  <string>omacron.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>one.osf</key>
@@ -734,6 +756,8 @@
   <string>ugrave.glif</string>
   <key>uhungarumlaut</key>
   <string>uhungarumlaut.glif</string>
+  <key>umacron</key>
+  <string>umacron.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni00A0</key>

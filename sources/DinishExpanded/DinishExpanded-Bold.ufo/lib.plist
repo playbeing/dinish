@@ -248,6 +248,8 @@
     <string>yacute</string>
     <string>thorn</string>
     <string>ydieresis</string>
+    <string>Amacron</string>
+    <string>amacron</string>
     <string>Aogonek</string>
     <string>aogonek</string>
     <string>Cacute</string>
@@ -258,12 +260,18 @@
     <string>ccaron</string>
     <string>Dcaron</string>
     <string>dcaron</string>
+    <string>Dcroat</string>
+    <string>dcroat</string>
+    <string>Emacron</string>
+    <string>emacron</string>
     <string>Eogonek</string>
     <string>eogonek</string>
     <string>Ecaron</string>
     <string>ecaron</string>
     <string>Gbreve</string>
     <string>gbreve</string>
+    <string>Imacron</string>
+    <string>imacron</string>
     <string>Iogonek</string>
     <string>iogonek</string>
     <string>Idot</string>
@@ -280,6 +288,8 @@
     <string>nacute.loclPLK</string>
     <string>Ncaron</string>
     <string>ncaron</string>
+    <string>Omacron</string>
+    <string>omacron</string>
     <string>Ohungarumlaut</string>
     <string>ohungarumlaut</string>
     <string>OE</string>
@@ -298,6 +308,8 @@
     <string>scaron</string>
     <string>Tcaron</string>
     <string>tcaron</string>
+    <string>Umacron</string>
+    <string>umacron</string>
     <string>Uhungarumlaut</string>
     <string>uhungarumlaut</string>
     <string>Uogonek</string>
@@ -344,6 +356,7 @@
     <string>acutecomb.loclPLK</string>
     <string>uni0302</string>
     <string>tildecomb</string>
+    <string>macroncmb</string>
     <string>uni0306</string>
     <string>dotaccentcmb</string>
     <string>uni0308</string>
@@ -355,6 +368,8 @@
     <string>uni0327</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
+    <string>Ddotbelow</string>
+    <string>ddotbelow</string>
     <string>Hdotbelow</string>
     <string>hdotbelow</string>
     <string>Kacute</string>
@@ -365,8 +380,28 @@
     <string>macute</string>
     <string>Pacute</string>
     <string>pacute</string>
+    <string>Rdotbelow</string>
+    <string>rdotbelow</string>
+    <string>Sdotbelow</string>
+    <string>sdotbelow</string>
+    <string>Tdotbelow</string>
+    <string>tdotbelow</string>
     <string>Wacute</string>
     <string>wacute</string>
+    <string>Zdotbelow</string>
+    <string>zdotbelow</string>
+    <string>Adotbelow</string>
+    <string>adotbelow</string>
+    <string>Edotbelow</string>
+    <string>edotbelow</string>
+    <string>Idotbelow</string>
+    <string>idotbelow</string>
+    <string>Odotbelow</string>
+    <string>odotbelow</string>
+    <string>Udotbelow</string>
+    <string>udotbelow</string>
+    <string>Ydotbelow</string>
+    <string>ydotbelow</string>
     <string>hyphentwo</string>
     <string>endash</string>
     <string>emdash</string>
@@ -394,29 +429,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>adotbelow</string>
-    <string>Adotbelow</string>
-    <string>ddotbelow</string>
-    <string>Ddotbelow</string>
-    <string>edotbelow</string>
-    <string>Edotbelow</string>
-    <string>idotbelow</string>
-    <string>Idotbelow</string>
-    <string>odotbelow</string>
-    <string>Odotbelow</string>
-    <string>rdotbelow</string>
-    <string>Rdotbelow</string>
-    <string>sdotbelow</string>
-    <string>Sdotbelow</string>
-    <string>tdotbelow</string>
-    <string>Tdotbelow</string>
-    <string>udotbelow</string>
-    <string>Udotbelow</string>
-    <string>ydotbelow</string>
-    <string>Ydotbelow</string>
-    <string>zdotbelow</string>
-    <string>Zdotbelow</string>
-    <string>macroncmb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
