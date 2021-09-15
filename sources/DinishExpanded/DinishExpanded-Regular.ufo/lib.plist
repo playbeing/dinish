@@ -430,6 +430,8 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>Uring</string>
+    <string>uring</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

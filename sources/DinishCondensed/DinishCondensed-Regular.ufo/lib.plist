@@ -446,6 +446,8 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>Uring</string>
+    <string>uring</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
