@@ -126,6 +126,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-09-15 - v2.011: Add missing glyphs for around 40 languages.
 - 2021-09-07 - v2.010: Add Polish locl feature to use kreska instead of acute, add Hungarian umlaut.
 - 2021-09-01 - v2.009: Add old style numerals.
 - 2021-08-30 - v2.008: Add old style numerals (release pulled due to production issues).

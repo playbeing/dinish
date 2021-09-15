@@ -89,6 +89,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2021-09-15 - v2.011:
+ * Add missing glyphs for around 40 languages.
 2021-09-07 - v2.010:
  * Add glyphs with Hungar umlaut.
  * Add glyphs with the Polish kreska, add Polish locl feature.
