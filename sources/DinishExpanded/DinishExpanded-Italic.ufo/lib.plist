@@ -256,6 +256,8 @@
     <string>Cacute.loclPLK</string>
     <string>cacute</string>
     <string>cacute.loclPLK</string>
+    <string>Cdotaccent</string>
+    <string>cdotaccent</string>
     <string>Ccaron</string>
     <string>ccaron</string>
     <string>Dcaron</string>
@@ -264,12 +266,16 @@
     <string>dcroat</string>
     <string>Emacron</string>
     <string>emacron</string>
+    <string>Edotaccent</string>
+    <string>edotaccent</string>
     <string>Eogonek</string>
     <string>eogonek</string>
     <string>Ecaron</string>
     <string>ecaron</string>
     <string>Gbreve</string>
     <string>gbreve</string>
+    <string>Gdotaccent</string>
+    <string>gdotaccent</string>
     <string>Imacron</string>
     <string>imacron</string>
     <string>Iogonek</string>
@@ -310,6 +316,8 @@
     <string>tcaron</string>
     <string>Umacron</string>
     <string>umacron</string>
+    <string>Uring</string>
+    <string>uring</string>
     <string>Uhungarumlaut</string>
     <string>uhungarumlaut</string>
     <string>Uogonek</string>
@@ -429,8 +437,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>Uring</string>
-    <string>uring</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
