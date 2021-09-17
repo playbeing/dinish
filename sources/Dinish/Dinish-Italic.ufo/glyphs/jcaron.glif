@@ -3,7 +3,7 @@
   <advance width="231"/>
   <unicode hex="01F0"/>
   <outline>
-    <component base="caroncmb" xOffset="116" yOffset="0"/>
+    <component base="caroncmb" xOffset="116"/>
     <contour>
       <point x="-105" y="-92" type="line"/>
       <point x="-63" y="-92" type="line" smooth="yes"/>

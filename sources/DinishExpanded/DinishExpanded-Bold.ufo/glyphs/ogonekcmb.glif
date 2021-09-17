@@ -2,6 +2,6 @@
 <glyph name="ogonekcmb" format="2">
   <unicode hex="0328"/>
   <outline>
-    <component base="ogonek" xOffset="0" yOffset="0"/>
+    <component base="ogonek"/>
   </outline>
 </glyph>

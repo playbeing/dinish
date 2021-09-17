@@ -3,7 +3,7 @@
   <advance width="689"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O" xOffset="0" yOffset="0"/>
+    <component base="O"/>
     <component base="hungarumlautcmb" xOffset="345" yOffset="187"/>
   </outline>
 </glyph>

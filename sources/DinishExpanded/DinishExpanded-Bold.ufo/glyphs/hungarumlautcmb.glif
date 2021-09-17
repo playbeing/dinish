@@ -2,7 +2,7 @@
 <glyph name="hungarumlautcmb" format="2">
   <unicode hex="030B"/>
   <outline>
-    <component base="acute" xOffset="-95" yOffset="0"/>
-    <component base="acute" xOffset="-285" yOffset="0"/>
+    <component base="acute" xOffset="-95"/>
+    <component base="acute" xOffset="-285"/>
   </outline>
 </glyph>

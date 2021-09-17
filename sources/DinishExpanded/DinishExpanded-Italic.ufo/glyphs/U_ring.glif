@@ -3,7 +3,7 @@
   <advance width="706"/>
   <unicode hex="016E"/>
   <outline>
-    <component base="U" xOffset="0" yOffset="0"/>
+    <component base="U"/>
     <component base="ringcmb" xOffset="390" yOffset="187"/>
   </outline>
 </glyph>
