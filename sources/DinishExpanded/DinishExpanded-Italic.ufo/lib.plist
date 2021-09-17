@@ -437,6 +437,7 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>commaaccentcomb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

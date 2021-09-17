@@ -454,6 +454,7 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>commaaccentcomb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
