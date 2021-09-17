@@ -16,6 +16,7 @@ clean:
 
 psfnormalize:
 	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize $$font; done')
+	tools/normalize_glif.sh sources/*/*.ufo
 
 fonts/otf/%.otf: sources/%.ufo
 	@mkdir -p $(@D)
