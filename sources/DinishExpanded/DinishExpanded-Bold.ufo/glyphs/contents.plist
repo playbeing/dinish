@@ -86,6 +86,8 @@
   <string>G_breve.glif</string>
   <key>Gcaron</key>
   <string>G_caron.glif</string>
+  <key>Gcommaaccent</key>
+  <string>G_commaaccent.glif</string>
   <key>Gdotaccent</key>
   <string>G_dotaccent.glif</string>
   <key>H</key>
@@ -120,12 +122,16 @@
   <string>K_acute.glif</string>
   <key>Kcaron</key>
   <string>K_caron.glif</string>
+  <key>Kcommaaccent</key>
+  <string>K_commaaccent.glif</string>
   <key>L</key>
   <string>L_.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
   <key>Lcaron</key>
   <string>L_caron.glif</string>
+  <key>Lcommaaccent</key>
+  <string>L_commaaccent.glif</string>
   <key>Ldotbelow</key>
   <string>L_dotbelow.glif</string>
   <key>Lslash</key>
@@ -142,6 +148,8 @@
   <string>N_acute.loclP_L_K_.glif</string>
   <key>Ncaron</key>
   <string>N_caron.glif</string>
+  <key>Ncommaaccent</key>
+  <string>N_commaaccent.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -186,6 +194,8 @@
   <string>R_acute.glif</string>
   <key>Rcaron</key>
   <string>R_caron.glif</string>
+  <key>Rcommaaccent</key>
+  <string>R_commaaccent.glif</string>
   <key>Rdotbelow</key>
   <string>R_dotbelow.glif</string>
   <key>S</key>
@@ -198,12 +208,16 @@
   <string>S_caron.glif</string>
   <key>Scedilla</key>
   <string>S_cedilla.glif</string>
+  <key>Scommaaccent</key>
+  <string>S_commaaccent.glif</string>
   <key>Sdotbelow</key>
   <string>S_dotbelow.glif</string>
   <key>T</key>
   <string>T_.glif</string>
   <key>Tcaron</key>
   <string>T_caron.glif</string>
+  <key>Tcommaaccent</key>
+  <string>T_commaaccent.glif</string>
   <key>Tdotbelow</key>
   <string>T_dotbelow.glif</string>
   <key>Thorn</key>
@@ -464,6 +478,8 @@
   <string>gbreve.glif</string>
   <key>gcaron</key>
   <string>gcaron.glif</string>
+  <key>gcommaaccent</key>
+  <string>gcommaaccent.glif</string>
   <key>gdotaccent</key>
   <string>gdotaccent.glif</string>
   <key>germandbls</key>
@@ -522,12 +538,16 @@
   <string>kacute.glif</string>
   <key>kcaron</key>
   <string>kcaron.glif</string>
+  <key>kcommaaccent</key>
+  <string>kcommaaccent.glif</string>
   <key>l</key>
   <string>l.glif</string>
   <key>lacute</key>
   <string>lacute.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
+  <key>lcommaaccent</key>
+  <string>lcommaaccent.glif</string>
   <key>ldotbelow</key>
   <string>ldotbelow.glif</string>
   <key>less</key>
@@ -560,6 +580,8 @@
   <string>nacute.loclP_L_K_.glif</string>
   <key>ncaron</key>
   <string>ncaron.glif</string>
+  <key>ncommaaccent</key>
+  <string>ncommaaccent.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.osf</key>
@@ -674,6 +696,8 @@
   <string>racute.glif</string>
   <key>rcaron</key>
   <string>rcaron.glif</string>
+  <key>rcommaaccent</key>
+  <string>rcommaaccent.glif</string>
   <key>rdotbelow</key>
   <string>rdotbelow.glif</string>
   <key>registered</key>
@@ -692,6 +716,8 @@
   <string>scaron.glif</string>
   <key>scedilla</key>
   <string>scedilla.glif</string>
+  <key>scommaaccent</key>
+  <string>scommaaccent.glif</string>
   <key>sdotbelow</key>
   <string>sdotbelow.glif</string>
   <key>second</key>
@@ -726,6 +752,8 @@
   <string>t.glif</string>
   <key>tcaron</key>
   <string>tcaron.glif</string>
+  <key>tcommaaccent</key>
+  <string>tcommaaccent.glif</string>
   <key>tdotbelow</key>
   <string>tdotbelow.glif</string>
   <key>thorn</key>

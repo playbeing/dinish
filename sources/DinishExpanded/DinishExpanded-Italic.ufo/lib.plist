@@ -276,14 +276,20 @@
     <string>gbreve</string>
     <string>Gdotaccent</string>
     <string>gdotaccent</string>
+    <string>Gcommaaccent</string>
+    <string>gcommaaccent</string>
     <string>Imacron</string>
     <string>imacron</string>
     <string>Iogonek</string>
     <string>iogonek</string>
     <string>Idot</string>
     <string>dotlessi</string>
+    <string>Kcommaaccent</string>
+    <string>kcommaaccent</string>
     <string>Lacute</string>
     <string>lacute</string>
+    <string>Lcommaaccent</string>
+    <string>lcommaaccent</string>
     <string>Lcaron</string>
     <string>lcaron</string>
     <string>Lslash</string>
@@ -292,6 +298,8 @@
     <string>Nacute.loclPLK</string>
     <string>nacute</string>
     <string>nacute.loclPLK</string>
+    <string>Ncommaaccent</string>
+    <string>ncommaaccent</string>
     <string>Ncaron</string>
     <string>ncaron</string>
     <string>Omacron</string>
@@ -302,6 +310,8 @@
     <string>oe</string>
     <string>Racute</string>
     <string>racute</string>
+    <string>Rcommaaccent</string>
+    <string>rcommaaccent</string>
     <string>Rcaron</string>
     <string>rcaron</string>
     <string>Sacute</string>
@@ -312,6 +322,8 @@
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
+    <string>Tcommaaccent</string>
+    <string>tcommaaccent</string>
     <string>Tcaron</string>
     <string>tcaron</string>
     <string>Umacron</string>
@@ -350,6 +362,8 @@
     <string>jcaron</string>
     <string>Gacute</string>
     <string>gacute</string>
+    <string>Scommaaccent</string>
+    <string>scommaaccent</string>
     <string>apostrophemod</string>
     <string>circumflex</string>
     <string>caron</string>
@@ -373,6 +387,7 @@
     <string>caroncmb</string>
     <string>caroncmb.alt</string>
     <string>dotbelowcomb</string>
+    <string>commaaccentcomb</string>
     <string>uni0327</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
@@ -437,7 +452,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>commaaccentcomb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
