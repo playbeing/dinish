@@ -334,6 +334,8 @@
   <string>bracketright.glif</string>
   <key>breve</key>
   <string>breve.glif</string>
+  <key>brevecmb</key>
+  <string>brevecmb.glif</string>
   <key>brokenbar</key>
   <string>brokenbar.glif</string>
   <key>bullet</key>
@@ -364,6 +366,8 @@
   <string>cent.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
+  <key>circumflexcmb</key>
+  <string>circumflexcmb.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
   <key>comma</key>
@@ -390,6 +394,8 @@
   <string>degree.glif</string>
   <key>dieresis</key>
   <string>dieresis.glif</string>
+  <key>dieresiscmb</key>
+  <string>dieresiscmb.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>divisionslash</key>
@@ -816,12 +822,6 @@
   <string>uni00A_0.glif</string>
   <key>uni00AD</key>
   <string>uni00A_D_.glif</string>
-  <key>uni0302</key>
-  <string>uni0302.glif</string>
-  <key>uni0306</key>
-  <string>uni0306.glif</string>
-  <key>uni0308</key>
-  <string>uni0308.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
   <key>uring</key>

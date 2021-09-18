@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0308" format="2">
+<glyph name="dieresiscmb" format="2">
   <unicode hex="0308"/>
-  <anchor x="0" y="532" name="_Anchor-0"/>
   <outline>
     <contour>
-      <point x="-154" y="720" type="line"/>
-      <point x="-44" y="720" type="line"/>
-      <point x="-44" y="601" type="line"/>
-      <point x="-154" y="601" type="line"/>
+      <point x="-127" y="680" type="line"/>
+      <point x="-49" y="680" type="line"/>
+      <point x="-49" y="592" type="line"/>
+      <point x="-127" y="592" type="line"/>
     </contour>
     <contour>
-      <point x="43" y="720" type="line"/>
-      <point x="153" y="720" type="line"/>
-      <point x="153" y="601" type="line"/>
-      <point x="43" y="601" type="line"/>
+      <point x="48" y="680" type="line"/>
+      <point x="126" y="680" type="line"/>
+      <point x="126" y="592" type="line"/>
+      <point x="48" y="592" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,24 +23,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>601</integer>
+            <integer>592</integer>
             <key>width</key>
-            <integer>119</integer>
+            <integer>88</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>-154</integer>
+            <integer>-127</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>78</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>43</integer>
+            <integer>48</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>78</integer>
           </dict>
         </array>
       </dict>

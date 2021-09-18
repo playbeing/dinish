@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0306" format="2">
+<glyph name="brevecmb" format="2">
   <unicode hex="0306"/>
   <outline>
-    <component base="breve" xOffset="-220"/>
+    <component base="breve" xOffset="-255"/>
   </outline>
 </glyph>
