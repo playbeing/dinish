@@ -89,8 +89,15 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2021-09-15 - v2.011:
- * Add missing glyphs for around 40 languages.
+2021-09-19 - v2.011:
+ * Add missing glyphs for around 50 languages.
+ * Add full support for Romanian, including language sensitive substitutions.
+ * DINish now fully supports all European Latin languages on
+   https://r12a.github.io/app-charuse/.  In total, 170 languages are
+   supported. Please open an issue on Github if any European language
+   based on Latin characters is not rendered with proper typographical
+   conventions. And yes, feel free to use DINish for the next Romanian
+   bank notes.
 2021-09-07 - v2.010:
  * Add glyphs with Hungar umlaut.
  * Add glyphs with the Polish kreska, add Polish locl feature.

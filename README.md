@@ -51,11 +51,15 @@ digitally.
 
 See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1451) for more information.
 
-DINish currently provides the following Unicode coverage:
+## Language support
 
-- Basic Latin: complete
-- Latin-1 Supplement: complete
-- Plus ISO 8859-15 characters missing in the above.
+DINish now fully supports all European Latin languages on
+https://r12a.github.io/app-charuse/.  In total, 170 languages are
+supported. Please open an issue on Github if any European language
+based on Latin characters is not rendered with proper typographical
+conventions. There is special handling in OpenType for the Polish
+and Romanian languages.
+
 
 ## OpenType Features
 
@@ -73,6 +77,13 @@ CSS, try `font-feature-settings: "onum", "tnum";`.
 The Polish language uses a different style of acute accent called
 kreska. In libreOffice set the document language to Polish. HTML/CSS
 picks up the kreska when you set the document language to Polish.
+
+The Romanian language apparently received short shrift in the initial
+Unicode specification, which was later rectified by adding separate
+Unicode glyphs for letters with comma accents. DINish includes the
+OpenType magic to recognise the previous Unicode codes and do the right
+thing when the language is set to Romanian. And yes, feel free to use
+DINish for the design of the next Romanian bank notes.
 
 See the [features page](https://fonts.playbeing.com/features) for
 usage examples. For inspiration, look at the
@@ -126,7 +137,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
-- 2021-09-15 - v2.011: Add missing glyphs for around 40 languages.
+- 2021-09-19 - v2.011: Add missing glyphs for around 50 languages. Includes full support for Romanian.
 - 2021-09-07 - v2.010: Add Polish locl feature to use kreska instead of acute, add Hungarian umlaut.
 - 2021-09-01 - v2.009: Add old style numerals.
 - 2021-08-30 - v2.008: Add old style numerals (release pulled due to production issues).
