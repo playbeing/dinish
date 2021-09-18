@@ -216,6 +216,8 @@
   <string>T_.glif</string>
   <key>Tcaron</key>
   <string>T_caron.glif</string>
+  <key>Tcedilla</key>
+  <string>T_cedilla.glif</string>
   <key>Tcommaaccent</key>
   <string>T_commaaccent.glif</string>
   <key>Tdotbelow</key>
@@ -356,6 +358,8 @@
   <string>cdotaccent.glif</string>
   <key>cedilla</key>
   <string>cedilla.glif</string>
+  <key>cedillacmb</key>
+  <string>cedillacmb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
   <key>circumflex</key>
@@ -752,6 +756,8 @@
   <string>t.glif</string>
   <key>tcaron</key>
   <string>tcaron.glif</string>
+  <key>tcedilla</key>
+  <string>tcedilla.glif</string>
   <key>tcommaaccent</key>
   <string>tcommaaccent.glif</string>
   <key>tdotbelow</key>
@@ -816,8 +822,6 @@
   <string>uni0306.glif</string>
   <key>uni0308</key>
   <string>uni0308.glif</string>
-  <key>cedillacmb</key>
-  <string>cedillacmb.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
   <key>uring</key>

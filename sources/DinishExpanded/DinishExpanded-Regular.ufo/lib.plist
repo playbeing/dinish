@@ -323,8 +323,8 @@
     <string>scedilla</string>
     <string>Scaron</string>
     <string>scaron</string>
-    <string>Tcommaaccent</string>
-    <string>tcommaaccent</string>
+    <string>Tcedilla</string>
+    <string>tcedilla</string>
     <string>Tcaron</string>
     <string>tcaron</string>
     <string>Umacron</string>
@@ -365,6 +365,8 @@
     <string>gacute</string>
     <string>Scommaaccent</string>
     <string>scommaaccent</string>
+    <string>Tcommaaccent</string>
+    <string>tcommaaccent</string>
     <string>apostrophemod</string>
     <string>circumflex</string>
     <string>caron</string>
