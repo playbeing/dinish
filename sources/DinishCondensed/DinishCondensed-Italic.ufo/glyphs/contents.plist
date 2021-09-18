@@ -256,16 +256,26 @@
   <string>W_.glif</string>
   <key>Wacute</key>
   <string>W_acute.glif</string>
+  <key>Wcircumflex</key>
+  <string>W_circumflex.glif</string>
+  <key>Wdieresis</key>
+  <string>W_dieresis.glif</string>
+  <key>Wgrave</key>
+  <string>W_grave.glif</string>
   <key>X</key>
   <string>X_.glif</string>
   <key>Y</key>
   <string>Y_.glif</string>
   <key>Yacute</key>
   <string>Y_acute.glif</string>
+  <key>Ycircumflex</key>
+  <string>Y_circumflex.glif</string>
   <key>Ydieresis</key>
   <string>Y_dieresis.glif</string>
   <key>Ydotbelow</key>
   <string>Y_dotbelow.glif</string>
+  <key>Ygrave</key>
+  <string>Y_grave.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
   <key>Zacute</key>
@@ -864,18 +874,28 @@
   <string>w.glif</string>
   <key>wacute</key>
   <string>wacute.glif</string>
+  <key>wcircumflex</key>
+  <string>wcircumflex.glif</string>
+  <key>wdieresis</key>
+  <string>wdieresis.glif</string>
+  <key>wgrave</key>
+  <string>wgrave.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>y</key>
   <string>y.glif</string>
   <key>yacute</key>
   <string>yacute.glif</string>
+  <key>ycircumflex</key>
+  <string>ycircumflex.glif</string>
   <key>ydieresis</key>
   <string>ydieresis.glif</string>
   <key>ydotbelow</key>
   <string>ydotbelow.glif</string>
   <key>yen</key>
   <string>yen.glif</string>
+  <key>ygrave</key>
+  <string>ygrave.glif</string>
   <key>z</key>
   <string>z.glif</string>
   <key>zacute</key>

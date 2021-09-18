@@ -266,6 +266,8 @@
     <string>ydieresis</string>
     <string>Amacron</string>
     <string>amacron</string>
+    <string>Abreve</string>
+    <string>abreve</string>
     <string>Aogonek</string>
     <string>aogonek</string>
     <string>Cacute</string>
@@ -350,6 +352,10 @@
     <string>uhungarumlaut</string>
     <string>Uogonek</string>
     <string>uogonek</string>
+    <string>Wcircumflex</string>
+    <string>wcircumflex</string>
+    <string>Ycircumflex</string>
+    <string>ycircumflex</string>
     <string>Ydieresis</string>
     <string>Zacute</string>
     <string>Zacute.loclPLK</string>
@@ -427,8 +433,12 @@
     <string>sdotbelow</string>
     <string>Tdotbelow</string>
     <string>tdotbelow</string>
+    <string>Wgrave</string>
+    <string>wgrave</string>
     <string>Wacute</string>
     <string>wacute</string>
+    <string>Wdieresis</string>
+    <string>wdieresis</string>
     <string>Zdotbelow</string>
     <string>zdotbelow</string>
     <string>Adotbelow</string>
@@ -441,6 +451,8 @@
     <string>odotbelow</string>
     <string>Udotbelow</string>
     <string>udotbelow</string>
+    <string>Ygrave</string>
+    <string>ygrave</string>
     <string>Ydotbelow</string>
     <string>ydotbelow</string>
     <string>hyphentwo</string>
@@ -471,8 +483,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>Abreve</string>
-    <string>abreve</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
