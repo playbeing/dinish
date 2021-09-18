@@ -12,6 +12,8 @@
   <string>A_E_.glif</string>
   <key>Aacute</key>
   <string>A_acute.glif</string>
+  <key>Abreve</key>
+  <string>A_breve.glif</string>
   <key>Acaron</key>
   <string>A_caron.glif</string>
   <key>Acircumflex</key>
@@ -280,6 +282,8 @@
   <string>a.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
+  <key>abreve</key>
+  <string>abreve.glif</string>
   <key>acaron</key>
   <string>acaron.glif</string>
   <key>acircumflex</key>

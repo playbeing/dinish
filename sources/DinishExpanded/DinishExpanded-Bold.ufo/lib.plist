@@ -454,6 +454,8 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>abreve</string>
+    <string>Abreve</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

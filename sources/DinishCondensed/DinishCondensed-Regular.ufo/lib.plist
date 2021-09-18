@@ -471,6 +471,8 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>abreve</string>
+    <string>Abreve</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
