@@ -94,6 +94,8 @@
   <string>G_dotaccent.glif</string>
   <key>H</key>
   <string>H_.glif</string>
+  <key>Hbar</key>
+  <string>H_bar.glif</string>
   <key>Hdotbelow</key>
   <string>H_dotbelow.glif</string>
   <key>I</key>
@@ -130,6 +132,8 @@
   <string>L_.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
+  <key>Lbar</key>
+  <string>L_bar.glif</string>
   <key>Lcaron</key>
   <string>L_caron.glif</string>
   <key>Lcommaaccent</key>
@@ -166,6 +170,8 @@
   <string>O_acute.loclP_L_K_.glif</string>
   <key>Ocaron</key>
   <string>O_caron.glif</string>
+  <key>Ocenteredtilde</key>
+  <string>O_centeredtilde.glif</string>
   <key>Ocircumflex</key>
   <string>O_circumflex.glif</string>
   <key>Odieresis</key>
@@ -426,6 +432,8 @@
   <string>dotbelowcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>doubleobliquehyphen</key>
+  <string>doubleobliquehyphen.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eacute</key>
@@ -532,6 +540,8 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
+  <key>hbar</key>
+  <string>hbar.glif</string>
   <key>hdotbelow</key>
   <string>hdotbelow.glif</string>
   <key>hungarumlaut</key>
@@ -576,6 +586,8 @@
   <string>l.glif</string>
   <key>lacute</key>
   <string>lacute.glif</string>
+  <key>lbar</key>
+  <string>lbar.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
   <key>lcommaaccent</key>
@@ -634,6 +646,8 @@
   <string>oacute.glif</string>
   <key>oacute.loclPLK</key>
   <string>oacute.loclP_L_K_.glif</string>
+  <key>obarred</key>
+  <string>obarred.glif</string>
   <key>ocaron</key>
   <string>ocaron.glif</string>
   <key>ocircumflex</key>

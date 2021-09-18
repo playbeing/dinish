@@ -281,6 +281,8 @@
     <string>gdotaccent</string>
     <string>Gcommaaccent</string>
     <string>gcommaaccent</string>
+    <string>Hbar</string>
+    <string>hbar</string>
     <string>Imacron</string>
     <string>imacron</string>
     <string>Iogonek</string>
@@ -351,6 +353,8 @@
     <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
+    <string>lbar</string>
+    <string>Ocenteredtilde</string>
     <string>Acaron</string>
     <string>acaron</string>
     <string>Icaron</string>
@@ -373,6 +377,8 @@
     <string>scommaaccent</string>
     <string>Tcommaaccent</string>
     <string>tcommaaccent</string>
+    <string>Lbar</string>
+    <string>obarred</string>
     <string>apostrophemod</string>
     <string>circumflex</string>
     <string>caron</string>
@@ -464,6 +470,7 @@
     <string>trademark</string>
     <string>minus</string>
     <string>divisionslash</string>
+    <string>doubleobliquehyphen</string>
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
