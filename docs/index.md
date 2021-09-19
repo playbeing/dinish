@@ -4,7 +4,7 @@ title: DINish -- a fresh take on a classic typeface
 permalink: /
 ---
 
-![DINish](din-vs-dinish.jpeg "DIN vs DINish")
+![DINish](/din-vs-dinish.jpeg "DIN vs DINish")
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-![DINish](din-vs-dinish.jpeg "DIN vs DINish")
+![DINish](/din-vs-dinish.jpeg "DIN vs DINish")
 
 ## Introduction
 
