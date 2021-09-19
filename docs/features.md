@@ -16,6 +16,21 @@ The acute accent (as in the french word "café") is styled differently in Polish
 ```
 <div lang="pl" class="sample">Pójdźże, kiń tę chmurność w głąb flaszy!</div>
 
+The Romanian language has comma accents. Historically, these were implemented as cedillas in the first version of Unicode. This was fixed later on, but that means that there is now an inconsistency for documents using the historic Unicode characters. With the language set correctly, DINish will render as expected even with legacy Unicode characters:
+```
+<span lang="en">Muzicologă în bej vând whisky şi tequila, preţ fix.</span> (Don't do this!)
+<span lang="ro">Muzicologă în bej vând whisky şi tequila, preţ fix.</span>
+```
+<div lang="en" class="sample">Muzicologă în bej vând whisky şi tequila, preţ fix. (Don't do this!)</div>
+<div lang="ro" class="sample">Muzicologă în bej vând whisky şi tequila, preţ fix.</div>
+
+If your language happens to not have such exceptions, DINish will behave gently even if the wrong language is specified, such as this pangram in Turkish, set in the English language:
+```
+<span lang="en">Pijamalı hasta yağız şoföre çabucak güvendi.</span> (The language is set to English instead)
+```
+<div lang="en" class="sample">Pijamalı hasta yağız şoföre çabucak güvendi.</div>
+
+
 # Number styles
 
 There are four styles of numerals to pick from. The default is lining, proportional numerals:
@@ -54,3 +69,8 @@ font-feature-settings: "onum", "tnum";
 <tr><td>Nina</td><td align="right">57,600</td></tr>
 </table>
 </div>
+
+### Acknowledgements
+
+Columbus' balance sheet was found in The Journal of Applied Business Research, Fourth Quarter 2007 Volume 23, Number 4.
+The pangrams were lifted from [Richard Rutter's Clagnut blog](http://clagnut.com/blog/2380/).
