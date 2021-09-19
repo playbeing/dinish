@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DINish -- OpenType features
-permalink: /features
+permalink: /dinish/features
 ---
 
 # Language sensitive
