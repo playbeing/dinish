@@ -47,6 +47,7 @@ metadata_templates: all
 docs:	docs/_sass/Dinish-Regular.scss docs/_sass/Dinish-Bold.scss
 	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
+	bash -c 'cat docs/dinish/index.md.header README.md >docs/dinish/index.md'
 
 docs/_sass/%.scss: fonts/woff2/Dinish/%.woff2
 	tools/woff2css $< $@

@@ -91,15 +91,15 @@ OpenType magic to recognise the previous Unicode codes and do the right
 thing when the language is set to Romanian. And yes, feel free to use
 DINish for the design of the next Romanian bank notes.
 
-See the [features page](https://fonts.playbeing.com/features) for
+See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
-[serving suggestions](https://fonts.playbeing.com/showcase).
+[serving suggestions](https://fonts.playbeing.com/dinish/showcase).
 
 ## As a webfont
 
 As DINish is not yet available on any of the major free font CDNs, you
 will have to host the font yourself. Fortunately, the font is light
-in weight: the [DINish font homepage](https://fonts.playbeing.com/)
+in weight: the [DINish font homepage](https://fonts.playbeing.com/dinish)
 contains two styles of DINish in just 30k worth of CSS. Chances are
 that one JPEG image adds more weight to your page!
 On the [Github page](https://github.com/playbeing/dinish/tree/master/tools),
