@@ -50,7 +50,7 @@ with open(src, "rb") as infile:
         print("@font-face {")
         print(f'  font-family: "{css_family}";')
         print(f"  font-weight: {css_weight};")
-        print(f'  font-style: "{css_style}";')
+        print(f'  font-style: {css_style};')
         outfile.write("  src: url(data:font/woff2;base64,")
         outfile.write(encoded.decode("ascii"))
         outfile.write(");\n")
