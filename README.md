@@ -53,7 +53,7 @@ See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1
 
 ## Language support
 
-DINish now fully supports all European Latin languages on
+DINish now fully supports all European Latin languages as per
 https://r12a.github.io/app-charuse/.  In total, 170 languages are
 supported. Please open an issue on Github if any European language
 based on Latin characters is not rendered with proper typographical
@@ -137,6 +137,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-09-28 - v2.012: Usability update: make negative numbers look right in spreadsheets.
 - 2021-09-19 - v2.011: Add missing glyphs for around 50 languages. Includes full support for Romanian.
 - 2021-09-07 - v2.010: Add Polish locl feature to use kreska instead of acute, add Hungarian umlaut.
 - 2021-09-01 - v2.009: Add old style numerals.
