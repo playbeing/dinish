@@ -608,13 +608,24 @@ lookup tnumTabularNumbers {
     sub \nine.osf by \nine.tosf;
 } tnumTabularNumbers;
 
+lookup onumPositioning {
+  lookupflag 0;
+    @onum_first_1 = [ \minus \hyphen ];
+    @onum_second_1 = [ \zero.osf \one.osf \two.osf \zero.tosf \one.tosf \two.tosf ];
+    @onum_second_2 = [ \three.osf \four.osf \five.osf \seven.osf \nine.osf \three.tosf \four.tosf \five.tosf \seven.tosf \nine.tosf ];
+    pos @onum_first_1 @onum_second_1 <0 -91 0 0>;
+    pos @onum_first_1 @onum_second_2 <0 -162 0 0>;
+} onumPositioning;
+
 feature onum {
     script DFLT;
     language dflt;
     lookup onumOldstyleFigures;
+    lookup onumPositioning;
     script latn;
     language dflt;
     lookup onumOldstyleFigures;
+    lookup onumPositioning;
 } onum;
 
 feature lnum {
