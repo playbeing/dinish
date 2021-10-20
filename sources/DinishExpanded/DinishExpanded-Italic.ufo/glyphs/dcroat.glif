@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="2">
-  <advance width="583"/>
+  <advance width="593"/>
   <unicode hex="0111"/>
   <outline>
+    <contour>
+      <point x="358.07083990206866" y="640" type="line"/>
+      <point x="671.0708399020687" y="640" type="line"/>
+      <point x="658.8040501438209" y="581" type="line"/>
+      <point x="345.80405014382086" y="581" type="line"/>
+    </contour>
     <component base="d"/>
-    <component base="macroncmb" xOffset="522" yOffset="187"/>
   </outline>
 </glyph>
