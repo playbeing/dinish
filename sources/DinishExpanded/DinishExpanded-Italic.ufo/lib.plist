@@ -473,6 +473,10 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>Tbar</string>
+    <string>tbar</string>
+    <string>Eng</string>
+    <string>eng</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
