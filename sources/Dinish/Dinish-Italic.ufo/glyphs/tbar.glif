@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
-  <advance width="359"/>
+  <advance width="348"/>
   <unicode hex="0167"/>
   <outline>
     <component base="t"/>
-    <component base="macron"/>
+    <contour>
+      <point x="56" y="367" type="line"/>
+      <point x="324" y="367" type="line"/>
+      <point x="313" y="314" type="line"/>
+      <point x="45" y="314" type="line"/>
+    </contour>
   </outline>
 </glyph>

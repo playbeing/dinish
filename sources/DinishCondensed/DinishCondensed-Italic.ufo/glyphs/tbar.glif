@@ -4,6 +4,11 @@
   <unicode hex="0167"/>
   <outline>
     <component base="t"/>
-    <component base="macron"/>
+    <contour>
+      <point x="54" y="388" type="line"/>
+      <point x="292" y="388" type="line"/>
+      <point x="280" y="332" type="line"/>
+      <point x="42" y="332" type="line"/>
+    </contour>
   </outline>
 </glyph>

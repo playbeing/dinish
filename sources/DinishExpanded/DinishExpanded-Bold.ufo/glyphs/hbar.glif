@@ -4,6 +4,11 @@
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="minus" xOffset="-40" yOffset="265"/>
+    <contour>
+      <point x="0" y="653" type="line"/>
+      <point x="317" y="653" type="line"/>
+      <point x="317" y="575" type="line"/>
+      <point x="0" y="575" type="line"/>
+    </contour>
   </outline>
 </glyph>
