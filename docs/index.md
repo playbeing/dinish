@@ -59,12 +59,12 @@ See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1
 
 ## Language support
 
-DINish now fully supports all European Latin languages as per
-https://r12a.github.io/app-charuse/.  In total, 170 languages are
-supported. Please open an issue on Github if any European language
+DINish now fully supports almost all European Latin languages as per
+https://r12a.github.io/app-charuse/.  In total, 243 Latin-based languages
+are supported. Please open an issue on Github if any European language
 based on Latin characters is not rendered with proper typographical
-conventions. There is special handling in OpenType for the Polish
-and Romanian languages.
+conventions. There is special handling in OpenType for the Polish and
+Romanian languages.
 
 
 ## OpenType Features
