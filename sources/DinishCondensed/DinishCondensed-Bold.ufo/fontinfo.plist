@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2021/10/22 01:11:36</string>
+  <string>2021/10/22 21:44:34</string>
   <key>openTypeHheaAscender</key>
   <integer>851</integer>
   <key>openTypeHheaDescender</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish Condensed Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.012; git-418ddca+2-0-dev</string>
+  <string>Version 2.013; git-abe0dc2-release</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -151,7 +151,7 @@
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>12</integer>
+  <integer>13</integer>
   <key>xHeight</key>
   <integer>541</integer>
 </dict>

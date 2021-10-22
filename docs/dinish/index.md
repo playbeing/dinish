@@ -143,6 +143,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2021-10-22 - v2.013: Add missing glyphs for Northern Sámi
 - 2021-09-28 - v2.012: Usability update: make negative numbers look right in spreadsheets.
 - 2021-09-19 - v2.011: Add missing glyphs for around 50 languages. Includes full support for Romanian.
 - 2021-09-07 - v2.010: Add Polish locl feature to use kreska instead of acute, add Hungarian umlaut.
