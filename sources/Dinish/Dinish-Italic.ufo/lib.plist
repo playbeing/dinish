@@ -322,6 +322,8 @@
     <string>ncommaaccent</string>
     <string>Ncaron</string>
     <string>ncaron</string>
+    <string>Eng</string>
+    <string>eng</string>
     <string>Omacron</string>
     <string>omacron</string>
     <string>Ohungarumlaut</string>
@@ -346,6 +348,8 @@
     <string>tcedilla</string>
     <string>Tcaron</string>
     <string>tcaron</string>
+    <string>Tbar</string>
+    <string>tbar</string>
     <string>Umacron</string>
     <string>umacron</string>
     <string>Uring</string>
@@ -490,10 +494,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>Tbar</string>
-    <string>tbar</string>
-    <string>Eng</string>
-    <string>eng</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
