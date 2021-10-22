@@ -89,9 +89,11 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2021-10-22 - v2.013:
+ * Add missing glyphs for Northern Sámi
 2021-09-28 - v2.012:
  * Usability update: make negative numbers look right in spreadsheets.
- * Fix horizontal position for old style one in a few font variants.
+ * Fix horizontal position for old style "one" in a few font variants.
 2021-09-19 - v2.011:
  * Add missing glyphs for around 50 languages.
  * Add full support for Romanian, including language sensitive substitutions.
