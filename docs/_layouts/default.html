@@ -85,5 +85,8 @@
         if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"{{ site.counter_dev_username }}",utcoffset:"{{ site.counter_dev_utcoffset | default:0 }}"}))};sessionStorage.setItem("_swa","1");
       </script>
     {% endif %}
+    {% if site.plausible_url_base %}
+      <script defer data-domain="{{ site.plausible_domain }}" src="{{ site.plausible_url_base }}/js/plausible.js"></script>
+    {% endif %}
   </body>
 </html>

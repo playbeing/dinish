@@ -8,6 +8,8 @@ url: "https://fonts.playbeing.com" # the base hostname & protocol for your site,
 github_username:  playbeing
 counter_dev_username: bertd2
 #counter_dev_utcoffset: 2
+plausible_url_base: https://plausible.playbeing.com
+plausible_domain: fonts.playbeing.com
 
 # Build settings
 markdown: CommonMarkGhPages
