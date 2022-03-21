@@ -35,9 +35,9 @@ fonts/woff2/%.woff2: sources/%.ufo
 	tools/process-font.sh $< $@
 
 fontbakery: all
-	-fontbakery check-googlefonts --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
-	-fontbakery check-googlefonts --html fontbakery-dinishcondensed-report.html fonts/otf/DinishCondensed/*.otf
-	-fontbakery check-googlefonts --html fontbakery-dinishexpanded-report.html fonts/otf/DinishExpanded/*.otf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishcondensed-report.html fonts/otf/DinishCondensed/*.otf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishexpanded-report.html fonts/otf/DinishExpanded/*.otf
 
 metadata_templates: all
 	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
