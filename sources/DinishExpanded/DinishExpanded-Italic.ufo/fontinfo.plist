@@ -116,9 +116,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>7</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>930</integer>
+  <integer>1000</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>188</integer>
+  <integer>273</integer>
   <key>postscriptBlueValues</key>
   <array/>
   <key>postscriptFamilyBlues</key>
