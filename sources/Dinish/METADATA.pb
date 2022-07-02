@@ -7,7 +7,7 @@ fonts {
   name: "Dinish"
   style: "normal"
   weight: 400
-  filename: "Dinish-Regular.otf"
+  filename: "Dinish-Regular.ttf"
   post_script_name: "Dinish-Regular"
   full_name: "Dinish Regular"
   copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
@@ -16,7 +16,7 @@ fonts {
   name: "Dinish"
   style: "italic"
   weight: 400
-  filename: "Dinish-Italic.otf"
+  filename: "Dinish-Italic.ttf"
   post_script_name: "Dinish-Italic"
   full_name: "Dinish Italic"
   copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
@@ -25,7 +25,7 @@ fonts {
   name: "Dinish"
   style: "normal"
   weight: 700
-  filename: "Dinish-Bold.otf"
+  filename: "Dinish-Bold.ttf"
   post_script_name: "Dinish-Bold"
   full_name: "Dinish Bold"
   copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"

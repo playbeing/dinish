@@ -9,7 +9,7 @@ TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 
-all: update_version $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips
+all: update_version $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
 
 clean:
 	rm -rf fonts zips
@@ -35,17 +35,20 @@ fonts/woff2/%.woff2: sources/%.ufo
 	tools/process-font.sh $< $@
 
 fontbakery: all
-	-fontbakery check-googlefonts --full-lists --html fontbakery-dinish-report.html fonts/otf/Dinish/*.otf
-	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishcondensed-report.html fonts/otf/DinishCondensed/*.otf
-	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishexpanded-report.html fonts/otf/DinishExpanded/*.otf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinish-report.html ofl/dinish/*.ttf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishcondensed-report.html ofl/dinishcondensed/*.ttf
+	-fontbakery check-googlefonts --full-lists --html fontbakery-dinishexpanded-report.html ofl/dinishexpanded/*.ttf
 
 metadata_templates: all
-	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/otf/$$f/*.otf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
+	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
+
+install_ofl:
+	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; done'
 
 
 .PHONY: docs zips update_version
 docs:	docs/_sass/Dinish-Regular.scss docs/_sass/Dinish-Bold.scss
-	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} fonts/otf/$$f; done'
+	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} ofl/$$slug; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
 	bash -c 'cat docs/dinish/index.md.header README.md >docs/dinish/index.md'
 
@@ -61,4 +64,4 @@ update_version:
 
 # Danger, Will Robinson!
 revert_auto_changes:
-	git checkout docs/_sass/Dinish*.scss fonts/ sources/*.*/fontinfo.plist
+	git checkout docs/_sass/Dinish*.scss fonts/ sources/*.*/fontinfo.plist ofl
