@@ -35,5 +35,12 @@ case "$out" in
 		tmpout="tmp-$$.ttf"
 		ttfautohint $out $tmpout
 		mv $tmpout $out
+
+		res="`gftools fix-hinting $out 2>&1`"
+		rv=$?
+		echo "$res" | grep -Ev '(^$|Saving.* to .*.fix$)' || true
+		[ "$rv" = "0" ] || die "gftools fix-hinting failed"
+		mv $out.fix $out
+
 		;;
 esac
