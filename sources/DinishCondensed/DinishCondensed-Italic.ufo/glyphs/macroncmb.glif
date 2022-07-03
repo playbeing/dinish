@@ -2,6 +2,11 @@
 <glyph name="macroncmb" format="2">
   <unicode hex="0304"/>
   <outline>
-    <component base="macron" xOffset="-259"/>
+    <contour>
+      <point x="-37" y="668" type="line"/>
+      <point x="200" y="668" type="line"/>
+      <point x="187" y="605" type="line"/>
+      <point x="-50" y="605" type="line"/>
+    </contour>
   </outline>
 </glyph>

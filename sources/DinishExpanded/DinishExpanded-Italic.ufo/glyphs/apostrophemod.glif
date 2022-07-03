@@ -2,6 +2,6 @@
 <glyph name="apostrophemod" format="2">
   <unicode hex="02BC"/>
   <outline>
-    <component base="quoteright" xOffset="-91"/>
+    <component base="comma" xOffset="36" yOffset="598"/>
   </outline>
 </glyph>

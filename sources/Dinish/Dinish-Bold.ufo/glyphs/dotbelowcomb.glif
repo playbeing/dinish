@@ -2,6 +2,11 @@
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
   <outline>
-    <component base="dotaccentcmb" yOffset="-798"/>
+    <contour>
+      <point x="-65" y="-86" type="line"/>
+      <point x="69" y="-86" type="line"/>
+      <point x="69" y="-188" type="line"/>
+      <point x="-65" y="-188" type="line"/>
+    </contour>
   </outline>
 </glyph>

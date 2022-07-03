@@ -2,7 +2,17 @@
 <glyph name="hungarumlautcmb" format="2">
   <unicode hex="030B"/>
   <outline>
-    <component base="acute" xOffset="-280"/>
-    <component base="acute" xOffset="-140"/>
+    <contour>
+      <point x="-7" y="722" type="line"/>
+      <point x="69" y="722" type="line"/>
+      <point x="-42" y="590" type="line"/>
+      <point x="-100" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="722" type="line"/>
+      <point x="209" y="722" type="line"/>
+      <point x="98" y="590" type="line"/>
+      <point x="40" y="590" type="line"/>
+    </contour>
   </outline>
 </glyph>

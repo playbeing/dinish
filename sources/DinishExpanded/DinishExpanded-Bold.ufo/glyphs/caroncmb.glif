@@ -2,6 +2,14 @@
 <glyph name="caroncmb" format="2">
   <unicode hex="030C"/>
   <outline>
-    <component base="caron" xOffset="-257"/>
+    <contour>
+      <point x="-185" y="738" type="line"/>
+      <point x="-79" y="738" type="line"/>
+      <point x="0" y="657" type="line"/>
+      <point x="78" y="738" type="line"/>
+      <point x="184" y="738" type="line"/>
+      <point x="46" y="584" type="line"/>
+      <point x="-47" y="584" type="line"/>
+    </contour>
   </outline>
 </glyph>

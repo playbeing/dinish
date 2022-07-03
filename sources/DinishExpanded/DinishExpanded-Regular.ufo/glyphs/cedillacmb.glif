@@ -2,6 +2,11 @@
 <glyph name="cedillacmb" format="2">
   <unicode hex="0327"/>
   <outline>
-    <component base="cedilla"/>
+    <contour>
+      <point x="253" y="12" type="line"/>
+      <point x="328" y="12" type="line"/>
+      <point x="254" y="-156" type="line"/>
+      <point x="166" y="-156" type="line"/>
+    </contour>
   </outline>
 </glyph>

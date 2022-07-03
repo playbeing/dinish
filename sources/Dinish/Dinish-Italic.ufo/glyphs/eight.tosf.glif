@@ -3,6 +3,6 @@
   <advance width="524"/>
   <unicode hex="0038"/>
   <outline>
-    <component base="eight.tlf"/>
+    <component base="eight"/>
   </outline>
 </glyph>
