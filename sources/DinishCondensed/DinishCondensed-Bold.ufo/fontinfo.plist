@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>851</integer>
+  <integer>1050</integer>
   <key>capHeight</key>
   <integer>707</integer>
   <key>copyright</key>
@@ -19,11 +19,11 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2021/10/22 21:44:34</string>
+  <string>2022/07/10 21:05:46</string>
   <key>openTypeHheaAscender</key>
-  <integer>851</integer>
+  <integer>1050</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-173</integer>
+  <integer>-248</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDesigner</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish Condensed Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.013; git-abe0dc2-release</string>
+  <string>Version 2.013; git-c63aa14+12-20-dev</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -92,9 +92,9 @@
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>851</integer>
+  <integer>1050</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-173</integer>
+  <integer>-248</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -117,9 +117,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>3</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1000</integer>
+  <integer>1050</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>273</integer>
+  <integer>248</integer>
   <key>postscriptBlueValues</key>
   <array/>
   <key>postscriptFamilyBlues</key>
