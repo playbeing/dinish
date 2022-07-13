@@ -137,6 +137,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2022-07-13 - v3.001: Reworked vertical metrics, may cause line spacing changes. Misc fixes, see FONTLOG.
 - 2021-10-22 - v2.013: Add missing glyphs for Northern Sámi
 - 2021-09-28 - v2.012: Usability update: make negative numbers look right in spreadsheets.
 - 2021-09-19 - v2.011: Add missing glyphs for around 50 languages. Includes full support for Romanian.

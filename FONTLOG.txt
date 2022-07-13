@@ -89,6 +89,14 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2022-07-10 - v3.001:
+ * Breaking change: Rework vertical metrics to get rid of the
+   typo metrics hack. All vertical metrics are now equal. This causes
+   line spacing to increase slightly, dependent on platform. Hopefully,
+   this will eliminate the need to touch the metrics in the future.
+ * Redesign ogonek based on community feedback
+ * Address Fontbakery glyf_nested_components concerns
+ * Fix a few minor quality issues
 2021-10-22 - v2.013:
  * Add missing glyphs for Northern Sámi
 2021-09-28 - v2.012:
