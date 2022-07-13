@@ -13,6 +13,9 @@ plausible_domain: fonts.playbeing.com
 
 # Build settings
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 theme: jekyll-theme-slate
 plugins:
   #- jekyll-feed
