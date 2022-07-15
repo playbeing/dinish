@@ -494,6 +494,7 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>dottedcircle</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
