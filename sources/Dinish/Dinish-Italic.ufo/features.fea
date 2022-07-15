@@ -358,29 +358,6 @@ lookup kernHorizontalKerninglookup1 {
     pos @kc15_first_1 @kc15_second_1 -95;
 } kernHorizontalKerninglookup1;
 
-lookup markMarkPositioninglookup2 {
-  lookupflag 0;
-  markClass [\gravecomb \acutecomb \circumflexcmb \tildecomb \dieresiscmb \ringcmb ] <anchor 55 519> @Anchor0;
-  pos base [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring ] <anchor 370 692> mark @Anchor0;
-  pos base [\E \Egrave \Eacute \Ecircumflex \Edieresis ] <anchor 382 707> mark @Anchor0;
-  pos base [\I \Igrave \Iacute \Icircumflex \Idieresis ] <anchor 222 707> mark @Anchor0;
-  pos base [\N \Ntilde ] <anchor 424 707> mark @Anchor0;
-  pos base [\O \Q \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash ] <anchor 396 707> mark @Anchor0;
-  pos base [\S \Z \Scaron \Zcaron ] <anchor 349 707> mark @Anchor0;
-  pos base [\U \Ugrave \Uacute \Ucircumflex \Udieresis ] <anchor 415 707> mark @Anchor0;
-  pos base [\Y \Yacute \Ydieresis ] <anchor 340 707> mark @Anchor0;
-  pos base [\a \agrave \aacute \acircumflex \atilde \adieresis \aring ] <anchor 301 519> mark @Anchor0;
-  pos base [\e \egrave \eacute \ecircumflex \edieresis ] <anchor 307 519> mark @Anchor0;
-  pos base [\i \igrave \iacute \icircumflex \idieresis \dotlessi ] <anchor 167 519> mark @Anchor0;
-  pos base [\n \ntilde ] <anchor 318 519> mark @Anchor0;
-  pos base [\o \ograve \oacute \ocircumflex \otilde \odieresis ] <anchor 309 519> mark @Anchor0;
-  pos base [\s \scaron ] <anchor 262 519> mark @Anchor0;
-  pos base [\u \ugrave \uacute \ucircumflex \udieresis ] <anchor 323 519> mark @Anchor0;
-  pos base [\y \yacute \ydieresis ] <anchor 271 519> mark @Anchor0;
-  pos base [\z \zcaron ] <anchor 267 519> mark @Anchor0;
-  pos base [\oe ] <anchor 824 519> mark @Anchor0;
-} markMarkPositioninglookup2;
-
 feature kern {
 
  script DFLT;
@@ -388,13 +365,6 @@ feature kern {
       lookup kernHorizontalKerninglookup0;
       lookup kernHorizontalKerninglookup1;
 } kern;
-
-feature mark {
-
- script DFLT;
-     language dflt ;
-      lookup markMarkPositioninglookup2;
-} mark;
 
 lookup onumOldstyleFigures {
     lookupflag 0;

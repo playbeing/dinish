@@ -488,28 +488,6 @@ lookup kernHorizontalKerninglookup1 {
     pos @kc15_first_1 @kc15_second_1 -34;
 } kernHorizontalKerninglookup1;
 
-lookup markMarkPositioninglookup2 {
-  lookupflag 0;
-  markClass [\gravecomb \acutecomb \circumflexcmb \tildecomb \dieresiscmb \ringcmb ] <anchor 0 532> @Anchor0;
-  pos base [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring ] <anchor 310 707> mark @Anchor0;
-  pos base [\E \Egrave \Eacute \Ecircumflex \Edieresis ] <anchor 274 707> mark @Anchor0;
-  pos base [\I \Igrave \Iacute \Icircumflex \Idieresis ] <anchor 133 707> mark @Anchor0;
-  pos base [\N \Ntilde ] <anchor 325 707> mark @Anchor0;
-  pos base [\O \Q \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash ] <anchor 307 707> mark @Anchor0;
-  pos base [\S \Scaron ] <anchor 279 707> mark @Anchor0;
-  pos base [\U \Ugrave \Uacute \Ucircumflex \Udieresis ] <anchor 314 707> mark @Anchor0;
-  pos base [\Y \Yacute \Ydieresis ] <anchor 276 707> mark @Anchor0;
-  pos base [\Z \Zcaron ] <anchor 258 707> mark @Anchor0;
-  pos base [\a \agrave \aacute \acircumflex \atilde \adieresis \aring ] <anchor 248 532> mark @Anchor0;
-  pos base [\e \egrave \eacute \ecircumflex \edieresis ] <anchor 264 532> mark @Anchor0;
-  pos base [\i \igrave \iacute \icircumflex \idieresis \dotlessi ] <anchor 123 532> mark @Anchor0;
-  pos base [\n \u \ntilde \ugrave \uacute \ucircumflex \udieresis ] <anchor 266 532> mark @Anchor0;
-  pos base [\o \ograve \oacute \ocircumflex \otilde \odieresis ] <anchor 262 532> mark @Anchor0;
-  pos base [\s \scaron ] <anchor 243 532> mark @Anchor0;
-  pos base [\y \yacute \ydieresis ] <anchor 247 532> mark @Anchor0;
-  pos base [\z \zcaron ] <anchor 232 532> mark @Anchor0;
-} markMarkPositioninglookup2;
-
 feature kern {
 
  script DFLT;
@@ -517,13 +495,6 @@ feature kern {
       lookup kernHorizontalKerninglookup0;
       lookup kernHorizontalKerninglookup1;
 } kern;
-
-feature mark {
-
- script DFLT;
-     language dflt ;
-      lookup markMarkPositioninglookup2;
-} mark;
 
 lookup onumOldstyleFigures {
     lookupflag 0;
