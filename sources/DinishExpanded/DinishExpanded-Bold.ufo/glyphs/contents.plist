@@ -94,6 +94,8 @@
   <string>G_commaaccent.glif</string>
   <key>Gdotaccent</key>
   <string>G_dotaccent.glif</string>
+  <key>Germandbls</key>
+  <string>G_ermandbls.glif</string>
   <key>H</key>
   <string>H_.glif</string>
   <key>Hbar</key>
