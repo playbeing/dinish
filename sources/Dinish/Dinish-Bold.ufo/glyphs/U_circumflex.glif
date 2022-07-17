@@ -2,7 +2,7 @@
 <glyph name="Ucircumflex" format="2">
   <advance width="628"/>
   <unicode hex="00DB"/>
-  <anchor x="314" y="707" name="Anchor-0"/>
+  <anchor x="314" y="707" name="top"/>
   <outline>
     <component base="U"/>
     <component base="circumflexcmb" xOffset="315" yOffset="175"/>

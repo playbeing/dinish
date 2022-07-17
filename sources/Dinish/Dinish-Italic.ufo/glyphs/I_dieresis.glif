@@ -2,7 +2,7 @@
 <glyph name="Idieresis" format="2">
   <advance width="254"/>
   <unicode hex="00CF"/>
-  <anchor x="222" y="707" name="Anchor-0"/>
+  <anchor x="222" y="707" name="top"/>
   <outline>
     <component base="I"/>
     <component base="dieresiscmb" xOffset="167" yOffset="187"/>

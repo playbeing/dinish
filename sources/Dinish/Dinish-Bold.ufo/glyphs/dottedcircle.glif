@@ -2,8 +2,8 @@
 <glyph name="dottedcircle" format="2">
   <advance width="680"/>
   <unicode hex="25CC"/>
-  <anchor x="340" y="532" name="Anchor-0"/>
-  <anchor x="340" y="0" name="Anchor-1"/>
+  <anchor x="340" y="532" name="top"/>
+  <anchor x="340" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="164" y="154" type="qcurve"/>

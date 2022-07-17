@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="0" y="532" name="_Anchor-0"/>
+  <anchor x="0" y="532" name="_top"/>
   <outline>
     <contour>
       <point x="-163" y="738" type="line"/>

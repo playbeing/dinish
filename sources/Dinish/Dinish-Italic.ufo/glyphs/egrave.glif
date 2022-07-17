@@ -2,7 +2,7 @@
 <glyph name="egrave" format="2">
   <advance width="516"/>
   <unicode hex="00E8"/>
-  <anchor x="307" y="519" name="Anchor-0"/>
+  <anchor x="307" y="519" name="top"/>
   <outline>
     <component base="e"/>
     <component base="gravecomb" xOffset="252"/>

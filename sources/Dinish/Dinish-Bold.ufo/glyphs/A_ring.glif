@@ -2,7 +2,7 @@
 <glyph name="Aring" format="2">
   <advance width="620"/>
   <unicode hex="00C5"/>
-  <anchor x="310" y="707" name="Anchor-0"/>
+  <anchor x="310" y="707" name="top"/>
   <outline>
     <component base="A"/>
     <component base="ring" xOffset="57" yOffset="101"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcmb" format="2">
   <unicode hex="030A"/>
-  <anchor x="0" y="519" name="_Anchor-0"/>
+  <anchor x="0" y="519" name="_top"/>
   <outline>
     <contour>
       <point x="-67" y="599" type="curve" smooth="yes"/>

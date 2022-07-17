@@ -2,7 +2,7 @@
 <glyph name="Edieresis" format="2">
   <advance width="569"/>
   <unicode hex="00CB"/>
-  <anchor x="382" y="707" name="Anchor-0"/>
+  <anchor x="382" y="707" name="top"/>
   <outline>
     <component base="E"/>
     <component base="dieresiscmb" xOffset="327" yOffset="187"/>

@@ -2,7 +2,7 @@
 <glyph name="oe" format="2">
   <advance width="842"/>
   <unicode hex="0153"/>
-  <anchor x="824" y="519" name="Anchor-0"/>
+  <anchor x="824" y="519" name="top"/>
   <outline>
     <contour>
       <point x="800" y="452"/>

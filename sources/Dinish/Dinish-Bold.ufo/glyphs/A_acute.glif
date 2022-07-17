@@ -2,7 +2,7 @@
 <glyph name="Aacute" format="2">
   <advance width="620"/>
   <unicode hex="00C1"/>
-  <anchor x="310" y="707" name="Anchor-0"/>
+  <anchor x="310" y="707" name="top"/>
   <outline>
     <component base="A"/>
     <component base="acutecomb" xOffset="311" yOffset="174"/>

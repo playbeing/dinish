@@ -2,7 +2,7 @@
 <glyph name="Ograve" format="2">
   <advance width="623"/>
   <unicode hex="00D2"/>
-  <anchor x="396" y="707" name="Anchor-0"/>
+  <anchor x="396" y="707" name="top"/>
   <outline>
     <component base="O"/>
     <component base="gravecomb" xOffset="341" yOffset="187"/>
