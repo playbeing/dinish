@@ -496,6 +496,8 @@
     <string>NULL</string>
     <string>dottedcircle</string>
     <string>Germandbls</string>
+    <string>Ubreve</string>
+    <string>ubreve</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

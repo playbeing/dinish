@@ -916,5 +916,9 @@
   <string>zero.tlf.glif</string>
   <key>zero.tosf</key>
   <string>zero.tosf.glif</string>
+  <key>Ubreve</key>
+  <string>U_breve.glif</string>
+  <key>ubreve</key>
+  <string>ubreve.glif</string>
 </dict>
 </plist>
