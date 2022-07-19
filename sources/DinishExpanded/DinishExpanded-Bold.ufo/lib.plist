@@ -481,6 +481,9 @@
     <string>Germandbls</string>
     <string>Ubreve</string>
     <string>ubreve</string>
+    <string>IJ</string>
+    <string>dotlessj</string>
+    <string>ij</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
