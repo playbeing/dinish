@@ -406,6 +406,8 @@
   <string>comma.glif</string>
   <key>commaaccentcomb</key>
   <string>commaaccentcomb.glif</string>
+  <key>commaturnedabovecmb</key>
+  <string>commaturnedabovecmb.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>currency</key>
