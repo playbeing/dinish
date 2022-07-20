@@ -606,7 +606,7 @@ feature locl {
 	\endash \emdash \quoteleft \quoteright
 	\quotesinglbase \quotedblleft \quotedblright \quotedblbase \dagger \daggerdbl
 	\bullet \ellipsis \perthousand \guilsinglleft \guilsinglright \Euro \trademark
-	\.null \NULL \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
+	\.null \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
 	\one.numr \two.numr \three.numr \four.numr \zero.sups \one.sups \two.sups
 	\three.sups \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior
 	\threesuperior \foursuperior \Aogonek \Eogonek \Iogonek \Oogonek
