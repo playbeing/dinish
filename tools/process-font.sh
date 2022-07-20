@@ -9,8 +9,6 @@ die() {
 	exit 1
 }
 
-#filter_ttf='--filter DottedCircleFilter(pre=True,dots=10)'
-
 case "$outtype" in
 	woff|woff2)
 		fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
@@ -21,14 +19,7 @@ case "$outtype" in
 		exit 0;;
 esac
 
-case "$outtype" in
-    ttf)
-        fontmake --verbose WARNING $filter_ttf --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
-        ;;
-    *)
-        fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
-        ;;
-esac
+fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
 [ "$?" = "0" ] || die "fontmake failed"
 
 # 20210825 We stop adding a dummy dsig table after fontbakery 0.8.1 started complaining
