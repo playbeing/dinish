@@ -3,6 +3,7 @@ languagesystem latn dflt;
 languagesystem latn MOL;
 languagesystem latn PLK;
 languagesystem latn ROM;
+languagesystem latn NLD;
 
 
 # GSUB
@@ -698,6 +699,17 @@ feature locl {
     language MOL;
     lookup loclROM;
 } locl;
+
+lookup ss01NLD {
+    sub \i \j by \ij;
+    sub \I \J by \IJ;
+} ss01NLD;
+
+feature ss01 {
+    script latn;
+    language NLD;
+    lookup ss01NLD;
+} ss01;
 
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
