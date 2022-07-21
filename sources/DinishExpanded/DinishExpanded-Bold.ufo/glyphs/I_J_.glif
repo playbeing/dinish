@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="IJ" format="2">
-  <advance width="784"/>
+  <advance width="692"/>
   <unicode hex="0132"/>
   <outline>
     <contour>
@@ -42,8 +42,8 @@
     <contour>
       <point x="60" y="707" type="line"/>
       <point x="195" y="707" type="line"/>
-      <point x="195" y="313" type="line"/>
-      <point x="60" y="313" type="line"/>
+      <point x="195" y="352" type="line"/>
+      <point x="60" y="352" type="line"/>
     </contour>
   </outline>
 </glyph>
