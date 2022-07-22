@@ -289,6 +289,8 @@
     <string>iogonek</string>
     <string>Idot</string>
     <string>dotlessi</string>
+    <string>IJ</string>
+    <string>ij</string>
     <string>Kcommaaccent</string>
     <string>kcommaaccent</string>
     <string>Lacute</string>
@@ -337,6 +339,8 @@
     <string>tbar</string>
     <string>Umacron</string>
     <string>umacron</string>
+    <string>Ubreve</string>
+    <string>ubreve</string>
     <string>Uring</string>
     <string>uring</string>
     <string>Uhungarumlaut</string>
@@ -381,6 +385,7 @@
     <string>scommaaccent</string>
     <string>Tcommaaccent</string>
     <string>tcommaaccent</string>
+    <string>dotlessj</string>
     <string>Lbar</string>
     <string>obarred</string>
     <string>apostrophemod</string>
@@ -405,6 +410,7 @@
     <string>hungarumlautcmb</string>
     <string>caroncmb</string>
     <string>caroncmb.alt</string>
+    <string>commaturnedabovecmb</string>
     <string>dotbelowcomb</string>
     <string>commaaccentcomb</string>
     <string>cedillacmb</string>
@@ -436,6 +442,7 @@
     <string>wdieresis</string>
     <string>Zdotbelow</string>
     <string>zdotbelow</string>
+    <string>Germandbls</string>
     <string>Adotbelow</string>
     <string>adotbelow</string>
     <string>Edotbelow</string>
@@ -474,18 +481,11 @@
     <string>trademark</string>
     <string>minus</string>
     <string>divisionslash</string>
+    <string>dottedcircle</string>
     <string>doubleobliquehyphen</string>
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>dottedcircle</string>
-    <string>Germandbls</string>
-    <string>Ubreve</string>
-    <string>ubreve</string>
-    <string>IJ</string>
-    <string>dotlessj</string>
-    <string>ij</string>
-    <string>commaturnedabovecmb</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
