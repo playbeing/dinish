@@ -86,7 +86,7 @@ thing when the language is set to Romanian. And yes, feel free to use
 DINish for the design of the next Romanian bank notes.
 
 The Dutch language has an ij digraph. If you prefer, you can enable the
-ss01 stylistic alternate to automatically substitute ij with ij.
+ss01 stylistic alternate to automatically substitute ij with ĳ.
 
 See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
