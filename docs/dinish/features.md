@@ -30,6 +30,17 @@ If your language happens to not have such exceptions, DINish will behave gently 
 ```
 <div lang="en" class="sample">Pijamalı hasta yağız şoföre çabucak güvendi.</div>
 
+The Dutch language has an ij digraph. If you prefer, you can enable the
+ss01 stylistic alternate to automatically substitute ij with ĳ.
+
+```
+<span lang="nl">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</span>
+<span lang="nl" style="font-feature-settings: 'ss01';">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</span>
+```
+<div lang="nl" class="sample">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</div>
+<div lang="nl" style="font-feature-settings: 'ss01';" class="sample">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</div>
+
+
 
 # Number styles
 

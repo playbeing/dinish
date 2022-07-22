@@ -85,6 +85,9 @@ OpenType magic to recognise the previous Unicode codes and do the right
 thing when the language is set to Romanian. And yes, feel free to use
 DINish for the design of the next Romanian bank notes.
 
+The Dutch language has an ij digraph. If you prefer, you can enable the
+ss01 stylistic alternate to automatically substitute ij with ij.
+
 See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
 [serving suggestions](https://fonts.playbeing.com/dinish/showcase).
@@ -137,7 +140,8 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
-- 2022-07-13 - v3.001: Reworked vertical metrics, may cause line spacing changes. Misc fixes, see FONTLOG.
+- 2022-07-23 - v3.002: Add uppercase Esszet and Dutch IJ/ij digraphs (with ss01 stylistic alternate), U/u with breve and dotless j.
+- 2022-07-13 - v3.001: Reworked vertical metrics, may cause line spacing changes.
 - 2021-10-22 - v2.013: Add missing glyphs for Northern Sámi
 - 2021-09-28 - v2.012: Usability update: make negative numbers look right in spreadsheets.
 - 2021-09-19 - v2.011: Add missing glyphs for around 50 languages. Includes full support for Romanian.

@@ -89,6 +89,13 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2022-07-23 - v3.002:
+ * Add glyphs for uppercase Esszet, Dutch IJ digraph in upper and
+   lowercase, U with breve and dotless j. Most text processing
+   software will not use the IJ digraph unless you use the
+   specific Unicode character: 0132 for IJ or 0133 for ij.
+ * Add ss01 stylistic alternative to use the IJ digraph for Dutch text.
+ * Fix a few minor quality issues.
 2022-07-10 - v3.001:
  * Breaking change: Rework vertical metrics to get rid of the
    typo metrics hack. All vertical metrics are now equal. This causes
