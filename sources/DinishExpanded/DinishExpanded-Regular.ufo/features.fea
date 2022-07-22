@@ -697,6 +697,9 @@ lookup ss01NLD {
 } ss01NLD;
 
 feature ss01 {
+    featureNames {
+        name "Language specific stylistic alternates";
+    };
     script latn;
     language NLD;
     lookup ss01NLD;
