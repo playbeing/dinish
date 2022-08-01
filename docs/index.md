@@ -97,6 +97,9 @@ ss01 stylistic alternate to automatically substitute ij with ĳ.
 See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
 [serving suggestions](https://fonts.playbeing.com/dinish/showcase).
+An interactive [font specimen](https://fonts.playbeing.com/dinish/specimen)
+shows the character set. The pangram shown there is editable; try your
+own text, and feel free to play with the size and the font variations!
 
 ## As a webfont
 
