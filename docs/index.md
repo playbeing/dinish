@@ -10,8 +10,8 @@ permalink: /
 
 DINish is one of many modern computer fonts that were inspired by the
 lettering of the German Autobahn road signs. It is professionally
-designed, and usable for body text and captions (and even spreadsheets!)
-Its unadorned style is easy to read, and although it's close to a
+designed, and usable for body text and captions, even spreadsheets!
+Its unadorned style is easy to read, and although it is close to a
 century old maintains a fresh look.
 
 This DIN font is free to use, for desktop use, e-books, as a web font,
