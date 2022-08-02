@@ -94,6 +94,8 @@ DINish for the design of the next Romanian bank notes.
 The Dutch language has an ij digraph. If you prefer, you can enable the
 ss01 stylistic alternate to automatically substitute ij with ĳ.
 
+## DINish demo pages
+
 See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
 [serving suggestions](https://fonts.playbeing.com/dinish/showcase).
@@ -111,8 +113,9 @@ that one JPEG image adds more weight to your page!
 On the [Github page](https://github.com/playbeing/dinish/tree/master/tools),
 you'll find a quick Python script to convert a woff2 file into
 embeddable CSS. Quick tip, not just for this font: use a tool like
-SASS to merge and compress your CSS; causing fewer hits on the webserver
-automatically translates into free performance for your site visitor!
+SASS to merge and compress your CSS. This will cause fewer hits on the
+webserver, which automatically translates into a faster site for
+your visitors!
 In Jekyll, that is a [trivial change](https://github.com/playbeing/dinish/commit/4467855a292e0bd58ff7d933b7ef2148098eba66).
 
 ## Information for Contributors
