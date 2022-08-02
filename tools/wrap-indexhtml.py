@@ -50,7 +50,7 @@ with open("index.html", "r") as infile:
     with open("index-combined.html", "w") as outfile:
         contents = infile.read()
         contents = expand_includes(contents)
-        contents = re.sub('(</html>)', PLAUSIBLE_HTML + "\1", contents)
+        contents = re.sub('</html>', PLAUSIBLE_HTML + "</html>", contents)
         outfile.write(contents)
 
 
