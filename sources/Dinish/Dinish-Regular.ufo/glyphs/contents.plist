@@ -466,6 +466,10 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.dnom</key>
+  <string>eight.dnom.glif</string>
+  <key>eight.numr</key>
+  <string>eight.numr.glif</string>
   <key>eight.osf</key>
   <string>eight.osf.glif</string>
   <key>eight.tlf</key>
@@ -498,6 +502,10 @@
   <string>fi.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>five.dnom</key>
+  <string>five.dnom.glif</string>
+  <key>five.numr</key>
+  <string>five.numr.glif</string>
   <key>five.osf</key>
   <string>five.osf.glif</string>
   <key>five.tlf</key>
@@ -646,6 +654,10 @@
   <string>ncommaaccent.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
+  <key>nine.dnom</key>
+  <string>nine.dnom.glif</string>
+  <key>nine.numr</key>
+  <string>nine.numr.glif</string>
   <key>nine.osf</key>
   <string>nine.osf.glif</string>
   <key>nine.tlf</key>
@@ -798,6 +810,10 @@
   <string>semicolon.glif</string>
   <key>seven</key>
   <string>seven.glif</string>
+  <key>seven.dnom</key>
+  <string>seven.dnom.glif</string>
+  <key>seven.numr</key>
+  <string>seven.numr.glif</string>
   <key>seven.osf</key>
   <string>seven.osf.glif</string>
   <key>seven.tlf</key>
@@ -806,6 +822,10 @@
   <string>seven.tosf.glif</string>
   <key>six</key>
   <string>six.glif</string>
+  <key>six.dnom</key>
+  <string>six.dnom.glif</string>
+  <key>six.numr</key>
+  <string>six.numr.glif</string>
   <key>six.osf</key>
   <string>six.osf.glif</string>
   <key>six.tlf</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.numr" format="2">
-  <advance width="394"/>
+  <advance width="307"/>
   <outline>
-    <component base="two.sups" xOffset="-35" yOffset="-161"/>
+    <component base="two.dnom" yOffset="287"/>
   </outline>
 </glyph>
