@@ -2,6 +2,7 @@
 layout: default
 title: DINish -- a fresh take on a classic typeface
 permalink: /
+canonical_url: https://fonts.playbeing.com/dinish/
 ---
 
 ![DINish](/din-vs-dinish.jpeg "DIN vs DINish")
