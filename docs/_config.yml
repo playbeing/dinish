@@ -18,6 +18,7 @@ commonmark:
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 theme: jekyll-theme-slate
 plugins:
+  - jekyll-sitemap
   #- jekyll-feed
 
 sass:
