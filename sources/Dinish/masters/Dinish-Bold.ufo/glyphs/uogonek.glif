@@ -4,6 +4,17 @@
   <unicode hex="0173"/>
   <outline>
     <component base="u"/>
-    <component base="ogonek" xOffset="-40" yOffset="20"/>
+    <contour>
+      <point x="193" y="-86" type="curve"/>
+      <point x="305" y="33" type="line"/>
+      <point x="396.259" y="33" type="line"/>
+      <point x="295" y="-94" type="line"/>
+      <point x="311.54" y="-112.299"/>
+      <point x="355.076" y="-118.211"/>
+      <point x="387" y="-118" type="curve"/>
+      <point x="387" y="-207" type="line"/>
+      <point x="301.512" y="-207"/>
+      <point x="223.142" y="-171.217"/>
+    </contour>
   </outline>
 </glyph>

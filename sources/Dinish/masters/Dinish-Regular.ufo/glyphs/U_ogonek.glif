@@ -5,20 +5,16 @@
   <outline>
     <component base="U"/>
     <contour>
-      <point x="501" y="61" type="curve"/>
+      <point x="258" y="-101" type="curve"/>
+      <point x="379" y="-1" type="line"/>
+      <point x="501" y="61" type="line"/>
       <point x="327" y="-106" type="line"/>
       <point x="361.539" y="-152.566"/>
       <point x="388.945" y="-156.113"/>
       <point x="444" y="-156" type="curve"/>
       <point x="444" y="-218" type="line"/>
-      <point x="359.395" y="-216.954"/>
+      <point x="359.395" y="-218"/>
       <point x="286.539" y="-186.878"/>
-      <point x="258" y="-101" type="curve"/>
-      <point x="293.296" y="-71.83"/>
-      <point x="342.343" y="-25.4383"/>
-      <point x="379" y="-1" type="curve" smooth="yes"/>
-      <point x="410.455" y="19.9698"/>
-      <point x="465.882" y="43.1531"/>
     </contour>
   </outline>
 </glyph>

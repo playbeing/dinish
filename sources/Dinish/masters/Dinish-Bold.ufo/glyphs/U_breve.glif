@@ -4,6 +4,7 @@
   <unicode hex="016C"/>
   <outline>
     <component base="U"/>
-    <component base="breve" xOffset="60" yOffset="200"/>
+    <component base="brevecmb" xOffset="314" yOffset="200.003"/>
   </outline>
+  <guideline angle="90" x="312" y="0"/>
 </glyph>

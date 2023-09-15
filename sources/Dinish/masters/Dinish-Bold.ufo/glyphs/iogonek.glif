@@ -5,17 +5,16 @@
   <outline>
     <component base="i"/>
     <contour>
-      <point x="92" y="13" type="line"/>
-      <point x="184" y="13" type="line"/>
-      <point x="184" y="1" type="line"/>
-      <point x="92" y="-49" type="line"/>
-      <point x="118.026" y="-76.19"/>
-      <point x="149.52" y="-72.2802"/>
-      <point x="184" y="-73" type="curve"/>
-      <point x="184" y="-162" type="line"/>
-      <point x="96.6633" y="-160.635"/>
-      <point x="20.8643" y="-127.721"/>
-      <point x="-10" y="-41" type="curve"/>
+      <point x="71.3695" y="0" type="line"/>
+      <point x="185.08" y="0" type="line"/>
+      <point x="71.3695" y="-62" type="line"/>
+      <point x="89.9541" y="-82.1068"/>
+      <point x="128.889" y="-86"/>
+      <point x="163.369" y="-86" type="curve"/>
+      <point x="163.369" y="-175" type="line"/>
+      <point x="76.0328" y="-175"/>
+      <point x="0.233742" y="-140.721"/>
+      <point x="-30.6305" y="-54" type="curve"/>
     </contour>
   </outline>
 </glyph>
