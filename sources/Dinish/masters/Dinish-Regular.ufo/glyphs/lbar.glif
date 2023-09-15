@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lbar" format="2">
+  <advance width="279"/>
+  <unicode hex="019A"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="20" y="389" type="line"/>
+      <point x="252" y="389" type="line"/>
+      <point x="252" y="322" type="line"/>
+      <point x="20" y="322" type="line"/>
+    </contour>
+  </outline>
+</glyph>

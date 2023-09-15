@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="624"/>
+  <unicode hex="019F"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="120" y="389" type="line"/>
+      <point x="502" y="389" type="line"/>
+      <point x="502" y="322" type="line"/>
+      <point x="120" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

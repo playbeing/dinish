@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis minimum="400" default="400" tag="wght" name="weight" maximum="700">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Dinish" stylename="Bold" name="Bold" filename="masters/Dinish-Bold.ufo">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source familyname="Dinish" stylename="Regular" name="Regular" filename="masters/Dinish-Regular.ufo">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+</designspace>

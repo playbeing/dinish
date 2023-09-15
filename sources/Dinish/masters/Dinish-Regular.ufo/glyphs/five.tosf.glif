@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.tosf" format="2">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="80" y="5" type="curve"/>
+      <point x="151" y="5" type="line"/>
+      <point x="150.79" y="-65.7165"/>
+      <point x="186.26" y="-105"/>
+      <point x="258" y="-105" type="curve" smooth="yes"/>
+      <point x="357.601" y="-105"/>
+      <point x="365.12" y="-25.7526"/>
+      <point x="365.12" y="53.3472" type="curve" smooth="yes"/>
+      <point x="365.12" y="132.692"/>
+      <point x="362.585" y="219"/>
+      <point x="259" y="219" type="curve" smooth="yes"/>
+      <point x="209.812" y="219"/>
+      <point x="172.139" y="193.944"/>
+      <point x="156" y="147" type="curve"/>
+      <point x="91" y="147" type="line"/>
+      <point x="91" y="519" type="line"/>
+      <point x="429" y="519" type="line"/>
+      <point x="429" y="450" type="line"/>
+      <point x="159" y="450" type="line"/>
+      <point x="159" y="241" type="line"/>
+      <point x="185.13" y="271.01"/>
+      <point x="229.847" y="287"/>
+      <point x="269" y="287" type="curve" smooth="yes"/>
+      <point x="421.596" y="287"/>
+      <point x="439.899" y="176.323"/>
+      <point x="439.899" y="58.4849" type="curve" smooth="yes"/>
+      <point x="439.899" y="22" type="line" smooth="yes"/>
+      <point x="439.899" y="-93.2582"/>
+      <point x="379.062" y="-172"/>
+      <point x="259" y="-172" type="curve" smooth="yes"/>
+      <point x="142.859" y="-172"/>
+      <point x="79.8695" y="-112.012"/>
+    </contour>
+  </outline>
+</glyph>
