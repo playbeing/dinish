@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="669"/>
+  <unicode hex="004E"/>
+  <anchor x="329.667" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="594.333" y="707" type="line"/>
+      <point x="594.333" y="0" type="line"/>
+      <point x="499.667" y="0" type="line"/>
+      <point x="169.667" y="526.333" type="line"/>
+      <point x="169.667" y="0" type="line"/>
+      <point x="74.667" y="0" type="line"/>
+      <point x="74.667" y="707" type="line"/>
+      <point x="169.667" y="707" type="line"/>
+      <point x="499.667" y="180.667" type="line"/>
+      <point x="499.667" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>522</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=75</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=75</string>
+  </dict>
+  </lib>
+</glyph>

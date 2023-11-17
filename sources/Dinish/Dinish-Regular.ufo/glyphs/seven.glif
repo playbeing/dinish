@@ -5,7 +5,9 @@
   <outline>
     <contour>
       <point x="400" y="707" type="line"/>
-      <point x="400" y="639" type="line"/>
+      <point x="400" y="699.706"/>
+      <point x="400.324" y="639.899"/>
+      <point x="400" y="639" type="curve"/>
       <point x="170" y="0" type="line"/>
       <point x="95" y="0" type="line"/>
       <point x="329" y="639" type="line"/>
@@ -14,25 +16,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>639</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>639</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

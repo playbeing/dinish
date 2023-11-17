@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eukrcyr" format="2">
+  <advance width="615"/>
+  <unicode hex="0404"/>
+  <anchor x="307" y="707" name="top"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="140" y="408.571" type="line"/>
+      <point x="380.227" y="408.571" type="line"/>
+      <point x="380.227" y="308.238" type="line"/>
+      <point x="140" y="308.238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=C</string>
+  <key>com.fontlab.recipe</key>
+  <string>O+macron%</string>
+  </dict>
+  </lib>
+</glyph>

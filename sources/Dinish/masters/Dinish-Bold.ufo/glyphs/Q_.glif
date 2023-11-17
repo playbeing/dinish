@@ -2,7 +2,7 @@
 <glyph name="Q" format="2">
   <advance width="614"/>
   <unicode hex="0051"/>
-  <anchor x="307" y="707" name="top"/>
+  <anchor x="308" y="707" name="top"/>
   <outline>
     <contour>
       <point x="51" y="273" type="curve" smooth="yes"/>
@@ -43,6 +43,8 @@
       <point x="186" y="428" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="308" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

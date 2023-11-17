@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacyr" format="2">
+  <advance width="613"/>
+  <unicode hex="042F"/>
+  <anchor x="240" y="707" name="top"/>
+  <outline>
+    <component base="R" xScale="-1" xOffset="613"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="240" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|R</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|R</string>
+  <key>com.fontlab.recipe</key>
+  <string>R%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -25,6 +25,8 @@
       <point x="60" y="89.2301"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="314" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

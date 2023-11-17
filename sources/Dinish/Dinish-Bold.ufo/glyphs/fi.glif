@@ -4,11 +4,7 @@
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="232" y="608" type="curve" smooth="yes"/>
-      <point x="223" y="599"/>
-      <point x="219" y="586"/>
-      <point x="219" y="569" type="curve" smooth="yes"/>
-      <point x="219" y="532" type="line"/>
+      <point x="219" y="532" type="curve"/>
       <point x="314" y="532" type="line"/>
       <point x="314" y="443" type="line"/>
       <point x="219" y="443" type="line"/>
@@ -19,17 +15,13 @@
       <point x="37" y="532" type="line"/>
       <point x="93" y="532" type="line"/>
       <point x="93" y="564" type="line" smooth="yes"/>
-      <point x="93" y="609"/>
-      <point x="106" y="644"/>
-      <point x="132" y="669" type="curve" smooth="yes"/>
-      <point x="158" y="694"/>
-      <point x="194" y="707"/>
+      <point x="93" y="656.254"/>
+      <point x="150.413" y="707"/>
       <point x="241" y="707" type="curve" smooth="yes"/>
       <point x="314" y="707" type="line"/>
       <point x="314" y="621" type="line"/>
-      <point x="272" y="621" type="line" smooth="yes"/>
-      <point x="254" y="621"/>
-      <point x="241" y="617"/>
+      <point x="225.67" y="621"/>
+      <point x="219" y="621.624"/>
     </contour>
     <contour>
       <point x="402" y="532" type="line"/>
@@ -45,52 +37,52 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>443</integer>
-            <key>width</key>
-            <integer>89</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>605</integer>
-            <key>width</key>
-            <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>621</integer>
-            <key>width</key>
-            <integer>86</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>93</integer>
-            <key>width</key>
-            <integer>126</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>402</integer>
-            <key>width</key>
-            <integer>126</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>464</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>604</integer>
+        <key>width</key>
+        <integer>92</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>651</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>117</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>420</integer>
+        <key>width</key>
+        <integer>69</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

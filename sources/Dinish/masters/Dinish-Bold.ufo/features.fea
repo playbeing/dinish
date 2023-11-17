@@ -1,3 +1,10 @@
+#> classes
+#/> otclasses
+@BGR = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
+@CYR = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr igravecyr];
+#/< otclasses
+#< classes
+
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn MOL;
@@ -48,6 +55,16 @@ lookup ligaStandardLigaturesinLatinlookup4 {
   sub \f \i  by \fi;
   sub \f \l  by \fl;
 } ligaStandardLigaturesinLatinlookup4;
+
+lookup localCyrillicBGR {
+  lookupflag 0;
+  sub @CYR by @BGR;
+} localCyrillicBGR;
+
+lookup ss01NLD {
+  sub \i \j by \ij;
+  sub \I \J by \IJ;
+} ss01NLD;
 feature rtla {
   script DFLT;
   language dflt;
@@ -561,12 +578,11 @@ feature locl {
   script latn;
   language MOL;
   lookup loclROM;
-} locl;
 
-lookup ss01NLD {
-  sub \i \j by \ij;
-  sub \I \J by \IJ;
-} ss01NLD;
+  script cyrl;
+  language BGR;
+  lookup localCyrillicBGR;
+} locl;
 feature ss01 {
   featureNames {
     name "Language specific stylistic alternates";
@@ -604,7 +620,7 @@ feature ss01 {
         \circumflex \breve \caron \dotaccent \ring \tilde \endash \emdash
         \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
         \quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand
-        \guilsinglleft \guilsinglright \Euro \trademark \.null \zero.dnom
+        \guilsinglleft \guilsinglright \Euro \trademark \zero.dnom
         \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr \one.numr \two.numr
         \three.numr \four.numr \zero.sups \one.sups \two.sups \three.sups
         \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucyr" format="2">
+  <advance width="553"/>
+  <unicode hex="0423"/>
+  <anchor x="276" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="326" y="136" type="curve" smooth="yes"/>
+      <point x="550" y="707" type="line"/>
+      <point x="402" y="707" type="line"/>
+      <point x="233.623" y="285.349" type="line"/>
+      <point x="224.316" y="245.856" type="line"/>
+      <point x="184" y="153" type="line" smooth="yes"/>
+      <point x="174.212" y="130.456"/>
+      <point x="143.562" y="117"/>
+      <point x="102" y="117" type="curve" smooth="yes"/>
+      <point x="70" y="117" type="line"/>
+      <point x="70" y="-8" type="line"/>
+      <point x="132" y="-8" type="line" smooth="yes"/>
+      <point x="228.305" y="-8"/>
+      <point x="286.437" y="35.1495"/>
+    </contour>
+    <contour>
+      <point x="284.566" y="338.326" type="line"/>
+      <point x="151" y="707" type="line"/>
+      <point x="4" y="707" type="line"/>
+      <point x="205.072" y="193.154" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="276" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Y</string>
+  </dict>
+  </lib>
+</glyph>

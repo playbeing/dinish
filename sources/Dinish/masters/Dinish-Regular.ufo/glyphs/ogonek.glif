@@ -6,12 +6,13 @@
     <contour>
       <point x="358" y="0" type="line"/>
       <point x="423" y="0" type="line"/>
+      <point x="422.525" y="-2.44409" type="line"/>
       <point x="306" y="-105" type="line"/>
       <point x="336.609" y="-148.469"/>
       <point x="372.726" y="-155.456"/>
       <point x="423" y="-155" type="curve"/>
       <point x="423" y="-217" type="line"/>
-      <point x="340.081" y="-216.389"/>
+      <point x="340.079" y="-217"/>
       <point x="264.502" y="-183.814"/>
       <point x="237" y="-100" type="curve"/>
     </contour>

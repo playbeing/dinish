@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacmb" format="2">
   <unicode hex="0327"/>
-  <anchor x="0" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="257" y="12" type="line"/>

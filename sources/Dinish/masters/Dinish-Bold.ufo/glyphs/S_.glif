@@ -2,7 +2,7 @@
 <glyph name="S" format="2">
   <advance width="561"/>
   <unicode hex="0053"/>
-  <anchor x="279" y="707" name="top"/>
+  <anchor x="276" y="707" name="top"/>
   <outline>
     <contour>
       <point x="26" y="215" type="curve"/>
@@ -39,6 +39,8 @@
       <point x="35.3409" y="66.9265"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="276" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

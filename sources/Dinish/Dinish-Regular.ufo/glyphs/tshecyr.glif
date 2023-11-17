@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshecyr" format="2">
+  <advance width="534"/>
+  <unicode hex="045B"/>
+  <anchor x="111" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="77" y="707" type="line"/>
+      <point x="146" y="707" type="line"/>
+      <point x="146" y="456" type="line"/>
+      <point x="178.05" y="503.645"/>
+      <point x="229.809" y="525"/>
+      <point x="286" y="525" type="curve" smooth="yes"/>
+      <point x="399.562" y="525"/>
+      <point x="458" y="450.147"/>
+      <point x="458" y="341" type="curve" smooth="yes"/>
+      <point x="458" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="331" type="line" smooth="yes"/>
+      <point x="388" y="408.127"/>
+      <point x="349.599" y="463"/>
+      <point x="268" y="463" type="curve" smooth="yes"/>
+      <point x="188.148" y="463"/>
+      <point x="146" y="407.265"/>
+      <point x="146" y="331" type="curve" smooth="yes"/>
+      <point x="146" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="643.188" type="line"/>
+      <point x="266" y="643.188" type="line"/>
+      <point x="266" y="579.188" type="line"/>
+      <point x="0" y="579.188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=h</string>
+  <key>com.fontlab.recipe</key>
+  <string>h+macron%</string>
+  </dict>
+  </lib>
+</glyph>

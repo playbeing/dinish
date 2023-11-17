@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="778"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="717.371" y="142.334" type="curve" smooth="yes"/>
+      <point x="717.371" y="231.55"/>
+      <point x="650.98" y="290.64"/>
+      <point x="550.741" y="290.64" type="curve" smooth="yes"/>
+      <point x="395.219" y="290.64" type="line"/>
+      <point x="395.219" y="238.53" type="line"/>
+      <point x="538.205" y="238.53" type="line" smooth="yes"/>
+      <point x="601.746" y="238.53"/>
+      <point x="647.571" y="214.49"/>
+      <point x="647.571" y="146.054" type="curve" smooth="yes"/>
+      <point x="647.571" y="76.4475"/>
+      <point x="602.266" y="51.7365"/>
+      <point x="537.461" y="51.8503" type="curve" smooth="yes"/>
+      <point x="395.219" y="52.1" type="line"/>
+      <point x="395.219" y="0" type="line"/>
+      <point x="550.923" y="0" type="line" smooth="yes"/>
+      <point x="656.145" y="0"/>
+      <point x="717.371" y="52.3554"/>
+    </contour>
+    <contour>
+      <point x="380" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="519" type="line"/>
+      <point x="380" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="519" type="line"/>
+      <point x="77" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="379.701" y="0" type="line"/>
+      <point x="449.701" y="0" type="line"/>
+      <point x="449.701" y="519" type="line"/>
+      <point x="379.701" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="420.828" y="246" type="line"/>
+      <point x="420.828" y="298" type="line"/>
+      <point x="100" y="298" type="line"/>
+      <point x="100" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=encyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr</string>
+  </dict>
+  </lib>
+</glyph>

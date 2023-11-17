@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="517"/>
+  <unicode hex="043F"/>
+  <anchor x="259" y="519" name="top"/>
+  <outline>
+    <component base="dotlessi" xOffset="-8"/>
+    <component base="dotlessi" xOffset="284.701" yOffset="-2.27374e-13"/>
+    <contour>
+      <point x="90" y="467" type="line"/>
+      <point x="90" y="519" type="line"/>
+      <point x="410.828" y="519" type="line"/>
+      <point x="410.828" y="467" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="259" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

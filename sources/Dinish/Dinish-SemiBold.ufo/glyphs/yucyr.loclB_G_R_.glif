@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yucyr.loclBGR" format="2">
+  <advance width="711"/>
+  <anchor x="499" y="527.667" name="top"/>
+  <outline>
+    <component base="o" xOffset="191"/>
+    <contour>
+      <point x="124" y="246" type="line"/>
+      <point x="124" y="321.333" type="line"/>
+      <point x="296.061" y="321.333" type="line"/>
+      <point x="296.061" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="62.333" y="707" type="line"/>
+      <point x="169.667" y="707" type="line"/>
+      <point x="169.667" y="0" type="line"/>
+      <point x="62.333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>yucyr</string>
+  </dict>
+  </lib>
+</glyph>

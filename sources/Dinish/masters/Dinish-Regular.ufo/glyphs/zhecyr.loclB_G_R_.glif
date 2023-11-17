@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="786"/>
+  <anchor x="782" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="427" y="707" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="505.526" y="248.092" type="line"/>
+      <point x="564.851" y="282.987" type="line"/>
+      <point x="767" y="0" type="line"/>
+      <point x="682" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="417.133" y="261.052" type="line"/>
+      <point x="417.133" y="267.756" type="line"/>
+      <point x="480.896" y="267.756" type="line"/>
+      <point x="653.926" y="519" type="line"/>
+      <point x="737.926" y="519" type="line"/>
+      <point x="551.3" y="261.037" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="246" type="line"/>
+      <point x="411" y="298" type="line"/>
+      <point x="541.849" y="298" type="line"/>
+      <point x="541.849" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="221.149" y="282.987" type="line"/>
+      <point x="280.474" y="248.092" type="line"/>
+    </contour>
+    <contour>
+      <point x="234.7" y="261.037" type="line"/>
+      <point x="48.0736" y="519" type="line"/>
+      <point x="132.074" y="519" type="line"/>
+      <point x="305.104" y="267.756" type="line"/>
+      <point x="368.867" y="267.756" type="line"/>
+      <point x="368.867" y="261.052" type="line"/>
+    </contour>
+    <contour>
+      <point x="244.151" y="246" type="line"/>
+      <point x="244.151" y="298" type="line"/>
+      <point x="375" y="298" type="line"/>
+      <point x="375" y="246" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="277" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+  <guideline angle="90" name="vertical" x="782" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>zhecyr</string>
+  </dict>
+  </lib>
+</glyph>

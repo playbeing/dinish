@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecmb" format="2">
   <unicode hex="0306"/>
+  <anchor x="0" y="532" name="_top"/>
   <outline>
     <contour>
       <point x="0" y="568" type="curve" smooth="yes"/>

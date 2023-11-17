@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr" format="2">
+  <advance width="728"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="574.229" y="-169.821" type="line"/>
+      <point x="574.229" y="117.268" type="line"/>
+      <point x="708.229" y="117.27" type="line"/>
+      <point x="708.229" y="-169.821" type="line"/>
+    </contour>
+    <contour>
+      <point x="26.623" y="-169.821" type="line"/>
+      <point x="26.623" y="116.943" type="line"/>
+      <point x="160.623" y="116.944" type="line"/>
+      <point x="160.623" y="-169.821" type="line"/>
+    </contour>
+    <contour>
+      <point x="77.412" y="-0.375" type="line"/>
+      <point x="77.412" y="116.621" type="line"/>
+      <point x="586.631" y="116.621" type="line"/>
+      <point x="586.631" y="-0.375" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="0" type="line"/>
+      <point x="499" y="707" type="line"/>
+      <point x="633" y="707" type="line"/>
+      <point x="633" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="590" type="line"/>
+      <point x="250" y="707" type="line"/>
+      <point x="514" y="707" type="line"/>
+      <point x="514" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="56.98" y="116.808" type="line"/>
+      <point x="103.177" y="116.944"/>
+      <point x="152.74" y="222.559"/>
+      <point x="172.86" y="507.063" type="curve" smooth="yes"/>
+      <point x="187" y="707" type="line"/>
+      <point x="321" y="707" type="line"/>
+      <point x="305.66" y="490.093" type="line" smooth="yes"/>
+      <point x="288.586" y="248.667"/>
+      <point x="224.643" y="0"/>
+      <point x="56.6" y="0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

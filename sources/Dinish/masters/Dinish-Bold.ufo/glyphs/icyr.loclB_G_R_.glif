@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr.loclBGR" format="2">
+  <advance width="532"/>
+  <anchor x="265" y="532" name="top"/>
+  <outline>
+    <component base="n" xScale="-1" yScale="-1" xOffset="532" yOffset="532"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="265" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="532"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  <key>com.fontlab.recipe</key>
+  <string>icyr</string>
+  </dict>
+  </lib>
+</glyph>

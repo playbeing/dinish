@@ -2,5 +2,53 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>BGR</key>
+  <array>
+    <string>Decyr.loclBGR</string>
+    <string>Elcyr.loclBGR</string>
+    <string>vecyr.loclBGR</string>
+    <string>gecyr.loclBGR</string>
+    <string>decyr.loclBGR</string>
+    <string>zhecyr.loclBGR</string>
+    <string>zecyr.loclBGR</string>
+    <string>icyr.loclBGR</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>kacyr.loclBGR</string>
+    <string>elcyr.loclBGR</string>
+    <string>pecyr.loclBGR</string>
+    <string>tecyr.loclBGR</string>
+    <string>tsecyr.loclBGR</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr.loclBGR</string>
+    <string>hardcyr.loclBGR</string>
+    <string>ylongcyr.loclBGR</string>
+    <string>softcyr.loclBGR</string>
+    <string>yucyr.loclBGR</string>
+    <string>igravecyr.loclBGR</string>
+  </array>
+  <key>CYR</key>
+  <array>
+    <string>Decyr</string>
+    <string>Elcyr</string>
+    <string>vecyr</string>
+    <string>gecyr</string>
+    <string>decyr</string>
+    <string>zhecyr</string>
+    <string>zecyr</string>
+    <string>icyr</string>
+    <string>ishortcyr</string>
+    <string>kacyr</string>
+    <string>elcyr</string>
+    <string>pecyr</string>
+    <string>tecyr</string>
+    <string>tsecyr</string>
+    <string>shacyr</string>
+    <string>shchacyr</string>
+    <string>hardcyr</string>
+    <string>ylongcyr</string>
+    <string>softcyr</string>
+    <string>yucyr</string>
+    <string>igravecyr</string>
+  </array>
 </dict>
 </plist>

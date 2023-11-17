@@ -3,7 +3,7 @@
   <advance width="650"/>
   <unicode hex="016C"/>
   <outline>
-    <component base="U"/>
+    <component base="U" xOffset="2"/>
     <component base="brevecmb" xOffset="310.3" yOffset="186"/>
   </outline>
   <guideline angle="90" x="310" y="0"/>

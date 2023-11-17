@@ -2,6 +2,7 @@
 <glyph name="b" format="2">
   <advance width="522"/>
   <unicode hex="0062"/>
+  <anchor x="112" y="707" name="top"/>
   <outline>
     <contour>
       <point x="146" y="69.0319" type="curve"/>
@@ -40,6 +41,8 @@
       <point x="392" y="133.828"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="112" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

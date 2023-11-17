@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="568"/>
+  <outline>
+    <component base="softcyr.loclBGR" xOffset="53"/>
+    <contour>
+      <point x="0.759" y="467" type="line"/>
+      <point x="0.759" y="519" type="line"/>
+      <point x="193.768" y="519" type="line"/>
+      <point x="193.768" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr.loclBGR</string>
+  </dict>
+  </lib>
+</glyph>

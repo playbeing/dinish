@@ -2,6 +2,7 @@
 <glyph name="v" format="2">
   <advance width="449"/>
   <unicode hex="0076"/>
+  <anchor x="225" y="519" name="top"/>
   <outline>
     <contour>
       <point x="14" y="519" type="line"/>
@@ -13,6 +14,8 @@
       <point x="194" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="225" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

@@ -2,6 +2,7 @@
 <glyph name="K" format="2">
   <advance width="612"/>
   <unicode hex="004B"/>
+  <anchor x="295" y="707" name="top"/>
   <outline>
     <contour>
       <point x="301" y="373" type="line"/>
@@ -18,6 +19,8 @@
       <point x="517" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="295" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -47,6 +50,8 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N</string>
   </dict>
   </lib>
 </glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="443"/>
+  <unicode hex="0433"/>
+  <anchor x="227.667" y="527.667" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <contour>
+      <point x="68.333" y="452.333" type="line"/>
+      <point x="68.333" y="527.667" type="line"/>
+      <point x="389.161" y="527.667" type="line"/>
+      <point x="389.161" y="452.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

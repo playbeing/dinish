@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="698"/>
+  <unicode hex="042A"/>
+  <outline>
+    <component base="Softcyr" xOffset="108"/>
+    <contour>
+      <point x="0" y="640" type="line"/>
+      <point x="0" y="707" type="line"/>
+      <point x="258" y="707" type="line"/>
+      <point x="258" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Softcyr</string>
+  </dict>
+  </lib>
+</glyph>

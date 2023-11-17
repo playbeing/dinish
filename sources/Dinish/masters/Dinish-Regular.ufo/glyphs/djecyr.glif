@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="djecyr" format="2">
+  <advance width="535"/>
+  <unicode hex="0452"/>
+  <anchor x="111" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="280.295" y="-92" type="line"/>
+      <point x="347.161" y="-92"/>
+      <point x="388.295" y="-80.0563"/>
+      <point x="388.295" y="-15" type="curve" smooth="yes"/>
+      <point x="388.295" y="159.921" type="line"/>
+      <point x="458.295" y="159.921" type="line"/>
+      <point x="458.295" y="-19" type="line" smooth="yes"/>
+      <point x="458.295" y="-104.166"/>
+      <point x="418.311" y="-156"/>
+      <point x="329.295" y="-156" type="curve" smooth="yes"/>
+      <point x="280.295" y="-156" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="707" type="line"/>
+      <point x="146" y="707" type="line"/>
+      <point x="146" y="456" type="line"/>
+      <point x="178.05" y="503.645"/>
+      <point x="229.809" y="525"/>
+      <point x="286" y="525" type="curve" smooth="yes"/>
+      <point x="399.562" y="525"/>
+      <point x="458" y="450.147"/>
+      <point x="458" y="341" type="curve" smooth="yes"/>
+      <point x="458" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="331" type="line" smooth="yes"/>
+      <point x="388" y="408.127"/>
+      <point x="349.599" y="463"/>
+      <point x="268" y="463" type="curve" smooth="yes"/>
+      <point x="188.148" y="463"/>
+      <point x="146" y="407.265"/>
+      <point x="146" y="331" type="curve" smooth="yes"/>
+      <point x="146" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="643.187" type="line"/>
+      <point x="266" y="643.187" type="line"/>
+      <point x="266" y="579.187" type="line"/>
+      <point x="0" y="579.187" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="111" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <guideline angle="90" name="vertical" x="111" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=h</string>
+  <key>com.fontlab.recipe</key>
+  <string>h+dotlessj+macron</string>
+  </dict>
+  </lib>
+</glyph>

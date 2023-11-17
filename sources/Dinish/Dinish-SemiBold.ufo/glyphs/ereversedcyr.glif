@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversedcyr" format="2">
+  <advance width="516"/>
+  <unicode hex="044D"/>
+  <anchor x="260.333" y="527.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="464.669" y="213.667" type="line" smooth="yes"/>
+      <point x="464.669" y="74.881"/>
+      <point x="394.933" y="-6"/>
+      <point x="253.003" y="-6" type="curve" smooth="yes"/>
+      <point x="138.256" y="-6"/>
+      <point x="49.6692" y="55.96"/>
+      <point x="49.6692" y="177.667" type="curve" smooth="yes"/>
+      <point x="49.6692" y="183.667" type="line"/>
+      <point x="153.003" y="183.667" type="line"/>
+      <point x="152.618" y="121.673"/>
+      <point x="191.793" y="89.333"/>
+      <point x="251.336" y="89.333" type="curve" smooth="yes"/>
+      <point x="332.377" y="89.333"/>
+      <point x="357.336" y="142.808"/>
+      <point x="357.336" y="215.667" type="curve" smooth="yes"/>
+      <point x="357.336" y="312.333" type="line" smooth="yes"/>
+      <point x="357.336" y="384.535"/>
+      <point x="330.948" y="438.333"/>
+      <point x="251.003" y="438.333" type="curve" smooth="yes"/>
+      <point x="190.652" y="438.333"/>
+      <point x="152.632" y="403.772"/>
+      <point x="153.003" y="342" type="curve"/>
+      <point x="49.6692" y="342" type="line"/>
+      <point x="49.1132" y="469.624"/>
+      <point x="130.168" y="534.667"/>
+      <point x="253.336" y="534.667" type="curve" smooth="yes"/>
+      <point x="394.261" y="534.667"/>
+      <point x="464.669" y="452.68"/>
+      <point x="464.669" y="315" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="212.175" y="246" type="line"/>
+      <point x="212.175" y="321.333" type="line"/>
+      <point x="395.336" y="321.333" type="line"/>
+      <point x="395.336" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|c</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|c</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+hyphen%</string>
+  </dict>
+  </lib>
+</glyph>

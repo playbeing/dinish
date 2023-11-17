@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="elcyr" format="2">
+  <advance width="517"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="14.0303" y="98.668" type="line"/>
+      <point x="47.9063" y="98.746"/>
+      <point x="71.1593" y="129.204"/>
+      <point x="78.1853" y="198.124" type="curve" smooth="yes"/>
+      <point x="111.534" y="527.662" type="line"/>
+      <point x="218" y="527.662" type="line"/>
+      <point x="183.694" y="163.564" type="line" smooth="yes"/>
+      <point x="173.311" y="52.826"/>
+      <point x="116.543" y="0"/>
+      <point x="14.0303" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="153" y="447.333" type="line"/>
+      <point x="153" y="527.667" type="line"/>
+      <point x="389" y="527.667" type="line"/>
+      <point x="389" y="447.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="347.666" y="527.667" type="line"/>
+      <point x="455" y="527.667" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="347.666" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=13</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

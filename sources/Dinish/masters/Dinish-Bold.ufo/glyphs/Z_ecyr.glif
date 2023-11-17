@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zecyr" format="2">
+  <advance width="621"/>
+  <unicode hex="0417"/>
+  <outline>
+    <contour>
+      <point x="570" y="199" type="curve" smooth="yes"/>
+      <point x="570" y="269.899"/>
+      <point x="538.988" y="334.697"/>
+      <point x="472" y="364" type="curve"/>
+      <point x="528.409" y="392.15"/>
+      <point x="561" y="451.284"/>
+      <point x="561" y="514" type="curve" smooth="yes"/>
+      <point x="561" y="648.111"/>
+      <point x="438.352" y="717"/>
+      <point x="312" y="717" type="curve" smooth="yes"/>
+      <point x="152.089" y="717"/>
+      <point x="51.9591" y="637.187"/>
+      <point x="51.73" y="509.54" type="curve"/>
+      <point x="186.73" y="509.54" type="line"/>
+      <point x="186.73" y="565.124"/>
+      <point x="241.632" y="600"/>
+      <point x="312.46" y="600" type="curve" smooth="yes"/>
+      <point x="369.834" y="600"/>
+      <point x="426" y="565.622"/>
+      <point x="426" y="506" type="curve" smooth="yes"/>
+      <point x="426" y="447"/>
+      <point x="387.147" y="418"/>
+      <point x="332" y="418" type="curve" smooth="yes"/>
+      <point x="248.73" y="418" type="line"/>
+      <point x="248.73" y="301" type="line"/>
+      <point x="340" y="301" type="line" smooth="yes"/>
+      <point x="399.005" y="301"/>
+      <point x="436" y="270.045"/>
+      <point x="436" y="208" type="curve" smooth="yes"/>
+      <point x="436" y="145.518"/>
+      <point x="382.211" y="109"/>
+      <point x="320.46" y="109" type="curve" smooth="yes"/>
+      <point x="245.788" y="109"/>
+      <point x="186.73" y="144.481"/>
+      <point x="186.73" y="199" type="curve"/>
+      <point x="51.73" y="198.691" type="line"/>
+      <point x="56.3807" y="76.3651"/>
+      <point x="167.105" y="-8"/>
+      <point x="323" y="-8" type="curve" smooth="yes"/>
+      <point x="453.605" y="-8"/>
+      <point x="570" y="63.5731"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  <key>com.fontlab.recipe</key>
+  <string>three%</string>
+  </dict>
+  </lib>
+</glyph>

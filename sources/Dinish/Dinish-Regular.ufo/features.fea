@@ -1,3 +1,10 @@
+#> classes
+#/> otclasses
+@BGR = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
+@CYR = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr igravecyr];
+#/< otclasses
+#< classes
+
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn MOL;
@@ -49,30 +56,35 @@ lookup ligaStandardLigaturesinLatinlookup4 {
   sub \f \l  by \fl;
 } ligaStandardLigaturesinLatinlookup4;
 
+lookup localCyrillicBGR {
+  lookupflag 0;
+  sub @CYR by @BGR;
+} localCyrillicBGR;
+
+lookup ss01NLD {
+  sub \i \j by \ij;
+  sub \I \J by \IJ;
+} ss01NLD;
 feature rtla {
   script DFLT;
   language dflt;
   lookup rtlaRighttoLeftAlternateslookup0;
 } rtla;
-
 feature sups {
   script DFLT;
   language dflt;
   lookup supsSuperscriptlookup1;
 } sups;
-
 feature frac {
   script DFLT;
   language dflt;
   lookup fracDiagonalFractionslookup2;
 } frac;
-
 feature dlig {
   script latn;
   language dflt;
   lookup dligDiscretionaryLigaturesinLatinlookup3;
 } dlig;
-
 feature liga {
   script latn;
   language dflt;
@@ -382,7 +394,6 @@ lookup kernHorizontalKerninglookup4 {
   pos @kc9_first_6 @kc9_second_2 -72;
   pos @kc9_first_6 @kc9_second_4 -72;
 } kernHorizontalKerninglookup4;
-
 feature kern {
   script DFLT;
   language dflt;
@@ -500,7 +511,6 @@ lookup onumPositioning {
   pos @onum_first_1 @onum_second_1 <0 -91 0 0>;
   pos @onum_first_1 @onum_second_2 <0 -162 0 0>;
 } onumPositioning;
-
 feature onum {
   script DFLT;
   language dflt;
@@ -511,7 +521,6 @@ feature onum {
   lookup onumOldstyleFigures;
   lookup onumPositioning;
 } onum;
-
 feature lnum {
   script DFLT;
   language dflt;
@@ -520,7 +529,6 @@ feature lnum {
   language dflt;
   lookup lnumLiningFigures;
 } lnum;
-
 feature pnum {
   script DFLT;
   language dflt;
@@ -529,7 +537,6 @@ feature pnum {
   language dflt;
   lookup pnumProportionalNumbers;
 } pnum;
-
 feature tnum {
   script DFLT;
   language dflt;
@@ -559,7 +566,6 @@ lookup loclROM {
   sub \tcedilla by \tcommaaccent;
   sub \Tcedilla by \Tcommaaccent;
 } loclROM;
-
 feature locl {
   script latn;
   language PLK;
@@ -572,13 +578,11 @@ feature locl {
   script latn;
   language MOL;
   lookup loclROM;
+
+  script cyrl;
+  language BGR;
+  lookup localCyrillicBGR;
 } locl;
-
-lookup ss01NLD {
-  sub \i \j by \ij;
-  sub \I \J by \IJ;
-} ss01NLD;
-
 feature ss01 {
   featureNames {
     name "Language specific stylistic alternates";
@@ -616,7 +620,7 @@ feature ss01 {
         \circumflex \breve \caron \dotaccent \ring \tilde \endash \emdash
         \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
         \quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand
-        \guilsinglleft \guilsinglright \Euro \trademark \.null \zero.dnom
+        \guilsinglleft \guilsinglright \Euro \trademark \zero.dnom
         \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr \one.numr \two.numr
         \three.numr \four.numr \zero.sups \one.sups \two.sups \three.sups
         \four.sups \fraction \divisionslash \minus \onesuperior \twosuperior

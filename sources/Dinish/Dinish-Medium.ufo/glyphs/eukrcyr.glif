@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eukrcyr" format="2">
+  <advance width="516"/>
+  <unicode hex="0454"/>
+  <outline>
+    <component base="c"/>
+    <contour>
+      <point x="110" y="246" type="line"/>
+      <point x="110" y="309.667" type="line"/>
+      <point x="306.495" y="309.667" type="line"/>
+      <point x="306.495" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=c</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=c</string>
+  </dict>
+  </lib>
+</glyph>

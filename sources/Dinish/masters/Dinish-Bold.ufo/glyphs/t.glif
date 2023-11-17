@@ -2,11 +2,12 @@
 <glyph name="t" format="2">
   <advance width="360"/>
   <unicode hex="0074"/>
+  <anchor x="162" y="681" name="top"/>
   <outline>
     <contour>
       <point x="225" y="443" type="line"/>
       <point x="225" y="162" type="line" smooth="yes"/>
-      <point x="225" y="102.159"/>
+      <point x="225" y="111.141"/>
       <point x="272.573" y="107.031"/>
       <point x="317" y="108" type="curve"/>
       <point x="317" y="0" type="line"/>
@@ -25,6 +26,8 @@
       <point x="328" y="443" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="162" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="681"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

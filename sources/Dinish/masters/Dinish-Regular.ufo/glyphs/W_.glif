@@ -2,6 +2,7 @@
 <glyph name="W" format="2">
   <advance width="815"/>
   <unicode hex="0057"/>
+  <anchor x="408" y="707" name="top"/>
   <outline>
     <contour>
       <point x="808" y="707" type="line"/>
@@ -19,6 +20,8 @@
       <point x="738" y="707" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="408" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

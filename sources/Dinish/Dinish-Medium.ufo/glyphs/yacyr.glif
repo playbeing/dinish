@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacyr" format="2">
+  <advance width="514"/>
+  <unicode hex="044F"/>
+  <outline>
+    <component base="dotlessi" xScale="-1" xOffset="520.577"/>
+    <contour>
+      <point x="204.37" y="286.638" type="line"/>
+      <point x="194.946" y="236.025" type="line"/>
+      <point x="114.849" y="252.908"/>
+      <point x="72.3801" y="296.482"/>
+      <point x="72.3801" y="381.837" type="curve" smooth="yes"/>
+      <point x="72.3801" y="479.257"/>
+      <point x="143.538" y="523.333"/>
+      <point x="240.734" y="523.333" type="curve" smooth="yes"/>
+      <point x="387.06" y="523.333" type="line"/>
+      <point x="387.06" y="459.724" type="line"/>
+      <point x="254.953" y="459.76" type="line" smooth="yes"/>
+      <point x="199.763" y="459.773"/>
+      <point x="161.441" y="436.807"/>
+      <point x="161.441" y="377.846" type="curve" smooth="yes"/>
+      <point x="161.441" y="319.257"/>
+      <point x="201.538" y="298.273"/>
+      <point x="255.449" y="298.273" type="curve" smooth="yes"/>
+      <point x="387.06" y="298.273" type="line"/>
+      <point x="387.06" y="234.85" type="line"/>
+      <point x="194.513" y="234.85" type="line"/>
+      <point x="287.242" y="269.953" type="line"/>
+      <point x="150.053" y="0" type="line"/>
+      <point x="56.2011" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="988"/>
+  <unicode hex="0416"/>
+  <anchor x="493.333" y="707" name="top"/>
+  <outline>
+    <component base="Kacyr" xOffset="371.667"/>
+    <component base="Kacyr" xScale="-1" xOffset="616"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|Kacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Kacyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>K_K%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="590"/>
+  <advance width="591"/>
   <unicode hex="0041"/>
+  <anchor x="295" y="707" name="top"/>
   <outline>
     <contour>
       <point x="445" y="170" type="line"/>
@@ -19,6 +20,8 @@
       <point x="167" y="233" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="295" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

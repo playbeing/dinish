@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
-  <advance width="624"/>
+  <advance width="619"/>
   <unicode hex="0043"/>
+  <anchor x="316" y="707" name="top"/>
   <outline>
     <contour>
       <point x="68" y="262" type="curve" smooth="yes"/>
@@ -35,6 +36,8 @@
       <point x="68" y="98.224"/>
     </contour>
   </outline>
+  <guideline angle="90" name="vertical" x="316" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -70,6 +73,10 @@
       </dict>
     </array>
   </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O-6</string>
   </dict>
   </lib>
 </glyph>

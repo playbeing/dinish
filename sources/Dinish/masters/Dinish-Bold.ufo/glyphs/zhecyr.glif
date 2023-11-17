@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="826"/>
+  <unicode hex="0436"/>
+  <anchor x="413" y="532" name="top"/>
+  <outline>
+    <contour>
+      <point x="476" y="532" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="349" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="518.289" y="257.505" type="line"/>
+      <point x="634.973" y="323.099" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="659" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="466.263" y="257.505" type="line"/>
+      <point x="466.263" y="323.324" type="line"/>
+      <point x="503.861" y="323.272" type="line"/>
+      <point x="636.31" y="532" type="line"/>
+      <point x="787.31" y="532" type="line"/>
+      <point x="592.755" y="257.505" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="246" type="line"/>
+      <point x="424" y="333" type="line"/>
+      <point x="612.745" y="333" type="line"/>
+      <point x="612.745" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="308.021" y="257.505" type="line"/>
+      <point x="191.337" y="323.099" type="line"/>
+      <point x="14.3103" y="0" type="line"/>
+      <point x="167.31" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="360.047" y="257.505" type="line"/>
+      <point x="360.047" y="323.324" type="line"/>
+      <point x="322.449" y="323.272" type="line"/>
+      <point x="190" y="532" type="line"/>
+      <point x="39" y="532" type="line"/>
+      <point x="233.555" y="257.505" type="line"/>
+    </contour>
+    <contour>
+      <point x="402.31" y="246" type="line"/>
+      <point x="402.31" y="333" type="line"/>
+      <point x="213.565" y="333" type="line"/>
+      <point x="213.565" y="246" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="413" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="532"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  <key>com.fontlab.recipe</key>
+  <string>k_k%</string>
+  </dict>
+  </lib>
+</glyph>

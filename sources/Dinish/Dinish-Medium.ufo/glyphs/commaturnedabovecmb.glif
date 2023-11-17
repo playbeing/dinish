@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="21.333" y="591.333" type="line"/>
+      <point x="-83" y="591.333" type="line"/>
+      <point x="46.333" y="722" type="line"/>
+      <point x="126" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

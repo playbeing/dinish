@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr" format="2">
+  <advance width="532"/>
+  <unicode hex="043A"/>
+  <anchor x="250" y="532" name="top"/>
+  <outline>
+    <contour>
+      <point x="182" y="532" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="224.289" y="257.505" type="line"/>
+      <point x="340.973" y="323.099" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.263" y="257.505" type="line"/>
+      <point x="172.263" y="323.324" type="line"/>
+      <point x="209.861" y="323.272" type="line"/>
+      <point x="342.31" y="532" type="line"/>
+      <point x="493.31" y="532" type="line"/>
+      <point x="298.755" y="257.505" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="246" type="line"/>
+      <point x="130" y="333" type="line"/>
+      <point x="318.745" y="333" type="line"/>
+      <point x="318.745" y="246" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="250" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="532"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k</string>
+  </dict>
+  </lib>
+</glyph>

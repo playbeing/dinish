@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="443"/>
+  <unicode hex="0433"/>
+  <anchor x="235" y="519" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <contour>
+      <point x="85" y="467" type="line"/>
+      <point x="85" y="519" type="line"/>
+      <point x="405.828" y="519" type="line"/>
+      <point x="405.828" y="467" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="235" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+</glyph>

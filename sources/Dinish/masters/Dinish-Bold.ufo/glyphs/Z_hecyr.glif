@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="993"/>
+  <unicode hex="0416"/>
+  <anchor x="496" y="707" name="top"/>
+  <outline>
+    <component base="Kacyr" xOffset="369"/>
+    <component base="Kacyr" xScale="-1" xOffset="624"/>
+  </outline>
+  <guideline angle="90" name="vertical" x="496" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <guideline angle="90" name="vertical" x="564" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <guideline angle="90" name="vertical1" x="429" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|Kacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Kacyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>K_K%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="second" format="2">
+  <advance width="389"/>
+  <unicode hex="2033"/>
+  <outline>
+    <component base="acutecomb.loclPLK" xOffset="252"/>
+    <component base="acutecomb.loclPLK" xScale="1" xOffset="95.333"/>
+  </outline>
+</glyph>

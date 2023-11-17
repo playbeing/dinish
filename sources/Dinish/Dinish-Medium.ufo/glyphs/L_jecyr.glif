@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="925"/>
+  <unicode hex="0409"/>
+  <outline>
+    <component base="Softcyr" xOffset="338"/>
+    <contour>
+      <point x="412.667" y="0" type="line"/>
+      <point x="412.667" y="707" type="line"/>
+      <point x="507.334" y="707" type="line"/>
+      <point x="507.334" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="623.333" type="line"/>
+      <point x="133" y="707" type="line"/>
+      <point x="461" y="707" type="line"/>
+      <point x="461" y="623.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="16.9937" y="83.603" type="line"/>
+      <point x="50.6987" y="83.64"/>
+      <point x="65.8507" y="124.18"/>
+      <point x="74.8057" y="237.45" type="curve" smooth="yes"/>
+      <point x="112" y="707" type="line"/>
+      <point x="206.667" y="707" type="line"/>
+      <point x="169.764" y="204.104" type="line" smooth="yes"/>
+      <point x="159.182" y="59.254"/>
+      <point x="110.682" y="-8"/>
+      <point x="16.8667" y="-8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Elcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Softcyr</string>
+  </dict>
+  </lib>
+</glyph>

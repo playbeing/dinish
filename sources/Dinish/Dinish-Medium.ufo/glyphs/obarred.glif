@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarred" format="2">
+  <advance width="519"/>
+  <unicode hex="0275"/>
+  <outline>
+    <component base="o"/>
+    <component base="minus" xScale="1" xOffset="63.333" yOffset="-91"/>
+  </outline>
+</glyph>

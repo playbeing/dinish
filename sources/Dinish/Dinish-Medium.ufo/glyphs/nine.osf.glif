@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.osf" format="2">
+  <advance width="513"/>
+  <outline>
+    <component base="nine.tosf" xOffset="-1.333"/>
+  </outline>
+</glyph>

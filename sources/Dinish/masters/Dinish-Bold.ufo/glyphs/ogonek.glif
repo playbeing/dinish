@@ -8,11 +8,11 @@
       <point x="427" y="13" type="line"/>
       <point x="427" y="1" type="line"/>
       <point x="335" y="-114" type="line"/>
-      <point x="359.011" y="-138.656"/>
-      <point x="395.076" y="-138.211"/>
+      <point x="352.262" y="-131.694"/>
+      <point x="395.075" y="-138"/>
       <point x="427" y="-138" type="curve"/>
       <point x="427" y="-227" type="line"/>
-      <point x="341.512" y="-225.901"/>
+      <point x="341.505" y="-227"/>
       <point x="263.142" y="-191.217"/>
       <point x="233" y="-106" type="curve"/>
     </contour>

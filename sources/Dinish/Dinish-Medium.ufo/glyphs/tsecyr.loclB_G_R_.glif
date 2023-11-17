@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr.loclBGR" format="2">
+  <advance width="544"/>
+  <outline>
+    <component base="n" xScale="-1" xyScale="-5.94961e-17" yScale="-1" xOffset="534" yOffset="523.333"/>
+    <contour>
+      <point x="441.605" y="-169.94" type="line"/>
+      <point x="441.605" y="63.756" type="line"/>
+      <point x="533.605" y="63.756" type="line"/>
+      <point x="533.605" y="-169.94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=decyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhecyr" format="2">
+  <advance width="626"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="67" type="line"/>
+      <point x="543.938" y="67" type="line"/>
+      <point x="543.938" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="-170" type="line"/>
+      <point x="276" y="67" type="line"/>
+      <point x="351" y="67" type="line"/>
+      <point x="351" y="-170" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="707" type="line"/>
+      <point x="544" y="707" type="line"/>
+      <point x="544" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.3348" y="0" type="line"/>
+      <point x="82.3348" y="707" type="line"/>
+      <point x="157.335" y="707" type="line"/>
+      <point x="157.335" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="313" y="0"/>
+  <guideline angle="90" x="276" y="0"/>
+  <guideline angle="90" x="351" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

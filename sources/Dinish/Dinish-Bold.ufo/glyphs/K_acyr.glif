@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr" format="2">
+  <advance width="624"/>
+  <unicode hex="041A"/>
+  <anchor x="298" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="185.652" y="308.318" type="line"/>
+      <point x="185.652" y="396.894" type="line"/>
+      <point x="209.599" y="396.745" type="line"/>
+      <point x="439" y="707" type="line"/>
+      <point x="600" y="707" type="line"/>
+      <point x="282.777" y="308.317" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.312" y="307.112" type="line"/>
+      <point x="336.115" y="416" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="336.115" y="299" type="line"/>
+      <point x="195" y="299" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="707" type="line"/>
+      <point x="195" y="707" type="line"/>
+      <point x="195" y="416" type="line"/>
+      <point x="336.115" y="416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>K%</string>
+  </dict>
+  </lib>
+</glyph>

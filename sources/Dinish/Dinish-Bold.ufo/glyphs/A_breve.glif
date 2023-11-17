@@ -4,6 +4,12 @@
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="brevecmb" xOffset="310" yOffset="187"/>
+    <component base="brevecmb" xOffset="310.001" yOffset="175"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+brevecmb</string>
+  </dict>
+  </lib>
 </glyph>

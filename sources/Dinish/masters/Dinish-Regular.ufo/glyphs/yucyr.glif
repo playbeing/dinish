@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yucyr" format="2">
+  <advance width="708"/>
+  <unicode hex="044E"/>
+  <anchor x="491" y="519" name="top"/>
+  <outline>
+    <component base="dotlessi" xOffset="-8"/>
+    <component base="o" xOffset="191"/>
+    <contour>
+      <point x="122" y="246" type="line"/>
+      <point x="122" y="298" type="line"/>
+      <point x="283.74" y="298" type="line"/>
+      <point x="283.74" y="246" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="112" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+  <guideline angle="90" name="vertical" x="491" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="519"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi_o</string>
+  </dict>
+  </lib>
+</glyph>

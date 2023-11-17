@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="241"/>
+  <unicode hex="012F"/>
+  <outline>
+    <component base="i"/>
+    <contour>
+      <point x="79.79" y="0" type="line"/>
+      <point x="161.027" y="0" type="line"/>
+      <point x="45.123" y="-90.667" type="line"/>
+      <point x="71.724" y="-126.348"/>
+      <point x="108.781" y="-132.304"/>
+      <point x="153.79" y="-132" type="curve"/>
+      <point x="153.79" y="-203" type="line"/>
+      <point x="69.398" y="-203"/>
+      <point x="-6.254" y="-169.45"/>
+      <point x="-34.877" y="-84.667" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

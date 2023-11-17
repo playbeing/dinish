@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zecyr" format="2">
+  <advance width="597"/>
+  <unicode hex="0417"/>
+  <outline>
+    <contour>
+      <point x="530" y="190" type="curve" smooth="yes"/>
+      <point x="530" y="271.874"/>
+      <point x="490.334" y="339.925"/>
+      <point x="410" y="364" type="curve"/>
+      <point x="479.251" y="386.349"/>
+      <point x="519" y="452.291"/>
+      <point x="519" y="524" type="curve" smooth="yes"/>
+      <point x="519" y="652.593"/>
+      <point x="426.602" y="716"/>
+      <point x="300.283" y="716" type="curve" smooth="yes"/>
+      <point x="159.434" y="716"/>
+      <point x="68.82" y="638.879"/>
+      <point x="68.82" y="519.003" type="curve"/>
+      <point x="143.82" y="519" type="line"/>
+      <point x="143.82" y="597.881"/>
+      <point x="202.456" y="649"/>
+      <point x="292.935" y="649" type="curve" smooth="yes"/>
+      <point x="381.064" y="649"/>
+      <point x="444" y="608.724"/>
+      <point x="444" y="520" type="curve" smooth="yes"/>
+      <point x="444" y="431.711"/>
+      <point x="378.359" y="394"/>
+      <point x="291.679" y="394" type="curve" smooth="yes"/>
+      <point x="198.82" y="394" type="line"/>
+      <point x="198.82" y="328" type="line"/>
+      <point x="297.727" y="328" type="line" smooth="yes"/>
+      <point x="389.102" y="328"/>
+      <point x="455" y="286.986"/>
+      <point x="455" y="195" type="curve" smooth="yes"/>
+      <point x="455" y="101.442"/>
+      <point x="384.228" y="59"/>
+      <point x="291.14" y="59" type="curve" smooth="yes"/>
+      <point x="201.202" y="59"/>
+      <point x="143.82" y="109.635"/>
+      <point x="143.82" y="189" type="curve"/>
+      <point x="68.82" y="188.997" type="line"/>
+      <point x="68.82" y="69.2515"/>
+      <point x="156.536" y="-8"/>
+      <point x="292.503" y="-8" type="curve" smooth="yes"/>
+      <point x="421.976" y="-8"/>
+      <point x="530" y="58.8457"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  <key>com.fontlab.recipe</key>
+  <string>three%</string>
+  </dict>
+  </lib>
+</glyph>
