@@ -147,6 +147,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+- 2023-11-26 - v3.004: Extended Cyrillic and extended Latin. Combining all plain source files in one VFC font and creating a variable version together with static versions.
 - 2023-11-16 - v3.003: Cyrillic glyphs for Russian, Serbian, Bulgarian languages in Dinish (normal). Full interpolation between Regular and Bold for creation of the following instances: Regular, Medium, SemiBold, Bold.
 - 2022-07-23 - v3.002: Add uppercase Esszet and Dutch IJ/ij digraphs (with ss01 stylistic alternate), U/u with breve and dotless j.
 - 2022-07-13 - v3.001: Reworked vertical metrics, may cause line spacing changes.
