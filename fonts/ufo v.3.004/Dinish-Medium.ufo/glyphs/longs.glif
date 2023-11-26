@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="2">
+  <advance width="297"/>
+  <unicode hex="017F"/>
+  <anchor x="136.333" y="774" name="top"/>
+  <outline>
+    <contour>
+      <point x="69.667" y="0" type="line"/>
+      <point x="158.333" y="0" type="line"/>
+      <point x="158.333" y="457" type="line"/>
+      <point x="262.667" y="457" type="line"/>
+      <point x="262.667" y="523.333" type="line"/>
+      <point x="158.333" y="523.333" type="line"/>
+      <point x="158.333" y="545" type="line" smooth="yes"/>
+      <point x="158.333" y="620.017"/>
+      <point x="172.468" y="640.9"/>
+      <point x="246.934" y="640.9" type="curve" smooth="yes"/>
+      <point x="262.667" y="640.9" type="line"/>
+      <point x="262.667" y="707" type="line"/>
+      <point x="202.333" y="707" type="line" smooth="yes"/>
+      <point x="119.112" y="707"/>
+      <point x="69.667" y="656.117"/>
+      <point x="69.667" y="573.333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=f</string>
+  <key>com.fontlab.recipe</key>
+  <string>f</string>
+  </dict>
+  </lib>
+</glyph>

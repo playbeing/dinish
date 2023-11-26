@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="925"/>
+  <unicode hex="0409"/>
+  <outline>
+    <component base="Elcyr"/>
+    <contour>
+      <point x="436.82" y="0" type="line"/>
+      <point x="636" y="0" type="line" smooth="yes"/>
+      <point x="776.459" y="0"/>
+      <point x="858" y="77.5002"/>
+      <point x="858" y="211" type="curve" smooth="yes"/>
+      <point x="858" y="337.315"/>
+      <point x="773.461" y="415"/>
+      <point x="636" y="415" type="curve" smooth="yes"/>
+      <point x="436.82" y="415" type="line"/>
+      <point x="436.82" y="348" type="line"/>
+      <point x="630" y="348" type="line" smooth="yes"/>
+      <point x="729.797" y="348"/>
+      <point x="783" y="300.361"/>
+      <point x="783" y="211" type="curve" smooth="yes"/>
+      <point x="783" y="117.13"/>
+      <point x="730.561" y="68.1187"/>
+      <point x="630" y="68" type="curve" smooth="yes"/>
+      <point x="436.82" y="67.772" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Elcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Softcyr</string>
+  </dict>
+  </lib>
+</glyph>

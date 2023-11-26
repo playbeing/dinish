@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080301" format="2">
+  <anchor x="0" y="586" name="_top"/>
+  <outline>
+    <component base="uni0308"/>
+    <component base="uni0301" xOffset="41" yOffset="120"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0308+uni0301</string>
+  </dict>
+  </lib>
+</glyph>

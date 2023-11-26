@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="489"/>
+  <unicode hex="019F"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="111" y="323" type="line"/>
+      <point x="393" y="323" type="line"/>
+      <point x="393" y="389" type="line"/>
+      <point x="111" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

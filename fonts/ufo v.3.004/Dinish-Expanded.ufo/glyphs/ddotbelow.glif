@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddotbelow" format="2">
+  <advance width="584"/>
+  <unicode hex="1E0D"/>
+  <anchor x="270" y="590" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="uni0323" xOffset="270"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d+uni0323</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

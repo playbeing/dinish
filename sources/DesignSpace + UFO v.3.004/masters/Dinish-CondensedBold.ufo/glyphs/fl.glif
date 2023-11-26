@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="2">
+  <advance width="539"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <component base="l" xOffset="294"/>
+    <component base="f"/>
+  </outline>
+  <guideline angle="90" color="0.627451,0.627451,0.643137,1" name="caret.1" x="305" y="0"/>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmacrondot" format="2">
+  <advance width="299"/>
+  <unicode hex="1E39"/>
+  <anchor x="300" y="397" name="dot"/>
+  <outline>
+    <component base="ldotbelow"/>
+    <component base="uni0304" xOffset="119" yOffset="174"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E37+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

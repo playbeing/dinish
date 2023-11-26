@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="617"/>
+  <outline>
+    <contour>
+      <point x="135.931" y="496" type="line"/>
+      <point x="135.931" y="501.231" type="line" smooth="yes"/>
+      <point x="135.931" y="598.35"/>
+      <point x="207.466" y="648"/>
+      <point x="300.927" y="648" type="curve" smooth="yes"/>
+      <point x="428.343" y="648"/>
+      <point x="475.927" y="568.202"/>
+      <point x="475.927" y="450" type="curve" smooth="yes"/>
+      <point x="475.927" y="266" type="line" smooth="yes"/>
+      <point x="475.927" y="146.176"/>
+      <point x="434.71" y="60"/>
+      <point x="301.927" y="60" type="curve" smooth="yes"/>
+      <point x="197.599" y="60"/>
+      <point x="135.973" y="131.355"/>
+      <point x="135.973" y="252.154" type="curve" smooth="yes"/>
+      <point x="135.973" y="380.297" type="line"/>
+      <point x="61" y="380.297" type="line"/>
+      <point x="61" y="250.784" type="line" smooth="yes"/>
+      <point x="61" y="85.1522"/>
+      <point x="144.256" y="-8"/>
+      <point x="301.927" y="-8" type="curve" smooth="yes"/>
+      <point x="474.907" y="-8"/>
+      <point x="549.927" y="99.0174"/>
+      <point x="549.927" y="263" type="curve" smooth="yes"/>
+      <point x="549.927" y="446" type="line" smooth="yes"/>
+      <point x="549.927" y="609.776"/>
+      <point x="474.304" y="716"/>
+      <point x="301.927" y="716" type="curve" smooth="yes"/>
+      <point x="167.855" y="716"/>
+      <point x="62.9274" y="642.14"/>
+      <point x="62.9274" y="500" type="curve" smooth="yes"/>
+      <point x="62.9274" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="84.3705" y="380.286" type="line"/>
+      <point x="84.3705" y="313.286" type="line"/>
+      <point x="491.003" y="313.286" type="line"/>
+      <point x="491.003" y="380.286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ereversedcyr</string>
+  </dict>
+  </lib>
+</glyph>

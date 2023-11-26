@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="njecyr" format="2">
+  <advance width="813"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="375.667" y="0" type="line"/>
+      <point x="464.333" y="0" type="line"/>
+      <point x="464.333" y="523.333" type="line"/>
+      <point x="375.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="69.667" y="0" type="line"/>
+      <point x="158.333" y="0" type="line"/>
+      <point x="158.333" y="523.333" type="line"/>
+      <point x="69.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="138.333" y="240.334" type="line"/>
+      <point x="395.667" y="240.334" type="line"/>
+      <point x="395.667" y="320.667" type="line"/>
+      <point x="138.333" y="320.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="438.333" y="0" type="line"/>
+      <point x="592.667" y="0" type="line" smooth="yes"/>
+      <point x="700.333" y="0"/>
+      <point x="757.667" y="53.563"/>
+      <point x="757.667" y="153.25" type="curve" smooth="yes"/>
+      <point x="757.667" y="252.338"/>
+      <point x="716.11" y="320.667"/>
+      <point x="601.667" y="320.667" type="curve" smooth="yes"/>
+      <point x="438.333" y="320.667" type="line"/>
+      <point x="438.333" y="240.333" type="line"/>
+      <point x="596.667" y="240.333" type="line" smooth="yes"/>
+      <point x="643.479" y="240.333"/>
+      <point x="663" y="201.75"/>
+      <point x="663" y="160.136" type="curve" smooth="yes"/>
+      <point x="663" y="111.27"/>
+      <point x="635.869" y="80.333"/>
+      <point x="593.333" y="80.333" type="curve" smooth="yes"/>
+      <point x="438.333" y="80.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=encyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr</string>
+  </dict>
+  </lib>
+</glyph>

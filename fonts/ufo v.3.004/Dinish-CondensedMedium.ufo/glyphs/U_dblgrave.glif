@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udblgrave" format="2">
+  <advance width="484"/>
+  <unicode hex="0214"/>
+  <anchor x="242.667" y="-86" name="bottom"/>
+  <anchor x="278" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni030F" xScale="1" xOffset="242.667" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

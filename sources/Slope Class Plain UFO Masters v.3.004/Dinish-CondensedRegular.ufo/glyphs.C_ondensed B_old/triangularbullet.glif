@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangularbullet" format="2">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="60" y="154" type="line"/>
+      <point x="340" y="314" type="line"/>
+      <point x="60" y="468" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

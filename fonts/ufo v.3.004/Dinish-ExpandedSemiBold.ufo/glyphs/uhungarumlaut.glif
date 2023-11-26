@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhungarumlaut" format="2">
+  <advance width="585"/>
+  <unicode hex="0171"/>
+  <anchor x="293" y="-86" name="bottom"/>
+  <anchor x="368.667" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni030B" xyScale="-5.03301e-20" xOffset="292.333" yOffset="-1.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni030B</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

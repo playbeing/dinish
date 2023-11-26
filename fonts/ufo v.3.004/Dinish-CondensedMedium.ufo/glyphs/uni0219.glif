@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0219" format="2">
+  <advance width="394"/>
+  <unicode hex="0219"/>
+  <anchor x="199.333" y="594.667" name="top"/>
+  <anchor x="178" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="s"/>
+    <component base="uni0326" xyScale="-1.75267e-18" xOffset="199" yOffset="-49.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

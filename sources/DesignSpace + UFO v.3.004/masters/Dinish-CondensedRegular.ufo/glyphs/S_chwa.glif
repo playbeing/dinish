@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="489"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="128" y="502" type="line"/>
+      <point x="128" y="511" type="line" smooth="yes"/>
+      <point x="128" y="600.439"/>
+      <point x="168.116" y="649"/>
+      <point x="242" y="649" type="curve" smooth="yes"/>
+      <point x="321.336" y="649"/>
+      <point x="361" y="599.667"/>
+      <point x="361" y="503" type="curve" smooth="yes"/>
+      <point x="361" y="214" type="line" smooth="yes"/>
+      <point x="361" y="110.431"/>
+      <point x="322.03" y="60"/>
+      <point x="242" y="60" type="curve" smooth="yes"/>
+      <point x="167.705" y="60"/>
+      <point x="128" y="108.76"/>
+      <point x="128" y="200" type="curve" smooth="yes"/>
+      <point x="128" y="381.003" type="line"/>
+      <point x="53" y="381.003" type="line"/>
+      <point x="53" y="198" type="line" smooth="yes"/>
+      <point x="53" y="68.6175"/>
+      <point x="123.667" y="-8"/>
+      <point x="243" y="-8" type="curve" smooth="yes"/>
+      <point x="365.633" y="-8"/>
+      <point x="436" y="70.3886"/>
+      <point x="436" y="207" type="curve" smooth="yes"/>
+      <point x="436" y="502" type="line" smooth="yes"/>
+      <point x="436" y="636.451"/>
+      <point x="363.885" y="716"/>
+      <point x="242" y="716" type="curve" smooth="yes"/>
+      <point x="124.333" y="716"/>
+      <point x="55" y="640.364"/>
+      <point x="55" y="512" type="curve" smooth="yes"/>
+      <point x="55" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="68.456" y="381" type="line"/>
+      <point x="68.456" y="315" type="line"/>
+      <point x="412.009" y="315" type="line"/>
+      <point x="412.009" y="381" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ereversedcyr</string>
+  </dict>
+  </lib>
+</glyph>

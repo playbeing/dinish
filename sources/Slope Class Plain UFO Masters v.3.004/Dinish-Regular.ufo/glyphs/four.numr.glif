@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.numr" format="2">
+  <advance width="339"/>
+  <outline>
+    <contour>
+      <point x="37" y="357" type="line"/>
+      <point x="198" y="357" type="line"/>
+      <point x="198" y="280" type="line"/>
+      <point x="268" y="280" type="line"/>
+      <point x="268" y="357" type="line"/>
+      <point x="308" y="357" type="line"/>
+      <point x="308" y="417" type="line"/>
+      <point x="268" y="417" type="line"/>
+      <point x="268" y="518" type="line"/>
+      <point x="198" y="518" type="line"/>
+      <point x="198" y="417" type="line"/>
+      <point x="108" y="417" type="line"/>
+      <point x="226" y="707" type="line"/>
+      <point x="157" y="707" type="line"/>
+      <point x="37" y="417" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>356</integer>
+        <key>width</key>
+        <integer>61</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>198</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=four.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=four.dnom</string>
+  </dict>
+  </lib>
+</glyph>

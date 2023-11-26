@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr" format="2">
+  <advance width="668"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="378.99" y="-0.123" type="line"/>
+      <point x="562.74" y="-0.123" type="line"/>
+      <point x="562.74" y="-169.94" type="line"/>
+      <point x="657.407" y="-169.94" type="line"/>
+      <point x="657.407" y="83.753" type="line"/>
+      <point x="378.99" y="83.54" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.867" y="0" type="line"/>
+      <point x="166.881" y="0"/>
+      <point x="243.529" y="213.556"/>
+      <point x="258.553" y="543.364" type="curve"/>
+      <point x="267" y="707" type="line"/>
+      <point x="172.333" y="707" type="line"/>
+      <point x="163.62" y="545.021" type="line" smooth="yes"/>
+      <point x="148.247" y="239.52"/>
+      <point x="104.392" y="83.648"/>
+      <point x="50.993" y="83.603" type="curve"/>
+    </contour>
+    <contour>
+      <point x="486.333" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="581" y="707" type="line"/>
+      <point x="486.333" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="206.667" y="623.333" type="line"/>
+      <point x="534.667" y="623.333" type="line"/>
+      <point x="534.667" y="707" type="line"/>
+      <point x="206.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.137" y="-0.125" type="line"/>
+      <point x="398.669" y="-0.125" type="line"/>
+      <point x="398.669" y="83.54" type="line"/>
+      <point x="192.137" y="83.54" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.207" y="-169.94" type="line"/>
+      <point x="104.873" y="-169.94" type="line"/>
+      <point x="104.873" y="-0.123" type="line"/>
+      <point x="211.855" y="-0.123" type="line"/>
+      <point x="211.855" y="83.54" type="line"/>
+      <point x="10.207" y="83.647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
+</glyph>

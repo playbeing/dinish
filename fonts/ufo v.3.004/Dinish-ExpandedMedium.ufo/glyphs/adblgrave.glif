@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adblgrave" format="2">
+  <advance width="563"/>
+  <unicode hex="0201"/>
+  <anchor x="270" y="581.333" name="t.ring"/>
+  <anchor x="270" y="-86" name="bottom"/>
+  <anchor x="499" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni030F" xyScale="2.53131e-20" xOffset="270" yOffset="0.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

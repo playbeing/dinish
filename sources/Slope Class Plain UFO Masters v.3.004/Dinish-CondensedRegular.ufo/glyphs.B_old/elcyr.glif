@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="elcyr" format="2">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="477" y="532" type="line"/>
+      <point x="351" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="445" type="line"/>
+      <point x="379" y="445" type="line"/>
+      <point x="379" y="532" type="line"/>
+      <point x="165" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.8842" y="0" type="line"/>
+      <point x="132.425" y="0"/>
+      <point x="190.948" y="53.307"/>
+      <point x="202.068" y="174.144" type="curve" smooth="yes"/>
+      <point x="235" y="531.994" type="line"/>
+      <point x="110" y="531.994" type="line"/>
+      <point x="77.3676" y="203.345" type="line" smooth="yes"/>
+      <point x="71.9043" y="148.323"/>
+      <point x="43.831" y="112.119"/>
+      <point x="10.8842" y="112.002" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+  <advance width="246"/>
+  <anchor x="123" y="602" name="top"/>
+  <outline>
+    <contour>
+      <point x="-34" y="-160" type="line"/>
+      <point x="26" y="-160" type="line" smooth="yes"/>
+      <point x="129.112" y="-160"/>
+      <point x="186" y="-100.435"/>
+      <point x="186" y="2" type="curve" smooth="yes"/>
+      <point x="186" y="532" type="line"/>
+      <point x="60" y="532" type="line"/>
+      <point x="60" y="10" type="line" smooth="yes"/>
+      <point x="60" y="-35.6432"/>
+      <point x="45.0047" y="-50.1947"/>
+      <point x="-2.03053" y="-50.1947" type="curve" smooth="yes"/>
+      <point x="-34" y="-50.1947" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="123" y="0"/>
+</glyph>

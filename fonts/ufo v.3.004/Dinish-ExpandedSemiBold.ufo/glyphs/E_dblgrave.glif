@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edblgrave" format="2">
+  <advance width="604"/>
+  <unicode hex="0204"/>
+  <anchor x="317.333" y="-86" name="bottom"/>
+  <anchor x="565.667" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni030F" xyScale="-4.95485e-18" yScale="1" xOffset="317.333" yOffset="174.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

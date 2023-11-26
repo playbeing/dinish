@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve" format="2">
+  <advance width="420"/>
+  <unicode hex="0115"/>
+  <anchor x="213" y="-86" name="bottom"/>
+  <anchor x="271" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0306" xOffset="210" yOffset="12"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

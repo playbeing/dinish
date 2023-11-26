@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Macute" format="2">
+  <advance width="584"/>
+  <unicode hex="1E3E"/>
+  <anchor x="236" y="-86" name="bottom"/>
+  <outline>
+    <component base="M"/>
+    <component base="uni0301" xOffset="292" yOffset="166"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>M+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

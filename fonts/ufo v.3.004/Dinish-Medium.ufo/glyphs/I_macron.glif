@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="255"/>
+  <unicode hex="012A"/>
+  <anchor x="174.667" y="0" name="b.cedilla"/>
+  <anchor x="127" y="-86" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0304" xyScale="5.1917e-18" yScale="1" xOffset="127" yOffset="182.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

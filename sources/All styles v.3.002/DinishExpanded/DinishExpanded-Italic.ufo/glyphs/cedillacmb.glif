@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacmb" format="2">
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="205" y="12" type="line"/>
+      <point x="282" y="12" type="line"/>
+      <point x="177" y="-156" type="line"/>
+      <point x="86" y="-156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

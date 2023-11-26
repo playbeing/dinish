@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="2">
+  <advance width="610"/>
+  <unicode hex="01FA"/>
+  <anchor x="304.333" y="775" name="top"/>
+  <anchor x="304.333" y="-86" name="bottom"/>
+  <anchor x="601.333" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni030A0301" xOffset="304.333" yOffset="72"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030A0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="993"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="523.64" y="318.333" type="line"/>
+      <point x="689.506" y="318.333" type="line"/>
+      <point x="689.506" y="402" type="line"/>
+      <point x="523.64" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="707" type="line"/>
+      <point x="449" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="873.333" y="0" type="line"/>
+      <point x="983" y="0" type="line"/>
+      <point x="689.506" y="402" type="line"/>
+      <point x="628.988" y="327.086" type="line"/>
+    </contour>
+    <contour>
+      <point x="585.986" y="328.985" type="line"/>
+      <point x="651.214" y="328.948" type="line"/>
+      <point x="955.667" y="707" type="line"/>
+      <point x="842.667" y="707" type="line"/>
+      <point x="585.959" y="375.793" type="line"/>
+    </contour>
+    <contour>
+      <point x="303.494" y="318.333" type="line"/>
+      <point x="469.36" y="318.333" type="line"/>
+      <point x="469.36" y="402" type="line"/>
+      <point x="303.494" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="707" type="line"/>
+      <point x="449" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="119.667" y="0" type="line"/>
+      <point x="364.012" y="327.086" type="line"/>
+      <point x="303.494" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="341.786" y="328.948" type="line"/>
+      <point x="407.014" y="328.985" type="line"/>
+      <point x="407.041" y="375.793" type="line"/>
+      <point x="150.333" y="707" type="line"/>
+      <point x="37.333" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  <key>com.fontlab.recipe</key>
+  <string>K_K%</string>
+  </dict>
+  </lib>
+</glyph>

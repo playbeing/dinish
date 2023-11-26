@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="130.667" y="150.594" type="line"/>
+      <point x="216.334" y="150.594" type="line"/>
+      <point x="216.334" y="533" type="line"/>
+      <point x="130.667" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="175.99" y="451.333" type="line"/>
+      <point x="175.99" y="533" type="line"/>
+      <point x="-0.000333333" y="533" type="line"/>
+      <point x="-0.000333333" y="451.213" type="line"/>
+    </contour>
+    <contour>
+      <point x="130.667" y="150.557" type="line"/>
+      <point x="130.667" y="53.269"/>
+      <point x="192.093" y="-8"/>
+      <point x="305.34" y="-8" type="curve" smooth="yes"/>
+      <point x="415.274" y="-8"/>
+      <point x="483.565" y="66.27"/>
+      <point x="483.565" y="185.695" type="curve" smooth="yes"/>
+      <point x="483.565" y="290.483"/>
+      <point x="420.564" y="368.374"/>
+      <point x="310.436" y="368.374" type="curve" smooth="yes"/>
+      <point x="272.782" y="368.374"/>
+      <point x="236.142" y="365.999"/>
+      <point x="196.334" y="359.034" type="curve"/>
+      <point x="196.334" y="276.395" type="line"/>
+      <point x="235.5" y="283.36"/>
+      <point x="259.728" y="285.735"/>
+      <point x="296.74" y="285.735" type="curve" smooth="yes"/>
+      <point x="357.276" y="285.735"/>
+      <point x="397.161" y="242.493"/>
+      <point x="397.161" y="184.446" type="curve" smooth="yes"/>
+      <point x="397.161" y="114.887"/>
+      <point x="363.633" y="68.639"/>
+      <point x="304.914" y="68.639" type="curve" smooth="yes"/>
+      <point x="246.838" y="68.639"/>
+      <point x="216.334" y="96.413"/>
+      <point x="216.334" y="150.557" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>hardcyr</string>
+  </dict>
+  </lib>
+</glyph>

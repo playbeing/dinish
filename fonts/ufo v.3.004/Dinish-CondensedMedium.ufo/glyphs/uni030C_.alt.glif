@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C.alt" format="2">
+  <outline>
+    <contour>
+      <point x="-12" y="547" type="line"/>
+      <point x="63.667" y="612" type="line"/>
+      <point x="63.667" y="707" type="line"/>
+      <point x="-12" y="707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

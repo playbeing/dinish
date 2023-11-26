@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etilde" format="2">
+  <advance width="412"/>
+  <unicode hex="1EBC"/>
+  <anchor x="232" y="-86" name="bottom"/>
+  <anchor x="376" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni0303" xOffset="232" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+uni0303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

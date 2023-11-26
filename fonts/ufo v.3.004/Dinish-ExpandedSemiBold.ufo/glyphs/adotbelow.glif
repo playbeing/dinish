@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adotbelow" format="2">
+  <advance width="565"/>
+  <unicode hex="1EA1"/>
+  <anchor x="272" y="596.667" name="top"/>
+  <anchor x="272" y="584.667" name="t.ring"/>
+  <anchor x="505" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0323" xOffset="272"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0323</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

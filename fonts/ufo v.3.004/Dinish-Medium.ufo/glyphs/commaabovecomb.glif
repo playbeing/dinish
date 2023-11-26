@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaabovecomb" format="2">
+  <unicode hex="0313"/>
+  <anchor x="42.667" y="707" name="_dot"/>
+  <outline>
+    <component base="apostrophemod"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni02BC</string>
+  </dict>
+  </lib>
+</glyph>

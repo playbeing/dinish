@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="385"/>
+  <unicode hex="017B"/>
+  <anchor x="196.333" y="-86" name="bottom"/>
+  <outline>
+    <component base="Z"/>
+    <component base="uni0307" xyScale="4.79379e-18" yScale="1" xOffset="198" yOffset="168.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Z+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

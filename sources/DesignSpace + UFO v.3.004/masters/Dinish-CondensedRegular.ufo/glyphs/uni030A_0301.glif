@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030A0301" format="2">
+  <anchor x="0" y="569" name="_t.ring"/>
+  <outline>
+    <contour>
+      <point x="-1" y="569" type="curve" smooth="yes"/>
+      <point x="51.9524" y="569"/>
+      <point x="91" y="607.623"/>
+      <point x="91" y="660" type="curve" smooth="yes"/>
+      <point x="91" y="712.667"/>
+      <point x="51.6667" y="752"/>
+      <point x="-1" y="752" type="curve" smooth="yes"/>
+      <point x="-52.4348" y="752"/>
+      <point x="-91" y="712.578"/>
+      <point x="-91" y="660" type="curve" smooth="yes"/>
+      <point x="-91" y="609.006"/>
+      <point x="-51.4338" y="569"/>
+    </contour>
+    <contour>
+      <point x="-1" y="609" type="curve" smooth="yes"/>
+      <point x="-29.732" y="609"/>
+      <point x="-50" y="630.095"/>
+      <point x="-50" y="660" type="curve" smooth="yes"/>
+      <point x="-50" y="691.197"/>
+      <point x="-29.8428" y="713"/>
+      <point x="-1" y="713" type="curve" smooth="yes"/>
+      <point x="28.7987" y="713"/>
+      <point x="49" y="691.587"/>
+      <point x="49" y="660" type="curve" smooth="yes"/>
+      <point x="49" y="629.659"/>
+      <point x="28.7458" y="609"/>
+    </contour>
+    <contour>
+      <point x="-38.5415" y="773" type="line"/>
+      <point x="19.4585" y="773" type="line"/>
+      <point x="105.341" y="870" type="line"/>
+      <point x="29.3409" y="870" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="870"/>
+  <guideline angle="234.834" x="54" y="905"/>
+</glyph>

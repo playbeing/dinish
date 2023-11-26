@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+  <advance width="634"/>
+  <unicode hex="0055"/>
+  <anchor x="316.667" y="775" name="top"/>
+  <anchor x="316.667" y="-86" name="bottom"/>
+  <anchor x="365.667" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="66.667" y="707" type="line"/>
+      <point x="66.667" y="232" type="line" smooth="yes"/>
+      <point x="66.667" y="89.859"/>
+      <point x="178.381" y="-6"/>
+      <point x="316.667" y="-6" type="curve" smooth="yes"/>
+      <point x="456.004" y="-6"/>
+      <point x="567.333" y="88.555"/>
+      <point x="567.333" y="232" type="curve" smooth="yes"/>
+      <point x="567.333" y="707" type="line"/>
+      <point x="452.667" y="707" type="line"/>
+      <point x="452.667" y="237.667" type="line" smooth="yes"/>
+      <point x="452.667" y="154.173"/>
+      <point x="402.88" y="94"/>
+      <point x="316.667" y="94" type="curve" smooth="yes"/>
+      <point x="229.638" y="94"/>
+      <point x="181.333" y="153.895"/>
+      <point x="181.333" y="237.667" type="curve" smooth="yes"/>
+      <point x="181.333" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>494</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N-2</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=N-2</string>
+  </dict>
+  </lib>
+</glyph>

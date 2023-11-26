@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr" format="2">
+  <advance width="419"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="211" y="-8" type="curve" smooth="yes"/>
+      <point x="318.667" y="-8"/>
+      <point x="372.667" y="54"/>
+      <point x="372.667" y="177" type="curve" smooth="yes"/>
+      <point x="372.667" y="320.878" type="line" smooth="yes"/>
+      <point x="372.667" y="424"/>
+      <point x="318.531" y="486"/>
+      <point x="233.144" y="486" type="curve" smooth="yes"/>
+      <point x="185.381" y="486"/>
+      <point x="152.361" y="465.269"/>
+      <point x="133.667" y="436.713" type="curve"/>
+      <point x="47" y="436.808" type="line"/>
+      <point x="47" y="177" type="line" smooth="yes"/>
+      <point x="47" y="54.667"/>
+      <point x="102.333" y="-8"/>
+    </contour>
+    <contour>
+      <point x="210" y="68.667" type="curve" smooth="yes"/>
+      <point x="158" y="68.667"/>
+      <point x="133.333" y="104.667"/>
+      <point x="133.333" y="182" type="curve" smooth="yes"/>
+      <point x="133.333" y="295" type="line" smooth="yes"/>
+      <point x="133.333" y="372.333"/>
+      <point x="158" y="408.333"/>
+      <point x="210" y="408.333" type="curve" smooth="yes"/>
+      <point x="261.667" y="408.333"/>
+      <point x="286.333" y="371.667"/>
+      <point x="286.333" y="295" type="curve" smooth="yes"/>
+      <point x="286.333" y="182" type="line" smooth="yes"/>
+      <point x="286.333" y="106.667"/>
+      <point x="261" y="68.667"/>
+    </contour>
+    <contour>
+      <point x="47" y="391.892" type="line"/>
+      <point x="131.333" y="392.128" type="line"/>
+      <point x="131.333" y="433.509" type="line" smooth="yes"/>
+      <point x="131.333" y="595.248"/>
+      <point x="208.103" y="555.981"/>
+      <point x="317.215" y="617.045" type="curve"/>
+      <point x="317.215" y="707" type="line"/>
+      <point x="167.73" y="629.001"/>
+      <point x="47" y="680.478"/>
+      <point x="47" y="414.558" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

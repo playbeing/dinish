@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="561"/>
+  <anchor x="269" y="776" name="top"/>
+  <anchor x="253" y="0" name="b.cedilla"/>
+  <anchor x="269" y="-86" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="26" y="215" type="line"/>
+      <point x="35.3409" y="66.9265"/>
+      <point x="128.686" y="-6"/>
+      <point x="273" y="-6" type="curve" smooth="yes"/>
+      <point x="414.127" y="-6"/>
+      <point x="525" y="59.7795"/>
+      <point x="525" y="213" type="curve" smooth="yes"/>
+      <point x="525" y="374.705"/>
+      <point x="410.1" y="397.283"/>
+      <point x="311.221" y="416.726" type="curve" smooth="yes"/>
+      <point x="288.586" y="421.252" type="line" smooth="yes"/>
+      <point x="223.783" y="434.654"/>
+      <point x="171" y="451.456"/>
+      <point x="171" y="514" type="curve" smooth="yes"/>
+      <point x="171" y="577.479"/>
+      <point x="218.09" y="604"/>
+      <point x="276" y="604" type="curve" smooth="yes"/>
+      <point x="340.069" y="604"/>
+      <point x="384" y="573.464"/>
+      <point x="384" y="506" type="curve"/>
+      <point x="513" y="506" type="line"/>
+      <point x="503.643" y="641.826"/>
+      <point x="412.525" y="717"/>
+      <point x="279" y="717" type="curve" smooth="yes"/>
+      <point x="148.068" y="717"/>
+      <point x="41" y="643.515"/>
+      <point x="41" y="504" type="curve" smooth="yes"/>
+      <point x="41" y="346.32"/>
+      <point x="150.858" y="325.347"/>
+      <point x="247.829" y="306.943" type="curve" smooth="yes"/>
+      <point x="268.943" y="302.876" type="line" smooth="yes"/>
+      <point x="336.595" y="289.441"/>
+      <point x="393" y="272.265"/>
+      <point x="393" y="202" type="curve" smooth="yes"/>
+      <point x="393" y="131.51"/>
+      <point x="342.648" y="109"/>
+      <point x="280" y="109" type="curve" smooth="yes"/>
+      <point x="206.083" y="109"/>
+      <point x="159.856" y="137.146"/>
+      <point x="153" y="215" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="269" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>115</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>604</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>26</integer>
+        <key>width</key>
+        <integer>127</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>41</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>384</integer>
+        <key>width</key>
+        <integer>129</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>393</integer>
+        <key>width</key>
+        <integer>132</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

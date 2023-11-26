@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacyr" format="2">
+  <advance width="535"/>
+  <unicode hex="044F"/>
+  <anchor x="275" y="586" name="top"/>
+  <outline>
+    <contour>
+      <point x="217.128" y="175.926" type="line"/>
+      <point x="132.798" y="195.004"/>
+      <point x="76" y="267.021"/>
+      <point x="76" y="354.87" type="curve" smooth="yes"/>
+      <point x="76" y="454.809"/>
+      <point x="138.967" y="519"/>
+      <point x="237" y="519" type="curve" smooth="yes"/>
+      <point x="408" y="519" type="line"/>
+      <point x="408" y="454" type="line"/>
+      <point x="265" y="454" type="line" smooth="yes"/>
+      <point x="221" y="454"/>
+      <point x="146" y="436.126"/>
+      <point x="146" y="351.224" type="curve" smooth="yes"/>
+      <point x="146" y="285.912"/>
+      <point x="194.488" y="241"/>
+      <point x="265" y="241" type="curve" smooth="yes"/>
+      <point x="408" y="241" type="line"/>
+      <point x="408" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="519" type="line"/>
+      <point x="458" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.4042" y="-0.1547" type="line"/>
+      <point x="187.054" y="201.805" type="line"/>
+      <point x="256.433" y="189.948" type="line"/>
+      <point x="168.678" y="-0.154739" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="275" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|vecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

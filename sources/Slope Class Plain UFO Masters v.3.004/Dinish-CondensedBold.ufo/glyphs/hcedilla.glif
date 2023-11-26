@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcedilla" format="2">
+  <advance width="419"/>
+  <unicode hex="1E29"/>
+  <anchor x="218" y="770" name="top"/>
+  <anchor x="218" y="-86" name="bottom"/>
+  <outline>
+    <component base="h"/>
+    <component base="uni0327" xOffset="209.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>h+uni0327</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tdot" format="2">
+  <advance width="377"/>
+  <unicode hex="1E6A"/>
+  <anchor x="189" y="-86" name="bottom"/>
+  <anchor x="156" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="T"/>
+    <component base="uni0307" xOffset="189" yOffset="166"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

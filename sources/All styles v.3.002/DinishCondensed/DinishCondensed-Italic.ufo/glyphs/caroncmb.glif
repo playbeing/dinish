@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncmb" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="-36" y="736" type="line"/>
+      <point x="33" y="736" type="line"/>
+      <point x="79" y="644" type="line"/>
+      <point x="163" y="736" type="line"/>
+      <point x="231" y="736" type="line"/>
+      <point x="99" y="590" type="line"/>
+      <point x="33" y="590" type="line"/>
+    </contour>
+  </outline>
+</glyph>

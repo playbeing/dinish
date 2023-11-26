@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="703"/>
+  <unicode hex="016E"/>
+  <anchor x="351" y="765.333" name="top"/>
+  <anchor x="351" y="-86" name="bottom"/>
+  <anchor x="408" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni030A" xyScale="-5.12538e-18" yScale="1" xOffset="351.333" yOffset="180.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

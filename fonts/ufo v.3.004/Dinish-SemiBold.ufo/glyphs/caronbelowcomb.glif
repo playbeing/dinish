@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronbelowcomb" format="2">
+  <unicode hex="032C"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="uni030C" xOffset="-0.667" yOffset="-819.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni030C</string>
+  </dict>
+  </lib>
+</glyph>

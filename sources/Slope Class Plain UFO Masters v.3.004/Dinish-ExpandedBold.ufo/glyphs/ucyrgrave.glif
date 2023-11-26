@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucyrgrave" format="2">
+  <advance width="552"/>
+  <anchor x="437" y="-115" name="dot"/>
+  <anchor x="236" y="-86" name="bottom"/>
+  <anchor x="278" y="588" name="t.ring"/>
+  <outline>
+    <component base="ucyr"/>
+    <component base="uni0300" xOffset="278"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ucyr+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

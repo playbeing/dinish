@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bdot" format="2">
+  <advance width="593"/>
+  <unicode hex="1E03"/>
+  <anchor x="322" y="-86" name="bottom"/>
+  <outline>
+    <component base="b"/>
+    <component base="uni0307" xOffset="322" yOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>b+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

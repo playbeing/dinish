@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mdot" format="2">
+  <advance width="771"/>
+  <unicode hex="1E40"/>
+  <anchor x="236" y="-86" name="bottom"/>
+  <outline>
+    <component base="M"/>
+    <component base="uni0307" xyScale="-5.06854e-18" yScale="1" xOffset="386.667" yOffset="178.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>M+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

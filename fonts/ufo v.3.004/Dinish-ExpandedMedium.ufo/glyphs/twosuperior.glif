@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="2">
+  <advance width="359"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="33.201" y="440" type="line"/>
+      <point x="322.868" y="440" type="line"/>
+      <point x="322.868" y="516.333" type="line"/>
+      <point x="156.868" y="516.333" type="line"/>
+      <point x="256.868" y="622.667" type="line" smooth="yes"/>
+      <point x="301.224" y="669.673"/>
+      <point x="321.535" y="699.111"/>
+      <point x="321.535" y="745" type="curve" smooth="yes"/>
+      <point x="321.535" y="754" type="line" smooth="yes"/>
+      <point x="321.535" y="828.773"/>
+      <point x="266.249" y="875"/>
+      <point x="176.868" y="875" type="curve" smooth="yes"/>
+      <point x="84.415" y="875"/>
+      <point x="29.201" y="829.135"/>
+      <point x="29.201" y="752.333" type="curve" smooth="yes"/>
+      <point x="29.201" y="742.333" type="line"/>
+      <point x="114.201" y="742.333" type="line"/>
+      <point x="114.201" y="750" type="line" smooth="yes"/>
+      <point x="114.201" y="783.711"/>
+      <point x="135.194" y="802"/>
+      <point x="173.868" y="802" type="curve" smooth="yes"/>
+      <point x="212.73" y="802"/>
+      <point x="232.535" y="784.444"/>
+      <point x="232.535" y="750" type="curve" smooth="yes"/>
+      <point x="232.535" y="743.333" type="line" smooth="yes"/>
+      <point x="232.535" y="721.449"/>
+      <point x="221.342" y="702.667"/>
+      <point x="194.535" y="675" type="curve" smooth="yes"/>
+      <point x="33.201" y="508.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>440</integer>
+        <key>width</key>
+        <integer>61</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>817</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>43</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>214</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=two.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=two.dnom</string>
+  </dict>
+  </lib>
+</glyph>

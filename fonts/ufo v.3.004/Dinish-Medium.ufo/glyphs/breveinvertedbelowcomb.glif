@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedbelowcomb" format="2">
+  <unicode hex="032F"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="uni0311" yOffset="-820.373"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0311</string>
+  </dict>
+  </lib>
+</glyph>

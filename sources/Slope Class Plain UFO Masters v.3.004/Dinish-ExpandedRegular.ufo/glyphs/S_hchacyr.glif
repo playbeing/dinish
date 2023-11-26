@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shchacyr" format="2">
+  <advance width="851"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="74.9946" y="0" type="line"/>
+      <point x="168.995" y="0" type="line"/>
+      <point x="168.995" y="707" type="line"/>
+      <point x="74.9946" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.24" y="0" type="line"/>
+      <point x="465.24" y="0" type="line"/>
+      <point x="465.24" y="707" type="line"/>
+      <point x="371.24" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="667.265" y="0" type="line"/>
+      <point x="761.265" y="0" type="line"/>
+      <point x="761.265" y="707" type="line"/>
+      <point x="667.265" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.485" y="0" type="line"/>
+      <point x="714.665" y="0" type="line"/>
+      <point x="714.665" y="83" type="line"/>
+      <point x="125.485" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="657.04" y="0" type="line"/>
+      <point x="747.137" y="0" type="line"/>
+      <point x="747.137" y="-170" type="line"/>
+      <point x="840.137" y="-170" type="line"/>
+      <point x="840.137" y="83" type="line"/>
+      <point x="657.04" y="83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Decyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+  <advance width="691"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="219.667" y="0" type="line"/>
+      <point x="481.667" y="712.333" type="line"/>
+      <point x="404" y="712.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.333" y="280" type="line"/>
+      <point x="169.333" y="280" type="line"/>
+      <point x="169.333" y="707.333" type="line"/>
+      <point x="88.333" y="707.333" type="line"/>
+      <point x="24" y="661.333" type="line"/>
+      <point x="24" y="569" type="line"/>
+      <point x="88.333" y="615.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="419.667" y="69" type="line"/>
+      <point x="560" y="69" type="line"/>
+      <point x="560" y="-0.333" type="line"/>
+      <point x="639.667" y="-0.333" type="line"/>
+      <point x="639.667" y="69" type="line"/>
+      <point x="669.667" y="69" type="line"/>
+      <point x="669.667" y="141" type="line"/>
+      <point x="639.667" y="141" type="line"/>
+      <point x="639.667" y="229" type="line"/>
+      <point x="560" y="229" type="line"/>
+      <point x="560" y="141" type="line"/>
+      <point x="500" y="141" type="line"/>
+      <point x="593.333" y="427" type="line"/>
+      <point x="513.667" y="427" type="line"/>
+      <point x="419.667" y="141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>101</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>605</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=four.dnom</string>
+  </dict>
+  </lib>
+</glyph>

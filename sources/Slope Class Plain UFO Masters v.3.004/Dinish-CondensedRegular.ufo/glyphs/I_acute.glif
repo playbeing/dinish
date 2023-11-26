@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="208"/>
+  <unicode hex="00CD"/>
+  <anchor x="143" y="0" name="b.cedilla"/>
+  <anchor x="105" y="-86" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0301" xOffset="105" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

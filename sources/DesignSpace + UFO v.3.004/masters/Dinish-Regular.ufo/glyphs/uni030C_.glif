@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C" format="2">
+  <unicode hex="030C"/>
+  <anchor x="0" y="586" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-28.5" y="577" type="line"/>
+      <point x="28.5" y="577" type="line"/>
+      <point x="137.5" y="724" type="line"/>
+      <point x="74.5" y="724" type="line"/>
+      <point x="0.5" y="627" type="line"/>
+      <point x="-74.5" y="724" type="line"/>
+      <point x="-137.5" y="724" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="0" y="0"/>
+</glyph>

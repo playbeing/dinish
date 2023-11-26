@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="djecyr" format="2">
+  <advance width="585"/>
+  <unicode hex="0452"/>
+  <anchor x="357.333" y="596.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="587.667" type="line"/>
+      <point x="331" y="587.667" type="line"/>
+      <point x="331" y="654" type="line"/>
+      <point x="11" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.667" y="0" type="line"/>
+      <point x="173.333" y="0" type="line"/>
+      <point x="173.333" y="303" type="line" smooth="yes"/>
+      <point x="173.333" y="386.844"/>
+      <point x="219.112" y="435"/>
+      <point x="298.667" y="435" type="curve" smooth="yes"/>
+      <point x="373.893" y="435"/>
+      <point x="412" y="392.991"/>
+      <point x="412" y="310" type="curve" smooth="yes"/>
+      <point x="412" y="0" type="line"/>
+      <point x="525.667" y="0" type="line"/>
+      <point x="525.667" y="331.333" type="line" smooth="yes"/>
+      <point x="525.667" y="460.603"/>
+      <point x="454.076" y="536"/>
+      <point x="331.333" y="536" type="curve" smooth="yes"/>
+      <point x="265.432" y="536"/>
+      <point x="210.09" y="512.445"/>
+      <point x="173.333" y="468.667" type="curve"/>
+      <point x="173.333" y="707" type="line"/>
+      <point x="59.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="283.294" y="-157" type="line"/>
+      <point x="351.961" y="-157" type="line" smooth="yes"/>
+      <point x="464.417" y="-157"/>
+      <point x="525.628" y="-98.873"/>
+      <point x="525.628" y="8" type="curve" smooth="yes"/>
+      <point x="525.628" y="100.228" type="line"/>
+      <point x="411.961" y="100.228" type="line"/>
+      <point x="411.961" y="16.667" type="line" smooth="yes"/>
+      <point x="411.961" y="-35.777"/>
+      <point x="393.808" y="-53.667"/>
+      <point x="341.961" y="-53.667" type="curve" smooth="yes"/>
+      <point x="283.294" y="-53.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>h+dotlessj+macron</string>
+  </dict>
+  </lib>
+</glyph>

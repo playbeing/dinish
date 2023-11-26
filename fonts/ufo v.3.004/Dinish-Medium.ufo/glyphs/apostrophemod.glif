@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="2">
+  <unicode hex="02BC"/>
+  <anchor x="42.667" y="707" name="_dot"/>
+  <outline>
+    <contour>
+      <point x="-42.667" y="447.333" type="line"/>
+      <point x="42.667" y="524" type="line"/>
+      <point x="42.667" y="707" type="line"/>
+      <point x="-42.667" y="707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

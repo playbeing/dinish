@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="425"/>
+  <unicode hex="0138"/>
+  <anchor x="203" y="766.667" name="top"/>
+  <anchor x="219.667" y="-86" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="150.667" y="0" type="line"/>
+      <point x="150.667" y="537" type="line"/>
+      <point x="48" y="510.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="142.186" y="141.527" type="line"/>
+      <point x="404" y="537" type="line"/>
+      <point x="295.667" y="537" type="line"/>
+      <point x="142.716" y="285.528" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="413.667" y="0" type="line"/>
+      <point x="258.661" y="341.988" type="line"/>
+      <point x="196.036" y="244.816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k%</string>
+  </dict>
+  </lib>
+</glyph>

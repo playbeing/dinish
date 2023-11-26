@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+  <advance width="611"/>
+  <anchor x="316" y="760" name="top"/>
+  <anchor x="316" y="-86" name="bottom"/>
+  <anchor x="567" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="83" type="line"/>
+      <point x="167" y="83" type="line"/>
+      <point x="167" y="317" type="line"/>
+      <point x="510" y="317" type="line"/>
+      <point x="510" y="400" type="line"/>
+      <point x="167" y="400" type="line"/>
+      <point x="167" y="624" type="line"/>
+      <point x="567" y="624" type="line"/>
+      <point x="567" y="707" type="line"/>
+      <point x="74" y="707" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="316" y="0"/>
+</glyph>

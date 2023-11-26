@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="2">
+  <advance width="1291"/>
+  <unicode hex="2116"/>
+  <anchor x="1005" y="602" name="top"/>
+  <anchor x="1005" y="-86" name="bottom"/>
+  <anchor x="938" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="N"/>
+    <component base="o" xOffset="715"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N_o%</string>
+  </dict>
+  </lib>
+</glyph>

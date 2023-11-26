@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr" format="2">
+  <advance width="497"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="390.885" y="-170" type="line"/>
+      <point x="476.551" y="-170" type="line"/>
+      <point x="476.551" y="81.667" type="line"/>
+      <point x="370.218" y="81.667" type="line"/>
+      <point x="370.218" y="-0.164" type="line"/>
+      <point x="390.885" y="-0.164" type="line"/>
+    </contour>
+    <contour>
+      <point x="19.9997" y="-170" type="line"/>
+      <point x="105.667" y="-170" type="line"/>
+      <point x="105.667" y="81.8663" type="line"/>
+      <point x="19.9997" y="81.8663" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="414.667" y="0" type="line"/>
+      <point x="414.667" y="533" type="line"/>
+      <point x="329" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.86" y="81.46" type="curve"/>
+      <point x="83.435" y="0.134" type="line"/>
+      <point x="158.552" y="0"/>
+      <point x="201.017" y="151.043"/>
+      <point x="209" y="260.229" type="curve" smooth="yes"/>
+      <point x="229" y="533.134" type="line"/>
+      <point x="143.333" y="533.134" type="line"/>
+      <point x="123.333" y="292.673" type="line" smooth="yes"/>
+      <point x="112.292" y="160.02"/>
+      <point x="96.374" y="81.941"/>
+    </contour>
+    <contour>
+      <point x="78.5797" y="-0.297" type="line"/>
+      <point x="355.91" y="-0.177" type="line"/>
+      <point x="355.91" y="81.49" type="line"/>
+      <point x="78.5797" y="81.49" type="line"/>
+    </contour>
+    <contour>
+      <point x="198.372" y="451.31" type="line"/>
+      <point x="355.91" y="451.43" type="line"/>
+      <point x="355.91" y="533.097" type="line"/>
+      <point x="198.372" y="533.098" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

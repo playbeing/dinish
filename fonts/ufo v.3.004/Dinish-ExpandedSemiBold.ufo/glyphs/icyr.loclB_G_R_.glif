@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr.loclBGR" format="2">
+  <advance width="585"/>
+  <anchor x="293" y="596.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="412.667" y="262.247" type="line"/>
+      <point x="412.667" y="225" type="line" smooth="yes"/>
+      <point x="412.667" y="134.475"/>
+      <point x="374.598" y="93"/>
+      <point x="293" y="93" type="curve" smooth="yes"/>
+      <point x="212.366" y="93"/>
+      <point x="172.667" y="136.03"/>
+      <point x="172.667" y="225" type="curve" smooth="yes"/>
+      <point x="172.667" y="529.333" type="line"/>
+      <point x="59.667" y="529.333" type="line"/>
+      <point x="59.667" y="218" type="line" smooth="yes"/>
+      <point x="59.667" y="69.929"/>
+      <point x="129.085" y="-8.333"/>
+      <point x="260.393" y="-8.333" type="curve" smooth="yes"/>
+      <point x="384.333" y="-8.333"/>
+      <point x="449.667" y="75.872"/>
+      <point x="449.667" y="236.233" type="curve" smooth="yes"/>
+      <point x="449.667" y="262.247" type="line"/>
+    </contour>
+    <contour>
+      <point x="416.667" y="0" type="line"/>
+      <point x="525.667" y="0" type="line"/>
+      <point x="525.667" y="529.333" type="line"/>
+      <point x="412.667" y="529.333" type="line"/>
+      <point x="412.667" y="71.26" type="line"/>
+      <point x="416.667" y="71.26" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

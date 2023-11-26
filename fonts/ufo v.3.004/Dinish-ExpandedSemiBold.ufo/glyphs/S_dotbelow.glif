@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sdotbelow" format="2">
+  <advance width="623"/>
+  <unicode hex="1E62"/>
+  <anchor x="302.333" y="770.667" name="top"/>
+  <anchor x="282.333" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni0323" xScale="1" xOffset="302.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+uni0323</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

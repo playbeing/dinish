@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcircumflexbelow" format="2">
+  <advance width="377"/>
+  <unicode hex="1E70"/>
+  <anchor x="189" y="770" name="top"/>
+  <anchor x="156" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="T"/>
+    <component base="circumflexbelowcomb" xOffset="189"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

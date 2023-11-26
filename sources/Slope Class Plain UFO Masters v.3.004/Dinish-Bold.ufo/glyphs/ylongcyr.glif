@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr" format="2">
+  <advance width="702"/>
+  <unicode hex="044B"/>
+  <anchor x="323" y="602" name="top"/>
+  <outline>
+    <component base="softcyr"/>
+    <component base="dotlessi" xOffset="461"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  <key>com.fontlab.recipe</key>
+  <string>softcyr_dotlessi</string>
+  </dict>
+  </lib>
+</glyph>

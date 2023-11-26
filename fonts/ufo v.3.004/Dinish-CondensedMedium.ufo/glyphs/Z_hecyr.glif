@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="751"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="400.973" y="318.956" type="line"/>
+      <point x="532.697" y="318.954" type="line"/>
+      <point x="532.962" y="400.437" type="line"/>
+      <point x="400.973" y="400.437" type="line"/>
+    </contour>
+    <contour>
+      <point x="329.667" y="0" type="line"/>
+      <point x="421.333" y="0" type="line"/>
+      <point x="421.333" y="707" type="line"/>
+      <point x="329.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="641.667" y="0" type="line"/>
+      <point x="741" y="0" type="line"/>
+      <point x="540.05" y="405.317" type="line"/>
+      <point x="475.826" y="328.729" type="line"/>
+    </contour>
+    <contour>
+      <point x="469.671" y="332.369" type="line"/>
+      <point x="536.981" y="332.415" type="line"/>
+      <point x="720.208" y="707" type="line"/>
+      <point x="625.541" y="707" type="line"/>
+      <point x="469.694" y="379.35" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.303" y="318.954" type="line"/>
+      <point x="350.027" y="318.956" type="line"/>
+      <point x="350.027" y="400.437" type="line"/>
+      <point x="218.038" y="400.437" type="line"/>
+    </contour>
+    <contour>
+      <point x="329.667" y="0" type="line"/>
+      <point x="421.333" y="0" type="line"/>
+      <point x="421.333" y="707" type="line"/>
+      <point x="329.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="109.333" y="0" type="line"/>
+      <point x="275.174" y="328.729" type="line"/>
+      <point x="210.95" y="405.317" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.019" y="332.415" type="line"/>
+      <point x="281.329" y="332.369" type="line"/>
+      <point x="281.306" y="379.35" type="line"/>
+      <point x="125.459" y="707" type="line"/>
+      <point x="30.792" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  <key>com.fontlab.recipe</key>
+  <string>K_K%</string>
+  </dict>
+  </lib>
+</glyph>

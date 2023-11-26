@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr.loclBGR" format="2">
+  <advance width="422"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="140.333" y="0" type="line"/>
+      <point x="140.333" y="707" type="line"/>
+      <point x="54" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="274.667" type="line"/>
+      <point x="228" y="274.667" type="line"/>
+      <point x="391.333" y="533" type="line"/>
+      <point x="298.667" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="0" type="line"/>
+      <point x="408.333" y="0" type="line"/>
+      <point x="233" y="323" type="line"/>
+      <point x="164.667" y="280.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.667" y="243.333" type="line"/>
+      <point x="239" y="243.333" type="line"/>
+      <point x="239" y="325.333" type="line"/>
+      <point x="119.667" y="325.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  </dict>
+  </lib>
+</glyph>

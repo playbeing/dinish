@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="352"/>
+  <unicode hex="0157"/>
+  <outline>
+    <contour>
+      <point x="69.667" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="325.667" type="line" smooth="yes"/>
+      <point x="158" y="394.72"/>
+      <point x="199.284" y="452"/>
+      <point x="272.333" y="452" type="curve" smooth="yes"/>
+      <point x="291.434" y="452"/>
+      <point x="310.492" y="448.826"/>
+      <point x="328.667" y="443" type="curve"/>
+      <point x="328.667" y="528.667" type="line"/>
+      <point x="315.815" y="531.059"/>
+      <point x="302.731" y="532"/>
+      <point x="289.667" y="532" type="curve" smooth="yes"/>
+      <point x="235.888" y="532"/>
+      <point x="182.778" y="507.362"/>
+      <point x="156.333" y="459" type="curve"/>
+      <point x="156.333" y="523.333" type="line"/>
+      <point x="69.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="76.667" y="-173" type="line"/>
+      <point x="152.667" y="-104.667" type="line"/>
+      <point x="152.667" y="-36.667" type="line"/>
+      <point x="76.667" y="-36.667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

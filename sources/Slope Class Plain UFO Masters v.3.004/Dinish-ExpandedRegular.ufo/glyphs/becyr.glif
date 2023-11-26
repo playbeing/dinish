@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr" format="2">
+  <advance width="585"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="294" y="-9" type="curve" smooth="yes"/>
+      <point x="446" y="-9"/>
+      <point x="532" y="75"/>
+      <point x="532" y="232" type="curve" smooth="yes"/>
+      <point x="532" y="245" type="line" smooth="yes"/>
+      <point x="532" y="402"/>
+      <point x="446" y="486"/>
+      <point x="316" y="486" type="curve" smooth="yes"/>
+      <point x="238" y="486"/>
+      <point x="169.49" y="455.499"/>
+      <point x="143" y="403" type="curve"/>
+      <point x="53" y="403" type="line"/>
+      <point x="53" y="232" type="line" smooth="yes"/>
+      <point x="53" y="75"/>
+      <point x="140" y="-9"/>
+    </contour>
+    <contour>
+      <point x="293" y="68" type="curve" smooth="yes"/>
+      <point x="191" y="68"/>
+      <point x="140" y="120"/>
+      <point x="140" y="234" type="curve" smooth="yes"/>
+      <point x="140" y="243" type="line" smooth="yes"/>
+      <point x="140" y="356"/>
+      <point x="191" y="408"/>
+      <point x="293" y="408" type="curve" smooth="yes"/>
+      <point x="394" y="408"/>
+      <point x="445" y="356"/>
+      <point x="445" y="243" type="curve" smooth="yes"/>
+      <point x="445" y="234" type="line" smooth="yes"/>
+      <point x="445" y="120"/>
+      <point x="394" y="68"/>
+    </contour>
+    <contour>
+      <point x="53" y="239.582" type="line"/>
+      <point x="140" y="240.289" type="line"/>
+      <point x="140" y="403.22" type="line" smooth="yes"/>
+      <point x="140" y="625.759"/>
+      <point x="342.032" y="553.386"/>
+      <point x="466.461" y="620.388" type="curve"/>
+      <point x="466.461" y="707" type="line"/>
+      <point x="309.928" y="620.633"/>
+      <point x="53" y="725.272"/>
+      <point x="53" y="411.907" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

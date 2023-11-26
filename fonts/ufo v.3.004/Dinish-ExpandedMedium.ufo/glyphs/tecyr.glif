@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="410"/>
+  <unicode hex="0442"/>
+  <anchor x="205.333" y="591.333" name="top"/>
+  <outline>
+    <contour>
+      <point x="21.667" y="436.508" type="line"/>
+      <point x="388.334" y="436.333" type="line"/>
+      <point x="388.334" y="526.667" type="line"/>
+      <point x="21.667" y="526.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.667" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="526.691" type="line"/>
+      <point x="154.667" y="526.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|gecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=gecyr</string>
+  </dict>
+  </lib>
+</glyph>

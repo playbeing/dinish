@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Efcyr" format="2">
+  <advance width="572"/>
+  <unicode hex="0424"/>
+  <anchor x="294.333" y="766.667" name="top"/>
+  <outline>
+    <contour>
+      <point x="242.667" y="163" type="line"/>
+      <point x="182.437" y="163"/>
+      <point x="152.667" y="202.778"/>
+      <point x="152.667" y="281" type="curve" smooth="yes"/>
+      <point x="152.667" y="420" type="line" smooth="yes"/>
+      <point x="152.667" y="503.778"/>
+      <point x="182.274" y="544.667"/>
+      <point x="242.667" y="544.667" type="curve"/>
+      <point x="242.667" y="643.333" type="line"/>
+      <point x="116.369" y="643.333"/>
+      <point x="43.667" y="566.872"/>
+      <point x="43.667" y="435.667" type="curve" smooth="yes"/>
+      <point x="43.667" y="272" type="line" smooth="yes"/>
+      <point x="43.667" y="140.327"/>
+      <point x="118.287" y="65.333"/>
+      <point x="242.667" y="65.333" type="curve"/>
+    </contour>
+    <contour>
+      <point x="233" y="0" type="line"/>
+      <point x="341.333" y="0" type="line"/>
+      <point x="341.333" y="707" type="line"/>
+      <point x="233" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="332.667" y="65.333" type="line"/>
+      <point x="456.135" y="65.333"/>
+      <point x="528.667" y="143.699"/>
+      <point x="528.667" y="272" type="curve" smooth="yes"/>
+      <point x="528.667" y="435.667" type="line" smooth="yes"/>
+      <point x="528.667" y="567.429"/>
+      <point x="455.988" y="643.333"/>
+      <point x="332.667" y="643.333" type="curve"/>
+      <point x="332.667" y="544.667" type="line"/>
+      <point x="390.055" y="544.667"/>
+      <point x="419.667" y="501.998"/>
+      <point x="419.667" y="420" type="curve" smooth="yes"/>
+      <point x="419.667" y="281" type="line" smooth="yes"/>
+      <point x="419.667" y="206.983"/>
+      <point x="387.361" y="163"/>
+      <point x="332.667" y="163" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O+I</string>
+  </dict>
+  </lib>
+</glyph>

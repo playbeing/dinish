@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="409"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="56.667" y="569" type="curve" smooth="yes"/>
+      <point x="56.667" y="483.465"/>
+      <point x="119.702" y="421.333"/>
+      <point x="205" y="421.333" type="curve" smooth="yes"/>
+      <point x="289.314" y="421.333"/>
+      <point x="352.333" y="484.698"/>
+      <point x="352.333" y="569" type="curve" smooth="yes"/>
+      <point x="352.333" y="652.673"/>
+      <point x="289.138" y="717.667"/>
+      <point x="205" y="717.667" type="curve" smooth="yes"/>
+      <point x="119.898" y="717.667"/>
+      <point x="56.667" y="653.983"/>
+    </contour>
+    <contour>
+      <point x="205" y="489.333" type="curve" smooth="yes"/>
+      <point x="158.194" y="489.333"/>
+      <point x="127.333" y="522.819"/>
+      <point x="127.333" y="569" type="curve" smooth="yes"/>
+      <point x="127.333" y="615.699"/>
+      <point x="157.229" y="650"/>
+      <point x="205" y="650" type="curve" smooth="yes"/>
+      <point x="250.828" y="650"/>
+      <point x="281.667" y="613.448"/>
+      <point x="281.667" y="569" type="curve" smooth="yes"/>
+      <point x="281.667" y="525.063"/>
+      <point x="249.889" y="489.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>430</integer>
+        <key>width</key>
+        <integer>50</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>668</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>68</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>301</integer>
+        <key>width</key>
+        <integer>52</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

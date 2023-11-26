@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+  <advance width="240"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="99.9107" y="440" type="line"/>
+      <point x="179.911" y="440" type="line"/>
+      <point x="179.911" y="867" type="line"/>
+      <point x="99.9107" y="867" type="line"/>
+      <point x="12.9107" y="814" type="line"/>
+      <point x="12.9107" y="731" type="line"/>
+      <point x="99.9107" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=one.dnom</string>
+  </dict>
+  </lib>
+</glyph>

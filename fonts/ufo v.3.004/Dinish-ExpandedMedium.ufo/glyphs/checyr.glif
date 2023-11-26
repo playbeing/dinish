@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checyr" format="2">
+  <advance width="586"/>
+  <unicode hex="0447"/>
+  <outline>
+    <contour>
+      <point x="261.264" y="162.333" type="curve" smooth="yes"/>
+      <point x="351.125" y="162.333"/>
+      <point x="396.77" y="172.651"/>
+      <point x="453.333" y="207.093" type="curve"/>
+      <point x="453.333" y="275.719" type="line"/>
+      <point x="421.333" y="275.719" type="line"/>
+      <point x="388.588" y="258.054"/>
+      <point x="354.973" y="252"/>
+      <point x="293" y="252" type="curve" smooth="yes"/>
+      <point x="207.178" y="252"/>
+      <point x="164.333" y="298.02"/>
+      <point x="164.333" y="391" type="curve" smooth="yes"/>
+      <point x="164.333" y="526.667" type="line"/>
+      <point x="64.333" y="526.667" type="line"/>
+      <point x="64.333" y="383" type="line" smooth="yes"/>
+      <point x="64.333" y="239.545"/>
+      <point x="133.25" y="162.333"/>
+    </contour>
+    <contour>
+      <point x="421.333" y="0" type="line"/>
+      <point x="521.333" y="0" type="line"/>
+      <point x="521.333" y="526.667" type="line"/>
+      <point x="421.333" y="526.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

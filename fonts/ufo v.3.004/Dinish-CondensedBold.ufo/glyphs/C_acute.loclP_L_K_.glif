@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute.loclPLK" format="2">
+  <advance width="479"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="197" y="791" type="line"/>
+      <point x="298" y="791" type="line"/>
+      <point x="344" y="930" type="line"/>
+      <point x="218" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

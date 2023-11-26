@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <array>
+    <string>public.default</string>
+    <string>glyphs</string>
+  </array>
+  <array>
+    <string>Bold</string>
+    <string>glyphs.B_old</string>
+  </array>
+  <array>
+    <string>Condensed Bold</string>
+    <string>glyphs.C_ondensed B_old</string>
+  </array>
+  <array>
+    <string>Expanded Bold</string>
+    <string>glyphs.E_xpanded B_old</string>
+  </array>
+  <array>
+    <string>Expanded Regular</string>
+    <string>glyphs.E_xpanded R_egular</string>
+  </array>
+  <array>
+    <string>Regular</string>
+    <string>glyphs.R_egular</string>
+  </array>
+</array>
+</plist>

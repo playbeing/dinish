@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr" format="2">
+  <advance width="780"/>
+  <unicode hex="0448"/>
+  <outline>
+    <contour>
+      <point x="401.666" y="0.000333333" type="line"/>
+      <point x="659" y="0.000333333" type="line"/>
+      <point x="659" y="80.3333" type="line"/>
+      <point x="401.666" y="80.3333" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.666" y="0.000333333" type="line"/>
+      <point x="383" y="0.000333333" type="line"/>
+      <point x="383" y="80.3333" type="line"/>
+      <point x="125.666" y="80.3333" type="line"/>
+    </contour>
+    <contour>
+      <point x="621.667" y="0" type="line"/>
+      <point x="710.333" y="0" type="line"/>
+      <point x="710.333" y="523.333" type="line"/>
+      <point x="621.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="345.667" y="0" type="line"/>
+      <point x="434.333" y="0" type="line"/>
+      <point x="434.333" y="523.333" type="line"/>
+      <point x="345.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="69.667" y="0" type="line"/>
+      <point x="158.333" y="0" type="line"/>
+      <point x="158.333" y="523.333" type="line"/>
+      <point x="69.667" y="523.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

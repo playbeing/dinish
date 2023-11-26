@@ -1,0 +1,231 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn MOL;
+languagesystem latn PLK;
+languagesystem latn ROM;
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
+languagesystem grek dflt;
+#< languagesystem
+feature locl {
+# Localized Forms
+
+#> feature
+  script cyrl; # Cyrillic
+  language BGR; # Bulgarian
+  sub Decyr by Decyr.loclBGR;
+  sub Elcyr by Elcyr.loclBGR;
+  sub decyr by decyr.loclBGR;
+  sub elcyr by elcyr.loclBGR;
+  sub gecyr by gecyr.loclBGR;
+  sub hardcyr by hardcyr.loclBGR;
+  sub icyr by icyr.loclBGR;
+  sub igravecyr by igravecyr.loclBGR;
+  sub ishortcyr by ishortcyr.loclBGR;
+  sub kacyr by kacyr.loclBGR;
+  sub pecyr by pecyr.loclBGR;
+  sub shacyr by shacyr.loclBGR;
+  sub shchacyr by shchacyr.loclBGR;
+  sub softcyr by softcyr.loclBGR;
+  sub tecyr by tecyr.loclBGR;
+  sub tsecyr by tsecyr.loclBGR;
+  sub vecyr by vecyr.loclBGR;
+  sub ylongcyr by ylongcyr.loclBGR;
+  sub yucyr by yucyr.loclBGR;
+  sub zecyr by zecyr.loclBGR;
+  sub zhecyr by zhecyr.loclBGR;
+
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by uni0218;
+  sub scedilla by uni0219;
+  sub uni0162 by uni021A;
+  sub uni0163 by uni021B;
+
+  language PLK; # Polish
+  sub Cacute by Cacute.loclPLK;
+  sub Nacute by Nacute.loclPLK;
+  sub Oacute by Oacute.loclPLK;
+  sub Sacute by Sacute.loclPLK;
+  sub Zacute by Zacute.loclPLK;
+  sub uni0301 by uni0301.loclPLK;
+  sub cacute by cacute.loclPLK;
+  sub nacute by nacute.loclPLK;
+  sub oacute by oacute.loclPLK;
+  sub sacute by sacute.loclPLK;
+  sub zacute by zacute.loclPLK;
+
+  language ROM; # Romanian
+  sub Scedilla by uni0218;
+  sub scedilla by uni0219;
+  sub uni0162 by uni021A;
+  sub uni0163 by uni021B;
+#< feature
+} locl;
+feature liga {
+# Standard Ligatures
+
+#> feature
+  sub f i by fi;
+  sub f l by fl;
+#< feature
+} liga;
+feature dlig {
+# Discretionary Ligatures
+
+#> feature
+  sub t t by t_t;
+  sub Acyr grave by Acyrgrave;
+  sub acyr grave by acyrgrave;
+  sub Iecyr grave by Iecyrgrave;
+  sub iecyr grave by iecyrgrave;
+  sub Ocyr grave by Ocyrgrave;
+  sub ocyr grave by ocyrgrave;
+  sub Ucyr grave by Ucyrgrave;
+  sub ucyr grave by ucyrgrave;
+  sub Hardcyr grave by Hardcyrgrave;
+  sub hardcyr grave by hardcyrgrave;
+  sub hardcyr.loclBGR grave by hardcyrgrave.loclBGR;
+  sub Ereversedcyr grave by Ereversedcyrgrave;
+  sub ereversedcyr grave by ereversedcyrgrave;
+  sub Ylongcyr grave by Ylongcyrgrave;
+  sub ylongcyr grave by ylongcyrgrave;
+  sub ylongcyr.loclBGR grave by ylongcyrgrave.loclBGR;
+  sub Yucyr grave by Yucyrgrave;
+  sub yucyr grave by yucyrgrave;
+  sub yucyr.loclBGR grave by yucyrgrave.loclBGR;
+  sub Yacyr grave by Yacyrgrave;
+  sub yacyr grave by yacyrgrave;
+#< feature
+} dlig;
+feature dnom {
+# Denominator
+
+#> feature
+  sub four by four.dnom;
+  sub one by one.dnom;
+  sub three by three.dnom;
+  sub two by two.dnom;
+  sub zero by zero.dnom;
+#< feature
+} dnom;
+feature numr {
+# Numerator
+
+#> feature
+  sub four by four.numr;
+  sub one by one.numr;
+  sub three by three.numr;
+  sub two by two.numr;
+  sub zero by zero.numr;
+#< feature
+} numr;
+feature lnum {
+# Lining Figures
+
+#> feature
+  sub eight.osf by eight;
+  sub eight.tosf by eight;
+  sub five.osf by five;
+  sub five.tosf by five;
+  sub four.osf by four;
+  sub four.tosf by four;
+  sub nine.osf by nine;
+  sub nine.tosf by nine;
+  sub one.osf by one;
+  sub one.tosf by one;
+  sub seven.osf by seven;
+  sub seven.tosf by seven;
+  sub six.osf by six;
+  sub six.tosf by six;
+  sub three.osf by three;
+  sub three.tosf by three;
+  sub two.osf by two;
+  sub two.tosf by two;
+  sub zero.osf by zero;
+  sub zero.tosf by zero;
+#< feature
+} lnum;
+feature onum {
+# Oldstyle Figures
+
+#> feature
+  sub eight by eight.tosf;
+  sub five by five.tosf;
+  sub four by four.tosf;
+  sub nine by nine.tosf;
+  sub one by one.tosf;
+  sub seven by seven.tosf;
+  sub six by six.tosf;
+  sub three by three.tosf;
+  sub two by two.tosf;
+  sub zero by zero.tosf;
+#< feature
+} onum;
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight.tosf by eight.osf;
+  sub five.tosf by five.osf;
+  sub four.tosf by four.osf;
+  sub nine.tosf by nine.osf;
+  sub one.tosf by one.osf;
+  sub seven.tosf by seven.osf;
+  sub six.tosf by six.osf;
+  sub three.tosf by three.osf;
+  sub two.tosf by two.osf;
+  sub zero.tosf by zero.osf;
+#< feature
+} pnum;
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight.osf by eight.tosf;
+  sub five.osf by five.tosf;
+  sub four.osf by four.tosf;
+  sub nine.osf by nine.tosf;
+  sub one.osf by one.tosf;
+  sub seven.osf by seven.tosf;
+  sub six.osf by six.tosf;
+  sub three.osf by three.tosf;
+  sub two.osf by two.tosf;
+  sub zero.osf by zero.tosf;
+#< feature
+} tnum;
+feature sups {
+# Superscript
+
+#> feature
+  sub four by foursuperior;
+  sub one by onesuperior;
+  sub three by threesuperior;
+  sub two by twosuperior;
+  sub zero by zero.sups;
+#< feature
+} sups;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+#< feature
+} ordn;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+  sub one fraction four by onequarter;
+  sub one fraction two by onehalf;
+  sub three fraction four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;

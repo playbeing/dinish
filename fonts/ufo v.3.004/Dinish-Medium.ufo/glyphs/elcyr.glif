@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="elcyr" format="2">
+  <advance width="496"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="337.667" y="0" type="line"/>
+      <point x="426.333" y="0" type="line"/>
+      <point x="426.333" y="523.333" type="line"/>
+      <point x="337.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.333" y="449.667" type="line"/>
+      <point x="392.333" y="449.667" type="line"/>
+      <point x="392.333" y="523.333" type="line"/>
+      <point x="134.333" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.511" y="85.334" type="curve"/>
+      <point x="10.511" y="0" type="line"/>
+      <point x="93.994" y="0"/>
+      <point x="149.007" y="52.345"/>
+      <point x="158.653" y="152.984" type="curve" smooth="yes"/>
+      <point x="194.333" y="523.331" type="line"/>
+      <point x="106.401" y="523.331" type="line"/>
+      <point x="72.337" y="192.903" type="line" smooth="yes"/>
+      <point x="63.747" y="110.085"/>
+      <point x="45.315" y="85.373"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

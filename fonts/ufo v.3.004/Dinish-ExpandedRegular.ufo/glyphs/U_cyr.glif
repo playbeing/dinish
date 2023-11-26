@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucyr" format="2">
+  <advance width="594"/>
+  <unicode hex="0423"/>
+  <anchor x="297" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="97.883" y="0" type="line"/>
+      <point x="129.59" y="0" type="line" smooth="yes"/>
+      <point x="204.921" y="0"/>
+      <point x="264.305" y="47.038"/>
+      <point x="312.166" y="144.62" type="curve" smooth="yes"/>
+      <point x="588" y="707" type="line"/>
+      <point x="483" y="707" type="line"/>
+      <point x="276.56" y="257.695" type="line"/>
+      <point x="283.854" y="280.711" type="line"/>
+      <point x="239.502" y="187.75" type="line" smooth="yes"/>
+      <point x="210.539" y="127.042"/>
+      <point x="157.703" y="79.836"/>
+      <point x="118.72" y="79.836" type="curve" smooth="yes"/>
+      <point x="97.883" y="79.836" type="line"/>
+    </contour>
+    <contour>
+      <point x="253.504" y="205.904" type="line"/>
+      <point x="309.15" y="298.135" type="line"/>
+      <point x="111" y="707" type="line"/>
+      <point x="6" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=V</string>
+  </dict>
+  </lib>
+</glyph>

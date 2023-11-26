@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshecyr" format="2">
+  <advance width="425"/>
+  <unicode hex="045B"/>
+  <outline>
+    <component base="hbar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>hbar</string>
+  </dict>
+  </lib>
+</glyph>

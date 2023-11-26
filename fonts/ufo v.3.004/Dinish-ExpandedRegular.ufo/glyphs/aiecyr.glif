@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiecyr" format="2">
+  <advance width="922"/>
+  <unicode hex="04D5"/>
+  <anchor x="459" y="586" name="top"/>
+  <outline>
+    <component base="ae"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ae</string>
+  </dict>
+  </lib>
+</glyph>

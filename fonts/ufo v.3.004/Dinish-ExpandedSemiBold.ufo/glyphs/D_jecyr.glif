@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Djecyr" format="2">
+  <advance width="790"/>
+  <unicode hex="0402"/>
+  <anchor x="284" y="-86" name="bottom"/>
+  <anchor x="254" y="770.667" name="top"/>
+  <anchor x="246.333" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="601.333" type="line"/>
+      <point x="561.333" y="601.333" type="line"/>
+      <point x="561.333" y="707" type="line"/>
+      <point x="6.333" y="707" type="line"/>
+      <point x="6.333" y="601.333" type="line"/>
+      <point x="224" y="601.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="440.983" y="0" type="line"/>
+      <point x="490.667" y="0" type="line" smooth="yes"/>
+      <point x="650.123" y="0"/>
+      <point x="739.667" y="78.643"/>
+      <point x="739.667" y="218.667" type="curve" smooth="yes"/>
+      <point x="739.667" y="355.982"/>
+      <point x="648.225" y="433.667"/>
+      <point x="486.667" y="433.667" type="curve" smooth="yes"/>
+      <point x="285.487" y="433.667" type="line"/>
+      <point x="285.487" y="327.333" type="line"/>
+      <point x="494.667" y="327.333" type="line" smooth="yes"/>
+      <point x="578.983" y="327.333"/>
+      <point x="619" y="292.233"/>
+      <point x="619" y="218.333" type="curve" smooth="yes"/>
+      <point x="619" y="142.451"/>
+      <point x="577.842" y="105.975"/>
+      <point x="492.667" y="105.785" type="curve"/>
+      <point x="440.983" y="105.688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Softcyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>T+Softcyr</string>
+  </dict>
+  </lib>
+</glyph>

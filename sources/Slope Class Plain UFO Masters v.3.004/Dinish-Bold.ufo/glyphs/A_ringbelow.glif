@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringbelow" format="2">
+  <advance width="620"/>
+  <unicode hex="1E00"/>
+  <anchor x="309" y="776" name="top"/>
+  <anchor x="309" y="651" name="t.ring"/>
+  <anchor x="610" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0325" xOffset="309"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0325</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

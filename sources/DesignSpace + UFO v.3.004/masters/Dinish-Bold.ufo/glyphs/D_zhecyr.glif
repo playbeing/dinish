@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhecyr" format="2">
+  <advance width="602"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="234" y="-170" type="line"/>
+      <point x="368" y="-170" type="line"/>
+      <point x="368" y="117" type="line"/>
+      <point x="234" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="483" y="117" type="line"/>
+      <point x="139" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="707" type="line"/>
+      <point x="408" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="707" type="line"/>
+      <point x="60" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

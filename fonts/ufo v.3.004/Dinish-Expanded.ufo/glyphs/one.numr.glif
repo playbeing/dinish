@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.numr" format="2">
+  <advance width="259"/>
+  <outline>
+    <contour>
+      <point x="103.57" y="279.671" type="line"/>
+      <point x="208.57" y="279.671" type="line"/>
+      <point x="208.57" y="708.671" type="line"/>
+      <point x="103.57" y="708.671" type="line"/>
+      <point x="12.57" y="657.671" type="line"/>
+      <point x="12.57" y="549.671" type="line"/>
+      <point x="103.57" y="599.671" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>101</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=one.dnom</string>
+  </dict>
+  </lib>
+</glyph>

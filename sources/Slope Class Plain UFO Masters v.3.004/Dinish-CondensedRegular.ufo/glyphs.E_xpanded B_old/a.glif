@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="2">
+  <advance width="566"/>
+  <anchor x="274" y="602" name="top"/>
+  <anchor x="274" y="588" name="t.ring"/>
+  <anchor x="274" y="-86" name="bottom"/>
+  <anchor x="511" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="388" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="511" y="340" type="line" smooth="yes"/>
+      <point x="511" y="468.172"/>
+      <point x="427.003" y="539"/>
+      <point x="275" y="539" type="curve" smooth="yes"/>
+      <point x="138.971" y="539"/>
+      <point x="54" y="476.329"/>
+      <point x="54" y="376" type="curve" smooth="yes"/>
+      <point x="54" y="373" type="line"/>
+      <point x="175" y="373" type="line"/>
+      <point x="175" y="376" type="line" smooth="yes"/>
+      <point x="175" y="417.45"/>
+      <point x="210.144" y="441"/>
+      <point x="272" y="441" type="curve" smooth="yes"/>
+      <point x="347.333" y="441"/>
+      <point x="385" y="409.333"/>
+      <point x="385" y="346" type="curve" smooth="yes"/>
+      <point x="385" y="314" type="line"/>
+      <point x="243" y="314" type="line" smooth="yes"/>
+      <point x="109.323" y="314"/>
+      <point x="38" y="260.073"/>
+      <point x="38" y="159" type="curve" smooth="yes"/>
+      <point x="38" y="52.1795"/>
+      <point x="106.758" y="-6"/>
+      <point x="233" y="-6" type="curve" smooth="yes"/>
+      <point x="302.697" y="-6"/>
+      <point x="345.555" y="9.20761"/>
+      <point x="388" y="49" type="curve"/>
+    </contour>
+    <contour>
+      <point x="385" y="227" type="line"/>
+      <point x="385" y="195" type="line" smooth="yes"/>
+      <point x="385" y="129"/>
+      <point x="343.669" y="95"/>
+      <point x="261" y="95" type="curve" smooth="yes"/>
+      <point x="195.826" y="95"/>
+      <point x="161" y="118.333"/>
+      <point x="161" y="162" type="curve" smooth="yes"/>
+      <point x="161" y="206.952"/>
+      <point x="193.385" y="227"/>
+      <point x="266" y="227" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="274" y="0"/>
+</glyph>

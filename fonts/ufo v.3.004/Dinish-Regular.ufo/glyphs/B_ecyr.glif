@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyr" format="2">
+  <advance width="625"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="136.82" y="0" type="line"/>
+      <point x="336" y="0" type="line" smooth="yes"/>
+      <point x="476.459" y="0"/>
+      <point x="558" y="77.5"/>
+      <point x="558" y="211" type="curve" smooth="yes"/>
+      <point x="558" y="337.315"/>
+      <point x="473.461" y="415"/>
+      <point x="336" y="415" type="curve" smooth="yes"/>
+      <point x="136.82" y="415" type="line"/>
+      <point x="136.82" y="348" type="line"/>
+      <point x="330" y="348" type="line" smooth="yes"/>
+      <point x="429.797" y="348"/>
+      <point x="483" y="300.361"/>
+      <point x="483" y="211" type="curve" smooth="yes"/>
+      <point x="483" y="117.13"/>
+      <point x="430.561" y="68.119"/>
+      <point x="330" y="68" type="curve" smooth="yes"/>
+      <point x="136.82" y="67.772" type="line"/>
+    </contour>
+    <contour>
+      <point x="136.82" y="640" type="line"/>
+      <point x="511" y="640" type="line"/>
+      <point x="511" y="707" type="line"/>
+      <point x="136.82" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="707.213" type="line"/>
+      <point x="82" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=B</string>
+  </dict>
+  </lib>
+</glyph>

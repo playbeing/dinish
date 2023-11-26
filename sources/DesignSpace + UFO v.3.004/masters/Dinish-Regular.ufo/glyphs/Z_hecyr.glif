@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="989"/>
+  <unicode hex="0416"/>
+  <anchor x="416" y="707" name="top"/>
+  <outline>
+    <contour>
+      <point x="511.64" y="328" type="line"/>
+      <point x="679.702" y="328" type="line"/>
+      <point x="679.702" y="395" type="line"/>
+      <point x="511.64" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="707" type="line"/>
+      <point x="457" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="892" y="0" type="line"/>
+      <point x="979" y="0" type="line"/>
+      <point x="679.702" y="395" type="line"/>
+      <point x="631.826" y="337.073" type="line"/>
+    </contour>
+    <contour>
+      <point x="587.639" y="339.318" type="line"/>
+      <point x="648.932" y="339.263" type="line"/>
+      <point x="947" y="707" type="line"/>
+      <point x="858" y="707" type="line"/>
+      <point x="587.639" y="365.317" type="line"/>
+    </contour>
+    <contour>
+      <point x="309.298" y="328" type="line"/>
+      <point x="477.36" y="328" type="line"/>
+      <point x="477.36" y="395" type="line"/>
+      <point x="309.298" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="0" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="532" y="707" type="line"/>
+      <point x="457" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="357.174" y="337.073" type="line"/>
+      <point x="309.298" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="340.068" y="339.263" type="line"/>
+      <point x="401.361" y="339.318" type="line"/>
+      <point x="401.361" y="365.317" type="line"/>
+      <point x="131" y="707" type="line"/>
+      <point x="42" y="707" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="vertical" x="223" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <guideline angle="90" name="vertical" x="424" y="0"/>
+  <guideline angle="0" name="horizontal" x="0" y="707"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  <key>com.fontlab.recipe</key>
+  <string>K_K%</string>
+  </dict>
+  </lib>
+</glyph>

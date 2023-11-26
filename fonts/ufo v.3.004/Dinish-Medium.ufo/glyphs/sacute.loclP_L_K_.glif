@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute.loclPLK" format="2">
+  <advance width="477"/>
+  <outline>
+    <component base="s"/>
+    <contour>
+      <point x="192.667" y="591.333" type="line"/>
+      <point x="272.333" y="591.333" type="line"/>
+      <point x="326.333" y="722" type="line"/>
+      <point x="222" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

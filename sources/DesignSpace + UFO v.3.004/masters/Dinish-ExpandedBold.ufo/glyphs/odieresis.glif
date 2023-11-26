@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="2">
+  <advance width="576"/>
+  <unicode hex="00F6"/>
+  <anchor x="290" y="-86" name="bottom"/>
+  <anchor x="223" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0308" xOffset="290"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

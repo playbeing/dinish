@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="2">
+  <advance width="517"/>
+  <unicode hex="0110"/>
+  <outline>
+    <component base="D" xOffset="29"/>
+    <contour>
+      <point x="31" y="392" type="line"/>
+      <point x="31" y="326" type="line"/>
+      <point x="274" y="326" type="line"/>
+      <point x="274" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

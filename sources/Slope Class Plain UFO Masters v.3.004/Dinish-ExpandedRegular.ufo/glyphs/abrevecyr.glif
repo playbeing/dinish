@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevecyr" format="2">
+  <advance width="562"/>
+  <unicode hex="04D1"/>
+  <anchor x="268" y="578" name="t.ring"/>
+  <anchor x="268" y="-86" name="bottom"/>
+  <anchor x="493" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="acyr"/>
+    <component base="uni0306" xOffset="268" yOffset="11"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>acyr+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

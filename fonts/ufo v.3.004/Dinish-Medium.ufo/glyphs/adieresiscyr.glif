@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresiscyr" format="2">
+  <advance width="510"/>
+  <unicode hex="04D3"/>
+  <anchor x="245.667" y="578" name="t.ring"/>
+  <anchor x="246" y="-86" name="bottom"/>
+  <anchor x="440.667" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="acyr"/>
+    <component base="uni0308" xScale="1" xOffset="245.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>acyr+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

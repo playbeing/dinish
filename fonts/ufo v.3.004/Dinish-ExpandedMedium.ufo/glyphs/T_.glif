@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="565"/>
+  <unicode hex="0054"/>
+  <anchor x="283" y="-86" name="bottom"/>
+  <anchor x="282.333" y="765.333" name="top"/>
+  <anchor x="244.667" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="612.667" type="line"/>
+      <point x="558.667" y="612.667" type="line"/>
+      <point x="558.667" y="707" type="line"/>
+      <point x="6.667" y="707" type="line"/>
+      <point x="6.667" y="612.667" type="line"/>
+      <point x="230" y="612.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>639</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>210</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

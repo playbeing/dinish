@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vecyr.loclBGR" format="2">
+  <advance width="419"/>
+  <outline>
+    <contour>
+      <point x="42" y="180.382" type="line"/>
+      <point x="42" y="59.302"/>
+      <point x="101.931" y="-8"/>
+      <point x="209.75" y="-8" type="curve" smooth="yes"/>
+      <point x="329.882" y="-8"/>
+      <point x="398" y="80.56"/>
+      <point x="398" y="222.633" type="curve" smooth="yes"/>
+      <point x="398" y="299.405"/>
+      <point x="365.566" y="369.686"/>
+      <point x="315" y="402.488" type="curve"/>
+      <point x="315" y="405.689" type="line"/>
+      <point x="357.434" y="434.89"/>
+      <point x="378" y="483.217"/>
+      <point x="378" y="553.733" type="curve" smooth="yes"/>
+      <point x="378" y="641.595"/>
+      <point x="307.548" y="707"/>
+      <point x="212.907" y="707" type="curve" smooth="yes"/>
+      <point x="107.159" y="707"/>
+      <point x="42" y="643.712"/>
+      <point x="42" y="541" type="curve"/>
+      <point x="161" y="541" type="line"/>
+      <point x="161" y="571.508"/>
+      <point x="176.108" y="588"/>
+      <point x="206.592" y="588" type="curve" smooth="yes"/>
+      <point x="236.278" y="588"/>
+      <point x="259" y="559.468"/>
+      <point x="259" y="521.183" type="curve" smooth="yes"/>
+      <point x="259" y="467.379"/>
+      <point x="241.231" y="430"/>
+      <point x="215.653" y="430" type="curve" smooth="yes"/>
+      <point x="141" y="430" type="line"/>
+      <point x="141" y="310" type="line"/>
+      <point x="221.695" y="310" type="line" smooth="yes"/>
+      <point x="255.188" y="310"/>
+      <point x="279" y="267.33"/>
+      <point x="279" y="207.313" type="curve" smooth="yes"/>
+      <point x="279" y="153.377"/>
+      <point x="256.447" y="112"/>
+      <point x="220" y="112" type="curve" smooth="yes"/>
+      <point x="178.546" y="112"/>
+      <point x="161" y="132.336"/>
+      <point x="161" y="180.382" type="curve"/>
+    </contour>
+    <contour>
+      <point x="42" y="180.382" type="line"/>
+      <point x="161" y="180.382" type="line"/>
+      <point x="161" y="541" type="line"/>
+      <point x="42" y="541" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>vecyr</string>
+  </dict>
+  </lib>
+</glyph>

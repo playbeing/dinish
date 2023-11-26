@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ngrave" format="2">
+  <advance width="425"/>
+  <unicode hex="01F9"/>
+  <anchor x="208" y="-86" name="bottom"/>
+  <anchor x="0" y="760" name="dot"/>
+  <outline>
+    <component base="n"/>
+    <component base="uni0300" xOffset="208"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

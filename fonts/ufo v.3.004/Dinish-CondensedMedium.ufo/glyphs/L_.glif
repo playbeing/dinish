@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+  <advance width="392"/>
+  <unicode hex="004C"/>
+  <anchor x="100.667" y="763.333" name="top"/>
+  <anchor x="212" y="-86" name="bottom"/>
+  <anchor x="297" y="397" name="dot"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="370" y="82.333" type="line"/>
+      <point x="147" y="82.333" type="line"/>
+      <point x="147" y="707" type="line"/>
+      <point x="55" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=N</string>
+  </dict>
+  </lib>
+</glyph>

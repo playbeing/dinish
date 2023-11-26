@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0325" format="2">
+  <unicode hex="0325"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="ring" xOffset="-256" yOffset="-844.713"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ring%</string>
+  </dict>
+  </lib>
+</glyph>

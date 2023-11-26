@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="547"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="149.487" y="623.333" type="line"/>
+      <point x="510.333" y="623.333" type="line"/>
+      <point x="510.333" y="707" type="line"/>
+      <point x="149.487" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="74.667" y="0" type="line"/>
+      <point x="169.667" y="0" type="line"/>
+      <point x="169.667" y="707.143" type="line"/>
+      <point x="74.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="421.667" y="707" type="line"/>
+      <point x="510.333" y="707" type="line"/>
+      <point x="510.333" y="851.896" type="line"/>
+      <point x="421.667" y="851.896" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Gecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Gecyr</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

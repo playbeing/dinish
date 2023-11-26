@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="2">
+  <advance width="643"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <component base="f"/>
+    <contour>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="62" type="line"/>
+      <point x="546" y="62" type="line" smooth="yes"/>
+      <point x="497.333" y="62"/>
+      <point x="473" y="89"/>
+      <point x="473" y="143" type="curve" smooth="yes"/>
+      <point x="473" y="707" type="line"/>
+      <point x="402" y="707" type="line"/>
+      <point x="402" y="140" type="line" smooth="yes"/>
+      <point x="402" y="49.6998"/>
+      <point x="452.41" y="0"/>
+      <point x="544" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

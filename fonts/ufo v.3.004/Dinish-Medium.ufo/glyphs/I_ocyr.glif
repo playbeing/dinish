@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iocyr" format="2">
+  <advance width="555"/>
+  <unicode hex="0401"/>
+  <anchor x="295" y="-86" name="bottom"/>
+  <anchor x="510.333" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="Iecyr"/>
+    <component base="uni0308" xyScale="5.1917e-18" yScale="1" xOffset="294.667" yOffset="182.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Iecyr+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

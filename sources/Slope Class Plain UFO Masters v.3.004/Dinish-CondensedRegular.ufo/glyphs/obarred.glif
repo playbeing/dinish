@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarred" format="2">
+  <advance width="418"/>
+  <unicode hex="0275"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="67" y="233" type="line"/>
+      <point x="349" y="233" type="line"/>
+      <point x="349" y="299" type="line"/>
+      <point x="67" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

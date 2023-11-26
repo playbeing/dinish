@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ylongcyr" format="2">
+  <advance width="893"/>
+  <unicode hex="042B"/>
+  <anchor x="406" y="770.667" name="top"/>
+  <outline>
+    <component base="Softcyr"/>
+    <component base="I" xScale="1" xOffset="636.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>Softcyr_I</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="380"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="60" y="-56" type="line"/>
+      <point x="92.4862" y="-156.166"/>
+      <point x="188.185" y="-217"/>
+      <point x="320" y="-217" type="curve"/>
+      <point x="320" y="-132" type="line"/>
+      <point x="254.632" y="-132"/>
+      <point x="199.752" y="-110.627"/>
+      <point x="170" y="-80" type="curve"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="16" type="line"/>
+      <point x="250" y="16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

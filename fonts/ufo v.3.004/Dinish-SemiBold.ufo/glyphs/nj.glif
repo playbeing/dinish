@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nj" format="2">
+  <advance width="772"/>
+  <unicode hex="01CC"/>
+  <anchor x="267.333" y="596.667" name="top"/>
+  <anchor x="267.333" y="-86" name="bottom"/>
+  <anchor x="0" y="760" name="dot"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xScale="1" xOffset="532.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n_j%</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

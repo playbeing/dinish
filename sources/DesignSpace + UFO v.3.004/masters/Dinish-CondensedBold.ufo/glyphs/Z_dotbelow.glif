@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotbelow" format="2">
+  <advance width="367"/>
+  <unicode hex="1E92"/>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="114" type="line"/>
+      <point x="146" y="114" type="line"/>
+      <point x="344" y="593" type="line"/>
+      <point x="344" y="707" type="line"/>
+      <point x="32" y="707" type="line"/>
+      <point x="32" y="593" type="line"/>
+      <point x="220" y="593" type="line"/>
+      <point x="22" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="-186" type="line"/>
+      <point x="249" y="-186" type="line"/>
+      <point x="249" y="-86" type="line"/>
+      <point x="125" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+  <advance width="450"/>
+  <unicode hex="0050"/>
+  <anchor x="226" y="760" name="top"/>
+  <anchor x="236" y="-86" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="299" type="line"/>
+      <point x="245" y="299" type="line" smooth="yes"/>
+      <point x="365.667" y="299"/>
+      <point x="426" y="366.333"/>
+      <point x="426" y="501" type="curve" smooth="yes"/>
+      <point x="426" y="640.397"/>
+      <point x="367.48" y="707"/>
+      <point x="245" y="707" type="curve" smooth="yes"/>
+      <point x="61" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="366" type="line"/>
+      <point x="136" y="640" type="line"/>
+      <point x="241" y="640" type="line" smooth="yes"/>
+      <point x="318.396" y="640"/>
+      <point x="352" y="597.919"/>
+      <point x="352" y="501" type="curve" smooth="yes"/>
+      <point x="352" y="408.057"/>
+      <point x="317.42" y="366"/>
+      <point x="241" y="366" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="226" y="0"/>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr" format="2">
+  <advance width="445"/>
+  <unicode hex="0437"/>
+  <outline>
+    <contour>
+      <point x="43.055" y="154.261" type="line"/>
+      <point x="43.055" y="143.962" type="line" smooth="yes"/>
+      <point x="43.055" y="50.181"/>
+      <point x="121.774" y="-8"/>
+      <point x="220.608" y="-8" type="curve" smooth="yes"/>
+      <point x="324.164" y="-8"/>
+      <point x="398.167" y="58.482"/>
+      <point x="398.167" y="151.569" type="curve" smooth="yes"/>
+      <point x="398.167" y="172.252" type="line" smooth="yes"/>
+      <point x="398.167" y="235.011"/>
+      <point x="368.728" y="285.052"/>
+      <point x="328.881" y="297.664" type="curve"/>
+      <point x="328.881" y="300.664" type="line"/>
+      <point x="364.843" y="315.367"/>
+      <point x="388.239" y="354.474"/>
+      <point x="388.239" y="400.083" type="curve" smooth="yes"/>
+      <point x="388.239" y="412.869" type="line" smooth="yes"/>
+      <point x="388.239" y="488.876"/>
+      <point x="319.184" y="545.333"/>
+      <point x="221.899" y="545.333" type="curve" smooth="yes"/>
+      <point x="117.215" y="545.333"/>
+      <point x="43.093" y="485.981"/>
+      <point x="43.093" y="392.837" type="curve" smooth="yes"/>
+      <point x="43.093" y="383.744" type="line"/>
+      <point x="145.514" y="383.744" type="line"/>
+      <point x="145.514" y="392.573" type="line" smooth="yes"/>
+      <point x="145.514" y="428.252"/>
+      <point x="177.495" y="453"/>
+      <point x="220.777" y="453" type="curve" smooth="yes"/>
+      <point x="259.119" y="453"/>
+      <point x="285.746" y="431.976"/>
+      <point x="285.746" y="401.669" type="curve" smooth="yes"/>
+      <point x="285.746" y="388.26" type="line" smooth="yes"/>
+      <point x="285.746" y="353.985"/>
+      <point x="267.862" y="329.333"/>
+      <point x="235.903" y="329.333" type="curve" smooth="yes"/>
+      <point x="179.259" y="329.333" type="line"/>
+      <point x="179.259" y="245" type="line"/>
+      <point x="229.851" y="245" type="line" smooth="yes"/>
+      <point x="271.446" y="245"/>
+      <point x="295.801" y="215.403"/>
+      <point x="295.801" y="167.608" type="curve" smooth="yes"/>
+      <point x="295.801" y="157.243" type="line" smooth="yes"/>
+      <point x="295.801" y="114.985"/>
+      <point x="267.353" y="83.333"/>
+      <point x="221.378" y="83.333" type="curve" smooth="yes"/>
+      <point x="177.03" y="83.333"/>
+      <point x="145.428" y="107.882"/>
+      <point x="145.428" y="145.299" type="curve" smooth="yes"/>
+      <point x="145.428" y="154.223" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=vecyr</string>
+  </dict>
+  </lib>
+</glyph>

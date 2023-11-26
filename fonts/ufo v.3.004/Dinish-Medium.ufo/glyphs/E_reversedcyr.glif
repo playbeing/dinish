@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversedcyr" format="2">
+  <advance width="616"/>
+  <unicode hex="042D"/>
+  <anchor x="302" y="774" name="top"/>
+  <outline>
+    <component base="C" xScale="-1" xOffset="616.276"/>
+    <contour>
+      <point x="241.11" y="317.976" type="line"/>
+      <point x="481.336" y="317.976" type="line"/>
+      <point x="481.336" y="401.642" type="line"/>
+      <point x="241.11" y="401.642" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  </dict>
+  </lib>
+</glyph>

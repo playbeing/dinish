@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildebelowcomb" format="2">
+  <unicode hex="0330"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="uni0303" xOffset="-2.847" yOffset="-804.461"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0303</string>
+  </dict>
+  </lib>
+</glyph>

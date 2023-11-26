@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="496"/>
+  <unicode hex="0041"/>
+  <anchor x="249" y="770" name="top"/>
+  <anchor x="249" y="657" name="t.ring"/>
+  <anchor x="249" y="-86" name="bottom"/>
+  <anchor x="486" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="166" y="137" type="line"/>
+      <point x="331" y="137" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="310" y="707" type="line"/>
+      <point x="187" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="250" type="line"/>
+      <point x="249" y="537" type="line"/>
+      <point x="308" y="250" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="249" y="0"/>
+</glyph>

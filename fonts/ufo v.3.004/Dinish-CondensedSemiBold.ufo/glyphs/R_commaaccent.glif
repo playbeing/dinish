@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcommaaccent" format="2">
+  <advance width="473"/>
+  <unicode hex="0156"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="292.333" type="line"/>
+      <point x="236" y="292.333" type="line"/>
+      <point x="334.333" y="0" type="line"/>
+      <point x="448.667" y="0" type="line"/>
+      <point x="336.667" y="311.667" type="line"/>
+      <point x="397.778" y="339.889"/>
+      <point x="426.667" y="400.556"/>
+      <point x="426.667" y="499.667" type="curve" smooth="yes"/>
+      <point x="426.667" y="645.332"/>
+      <point x="371.309" y="707"/>
+      <point x="240" y="707" type="curve" smooth="yes"/>
+      <point x="49" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="389" type="line"/>
+      <point x="158" y="609.333" type="line"/>
+      <point x="238.333" y="609.333" type="line" smooth="yes"/>
+      <point x="294.42" y="609.333"/>
+      <point x="317.667" y="577.137"/>
+      <point x="317.667" y="499.667" type="curve" smooth="yes"/>
+      <point x="317.667" y="422.436"/>
+      <point x="293.222" y="389"/>
+      <point x="238.333" y="389" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="193.667" y="-173" type="line"/>
+      <point x="279" y="-99" type="line"/>
+      <point x="279" y="-33.333" type="line"/>
+      <point x="193.667" y="-33.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

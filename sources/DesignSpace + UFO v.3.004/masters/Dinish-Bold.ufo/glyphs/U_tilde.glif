@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+  <advance width="628"/>
+  <unicode hex="0168"/>
+  <anchor x="313" y="-86" name="bottom"/>
+  <anchor x="368" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0303" xOffset="313" yOffset="174"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

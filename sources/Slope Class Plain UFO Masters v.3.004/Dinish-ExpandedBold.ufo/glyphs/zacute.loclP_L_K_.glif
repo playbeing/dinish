@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute.loclPLK" format="2">
+  <advance width="513"/>
+  <outline>
+    <component base="z"/>
+    <contour>
+      <point x="208" y="602" type="line"/>
+      <point x="323" y="602" type="line"/>
+      <point x="405" y="738" type="line"/>
+      <point x="253" y="738" type="line"/>
+    </contour>
+  </outline>
+</glyph>

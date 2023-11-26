@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softcyr.loclBGR" format="2">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="69.667" y="189.833" type="line"/>
+      <point x="158.333" y="189.833" type="line"/>
+      <point x="158.333" y="523.333" type="line"/>
+      <point x="69.667" y="523.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="69.797" y="189.833" type="line"/>
+      <point x="69.797" y="73.304"/>
+      <point x="147.365" y="-6"/>
+      <point x="266.992" y="-6" type="curve" smooth="yes"/>
+      <point x="404.808" y="-6"/>
+      <point x="481" y="78.125"/>
+      <point x="481" y="195.177" type="curve" smooth="yes"/>
+      <point x="481" y="318.308"/>
+      <point x="398.834" y="393.333"/>
+      <point x="279.9" y="393.333" type="curve" smooth="yes"/>
+      <point x="222.183" y="393.333"/>
+      <point x="179.633" y="381.333"/>
+      <point x="138.333" y="357.333" type="curve"/>
+      <point x="138.333" y="269.964" type="line"/>
+      <point x="179.766" y="296.241"/>
+      <point x="222.114" y="313"/>
+      <point x="279.797" y="313" type="curve" smooth="yes"/>
+      <point x="343.203" y="313"/>
+      <point x="386.333" y="264.794"/>
+      <point x="386.333" y="193.84" type="curve" smooth="yes"/>
+      <point x="386.333" y="124.952"/>
+      <point x="342.939" y="72.333"/>
+      <point x="270.243" y="72.333" type="curve" smooth="yes"/>
+      <point x="202.754" y="72.333"/>
+      <point x="161.544" y="119.543"/>
+      <point x="158.333" y="189.833" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=vecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>softcyr</string>
+  </dict>
+  </lib>
+</glyph>

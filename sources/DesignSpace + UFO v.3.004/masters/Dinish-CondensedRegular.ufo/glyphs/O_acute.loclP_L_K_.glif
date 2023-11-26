@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute.loclPLK" format="2">
+  <advance width="489"/>
+  <outline>
+    <contour>
+      <point x="245" y="-8" type="curve" smooth="yes"/>
+      <point x="365.405" y="-8"/>
+      <point x="436" y="71.096"/>
+      <point x="436" y="206" type="curve" smooth="yes"/>
+      <point x="436" y="501" type="line" smooth="yes"/>
+      <point x="436" y="638.288"/>
+      <point x="366.963" y="716"/>
+      <point x="245" y="716" type="curve" smooth="yes"/>
+      <point x="122.107" y="716"/>
+      <point x="53" y="638.615"/>
+      <point x="53" y="501" type="curve" smooth="yes"/>
+      <point x="53" y="206" type="line" smooth="yes"/>
+      <point x="53" y="70.981"/>
+      <point x="123.861" y="-8"/>
+    </contour>
+    <contour>
+      <point x="246" y="59" type="curve"/>
+      <point x="167.333" y="59.6667"/>
+      <point x="128" y="108.333"/>
+      <point x="128" y="205" type="curve" smooth="yes"/>
+      <point x="128" y="494" type="line" smooth="yes"/>
+      <point x="128" y="597.333"/>
+      <point x="166.823" y="648"/>
+      <point x="246" y="648" type="curve" smooth="yes"/>
+      <point x="322.165" y="648"/>
+      <point x="361" y="595.994"/>
+      <point x="361" y="494" type="curve" smooth="yes"/>
+      <point x="361" y="205" type="line" smooth="yes"/>
+      <point x="361" y="110.948"/>
+      <point x="320.082" y="59"/>
+    </contour>
+    <contour>
+      <point x="217" y="767" type="line"/>
+      <point x="275" y="767" type="line"/>
+      <point x="310" y="899" type="line"/>
+      <point x="235" y="899" type="line"/>
+    </contour>
+  </outline>
+</glyph>

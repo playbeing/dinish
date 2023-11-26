@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr" format="2">
+  <advance width="595"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="273.99" y="0" type="line"/>
+      <point x="476.133" y="0" type="line"/>
+      <point x="476.133" y="-170" type="line"/>
+      <point x="585.133" y="-170" type="line"/>
+      <point x="585.133" y="98.377" type="line"/>
+      <point x="273.99" y="98.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="121.01" y="0" type="line"/>
+      <point x="207.432" y="122.122"/>
+      <point x="241.564" y="215.594"/>
+      <point x="258.424" y="403.761" type="curve" smooth="yes"/>
+      <point x="285.09" y="707.039" type="line"/>
+      <point x="176.09" y="707" type="line"/>
+      <point x="153.424" y="451.422" type="line" smooth="yes"/>
+      <point x="135.571" y="253.433"/>
+      <point x="116.585" y="168.693"/>
+      <point x="50.461" y="98.433" type="curve"/>
+    </contour>
+    <contour>
+      <point x="411.402" y="0" type="line"/>
+      <point x="520.402" y="0" type="line"/>
+      <point x="520.402" y="707.039" type="line"/>
+      <point x="411.402" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="256.602" y="608.536" type="line"/>
+      <point x="480.449" y="608.536" type="line"/>
+      <point x="480.449" y="706.869" type="line"/>
+      <point x="256.602" y="706.869" type="line"/>
+    </contour>
+    <contour>
+      <point x="210.602" y="-0.067" type="line"/>
+      <point x="407.363" y="-0.067" type="line"/>
+      <point x="407.363" y="98.266" type="line"/>
+      <point x="210.602" y="98.266" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="-170" type="line"/>
+      <point x="119" y="-170" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="330.253" y="0" type="line"/>
+      <point x="330.253" y="98.333" type="line"/>
+      <point x="10" y="98.34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
+</glyph>

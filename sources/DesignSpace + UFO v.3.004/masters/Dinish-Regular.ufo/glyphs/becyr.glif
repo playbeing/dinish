@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr" format="2">
+  <advance width="506"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="251.784" y="-6" type="curve" smooth="yes"/>
+      <point x="378.525" y="-6"/>
+      <point x="446" y="93.7675"/>
+      <point x="446" y="207.371" type="curve" smooth="yes"/>
+      <point x="446" y="273.631" type="line" smooth="yes"/>
+      <point x="446" y="388.045"/>
+      <point x="399.284" y="486"/>
+      <point x="271.785" y="486" type="curve" smooth="yes"/>
+      <point x="212.779" y="486"/>
+      <point x="170.838" y="469.396"/>
+      <point x="133.38" y="431.206" type="curve"/>
+      <point x="60.9419" y="431.206" type="line"/>
+      <point x="61.4543" y="232.249" type="line" smooth="yes"/>
+      <point x="61.8213" y="89.7188"/>
+      <point x="119.57" y="-6"/>
+    </contour>
+    <contour>
+      <point x="253.596" y="56" type="curve" smooth="yes"/>
+      <point x="163.389" y="56"/>
+      <point x="130" y="130.58"/>
+      <point x="130" y="212.383" type="curve" smooth="yes"/>
+      <point x="130" y="263.607" type="line" smooth="yes"/>
+      <point x="130" y="346.352"/>
+      <point x="164.843" y="424"/>
+      <point x="258.335" y="424" type="curve" smooth="yes"/>
+      <point x="350.184" y="424"/>
+      <point x="376" y="348.958"/>
+      <point x="376" y="269.622" type="curve" smooth="yes"/>
+      <point x="376" y="211.381" type="line" smooth="yes"/>
+      <point x="376" y="133.828"/>
+      <point x="344.717" y="56"/>
+    </contour>
+    <contour>
+      <point x="61" y="379.582" type="line"/>
+      <point x="130" y="380.289" type="line"/>
+      <point x="130" y="436.45" type="line" smooth="yes"/>
+      <point x="130" y="637.148"/>
+      <point x="264.004" y="582.622"/>
+      <point x="376.39" y="638.718" type="curve"/>
+      <point x="376.39" y="707" type="line"/>
+      <point x="234.591" y="628.763"/>
+      <point x="61" y="712.294"/>
+      <point x="61" y="435.643" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

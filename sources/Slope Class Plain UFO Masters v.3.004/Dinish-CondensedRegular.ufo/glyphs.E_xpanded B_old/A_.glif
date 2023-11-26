@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="697"/>
+  <anchor x="348" y="776" name="top"/>
+  <anchor x="348" y="651" name="t.ring"/>
+  <anchor x="348" y="-86" name="bottom"/>
+  <anchor x="686" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="199" y="137" type="line"/>
+      <point x="499" y="137" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="403" y="707" type="line"/>
+      <point x="294" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="249" type="line"/>
+      <point x="348" y="537" type="line"/>
+      <point x="457" y="249" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" name="h1" x="348" y="0"/>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.sups" format="2">
+  <advance width="277"/>
+  <outline>
+    <contour>
+      <point x="33" y="440" type="line"/>
+      <point x="244" y="440" type="line"/>
+      <point x="244" y="504" type="line"/>
+      <point x="115" y="504" type="line"/>
+      <point x="210" y="652" type="line" smooth="yes"/>
+      <point x="235.443" y="691.638"/>
+      <point x="244" y="716.05"/>
+      <point x="244" y="749" type="curve" smooth="yes"/>
+      <point x="244" y="773" type="line" smooth="yes"/>
+      <point x="244" y="834.699"/>
+      <point x="202.298" y="876"/>
+      <point x="140" y="876" type="curve" smooth="yes"/>
+      <point x="76.4314" y="876"/>
+      <point x="35" y="835.752"/>
+      <point x="35" y="774" type="curve" smooth="yes"/>
+      <point x="35" y="743" type="line"/>
+      <point x="103" y="743" type="line"/>
+      <point x="103" y="766" type="line" smooth="yes"/>
+      <point x="103" y="797.333"/>
+      <point x="114.667" y="813"/>
+      <point x="138" y="813" type="curve" smooth="yes"/>
+      <point x="160.556" y="813"/>
+      <point x="173" y="798.067"/>
+      <point x="173" y="771" type="curve" smooth="yes"/>
+      <point x="173" y="751" type="line" smooth="yes"/>
+      <point x="173" y="726.06"/>
+      <point x="167.593" y="709.592"/>
+      <point x="151" y="684" type="curve" smooth="yes"/>
+      <point x="33" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=two.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=two.dnom</string>
+  </dict>
+  </lib>
+</glyph>

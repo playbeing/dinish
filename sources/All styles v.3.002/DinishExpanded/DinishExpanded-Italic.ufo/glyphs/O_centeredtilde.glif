@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="309"/>
+  <unicode hex="019F"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="160" y="396" type="line"/>
+      <point x="606" y="396" type="line"/>
+      <point x="589" y="313" type="line"/>
+      <point x="143" y="313" type="line"/>
+    </contour>
+  </outline>
+</glyph>

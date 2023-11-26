@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0324" format="2">
+  <unicode hex="0324"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="dieresis" xOffset="-255.496" yOffset="-767"/>
+  </outline>
+  <guideline angle="0" x="0" y="-86"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis%</string>
+  </dict>
+  </lib>
+</glyph>

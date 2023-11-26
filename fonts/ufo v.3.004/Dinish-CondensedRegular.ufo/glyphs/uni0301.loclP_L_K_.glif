@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0301.loclPLK" format="2">
+  <outline>
+    <contour>
+      <point x="-28" y="590" type="line"/>
+      <point x="30" y="590" type="line"/>
+      <point x="65" y="722" type="line"/>
+      <point x="-10" y="722" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t" format="2">
+  <advance width="595"/>
+  <outline>
+    <component base="t"/>
+    <component base="t" xOffset="286"/>
+    <contour>
+      <point x="429.854" y="458" type="line"/>
+      <point x="429.854" y="541" type="line"/>
+      <point x="131.293" y="541" type="line"/>
+      <point x="131.293" y="458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=t</string>
+  </dict>
+  </lib>
+</glyph>

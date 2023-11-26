@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wcircumflex" format="2">
+  <advance width="841"/>
+  <unicode hex="0175"/>
+  <anchor x="422" y="-86" name="bottom"/>
+  <anchor x="420.333" y="581.333" name="t.ring"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni0302" xScale="1" xOffset="420.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

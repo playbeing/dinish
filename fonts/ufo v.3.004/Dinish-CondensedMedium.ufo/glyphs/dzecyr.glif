@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzecyr" format="2">
+  <advance width="394"/>
+  <unicode hex="0455"/>
+  <anchor x="199.333" y="594.667" name="top"/>
+  <anchor x="178" y="0" name="b.cedilla"/>
+  <anchor x="199" y="-86" name="bottom"/>
+  <outline>
+    <component base="s"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s%</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

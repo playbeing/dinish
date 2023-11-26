@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr" format="2">
+  <advance width="473"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="384" y="-170" type="line"/>
+      <point x="453" y="-170" type="line"/>
+      <point x="453" y="63" type="line"/>
+      <point x="363" y="63" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="384" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="-170" type="line"/>
+      <point x="89" y="-170" type="line"/>
+      <point x="89" y="63.202" type="line"/>
+      <point x="20" y="63.202" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="529" type="line"/>
+      <point x="325" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.634" y="62.593" type="curve"/>
+      <point x="89.235" y="0" type="line"/>
+      <point x="161.559" y="0"/>
+      <point x="182.275" y="167.064"/>
+      <point x="189" y="258.144" type="curve" smooth="yes"/>
+      <point x="209" y="529" type="line"/>
+      <point x="140" y="529" type="line"/>
+      <point x="120" y="290.344" type="line" smooth="yes"/>
+      <point x="108.443" y="152.442"/>
+      <point x="95.491" y="63.314"/>
+    </contour>
+    <contour>
+      <point x="68.8" y="-0.407" type="line"/>
+      <point x="345.243" y="-0.407" type="line"/>
+      <point x="345.243" y="62.593" type="line"/>
+      <point x="68.8" y="62.593" type="line"/>
+    </contour>
+    <contour>
+      <point x="178.057" y="466.146" type="line"/>
+      <point x="345.243" y="466.146" type="line"/>
+      <point x="345.243" y="529.146" type="line"/>
+      <point x="178.057" y="529.146" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

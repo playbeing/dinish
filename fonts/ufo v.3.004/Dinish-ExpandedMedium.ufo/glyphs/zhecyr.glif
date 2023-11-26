@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="917"/>
+  <unicode hex="0436"/>
+  <outline>
+    <component base="kacyr" xOffset="344"/>
+    <contour>
+      <point x="380.28" y="289.117" type="line"/>
+      <point x="149" y="526.667" type="line"/>
+      <point x="22" y="526.667" type="line"/>
+      <point x="270.851" y="274.364" type="line"/>
+    </contour>
+    <contour>
+      <point x="133.667" y="0" type="line"/>
+      <point x="319" y="268.667" type="line"/>
+      <point x="249.667" y="337.333" type="line"/>
+      <point x="11.333" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="428.667" y="237.667" type="line"/>
+      <point x="428.667" y="327.667" type="line"/>
+      <point x="258.462" y="327.667" type="line"/>
+      <point x="258.462" y="237.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|kacyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=kacyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>k_k%</string>
+  </dict>
+  </lib>
+</glyph>

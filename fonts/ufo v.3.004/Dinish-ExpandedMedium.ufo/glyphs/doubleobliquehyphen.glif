@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleobliquehyphen" format="2">
+  <advance width="528"/>
+  <unicode hex="2E17"/>
+  <outline>
+    <contour>
+      <point x="81.667" y="259.333" type="line"/>
+      <point x="478" y="403.667" type="line"/>
+      <point x="445.667" y="491.667" type="line"/>
+      <point x="49.333" y="347.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="74" type="line"/>
+      <point x="478" y="218.333" type="line"/>
+      <point x="446.333" y="305.667" type="line"/>
+      <point x="49.333" y="161.333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="486"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="140.334" y="498.666" type="line"/>
+      <point x="140.334" y="510.666" type="line" smooth="yes"/>
+      <point x="140.334" y="590.625"/>
+      <point x="175.744" y="634"/>
+      <point x="240.667" y="634" type="curve" smooth="yes"/>
+      <point x="310.561" y="634"/>
+      <point x="345.334" y="589.444"/>
+      <point x="345.334" y="502" type="curve" smooth="yes"/>
+      <point x="345.334" y="214.666" type="line" smooth="yes"/>
+      <point x="345.334" y="120.954"/>
+      <point x="311.021" y="75.3333"/>
+      <point x="240.667" y="75.3333" type="curve" smooth="yes"/>
+      <point x="175.804" y="75.3333"/>
+      <point x="140.334" y="119.506"/>
+      <point x="140.334" y="200" type="curve" smooth="yes"/>
+      <point x="140.334" y="386.003" type="line"/>
+      <point x="48.3337" y="386.003" type="line"/>
+      <point x="48.3337" y="198.333" type="line" smooth="yes"/>
+      <point x="48.3337" y="68.0783"/>
+      <point x="119.111" y="-7.99967"/>
+      <point x="240.334" y="-7.99967" type="curve" smooth="yes"/>
+      <point x="364.755" y="-7.99967"/>
+      <point x="437.334" y="69.5923"/>
+      <point x="437.334" y="203.333" type="curve" smooth="yes"/>
+      <point x="437.334" y="506" type="line" smooth="yes"/>
+      <point x="437.334" y="638.967"/>
+      <point x="365.257" y="716.333"/>
+      <point x="242" y="716.333" type="curve" smooth="yes"/>
+      <point x="121.223" y="716.333"/>
+      <point x="49.9997" y="640.242"/>
+      <point x="49.9997" y="511.666" type="curve" smooth="yes"/>
+      <point x="49.9997" y="498.666" type="line"/>
+    </contour>
+    <contour>
+      <point x="75.5257" y="386" type="line"/>
+      <point x="75.5257" y="304.333" type="line"/>
+      <point x="390.256" y="304.333" type="line"/>
+      <point x="390.256" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ereversedcyr</string>
+  </dict>
+  </lib>
+</glyph>

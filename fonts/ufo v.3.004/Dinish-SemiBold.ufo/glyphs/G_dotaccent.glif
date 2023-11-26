@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="615"/>
+  <unicode hex="0120"/>
+  <anchor x="309" y="-86" name="bottom"/>
+  <outline>
+    <component base="G"/>
+    <component base="uni0307" xyScale="-5.06854e-18" yScale="1" xOffset="310.333" yOffset="178.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etildebelow" format="2">
+  <advance width="524"/>
+  <unicode hex="1E1B"/>
+  <anchor x="262.667" y="596.667" name="top"/>
+  <anchor x="323.333" y="1" name="b.cedilla"/>
+  <outline>
+    <component base="e"/>
+    <component base="tildebelowcomb" xOffset="263"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+uni0330</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

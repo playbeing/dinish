@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acaron" format="2">
+  <advance width="620"/>
+  <unicode hex="01CD"/>
+  <anchor x="309" y="651" name="t.ring"/>
+  <anchor x="309" y="-86" name="bottom"/>
+  <anchor x="610" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni030C" xOffset="309" yOffset="174"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uinvertedbreve" format="2">
+  <advance width="640"/>
+  <unicode hex="0216"/>
+  <anchor x="320.333" y="-86" name="bottom"/>
+  <anchor x="363.333" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0311" xScale="1" xOffset="320.333" yOffset="199"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0311</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

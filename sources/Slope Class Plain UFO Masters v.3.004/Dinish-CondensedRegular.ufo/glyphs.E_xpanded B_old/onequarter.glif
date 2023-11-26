@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+  <advance width="859"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="664" y="712" type="line"/>
+      <point x="560" y="712" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.57" y="279.671" type="line"/>
+      <point x="208.57" y="279.671" type="line"/>
+      <point x="208.57" y="708.671" type="line"/>
+      <point x="103.57" y="708.671" type="line"/>
+      <point x="12.5697" y="657.671" type="line"/>
+      <point x="12.5697" y="549.671" type="line"/>
+      <point x="103.57" y="599.671" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="58" type="line"/>
+      <point x="697" y="58" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="802" y="58" type="line"/>
+      <point x="830" y="58" type="line"/>
+      <point x="830" y="150" type="line"/>
+      <point x="802" y="150" type="line"/>
+      <point x="802" y="240" type="line"/>
+      <point x="697" y="240" type="line"/>
+      <point x="697" y="150" type="line"/>
+      <point x="596" y="150" type="line"/>
+      <point x="714" y="429" type="line"/>
+      <point x="608" y="429" type="line"/>
+      <point x="491" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=one.dnom</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=29</string>
+  </dict>
+  </lib>
+</glyph>

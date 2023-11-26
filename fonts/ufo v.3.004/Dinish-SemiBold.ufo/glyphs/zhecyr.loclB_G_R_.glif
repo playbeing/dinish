@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="804"/>
+  <outline>
+    <contour>
+      <point x="348" y="0" type="line"/>
+      <point x="455.667" y="0" type="line"/>
+      <point x="455.667" y="707" type="line"/>
+      <point x="348" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="457.812" y="259" type="line"/>
+      <point x="575" y="259" type="line"/>
+      <point x="766.667" y="527.667" type="line"/>
+      <point x="638" y="527.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="662.667" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
+      <point x="602.333" y="317.333" type="line"/>
+      <point x="510" y="254.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="414.333" y="228" type="line"/>
+      <point x="585.333" y="228" type="line"/>
+      <point x="585.333" y="323.667" type="line"/>
+      <point x="414.333" y="323.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="228.667" y="259" type="line"/>
+      <point x="345.855" y="259" type="line"/>
+      <point x="165.667" y="527.667" type="line"/>
+      <point x="37" y="527.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.667" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="293.667" y="254.667" type="line"/>
+      <point x="201.333" y="317.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.333" y="228" type="line"/>
+      <point x="389.333" y="228" type="line"/>
+      <point x="389.333" y="323.667" type="line"/>
+      <point x="218.333" y="323.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>zhecyr</string>
+  </dict>
+  </lib>
+</glyph>

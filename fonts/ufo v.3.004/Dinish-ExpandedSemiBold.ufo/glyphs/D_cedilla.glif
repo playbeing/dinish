@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcedilla" format="2">
+  <advance width="681"/>
+  <unicode hex="1E10"/>
+  <anchor x="300.333" y="770.667" name="top"/>
+  <anchor x="301.667" y="-86" name="bottom"/>
+  <outline>
+    <component base="D"/>
+    <component base="uni0327" xScale="1" xOffset="340.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>D+uni0327</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

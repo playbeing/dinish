@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+  <advance width="436"/>
+  <unicode hex="0160"/>
+  <anchor x="194" y="0" name="b.cedilla"/>
+  <anchor x="216" y="-86" name="bottom"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni030C" xOffset="216" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

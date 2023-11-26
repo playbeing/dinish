@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute.loclPLK" format="2">
+  <advance width="485"/>
+  <outline>
+    <component base="N"/>
+    <contour>
+      <point x="199" y="791" type="line"/>
+      <point x="300" y="791" type="line"/>
+      <point x="346" y="930" type="line"/>
+      <point x="220" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

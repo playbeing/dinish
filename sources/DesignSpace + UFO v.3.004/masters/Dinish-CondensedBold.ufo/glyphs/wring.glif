@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wring" format="2">
+  <advance width="623"/>
+  <unicode hex="1E98"/>
+  <anchor x="311" y="604" name="top"/>
+  <anchor x="311" y="-86" name="bottom"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni030A" xOffset="311" yOffset="-9"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni030A</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

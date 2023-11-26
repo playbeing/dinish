@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="2">
+  <advance width="681"/>
+  <unicode hex="00C3"/>
+  <anchor x="340" y="663" name="t.ring"/>
+  <anchor x="341" y="-86" name="bottom"/>
+  <anchor x="670" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0303" xOffset="340" yOffset="174"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

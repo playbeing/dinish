@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hlinebelow" format="2">
+  <advance width="533"/>
+  <unicode hex="1E96"/>
+  <anchor x="280.333" y="774" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="uni0331" xOffset="280"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>h+uni0331</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

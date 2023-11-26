@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NJ" format="2">
+  <advance width="987"/>
+  <unicode hex="01CA"/>
+  <anchor x="853" y="776" name="top"/>
+  <anchor x="885" y="-86" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="649"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N_J</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

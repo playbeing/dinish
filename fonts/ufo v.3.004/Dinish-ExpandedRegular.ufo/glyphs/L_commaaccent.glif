@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="2">
+  <advance width="592"/>
+  <unicode hex="013B"/>
+  <anchor x="121" y="760" name="top"/>
+  <anchor x="419" y="397" name="dot"/>
+  <outline>
+    <component base="L"/>
+    <component base="uni0326" xOffset="315" yOffset="-56"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

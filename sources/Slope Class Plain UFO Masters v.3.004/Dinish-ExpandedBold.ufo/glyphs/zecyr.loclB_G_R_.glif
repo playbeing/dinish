@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zecyr.loclBGR" format="2">
+  <advance width="595"/>
+  <outline>
+    <component base="zecyr"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=zecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>zecyr</string>
+  </dict>
+  </lib>
+</glyph>

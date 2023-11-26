@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icyr" format="2">
+  <advance width="672"/>
+  <unicode hex="0418"/>
+  <anchor x="324" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="456.598" y="474.286" type="line" smooth="yes"/>
+      <point x="474.542" y="504.725"/>
+      <point x="498.996" y="554.641"/>
+      <point x="512.099" y="594.239" type="curve"/>
+      <point x="515.041" y="593.761" type="line"/>
+      <point x="507.758" y="555"/>
+      <point x="504.07" y="486.001"/>
+      <point x="504.07" y="446.958" type="curve" smooth="yes"/>
+      <point x="504.07" y="0" type="line"/>
+      <point x="597.07" y="0" type="line"/>
+      <point x="597.07" y="707" type="line"/>
+      <point x="494.07" y="707" type="line"/>
+      <point x="215.732" y="235.957" type="line" smooth="yes"/>
+      <point x="192.887" y="197.295"/>
+      <point x="175.233" y="153.568"/>
+      <point x="158.971" y="112.741" type="curve"/>
+      <point x="156.029" y="113.219" type="line"/>
+      <point x="165.052" y="155.936"/>
+      <point x="167" y="221.501"/>
+      <point x="167" y="260.31" type="curve" smooth="yes"/>
+      <point x="167" y="707" type="line"/>
+      <point x="74" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>N%</string>
+  </dict>
+  </lib>
+</glyph>

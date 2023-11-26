@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccircumflex" format="2">
+  <advance width="570"/>
+  <unicode hex="0109"/>
+  <anchor x="259.333" y="0" name="b.cedilla"/>
+  <anchor x="236" y="-86" name="bottom"/>
+  <outline>
+    <component base="c"/>
+    <component base="uni0302" xOffset="291"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

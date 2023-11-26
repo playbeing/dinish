@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr" format="2">
+  <advance width="570"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="125.666" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="527.667" type="line"/>
+      <point x="125.666" y="527.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="181.033" y="432" type="line"/>
+      <point x="181.033" y="527.667" type="line"/>
+      <point x="0" y="527.667" type="line"/>
+      <point x="0" y="431.56" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="0" type="line"/>
+      <point x="354.666" y="0" type="line" smooth="yes"/>
+      <point x="460" y="0"/>
+      <point x="519.666" y="58.125"/>
+      <point x="519.666" y="159.5" type="curve" smooth="yes"/>
+      <point x="519.666" y="260.989"/>
+      <point x="472.313" y="330.333"/>
+      <point x="356.666" y="330.333" type="curve" smooth="yes"/>
+      <point x="213" y="330.333" type="line"/>
+      <point x="213" y="234.667" type="line"/>
+      <point x="351.666" y="234.667" type="line" smooth="yes"/>
+      <point x="389.291" y="234.667"/>
+      <point x="409.333" y="203.5"/>
+      <point x="409.333" y="166.272" type="curve" smooth="yes"/>
+      <point x="409.333" y="124.539"/>
+      <point x="385.072" y="95.667"/>
+      <point x="350" y="95.667" type="curve" smooth="yes"/>
+      <point x="213" y="95.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr</string>
+  </dict>
+  </lib>
+</glyph>

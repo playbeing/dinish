@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr.loclBGR" format="2">
+  <advance width="591"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="295" y="602" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+      <point x="327" y="707" type="line"/>
+      <point x="264" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  </dict>
+  </lib>
+</glyph>

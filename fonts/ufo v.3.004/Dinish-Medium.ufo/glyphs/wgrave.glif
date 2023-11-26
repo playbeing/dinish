@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="2">
+  <advance width="738"/>
+  <unicode hex="1E81"/>
+  <anchor x="368.667" y="-86" name="bottom"/>
+  <anchor x="368.667" y="578" name="t.ring"/>
+  <outline>
+    <component base="w"/>
+    <component base="uni0300" xOffset="368.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

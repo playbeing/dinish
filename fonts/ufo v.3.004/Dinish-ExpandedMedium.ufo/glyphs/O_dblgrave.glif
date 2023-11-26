@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odblgrave" format="2">
+  <advance width="704"/>
+  <unicode hex="020C"/>
+  <anchor x="353.333" y="-86" name="bottom"/>
+  <anchor x="271.667" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni030F" xScale="1" xyScale="4.96433e-18" yScale="1" xOffset="353.333" yOffset="174.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

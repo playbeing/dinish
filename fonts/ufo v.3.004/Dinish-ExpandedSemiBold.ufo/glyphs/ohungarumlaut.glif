@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="2">
+  <advance width="579"/>
+  <unicode hex="0151"/>
+  <anchor x="291" y="-86" name="bottom"/>
+  <anchor x="227.667" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni030B" xyScale="-5.03301e-20" xOffset="291" yOffset="-1.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni030B</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

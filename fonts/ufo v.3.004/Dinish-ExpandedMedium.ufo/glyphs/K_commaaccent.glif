@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="2">
+  <advance width="689"/>
+  <unicode hex="0136"/>
+  <anchor x="325.333" y="765.333" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="uni0326" xOffset="320.667" yOffset="-56"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

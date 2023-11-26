@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcircumflexbelow" format="2">
+  <advance width="583"/>
+  <unicode hex="1E3C"/>
+  <anchor x="127" y="776" name="top"/>
+  <anchor x="419" y="397" name="dot"/>
+  <outline>
+    <component base="L"/>
+    <component base="circumflexbelowcomb" xOffset="309"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

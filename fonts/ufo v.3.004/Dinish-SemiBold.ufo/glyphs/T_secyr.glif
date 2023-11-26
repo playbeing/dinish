@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="623"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="422.667" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="707" type="line"/>
+      <point x="422.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="141.275" y="-0.25" type="line"/>
+      <point x="314.103" y="-0.25" type="line"/>
+      <point x="314.103" y="100.08" type="line"/>
+      <point x="141.275" y="100.08" type="line"/>
+    </contour>
+    <contour>
+      <point x="67.333" y="0" type="line"/>
+      <point x="181.667" y="0" type="line"/>
+      <point x="181.667" y="707" type="line"/>
+      <point x="67.333" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.7" y="-0.247" type="line"/>
+      <point x="498.48" y="-0.247" type="line"/>
+      <point x="498.48" y="-169.88" type="line"/>
+      <point x="612.813" y="-169.88" type="line"/>
+      <point x="612.813" y="100.507" type="line"/>
+      <point x="294.7" y="100.08" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Decyr</string>
+  </dict>
+  </lib>
+</glyph>

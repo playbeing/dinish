@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexbelowcomb" format="2">
+  <unicode hex="032D"/>
+  <anchor x="0" y="-86" name="_bottom"/>
+  <outline>
+    <component base="uni0302" xOffset="-0.5" yOffset="-821.135"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0302</string>
+  </dict>
+  </lib>
+</glyph>

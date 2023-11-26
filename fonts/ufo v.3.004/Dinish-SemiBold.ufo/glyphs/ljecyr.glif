@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ljecyr" format="2">
+  <advance width="767"/>
+  <unicode hex="0459"/>
+  <outline>
+    <contour>
+      <point x="344.333" y="0" type="line"/>
+      <point x="451.667" y="0" type="line"/>
+      <point x="451.667" y="527.667" type="line"/>
+      <point x="344.333" y="527.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="149.667" y="447.333" type="line"/>
+      <point x="385.667" y="447.333" type="line"/>
+      <point x="385.667" y="527.667" type="line"/>
+      <point x="149.667" y="527.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="10.697" y="98.668" type="curve"/>
+      <point x="10.697" y="0" type="line"/>
+      <point x="113.21" y="0"/>
+      <point x="169.978" y="52.826"/>
+      <point x="180.361" y="163.564" type="curve" smooth="yes"/>
+      <point x="214.667" y="527.662" type="line"/>
+      <point x="108.201" y="527.662" type="line"/>
+      <point x="74.852" y="198.124" type="line" smooth="yes"/>
+      <point x="67.826" y="129.204"/>
+      <point x="44.573" y="98.746"/>
+    </contour>
+    <contour>
+      <point x="409.667" y="0" type="line"/>
+      <point x="551.333" y="0" type="line" smooth="yes"/>
+      <point x="656.667" y="0"/>
+      <point x="716.333" y="58.125"/>
+      <point x="716.333" y="159.5" type="curve" smooth="yes"/>
+      <point x="716.333" y="260.989"/>
+      <point x="668.98" y="330.333"/>
+      <point x="553.333" y="330.333" type="curve" smooth="yes"/>
+      <point x="409.667" y="330.333" type="line"/>
+      <point x="409.667" y="234.667" type="line"/>
+      <point x="548.333" y="234.667" type="line" smooth="yes"/>
+      <point x="585.958" y="234.667"/>
+      <point x="606" y="203.5"/>
+      <point x="606" y="166.272" type="curve" smooth="yes"/>
+      <point x="606" y="124.539"/>
+      <point x="581.739" y="95.667"/>
+      <point x="546.667" y="95.667" type="curve" smooth="yes"/>
+      <point x="409.667" y="95.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=elcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr</string>
+  </dict>
+  </lib>
+</glyph>

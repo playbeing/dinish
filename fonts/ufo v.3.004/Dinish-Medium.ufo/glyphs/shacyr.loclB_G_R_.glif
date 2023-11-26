@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr.loclBGR" format="2">
+  <advance width="838"/>
+  <outline>
+    <contour>
+      <point x="768.667" y="523.333" type="line"/>
+      <point x="680.334" y="523.333" type="line"/>
+      <point x="680.334" y="192" type="line" smooth="yes"/>
+      <point x="680.334" y="123.708"/>
+      <point x="642.387" y="72.6663"/>
+      <point x="570.667" y="72.6663" type="curve" smooth="yes"/>
+      <point x="496.685" y="72.6663"/>
+      <point x="463.667" y="122.639"/>
+      <point x="463.667" y="192" type="curve" smooth="yes"/>
+      <point x="463.667" y="523.333" type="line"/>
+      <point x="374" y="523.333" type="line"/>
+      <point x="374" y="189" type="line" smooth="yes"/>
+      <point x="374" y="119.704"/>
+      <point x="336.077" y="72.6663"/>
+      <point x="264.334" y="72.6663" type="curve" smooth="yes"/>
+      <point x="190.693" y="72.6663"/>
+      <point x="158" y="123.206"/>
+      <point x="158" y="192" type="curve" smooth="yes"/>
+      <point x="158" y="523.333" type="line"/>
+      <point x="68.9997" y="523.333" type="line"/>
+      <point x="68.9997" y="180.333" type="line" smooth="yes"/>
+      <point x="68.9997" y="68.1673"/>
+      <point x="129.81" y="-6.33367"/>
+      <point x="245.667" y="-6.33367" type="curve" smooth="yes"/>
+      <point x="310.548" y="-6.33367"/>
+      <point x="364.866" y="20.0953"/>
+      <point x="401.334" y="74.0003" type="curve"/>
+      <point x="432.29" y="18.1203"/>
+      <point x="483.199" y="-6.33367"/>
+      <point x="546" y="-6.33367" type="curve" smooth="yes"/>
+      <point x="598.126" y="-6.33367"/>
+      <point x="650.786" y="15.2603"/>
+      <point x="682" y="58.0003" type="curve"/>
+      <point x="682" y="0.000333333" type="line"/>
+      <point x="768.667" y="0.000333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  <key>com.fontlab.recipe</key>
+  <string>shacyr</string>
+  </dict>
+  </lib>
+</glyph>

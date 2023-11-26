@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocyrgrave" format="2">
+  <advance width="486"/>
+  <anchor x="244.667" y="-86" name="bottom"/>
+  <anchor x="212" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="Ograve"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ograve</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

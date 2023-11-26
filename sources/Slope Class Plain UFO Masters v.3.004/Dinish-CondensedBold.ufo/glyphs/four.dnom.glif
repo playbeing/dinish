@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="2">
+  <advance width="295"/>
+  <outline>
+    <contour>
+      <point x="20" y="66" type="line"/>
+      <point x="162" y="66" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="246" y="66" type="line"/>
+      <point x="275" y="66" type="line"/>
+      <point x="275" y="142" type="line"/>
+      <point x="246" y="142" type="line"/>
+      <point x="246" y="225" type="line"/>
+      <point x="162" y="225" type="line"/>
+      <point x="162" y="142" type="line"/>
+      <point x="105" y="142" type="line"/>
+      <point x="198" y="427" type="line"/>
+      <point x="114" y="427" type="line"/>
+      <point x="20" y="142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  </dict>
+  </lib>
+</glyph>

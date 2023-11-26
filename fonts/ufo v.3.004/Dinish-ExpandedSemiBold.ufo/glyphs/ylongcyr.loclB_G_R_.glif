@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongcyr.loclBGR" format="2">
+  <advance width="827"/>
+  <anchor x="402.333" y="596.667" name="top"/>
+  <outline>
+    <component base="softcyr.loclBGR"/>
+    <component base="dotlessi" xScale="1" xOffset="583.667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>softcyr.loclBGR_dotlessi</string>
+  </dict>
+  </lib>
+</glyph>

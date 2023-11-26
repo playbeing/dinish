@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="686"/>
+  <unicode hex="0041"/>
+  <anchor x="342.667" y="765.333" name="top"/>
+  <anchor x="342.667" y="659" name="t.ring"/>
+  <anchor x="343.333" y="-86" name="bottom"/>
+  <anchor x="675.333" y="0" name="b.cedilla"/>
+  <outline>
+    <contour>
+      <point x="5.333" y="0" type="line"/>
+      <point x="117.667" y="0" type="line"/>
+      <point x="177.667" y="152.333" type="line"/>
+      <point x="508.333" y="152.333" type="line"/>
+      <point x="568.667" y="0" type="line"/>
+      <point x="681.667" y="0" type="line"/>
+      <point x="387.667" y="707" type="line"/>
+      <point x="298.667" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="242.333" type="line"/>
+      <point x="342.667" y="573.667" type="line"/>
+      <point x="473" y="242.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>170</integer>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>687</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

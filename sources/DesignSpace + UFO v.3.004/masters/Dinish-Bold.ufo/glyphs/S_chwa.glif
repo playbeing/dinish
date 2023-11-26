@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+  <advance width="613"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="183.991" y="475" type="line"/>
+      <point x="183.991" y="479.068" type="line" smooth="yes"/>
+      <point x="183.991" y="554.665"/>
+      <point x="224.56" y="597"/>
+      <point x="301.973" y="597" type="curve" smooth="yes"/>
+      <point x="403.049" y="597"/>
+      <point x="426.973" y="520.367"/>
+      <point x="426.973" y="434" type="curve" smooth="yes"/>
+      <point x="426.973" y="281" type="line" smooth="yes"/>
+      <point x="426.973" y="194.747"/>
+      <point x="408.533" y="110"/>
+      <point x="303.973" y="110" type="curve" smooth="yes"/>
+      <point x="230.297" y="110"/>
+      <point x="184.045" y="162.576"/>
+      <point x="184.045" y="246.327" type="curve" smooth="yes"/>
+      <point x="184.045" y="400.525" type="line"/>
+      <point x="50" y="400.525" type="line"/>
+      <point x="50" y="245.774" type="line" smooth="yes"/>
+      <point x="50" y="82.7864"/>
+      <point x="140.5" y="-8"/>
+      <point x="302.973" y="-8" type="curve" smooth="yes"/>
+      <point x="486.387" y="-8"/>
+      <point x="561.973" y="99.8362"/>
+      <point x="561.973" y="274" type="curve" smooth="yes"/>
+      <point x="561.973" y="436" type="line" smooth="yes"/>
+      <point x="561.973" y="608.882"/>
+      <point x="487.497" y="717"/>
+      <point x="304.973" y="717" type="curve" smooth="yes"/>
+      <point x="154.18" y="717"/>
+      <point x="51.9732" y="639.538"/>
+      <point x="51.9732" y="482" type="curve" smooth="yes"/>
+      <point x="51.9732" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="85.1714" y="400.5" type="line"/>
+      <point x="85.1714" y="283.5" type="line"/>
+      <point x="462.004" y="283.5" type="line"/>
+      <point x="462.004" y="400.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ereversedcyr</string>
+  </dict>
+  </lib>
+</glyph>

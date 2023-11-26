@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="496"/>
+  <unicode hex="1EB6"/>
+  <anchor x="249" y="657" name="t.ring"/>
+  <anchor x="486" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="Adotbelow"/>
+    <component base="uni0306" xOffset="249" yOffset="178"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1EA0+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
