@@ -31,13 +31,6 @@ lookup supsSuperscriptlookup1 {
   sub \four by \foursuperior;
 } supsSuperscriptlookup1;
 
-lookup fracDiagonalFractionslookup2 {
-  lookupflag 0;
-  sub \one \slash \four  by \onequarter;
-  sub \one \slash \two  by \onehalf;
-  sub \three \slash \four  by \threequarters;
-} fracDiagonalFractionslookup2;
-
 feature rtla {
   script DFLT;
   language dflt;
@@ -49,12 +42,6 @@ feature sups {
   language dflt;
   lookup supsSuperscriptlookup1;
 } sups;
-
-feature frac {
-  script DFLT;
-  language dflt;
-  lookup fracDiagonalFractionslookup2;
-} frac;
 
 # GPOS
 
@@ -546,6 +533,93 @@ feature ss01 {
   language NLD;
   lookup ss01NLD;
 } ss01;
+
+
+@figuresDenominator=[zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@figures=[zero one two three four five six seven eight nine];
+@figuresNumerator=[zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+
+feature frac {
+    lookup FractionBar {
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures @figures slash;
+        ignore sub slash @figures @figures @figures slash';
+        ignore sub slash' @figures @figures @figures slash;
+        ignore sub slash @figures @figures slash';
+        ignore sub slash' @figures @figures slash;
+        ignore sub slash @figures slash';
+        ignore sub slash' @figures slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figures slash' @figures by fraction;
+    } FractionBar;
+
+    lookup Numerator1 {
+        sub @figures' fraction by @figuresNumerator;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figures' @figuresNumerator fraction by @figuresNumerator;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figures' @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figures' @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator @figuresNumerator fraction by @figuresNumerator;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @figuresDenominator] @figures' by @figuresDenominator;
+    } Denominator;
+} frac;
+
+
+feature numr {
+    sub @figures by @figuresNumerator;
+} numr;
+
+
+feature dnom {
+    sub @figures by @figuresDenominator;
+} dnom;
 
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
