@@ -77,10 +77,10 @@ for editing.
 
 Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
 
-Copyright © 2019 Altinn 
+Copyright © 2019 Altinn
 https://github.com/Altinn/altinn-din
 
-Copyright © 2017 Datto Inc. 
+Copyright © 2017 Datto Inc.
 https://www.datto.com/fonts/d-din
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -89,6 +89,16 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-04-28 - v3.005:
+ * Full support for frac feature
+2023-11-26 - v3.004:
+ * Extended Cyrillic and extended Latin.
+ * Combining all plain source files in one VFC font and creating a variable version together with static versions.
+ Unreleased due to production issues.
+2023-11-16 - v3.003:
+ * Cyrillic glyphs for Russian, Serbian, Bulgarian languages in Dinish (normal).
+ * Interpolation between Regular and Bold for creation of the following instances: Regular, Medium, SemiBold, Bold.
+ Unreleased due to production issues.
 2022-07-23 - v3.002:
  * Add glyphs for uppercase Esszet, Dutch IJ digraph in upper and
    lowercase, U with breve and dotless j. Most text processing

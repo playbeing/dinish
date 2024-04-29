@@ -146,6 +146,11 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 ## ChangeLog
 
+For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
+
+- 2023-04-28 - v3.005: Full support for frac feature.
+- 2023-11-26 - v3.004: Extended Cyrillic and extended Latin. Update VF. Unreleased due to production issues.
+- 2023-11-16 - v3.003: Cyrillic glyphs for Russian, Serbian, Bulgarian languages. VF for regular thru bold weights. Unreleased due to production issues.
 - 2022-07-23 - v3.002: Add uppercase Esszet and Dutch IJ/ij digraphs (with ss01 stylistic alternate), U/u with breve and dotless j.
 - 2022-07-13 - v3.001: Reworked vertical metrics, may cause line spacing changes.
 - 2021-10-22 - v2.013: Add missing glyphs for Northern Sámi
