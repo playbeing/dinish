@@ -133,7 +133,8 @@ fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
 for editing.
 
-Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)\
+Copyright © 2023-2024 Stefan Peev (https://github.com/StefanPeev/dinish/tree/cyrillic)\
+Copyright © 2021-2024 Bert Driehuis (https://github.com/playbeing/dinish)\
 Copyright © 2019 Altinn (https://github.com/Altinn/altinn-din)\
 Copyright © 2017 Datto Inc. (https://www.datto.com/fonts/d-din)
 
