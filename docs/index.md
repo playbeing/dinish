@@ -95,6 +95,10 @@ DINish for the design of the next Romanian bank notes.
 The Dutch language has an ij digraph. If you prefer, you can enable the
 ss01 stylistic alternate to automatically substitute ij with ĳ.
 
+Version v3.005 comes with full support for the
+[frac feature](https://fonts.playbeing.com/dinish/features#frac),
+which translates fractions like 3/4 into the classic ¾ notation.
+
 ## DINish demo pages
 
 See the [features page](https://fonts.playbeing.com/dinish/features) for
