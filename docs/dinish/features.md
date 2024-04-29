@@ -40,9 +40,9 @@ ss01 stylistic alternate to automatically substitute ij with ĳ.
 <div lang="nl" class="sample">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</div>
 <div lang="nl" style="font-feature-settings: 'ss01';" class="sample">Pa's wijze lynx bezag vroom het fikse aquaduct te IJburg</div>
 
-# Fractions
-
 <div id="frac"></div>
+
+# Fractions
 
 The opentype "frac" feature automatically formats strings that look like a fraction. For example, 1/1000 becomes
 <span style="font-feature-settings: 'frac';">1/1000</frac>.
