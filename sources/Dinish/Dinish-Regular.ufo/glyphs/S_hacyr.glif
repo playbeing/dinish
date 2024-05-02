@@ -16,9 +16,9 @@
     <component base="I" xOffset="591"/>
     <contour>
       <point x="125" y="0" type="line"/>
-      <point x="733" y="0" type="line"/>
-      <point x="733" y="67" type="line"/>
       <point x="125" y="67" type="line"/>
+      <point x="733" y="67" type="line"/>
+      <point x="733" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

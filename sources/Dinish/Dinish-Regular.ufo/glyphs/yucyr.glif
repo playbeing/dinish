@@ -12,9 +12,9 @@
     <component base="o" xOffset="170"/>
     <contour>
       <point x="127" y="246" type="line"/>
-      <point x="268" y="246" type="line"/>
-      <point x="268" y="311" type="line"/>
       <point x="127" y="311" type="line"/>
+      <point x="268" y="311" type="line"/>
+      <point x="268" y="246" type="line"/>
     </contour>
   </outline>
   <lib>
