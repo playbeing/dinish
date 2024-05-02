@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softcyr.loclBGR" format="2">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="55" y="205" type="line"/>
+      <point x="181" y="205" type="line"/>
+      <point x="181" y="532" type="line"/>
+      <point x="55" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="205" type="line"/>
+      <point x="55" y="77"/>
+      <point x="141" y="-6"/>
+      <point x="269" y="-6" type="curve" smooth="yes"/>
+      <point x="404" y="-6"/>
+      <point x="485" y="74"/>
+      <point x="485" y="195" type="curve" smooth="yes"/>
+      <point x="485" y="321"/>
+      <point x="402" y="406"/>
+      <point x="278" y="406" type="curve" smooth="yes"/>
+      <point x="233" y="406"/>
+      <point x="196" y="401"/>
+      <point x="161" y="390" type="curve"/>
+      <point x="161" y="279" type="line"/>
+      <point x="197" y="290"/>
+      <point x="235" y="295"/>
+      <point x="281" y="295" type="curve" smooth="yes"/>
+      <point x="329" y="295"/>
+      <point x="359" y="260"/>
+      <point x="359" y="204" type="curve" smooth="yes"/>
+      <point x="359" y="153"/>
+      <point x="317" y="105"/>
+      <point x="267" y="105" type="curve" smooth="yes"/>
+      <point x="221" y="105"/>
+      <point x="191" y="144"/>
+      <point x="181" y="205" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=vecyr</string>
+      <key>com.fontlab.recipe</key>
+      <string>softcyr</string>
+    </dict>
+  </lib>
+</glyph>

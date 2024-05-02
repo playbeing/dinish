@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shacyr.loclBGR" format="2">
+  <advance width="917"/>
+  <outline>
+    <contour>
+      <point x="862" y="532" type="line"/>
+      <point x="735" y="532" type="line"/>
+      <point x="735" y="231" type="line" smooth="yes"/>
+      <point x="735" y="152"/>
+      <point x="694" y="106"/>
+      <point x="623" y="106" type="curve" smooth="yes"/>
+      <point x="557" y="106"/>
+      <point x="522" y="146"/>
+      <point x="522" y="221" type="curve" smooth="yes"/>
+      <point x="522" y="532" type="line"/>
+      <point x="395" y="532" type="line"/>
+      <point x="395" y="229" type="line" smooth="yes"/>
+      <point x="395" y="152"/>
+      <point x="354" y="106"/>
+      <point x="284" y="106" type="curve" smooth="yes"/>
+      <point x="217" y="106"/>
+      <point x="182" y="147"/>
+      <point x="182" y="226" type="curve" smooth="yes"/>
+      <point x="182" y="532" type="line"/>
+      <point x="55" y="532" type="line"/>
+      <point x="55" y="200" type="line" smooth="yes"/>
+      <point x="55" y="70"/>
+      <point x="132" y="-7"/>
+      <point x="262" y="-7" type="curve" smooth="yes"/>
+      <point x="331" y="-7"/>
+      <point x="388" y="17"/>
+      <point x="433" y="65" type="curve"/>
+      <point x="467" y="18"/>
+      <point x="521" y="-7"/>
+      <point x="587" y="-7" type="curve" smooth="yes"/>
+      <point x="646" y="-7"/>
+      <point x="702" y="17"/>
+      <point x="738" y="57" type="curve"/>
+      <point x="738" y="0" type="line"/>
+      <point x="862" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=|n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=n</string>
+      <key>com.fontlab.recipe</key>
+      <string>shacyr</string>
+    </dict>
+  </lib>
+</glyph>

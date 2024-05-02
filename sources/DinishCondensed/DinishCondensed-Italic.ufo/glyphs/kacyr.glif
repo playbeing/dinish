@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kacyr" format="2">
+  <advance width="417"/>
+  <unicode hex="043A"/>
+  <guideline x="211" y="258" angle="58.0517"/>
+  <guideline x="172" y="249" angle="301.402"/>
+  <guideline x="0" y="343" angle="0"/>
+  <guideline x="0" y="258" angle="0"/>
+  <guideline x="303" y="529" angle="237.358"/>
+  <guideline x="403" y="0" angle="120.991"/>
+  <guideline x="0" y="277" angle="0"/>
+  <guideline x="303" y="529" angle="237.297"/>
+  <guideline x="211" y="258" angle="58.0517"/>
+  <guideline x="214" y="0" angle="90" name="h1"/>
+  <anchor x="214" y="590" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="529" type="line"/>
+      <point x="60" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="258" type="line"/>
+      <point x="211" y="258" type="line"/>
+      <point x="380" y="529" type="line"/>
+      <point x="303" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="215" y="313" type="line"/>
+      <point x="172" y="249" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="250" type="line"/>
+      <point x="222" y="250" type="line"/>
+      <point x="222" y="313" type="line"/>
+      <point x="109" y="313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=v</string>
+    </dict>
+  </lib>
+</glyph>

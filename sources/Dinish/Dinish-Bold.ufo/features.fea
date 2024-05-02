@@ -642,6 +642,14 @@ lookup loclROM {
   sub \Tcedilla by \Tcommaaccent;
 } loclROM;
 
+@BGR = [Decyr.loclBGR Elcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR ylongcyr.loclBGR softcyr.loclBGR yucyr.loclBGR igravecyr.loclBGR];
+@CYR = [Decyr Elcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr ylongcyr softcyr yucyr igravecyr];
+
+lookup localCyrillicBGR {
+  lookupflag 0;
+  sub @CYR by @BGR;
+} localCyrillicBGR;
+
 feature locl {
   script latn;
   language PLK;
@@ -654,6 +662,10 @@ feature locl {
   script latn;
   language MOL;
   lookup loclROM;
+
+  script cyrl;
+  language BGR;
+  lookup localCyrillicBGR;
 } locl;
 
 lookup ss01NLD {

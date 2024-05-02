@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr" format="2">
+  <advance width="687"/>
+  <unicode hex="041A"/>
+  <guideline x="324" y="0" angle="90" name="h1"/>
+  <anchor x="324" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="147" y="319" type="line"/>
+      <point x="374" y="319" type="line"/>
+      <point x="374" y="401" type="line"/>
+      <point x="147" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="167" y="707" type="line"/>
+      <point x="74" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="374" y="401" type="line"/>
+      <point x="307" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="326" type="line"/>
+      <point x="363" y="326" type="line"/>
+      <point x="647" y="707" type="line"/>
+      <point x="544" y="707" type="line"/>
+      <point x="279" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=H</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=K</string>
+      <key>com.fontlab.recipe</key>
+      <string>K%</string>
+    </dict>
+  </lib>
+</glyph>

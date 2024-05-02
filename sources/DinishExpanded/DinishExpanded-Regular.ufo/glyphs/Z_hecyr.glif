@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr" format="2">
+  <advance width="1139"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="596" y="319" type="line"/>
+      <point x="823" y="319" type="line"/>
+      <point x="823" y="401" type="line"/>
+      <point x="596" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="707" type="line"/>
+      <point x="523" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="1017" y="0" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="823" y="401" type="line"/>
+      <point x="756" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="728" y="326" type="line"/>
+      <point x="812" y="326" type="line"/>
+      <point x="1096" y="707" type="line"/>
+      <point x="993" y="707" type="line"/>
+      <point x="728" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="319" type="line"/>
+      <point x="543" y="319" type="line"/>
+      <point x="543" y="401" type="line"/>
+      <point x="316" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="707" type="line"/>
+      <point x="523" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="383" y="334" type="line"/>
+      <point x="316" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="326" type="line"/>
+      <point x="411" y="326" type="line"/>
+      <point x="411" y="353" type="line"/>
+      <point x="146" y="707" type="line"/>
+      <point x="43" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=10</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=10</string>
+      <key>com.fontlab.recipe</key>
+      <string>K_K%</string>
+    </dict>
+  </lib>
+</glyph>

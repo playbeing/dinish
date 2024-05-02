@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yucyr" format="2">
+  <advance width="732"/>
+  <unicode hex="044E"/>
+  <guideline x="0" y="532" angle="0" name="horizontal"/>
+  <guideline x="118" y="0" angle="90" name="h1"/>
+  <guideline x="0" y="532" angle="0" name="horizontal"/>
+  <guideline x="436" y="0" angle="90" name="h1"/>
+  <anchor x="434" y="602" name="top"/>
+  <outline>
+    <component base="dotlessi" xOffset="-5"/>
+    <component base="o" xOffset="210"/>
+    <contour>
+      <point x="131" y="229" type="line"/>
+      <point x="339" y="229" type="line"/>
+      <point x="339" y="340" type="line"/>
+      <point x="131" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=o</string>
+    </dict>
+  </lib>
+</glyph>
