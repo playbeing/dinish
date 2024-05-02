@@ -77,22 +77,32 @@
     <string>four.tlf</string>
     <string>four.tosf</string>
     <string>five</string>
+    <string>five.dnom</string>
+    <string>five.numr</string>
     <string>five.osf</string>
     <string>five.tlf</string>
     <string>five.tosf</string>
     <string>six</string>
+    <string>six.dnom</string>
+    <string>six.numr</string>
     <string>six.osf</string>
     <string>six.tlf</string>
     <string>six.tosf</string>
     <string>seven</string>
+    <string>seven.dnom</string>
+    <string>seven.numr</string>
     <string>seven.osf</string>
     <string>seven.tlf</string>
     <string>seven.tosf</string>
     <string>eight</string>
+    <string>eight.dnom</string>
+    <string>eight.numr</string>
     <string>eight.osf</string>
     <string>eight.tlf</string>
     <string>eight.tosf</string>
     <string>nine</string>
+    <string>nine.dnom</string>
+    <string>nine.numr</string>
     <string>nine.osf</string>
     <string>nine.tlf</string>
     <string>nine.tosf</string>
@@ -274,6 +284,8 @@
     <string>Cacute.loclPLK</string>
     <string>cacute</string>
     <string>cacute.loclPLK</string>
+    <string>Ccircumflex</string>
+    <string>ccircumflex</string>
     <string>Cdotaccent</string>
     <string>cdotaccent</string>
     <string>Ccaron</string>
@@ -284,28 +296,40 @@
     <string>dcroat</string>
     <string>Emacron</string>
     <string>emacron</string>
+    <string>Ebreve</string>
+    <string>ebreve</string>
     <string>Edotaccent</string>
     <string>edotaccent</string>
     <string>Eogonek</string>
     <string>eogonek</string>
     <string>Ecaron</string>
     <string>ecaron</string>
+    <string>Gcircumflex</string>
+    <string>gcircumflex</string>
     <string>Gbreve</string>
     <string>gbreve</string>
     <string>Gdotaccent</string>
     <string>gdotaccent</string>
     <string>Gcommaaccent</string>
     <string>gcommaaccent</string>
+    <string>Hcircumflex</string>
+    <string>hcircumflex</string>
     <string>Hbar</string>
     <string>hbar</string>
+    <string>Itilde</string>
+    <string>itilde</string>
     <string>Imacron</string>
     <string>imacron</string>
+    <string>Ibreve</string>
+    <string>ibreve</string>
     <string>Iogonek</string>
     <string>iogonek</string>
     <string>Idot</string>
     <string>dotlessi</string>
     <string>IJ</string>
     <string>ij</string>
+    <string>Jcircumflex</string>
+    <string>jcircumflex</string>
     <string>Kcommaaccent</string>
     <string>kcommaaccent</string>
     <string>Lacute</string>
@@ -328,6 +352,8 @@
     <string>eng</string>
     <string>Omacron</string>
     <string>omacron</string>
+    <string>Obreve</string>
+    <string>obreve</string>
     <string>Ohungarumlaut</string>
     <string>ohungarumlaut</string>
     <string>OE</string>
@@ -342,6 +368,8 @@
     <string>Sacute.loclPLK</string>
     <string>sacute</string>
     <string>sacute.loclPLK</string>
+    <string>Scircumflex</string>
+    <string>scircumflex</string>
     <string>Scedilla</string>
     <string>scedilla</string>
     <string>Scaron</string>
@@ -352,6 +380,8 @@
     <string>tcaron</string>
     <string>Tbar</string>
     <string>tbar</string>
+    <string>Utilde</string>
+    <string>utilde</string>
     <string>Umacron</string>
     <string>umacron</string>
     <string>Ubreve</string>
@@ -431,6 +461,123 @@
     <string>cedillacmb</string>
     <string>ogonekcmb</string>
     <string>alpha</string>
+    <string>Iegravecyr</string>
+    <string>Iocyr</string>
+    <string>Djecyr</string>
+    <string>Gjecyr</string>
+    <string>Eukrcyr</string>
+    <string>Dzecyr</string>
+    <string>Iukrcyr</string>
+    <string>Yukrcyr</string>
+    <string>Jecyr</string>
+    <string>Ljecyr</string>
+    <string>Njecyr</string>
+    <string>Tshecyr</string>
+    <string>Kjecyr</string>
+    <string>Igravecyr</string>
+    <string>Ushortcyr</string>
+    <string>Dzhecyr</string>
+    <string>Acyr</string>
+    <string>Becyr</string>
+    <string>Vecyr</string>
+    <string>Gecyr</string>
+    <string>Decyr</string>
+    <string>Decyr.loclBGR</string>
+    <string>Iecyr</string>
+    <string>Zhecyr</string>
+    <string>Zecyr</string>
+    <string>Icyr</string>
+    <string>Ishortcyr</string>
+    <string>Kacyr</string>
+    <string>Elcyr</string>
+    <string>Elcyr.loclBGR</string>
+    <string>Emcyr</string>
+    <string>Encyr</string>
+    <string>Ocyr</string>
+    <string>Pecyr</string>
+    <string>Ercyr</string>
+    <string>Escyr</string>
+    <string>Tecyr</string>
+    <string>Ucyr</string>
+    <string>Efcyr</string>
+    <string>Hacyr</string>
+    <string>Tsecyr</string>
+    <string>Checyr</string>
+    <string>Shacyr</string>
+    <string>Shchacyr</string>
+    <string>Hardcyr</string>
+    <string>Ylongcyr</string>
+    <string>Softcyr</string>
+    <string>Ereversedcyr</string>
+    <string>Yucyr</string>
+    <string>Yacyr</string>
+    <string>acyr</string>
+    <string>becyr</string>
+    <string>vecyr</string>
+    <string>vecyr.loclBGR</string>
+    <string>gecyr</string>
+    <string>gecyr.loclBGR</string>
+    <string>decyr</string>
+    <string>decyr.loclBGR</string>
+    <string>iecyr</string>
+    <string>zhecyr</string>
+    <string>zhecyr.loclBGR</string>
+    <string>zecyr</string>
+    <string>zecyr.loclBGR</string>
+    <string>icyr</string>
+    <string>icyr.loclBGR</string>
+    <string>ishortcyr</string>
+    <string>ishortcyr.loclBGR</string>
+    <string>kacyr</string>
+    <string>kacyr.loclBGR</string>
+    <string>elcyr</string>
+    <string>elcyr.loclBGR</string>
+    <string>emcyr</string>
+    <string>encyr</string>
+    <string>ocyr</string>
+    <string>pecyr</string>
+    <string>pecyr.loclBGR</string>
+    <string>ercyr</string>
+    <string>escyr</string>
+    <string>tecyr</string>
+    <string>tecyr.loclBGR</string>
+    <string>ucyr</string>
+    <string>efcyr</string>
+    <string>hacyr</string>
+    <string>tsecyr</string>
+    <string>tsecyr.loclBGR</string>
+    <string>checyr</string>
+    <string>shacyr</string>
+    <string>shacyr.loclBGR</string>
+    <string>shchacyr</string>
+    <string>shchacyr.loclBGR</string>
+    <string>hardcyr</string>
+    <string>hardcyr.loclBGR</string>
+    <string>ylongcyr</string>
+    <string>ylongcyr.loclBGR</string>
+    <string>softcyr</string>
+    <string>softcyr.loclBGR</string>
+    <string>ereversedcyr</string>
+    <string>yucyr</string>
+    <string>yucyr.loclBGR</string>
+    <string>yacyr</string>
+    <string>iegravecyr</string>
+    <string>iocyr</string>
+    <string>djecyr</string>
+    <string>gjecyr</string>
+    <string>eukrcyr</string>
+    <string>dzecyr</string>
+    <string>iukrcyr</string>
+    <string>yukrcyr</string>
+    <string>jecyr</string>
+    <string>ljecyr</string>
+    <string>njecyr</string>
+    <string>tshecyr</string>
+    <string>kjecyr</string>
+    <string>igravecyr</string>
+    <string>igravecyr.loclBGR</string>
+    <string>ushortcyr</string>
+    <string>dzhecyr</string>
     <string>Ddotbelow</string>
     <string>ddotbelow</string>
     <string>Hdotbelow</string>
@@ -501,153 +648,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>Hardcyr</string>
-    <string>ishortcyr.loclBGR</string>
-    <string>ucyr</string>
-    <string>ishortcyr</string>
-    <string>ushortcyr</string>
-    <string>Escyr</string>
-    <string>gecyr</string>
-    <string>nine.numr</string>
-    <string>Kjecyr</string>
-    <string>escyr</string>
-    <string>hardcyr.loclBGR</string>
-    <string>Ucyr</string>
-    <string>Ibreve</string>
-    <string>Zhecyr</string>
-    <string>pecyr</string>
-    <string>Pecyr</string>
-    <string>Ereversedcyr</string>
-    <string>Djecyr</string>
-    <string>Igravecyr</string>
-    <string>Tshecyr</string>
-    <string>Acyr</string>
-    <string>Vecyr</string>
-    <string>jecyr</string>
-    <string>vecyr</string>
-    <string>ibreve</string>
-    <string>obreve</string>
-    <string>Hcircumflex</string>
-    <string>hardcyr</string>
-    <string>efcyr</string>
-    <string>Iegravecyr</string>
-    <string>Ercyr</string>
-    <string>Hacyr</string>
-    <string>Yukrcyr</string>
-    <string>Decyr.loclBGR</string>
-    <string>gjecyr</string>
-    <string>Eukrcyr</string>
-    <string>Jcircumflex</string>
-    <string>tsecyr</string>
-    <string>Yucyr</string>
-    <string>djecyr</string>
-    <string>iocyr</string>
-    <string>jcircumflex</string>
-    <string>ljecyr</string>
-    <string>Jecyr</string>
-    <string>emcyr</string>
-    <string>ylongcyr</string>
-    <string>softcyr.loclBGR</string>
-    <string>Softcyr</string>
-    <string>Gjecyr</string>
-    <string>dzhecyr</string>
-    <string>Ylongcyr</string>
-    <string>five.dnom</string>
-    <string>ebreve</string>
-    <string>yucyr</string>
-    <string>Iocyr</string>
-    <string>Dzecyr</string>
-    <string>shacyr</string>
-    <string>five.numr</string>
-    <string>Ishortcyr</string>
-    <string>hcircumflex</string>
-    <string>itilde</string>
-    <string>iecyr</string>
-    <string>yucyr.loclBGR</string>
-    <string>hacyr</string>
-    <string>Checyr</string>
-    <string>tecyr.loclBGR</string>
-    <string>vecyr.loclBGR</string>
-    <string>icyr</string>
-    <string>kacyr.loclBGR</string>
-    <string>zecyr</string>
-    <string>six.numr</string>
-    <string>Ebreve</string>
-    <string>zhecyr</string>
-    <string>Gecyr</string>
-    <string>Shchacyr</string>
-    <string>encyr</string>
-    <string>ercyr</string>
-    <string>ocyr</string>
-    <string>kjecyr</string>
-    <string>decyr.loclBGR</string>
-    <string>eukrcyr</string>
-    <string>Njecyr</string>
-    <string>gcircumflex</string>
-    <string>Dzhecyr</string>
-    <string>pecyr.loclBGR</string>
-    <string>ylongcyr.loclBGR</string>
-    <string>checyr</string>
-    <string>tecyr</string>
-    <string>ccircumflex</string>
-    <string>igravecyr.loclBGR</string>
-    <string>softcyr</string>
-    <string>yukrcyr</string>
-    <string>Ushortcyr</string>
-    <string>becyr</string>
-    <string>nine.dnom</string>
-    <string>dzecyr</string>
-    <string>Utilde</string>
-    <string>Yacyr</string>
-    <string>zhecyr.loclBGR</string>
-    <string>icyr.loclBGR</string>
-    <string>Ocyr</string>
-    <string>Ljecyr</string>
-    <string>Elcyr.loclBGR</string>
-    <string>ereversedcyr</string>
-    <string>acyr</string>
-    <string>iukrcyr</string>
-    <string>shchacyr</string>
-    <string>seven.dnom</string>
-    <string>Iecyr</string>
-    <string>Decyr</string>
-    <string>Iukrcyr</string>
-    <string>scircumflex</string>
-    <string>Itilde</string>
-    <string>Encyr</string>
-    <string>elcyr</string>
-    <string>Elcyr</string>
-    <string>njecyr</string>
-    <string>elcyr.loclBGR</string>
-    <string>Obreve</string>
-    <string>Ccircumflex</string>
-    <string>eight.numr</string>
-    <string>seven.numr</string>
-    <string>shchacyr.loclBGR</string>
-    <string>Tecyr</string>
-    <string>shacyr.loclBGR</string>
-    <string>Becyr</string>
-    <string>igravecyr</string>
-    <string>Efcyr</string>
-    <string>Scircumflex</string>
-    <string>eight.dnom</string>
-    <string>six.dnom</string>
-    <string>zecyr.loclBGR</string>
-    <string>tshecyr</string>
-    <string>utilde</string>
-    <string>iegravecyr</string>
-    <string>Kacyr</string>
-    <string>kacyr</string>
-    <string>Gcircumflex</string>
-    <string>Tsecyr</string>
-    <string>Shacyr</string>
-    <string>Zecyr</string>
-    <string>gecyr.loclBGR</string>
-    <string>yacyr</string>
-    <string>Emcyr</string>
-    <string>decyr</string>
-    <string>Icyr</string>
-    <string>tsecyr.loclBGR</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
