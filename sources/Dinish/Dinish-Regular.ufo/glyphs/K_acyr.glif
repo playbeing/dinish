@@ -7,29 +7,19 @@
   <anchor x="285" y="773" name="top"/>
   <outline>
     <contour>
-      <point x="137" y="328" type="line"/>
-      <point x="305" y="328" type="line"/>
-      <point x="305" y="395" type="line"/>
-      <point x="137" y="395" type="line"/>
-    </contour>
-    <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="707" type="line"/>
       <point x="82" y="707" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="0" type="line"/>
-      <point x="604" y="0" type="line"/>
-      <point x="305" y="395" type="line"/>
-      <point x="257" y="337" type="line"/>
-    </contour>
-    <contour>
-      <point x="213" y="339" type="line"/>
-      <point x="274" y="339" type="line"/>
-      <point x="572" y="707" type="line"/>
+      <point x="157" y="707" type="line"/>
+      <point x="157" y="395" type="line"/>
+      <point x="237" y="395" type="line"/>
       <point x="483" y="707" type="line"/>
-      <point x="213" y="365" type="line"/>
+      <point x="572" y="707" type="line"/>
+      <point x="312" y="386" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="264" y="328" type="line"/>
+      <point x="157" y="328" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -7,16 +7,14 @@
   <outline>
     <component base="O" xOffset="170"/>
     <contour>
-      <point x="137" y="328" type="line"/>
-      <point x="137" y="395" type="line"/>
-      <point x="285" y="395" type="line"/>
-      <point x="285" y="328" type="line"/>
-    </contour>
-    <contour>
-      <point x="82" y="0" type="line"/>
       <point x="82" y="707" type="line"/>
       <point x="157" y="707" type="line"/>
+      <point x="157" y="395" type="line"/>
+      <point x="285" y="395" type="line"/>
+      <point x="285" y="328" type="line"/>
+      <point x="157" y="328" type="line"/>
       <point x="157" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
