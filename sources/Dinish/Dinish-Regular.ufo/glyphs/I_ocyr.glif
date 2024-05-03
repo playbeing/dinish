@@ -5,8 +5,8 @@
   <anchor x="511" y="0" name="b.cedilla"/>
   <anchor x="298" y="-86" name="bottom"/>
   <outline>
-    <component base="Iecyr"/>
     <component base="dieresiscmb" xOffset="298" yOffset="187"/>
+    <component base="E"/>
   </outline>
   <lib>
     <dict>
