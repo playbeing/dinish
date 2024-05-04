@@ -3,7 +3,7 @@
   <advance width="535"/>
   <outline>
     <component base="icyr.loclBGR"/>
-    <component base="brevecmb" xOffset="267" yOffset="16"/>
+    <component base="brevecmb" xOffset="270" yOffset="16"/>
   </outline>
   <lib>
     <dict>

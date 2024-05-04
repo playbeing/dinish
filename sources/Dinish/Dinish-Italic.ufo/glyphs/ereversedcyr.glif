@@ -8,10 +8,10 @@
   <outline>
     <component base="c" xScale="-1" xOffset="515"/>
     <contour>
-      <point x="216" y="246" type="line"/>
-      <point x="409" y="246" type="line"/>
-      <point x="409" y="311" type="line"/>
-      <point x="216" y="311" type="line"/>
+      <point x="212" y="246" type="line"/>
+      <point x="405" y="246" type="line"/>
+      <point x="419" y="311" type="line"/>
+      <point x="226" y="311" type="line"/>
     </contour>
   </outline>
   <lib>

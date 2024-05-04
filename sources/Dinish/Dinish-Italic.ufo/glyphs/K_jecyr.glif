@@ -7,7 +7,7 @@
   <guideline x="285" y="0" angle="90" name="h1"/>
   <outline>
     <component base="Kacyr"/>
-    <component base="acutecomb" xOffset="285" yOffset="187"/>
+    <component base="acutecomb" xOffset="324" yOffset="187"/>
   </outline>
   <lib>
     <dict>
