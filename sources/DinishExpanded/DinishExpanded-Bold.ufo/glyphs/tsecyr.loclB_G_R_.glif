@@ -4,12 +4,10 @@
   <outline>
     <component base="icyr.loclBGR"/>
     <contour>
-      <point x="487" y="-170" type="line"/>
-      <point x="613" y="-170" type="line"/>
+      <point x="487" y="113" type="line"/>
       <point x="613" y="113" type="line"/>
-      <point x="467" y="113" type="line"/>
-      <point x="467" y="0" type="line"/>
-      <point x="487" y="0" type="line"/>
+      <point x="613" y="-170" type="line"/>
+      <point x="487" y="-170" type="line"/>
     </contour>
   </outline>
   <lib>

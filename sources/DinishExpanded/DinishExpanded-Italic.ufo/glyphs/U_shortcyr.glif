@@ -5,7 +5,7 @@
   <guideline x="297" y="0" angle="90" name="h1"/>
   <outline>
     <component base="Ucyr"/>
-    <component base="brevecmb" xOffset="297" yOffset="185"/>
+    <component base="brevecmb" xOffset="335" yOffset="185"/>
   </outline>
   <lib>
     <dict>

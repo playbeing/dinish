@@ -6,7 +6,7 @@
   <guideline x="324" y="0" angle="90" name="h1"/>
   <outline>
     <component base="Kacyr"/>
-    <component base="acutecomb" xOffset="324" yOffset="174"/>
+    <component base="acutecomb" xOffset="360" yOffset="174"/>
   </outline>
   <lib>
     <dict>

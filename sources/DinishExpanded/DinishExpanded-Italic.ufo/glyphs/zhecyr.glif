@@ -5,22 +5,15 @@
   <outline>
     <component base="kacyr" xOffset="342"/>
     <contour>
-      <point x="373" y="277" type="line"/>
-      <point x="130" y="524" type="line"/>
-      <point x="21" y="524" type="line"/>
-      <point x="269" y="277" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="0" type="line"/>
-      <point x="311" y="277" type="line"/>
-      <point x="251" y="337" type="line"/>
-      <point x="13" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="431" y="243" type="line"/>
-      <point x="431" y="322" type="line"/>
-      <point x="256" y="322" type="line"/>
-      <point x="256" y="243" type="line"/>
+      <point x="75" y="524" type="line"/>
+      <point x="184" y="524" type="line"/>
+      <point x="341" y="322" type="line"/>
+      <point x="443" y="322" type="line"/>
+      <point x="427" y="243" type="line"/>
+      <point x="283" y="243" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="-42" y="0" type="line"/>
+      <point x="243" y="312" type="line"/>
     </contour>
   </outline>
   <lib>
