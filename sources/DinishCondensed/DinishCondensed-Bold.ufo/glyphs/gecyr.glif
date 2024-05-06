@@ -6,15 +6,11 @@
   <anchor x="178" y="604" name="top"/>
   <outline>
     <contour>
-      <point x="299" y="422" type="line"/>
-      <point x="299" y="541" type="line"/>
-      <point x="42" y="541" type="line"/>
-      <point x="42" y="422" type="line"/>
-    </contour>
-    <contour>
       <point x="42" y="0" type="line"/>
       <point x="161" y="0" type="line"/>
-      <point x="161" y="541" type="line"/>
+      <point x="161" y="422" type="line"/>
+      <point x="299" y="422" type="line"/>
+      <point x="299" y="541" type="line"/>
       <point x="42" y="541" type="line"/>
     </contour>
   </outline>

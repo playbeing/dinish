@@ -11,14 +11,19 @@
   <guideline x="0" y="707" angle="0"/>
   <anchor x="677" y="695" name="top"/>
   <outline>
-    <component base="I" xOffset="-3"/>
-    <component base="I" xOffset="293"/>
-    <component base="I" xOffset="589"/>
     <contour>
-      <point x="127" y="0" type="line"/>
-      <point x="697" y="0" type="line"/>
-      <point x="697" y="114" type="line"/>
-      <point x="127" y="114" type="line"/>
+      <point x="44" y="707" type="line"/>
+      <point x="169" y="707" type="line"/>
+      <point x="169" y="114" type="line"/>
+      <point x="340" y="114" type="line"/>
+      <point x="340" y="707" type="line"/>
+      <point x="465" y="707" type="line"/>
+      <point x="465" y="114" type="line"/>
+      <point x="636" y="114" type="line"/>
+      <point x="636" y="707" type="line"/>
+      <point x="761" y="707" type="line"/>
+      <point x="761" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

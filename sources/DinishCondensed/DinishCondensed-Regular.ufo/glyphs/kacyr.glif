@@ -15,28 +15,20 @@
   <anchor x="214" y="590" name="top"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="130" y="529" type="line"/>
       <point x="60" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="129" y="258" type="line"/>
-      <point x="211" y="258" type="line"/>
-      <point x="380" y="529" type="line"/>
+      <point x="130" y="529" type="line"/>
+      <point x="130" y="313" type="line"/>
+      <point x="164" y="313" type="line"/>
       <point x="303" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="0" type="line"/>
+      <point x="380" y="529" type="line"/>
+      <point x="230" y="288" type="line"/>
       <point x="403" y="0" type="line"/>
-      <point x="215" y="313" type="line"/>
+      <point x="324" y="0" type="line"/>
       <point x="172" y="249" type="line"/>
-    </contour>
-    <contour>
-      <point x="109" y="250" type="line"/>
-      <point x="222" y="250" type="line"/>
-      <point x="222" y="313" type="line"/>
-      <point x="109" y="313" type="line"/>
+      <point x="173" y="250" type="line"/>
+      <point x="130" y="250" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -6,28 +6,20 @@
   <guideline x="140" y="258" angle="85.7792"/>
   <outline>
     <contour>
-      <point x="276" y="0" type="line"/>
-      <point x="345" y="0" type="line"/>
-      <point x="345" y="529" type="line"/>
-      <point x="276" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="129" y="466" type="line"/>
-      <point x="296" y="466" type="line"/>
-      <point x="296" y="529" type="line"/>
-      <point x="129" y="529" type="line"/>
-    </contour>
-    <contour>
-      <point x="11" y="63" type="curve"/>
-      <point x="11" y="0" type="line"/>
-      <point x="86" y="0"/>
-      <point x="123" y="31"/>
-      <point x="128" y="99" type="curve" smooth="yes"/>
-      <point x="160" y="529" type="line"/>
       <point x="91" y="529" type="line"/>
-      <point x="57" y="123" type="line" smooth="yes"/>
-      <point x="54" y="87"/>
+      <point x="345" y="529" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="466" type="line"/>
+      <point x="155" y="466" type="line"/>
+      <point x="128" y="99" type="line" smooth="yes"/>
+      <point x="123" y="31"/>
+      <point x="86" y="0"/>
+      <point x="11" y="0" type="curve"/>
+      <point x="11" y="63" type="line"/>
       <point x="46" y="63"/>
+      <point x="54" y="87"/>
+      <point x="57" y="123" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
