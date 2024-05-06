@@ -4,5 +4,11 @@
   <unicode hex="0490"/>
   <outline>
     <component base="Gecyr"/>
+    <contour>
+      <point x="533" y="707" type="line"/>
+      <point x="566" y="867" type="line"/>
+      <point x="636" y="867" type="line"/>
+      <point x="603" y="707" type="line"/>
+    </contour>
   </outline>
 </glyph>
