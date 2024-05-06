@@ -852,7 +852,7 @@ feature dnom {
         \Abreve \wgrave \wcircumflex \Wgrave \Wcircumflex \ygrave \ycircumflex
         \Ygrave \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar
         \hbar \Lbar \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng
-        \dottedcircle \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic ];
+        \dottedcircle \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters \fi \fl \t_t ];
  @GDEF_Mark = [ \gravecomb \acutecomb \circumflexcmb \tildecomb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \dotaccentcmb \ogonekcmb

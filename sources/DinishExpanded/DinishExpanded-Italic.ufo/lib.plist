@@ -416,6 +416,7 @@
     <string>Oogonek</string>
     <string>oogonek</string>
     <string>Oogonekmacron</string>
+    <string>oogonekmacron</string>
     <string>jcaron</string>
     <string>Gacute</string>
     <string>gacute</string>
@@ -453,6 +454,7 @@
     <string>commaaccentcomb</string>
     <string>cedillacmb</string>
     <string>ogonekcmb</string>
+    <string>Alpha</string>
     <string>alpha</string>
     <string>Iegravecyr</string>
     <string>Iocyr</string>

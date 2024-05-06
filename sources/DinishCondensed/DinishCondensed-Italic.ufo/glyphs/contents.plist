@@ -26,6 +26,8 @@
   <string>A_dotbelow.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
+  <key>Alpha</key>
+  <string>A_lpha.glif</string>
   <key>Amacron</key>
   <string>A_macron.glif</string>
   <key>Aogonek</key>
@@ -942,6 +944,8 @@
   <string>onesuperior.glif</string>
   <key>oogonek</key>
   <string>oogonek.glif</string>
+  <key>oogonekmacron</key>
+  <string>oogonekmacron.glif</string>
   <key>ordfeminine</key>
   <string>ordfeminine.glif</string>
   <key>ordmasculine</key>

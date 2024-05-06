@@ -711,7 +711,7 @@ feature dnom {
         \wcircumflex \Wgrave \Wcircumflex \ygrave \ycircumflex \Ygrave
         \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar \hbar \Lbar
         \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng \dottedcircle
-        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic ];
+        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters ];
  @GDEF_Mark = [ \gravecomb \acutecomb \circumflexcmb \tildecomb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \ogonekcmb \dotaccentcmb
