@@ -5,8 +5,8 @@
   <anchor x="300" y="-108" name="dot"/>
   <anchor x="186" y="578" name="t.ring"/>
   <outline>
-    <component base="ucyr"/>
     <component base="brevecmb" xOffset="188" yOffset="12"/>
+    <component base="y"/>
   </outline>
   <lib>
     <dict>
