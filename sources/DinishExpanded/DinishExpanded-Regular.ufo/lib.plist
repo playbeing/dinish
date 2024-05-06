@@ -184,7 +184,6 @@
     <string>ordfeminine</string>
     <string>guillemotleft</string>
     <string>logicalnot</string>
-    <string>uni00AD</string>
     <string>registered</string>
     <string>macron</string>
     <string>degree</string>
@@ -573,6 +572,8 @@
     <string>igravecyr.loclBGR</string>
     <string>ushortcyr</string>
     <string>dzhecyr</string>
+    <string>Gheupturncyrillic</string>
+    <string>gheupturncyrillic</string>
     <string>Ddotbelow</string>
     <string>ddotbelow</string>
     <string>Hdotbelow</string>

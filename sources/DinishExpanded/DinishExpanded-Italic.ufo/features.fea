@@ -646,7 +646,7 @@ feature dnom {
         \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar \braceright
         \asciitilde \uni00A0 \exclamdown \cent \sterling \currency \yen
         \brokenbar \section \dieresis \copyright \ordfeminine \guillemotleft
-        \logicalnot \uni00AD \registered \macron \degree \plusminus \acute \alpha
+        \logicalnot \registered \macron \degree \plusminus \acute \alpha
         \mu \paragraph \periodcentered \cedilla \ordmasculine \guillemotright
         \questiondown \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE
         \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis \Igrave \Iacute
@@ -688,7 +688,7 @@ feature dnom {
         \wcircumflex \Wgrave \Wcircumflex \ygrave \ycircumflex \Ygrave
         \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar \hbar \Lbar
         \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng \dottedcircle
-        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij ];
+        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters ];
  @GDEF_Mark = [ \gravecomb \acutecomb \tildecomb \circumflexcmb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \ogonekcmb \dotaccentcmb

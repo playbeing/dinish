@@ -138,6 +138,8 @@
   <string>G_ecyr.glif</string>
   <key>Germandbls</key>
   <string>G_ermandbls.glif</string>
+  <key>Gheupturncyrillic</key>
+  <string>G_heupturncyrillic.glif</string>
   <key>Gjecyr</key>
   <string>G_jecyr.glif</string>
   <key>H</key>
@@ -710,6 +712,8 @@
   <string>gecyr.loclB_G_R_.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
+  <key>gheupturncyrillic</key>
+  <string>gheupturncyrillic.glif</string>
   <key>gjecyr</key>
   <string>gjecyr.glif</string>
   <key>grave</key>
@@ -1154,8 +1158,6 @@
   <string>underscore.glif</string>
   <key>uni00A0</key>
   <string>uni00A_0.glif</string>
-  <key>uni00AD</key>
-  <string>uni00A_D_.glif</string>
   <key>uogonek</key>
   <string>uogonek.glif</string>
   <key>uring</key>

@@ -30,6 +30,7 @@ fonts {
   full_name: "Dinish Expanded Bold"
   copyright: "Copyright 2021-2024 The DINish Project Authors (https://github.com/playbeing/dinish)"
 }
+subsets: "cyrillic"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
