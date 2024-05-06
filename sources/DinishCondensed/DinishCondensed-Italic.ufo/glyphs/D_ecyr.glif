@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr" format="2">
+  <advance width="574"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="275" y="707" type="line"/>
+      <point x="596" y="707" type="line"/>
+      <point x="463" y="67" type="line"/>
+      <point x="522" y="67" type="line"/>
+      <point x="473" y="-170" type="line"/>
+      <point x="398" y="-170" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="-5" y="-170" type="line"/>
+      <point x="-80" y="-170" type="line"/>
+      <point x="-31" y="67" type="line"/>
+      <point x="25" y="67" type="line"/>
+      <point x="116" y="188"/>
+      <point x="165" y="324"/>
+      <point x="203" y="455" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="270" y="420" type="line" smooth="yes"/>
+      <point x="238" y="303"/>
+      <point x="185" y="174"/>
+      <point x="105" y="67" type="curve"/>
+      <point x="388" y="67" type="line"/>
+      <point x="507" y="640" type="line"/>
+      <point x="331" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=10</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=10</string>
+    </dict>
+  </lib>
+</glyph>

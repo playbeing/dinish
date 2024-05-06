@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacyr" format="2">
+  <advance width="439"/>
+  <unicode hex="044F"/>
+  <guideline x="241" y="0" angle="90" name="h1"/>
+  <anchor x="241" y="590" name="top"/>
+  <outline>
+    <contour>
+      <point x="215" y="529" type="curve" smooth="yes"/>
+      <point x="379" y="529" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="205" type="line"/>
+      <point x="211" y="205" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="149" y="214" type="line"/>
+      <point x="97" y="241"/>
+      <point x="64" y="294"/>
+      <point x="64" y="370" type="curve" smooth="yes"/>
+      <point x="64" y="467"/>
+      <point x="136" y="529"/>
+    </contour>
+    <contour>
+      <point x="215" y="268" type="curve" smooth="yes"/>
+      <point x="310" y="268" type="line"/>
+      <point x="310" y="466" type="line"/>
+      <point x="236" y="466" type="line" smooth="yes"/>
+      <point x="181" y="466"/>
+      <point x="133" y="434"/>
+      <point x="133" y="368" type="curve" smooth="yes"/>
+      <point x="133" y="302"/>
+      <point x="173" y="268"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=|vecyr</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

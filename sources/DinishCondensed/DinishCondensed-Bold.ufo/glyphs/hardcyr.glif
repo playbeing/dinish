@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr" format="2">
+  <advance width="486"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="0" y="541" type="line"/>
+      <point x="231" y="541" type="line"/>
+      <point x="231" y="350" type="line"/>
+      <point x="293" y="350" type="line" smooth="yes"/>
+      <point x="408" y="350"/>
+      <point x="448" y="269"/>
+      <point x="448" y="169" type="curve" smooth="yes"/>
+      <point x="448" y="76"/>
+      <point x="387" y="0"/>
+      <point x="314" y="0" type="curve" smooth="yes"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="422" type="line"/>
+      <point x="0" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="230" type="curve" smooth="yes"/>
+      <point x="231" y="230" type="line"/>
+      <point x="231" y="120" type="line"/>
+      <point x="280" y="120" type="line" smooth="yes"/>
+      <point x="313" y="120"/>
+      <point x="329" y="136"/>
+      <point x="329" y="170" type="curve" smooth="yes"/>
+      <point x="329" y="204"/>
+      <point x="315" y="230"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsRight</key>
+      <string>=softcyr</string>
+    </dict>
+  </lib>
+</glyph>

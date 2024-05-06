@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr" format="2">
+  <advance width="622"/>
+  <unicode hex="041B"/>
+  <guideline x="228" y="375" angle="84.8367"/>
+  <guideline x="165" y="707" angle="264.213"/>
+  <outline>
+    <contour>
+      <point x="257" y="707" type="line"/>
+      <point x="640" y="707" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="530" y="625" type="line"/>
+      <point x="326" y="625" type="line"/>
+      <point x="204" y="217" type="line" smooth="yes"/>
+      <point x="154" y="49"/>
+      <point x="89" y="0"/>
+      <point x="-35" y="0" type="curve"/>
+      <point x="-18" y="83" type="line"/>
+      <point x="41" y="83"/>
+      <point x="75" y="119"/>
+      <point x="111" y="238" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=20</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=H</string>
+    </dict>
+  </lib>
+</glyph>

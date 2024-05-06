@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="777"/>
+  <guideline x="277" y="0" angle="90" name="vertical"/>
+  <guideline x="0" y="519" angle="0" name="horizontal"/>
+  <guideline x="782" y="0" angle="90" name="vertical"/>
+  <guideline x="0" y="519" angle="0" name="horizontal"/>
+  <anchor x="782" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="354" y="0" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="423" y="707" type="line"/>
+      <point x="354" y="707" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="261" type="line"/>
+      <point x="547" y="261" type="line"/>
+      <point x="734" y="519" type="line"/>
+      <point x="650" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="678" y="0" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="545" y="306" type="line"/>
+      <point x="502" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="240" type="line"/>
+      <point x="538" y="240" type="line"/>
+      <point x="538" y="305" type="line"/>
+      <point x="403" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="261" type="line"/>
+      <point x="305" y="261" type="line"/>
+      <point x="127" y="519" type="line"/>
+      <point x="43" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="275" y="248" type="line"/>
+      <point x="232" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="240" type="line"/>
+      <point x="374" y="240" type="line"/>
+      <point x="374" y="305" type="line"/>
+      <point x="239" y="305" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=zhecyr</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=zhecyr</string>
+      <key>com.fontlab.recipe</key>
+      <string>zhecyr</string>
+    </dict>
+  </lib>
+</glyph>

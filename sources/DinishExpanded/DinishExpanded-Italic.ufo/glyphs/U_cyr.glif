@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucyr" format="2">
+  <advance width="594"/>
+  <unicode hex="0423"/>
+  <guideline x="297" y="0" angle="90" name="h1"/>
+  <anchor x="297" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="98" y="707" type="line"/>
+      <point x="203" y="707" type="line"/>
+      <point x="312" y="312" type="line"/>
+      <point x="575" y="707" type="line"/>
+      <point x="680" y="707" type="line"/>
+      <point x="287" y="145" type="line" smooth="yes"/>
+      <point x="219" y="47"/>
+      <point x="150" y="0"/>
+      <point x="75" y="0" type="curve" smooth="yes"/>
+      <point x="43" y="0" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="81" y="80" type="line" smooth="yes"/>
+      <point x="120" y="80"/>
+      <point x="182" y="127"/>
+      <point x="224" y="188" type="curve" smooth="yes"/>
+      <point x="240" y="212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=V</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=V</string>
+    </dict>
+  </lib>
+</glyph>

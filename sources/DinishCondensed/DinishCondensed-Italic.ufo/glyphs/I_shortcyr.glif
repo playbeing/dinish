@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ishortcyr" format="2">
+  <advance width="506"/>
+  <unicode hex="0419"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="brevecmb" xOffset="276" yOffset="182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>Icyr+brevecmb</string>
+      <key>public.markColor</key>
+      <string>0.6,0.997,1,1</string>
+    </dict>
+  </lib>
+</glyph>

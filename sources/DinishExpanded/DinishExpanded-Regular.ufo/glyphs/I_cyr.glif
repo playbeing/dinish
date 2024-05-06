@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icyr" format="2">
+  <advance width="672"/>
+  <unicode hex="0418"/>
+  <guideline x="324" y="0" angle="90" name="h1"/>
+  <anchor x="324" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="504" y="584" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="707" type="line"/>
+      <point x="494" y="707" type="line"/>
+      <point x="167" y="122" type="line"/>
+      <point x="167" y="707" type="line"/>
+      <point x="74" y="707" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=H</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=H</string>
+      <key>com.fontlab.recipe</key>
+      <string>N%</string>
+    </dict>
+  </lib>
+</glyph>

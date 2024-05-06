@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Efcyr" format="2">
+  <advance width="785"/>
+  <unicode hex="0424"/>
+  <guideline x="608" y="0" angle="90" name="h1"/>
+  <anchor x="608" y="776" name="top"/>
+  <outline>
+    <contour>
+      <point x="330" y="707" type="line"/>
+      <point x="464" y="707" type="line"/>
+      <point x="464" y="660" type="line"/>
+      <point x="640" y="653"/>
+      <point x="738" y="562"/>
+      <point x="738" y="370" type="curve" smooth="yes"/>
+      <point x="738" y="339" type="line" smooth="yes"/>
+      <point x="738" y="148"/>
+      <point x="641" y="56"/>
+      <point x="464" y="49" type="curve"/>
+      <point x="464" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="49" type="line"/>
+      <point x="155" y="56"/>
+      <point x="57" y="146"/>
+      <point x="57" y="339" type="curve" smooth="yes"/>
+      <point x="57" y="370" type="line" smooth="yes"/>
+      <point x="57" y="563"/>
+      <point x="152" y="653"/>
+      <point x="330" y="660" type="curve"/>
+    </contour>
+    <contour>
+      <point x="192" y="341" type="line" smooth="yes"/>
+      <point x="192" y="220"/>
+      <point x="236" y="176"/>
+      <point x="330" y="171" type="curve"/>
+      <point x="330" y="541" type="line"/>
+      <point x="235" y="536"/>
+      <point x="192" y="489"/>
+      <point x="192" y="362" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="604" y="362" type="line" smooth="yes"/>
+      <point x="604" y="486"/>
+      <point x="557" y="536"/>
+      <point x="464" y="541" type="curve"/>
+      <point x="464" y="171" type="line"/>
+      <point x="557" y="176"/>
+      <point x="604" y="222"/>
+      <point x="604" y="341" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=O</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=O</string>
+      <key>com.fontlab.recipe</key>
+      <string>O+I</string>
+    </dict>
+  </lib>
+</glyph>

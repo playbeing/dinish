@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="2">
+  <advance width="585"/>
+  <unicode hex="014F"/>
+  <anchor x="237" y="0" name="b.cedilla"/>
+  <anchor x="293" y="-86" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="brevecmb" xOffset="295" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.autolayer</key>
+      <true/>
+      <key>com.fontlab.recipe</key>
+      <string>o+brevecmb</string>
+      <key>public.markColor</key>
+      <string>0.6,0.997,1,1</string>
+    </dict>
+  </lib>
+</glyph>

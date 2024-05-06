@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emcyr" format="2">
+  <advance width="713"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="354" type="line"/>
+      <point x="324" y="80" type="line"/>
+      <point x="390" y="80" type="line"/>
+      <point x="532" y="354" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="658" y="532" type="line"/>
+      <point x="500" y="532" type="line"/>
+      <point x="356" y="259" type="line"/>
+      <point x="213" y="532" type="line"/>
+      <point x="55" y="532" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

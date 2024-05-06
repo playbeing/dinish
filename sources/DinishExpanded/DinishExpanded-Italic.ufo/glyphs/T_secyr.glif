@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="648"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="166" y="707" type="line"/>
+      <point x="259" y="707" type="line"/>
+      <point x="129" y="83" type="line"/>
+      <point x="451" y="83" type="line"/>
+      <point x="581" y="707" type="line"/>
+      <point x="674" y="707" type="line"/>
+      <point x="544" y="83" type="line"/>
+      <point x="600" y="83" type="line"/>
+      <point x="548" y="-170" type="line"/>
+      <point x="455" y="-170" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=H</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=Decyr</string>
+    </dict>
+  </lib>
+</glyph>

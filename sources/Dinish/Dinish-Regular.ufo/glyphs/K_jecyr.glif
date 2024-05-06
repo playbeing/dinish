@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kjecyr" format="2">
+  <advance width="612"/>
+  <unicode hex="040C"/>
+  <guideline x="0" y="707" angle="0" name="horizontal"/>
+  <guideline x="285" y="0" angle="90" name="h1"/>
+  <guideline x="285" y="0" angle="90" name="h1"/>
+  <outline>
+    <component base="Kacyr"/>
+    <component base="acutecomb" xOffset="285" yOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.recipe</key>
+      <string>Kacyr+acutecomb</string>
+      <key>public.markColor</key>
+      <string>0.6,0.997,1,1</string>
+    </dict>
+  </lib>
+</glyph>

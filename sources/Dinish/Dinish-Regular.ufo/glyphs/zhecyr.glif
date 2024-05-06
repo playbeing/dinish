@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="777"/>
+  <unicode hex="0436"/>
+  <guideline x="273" y="0" angle="90" name="vertical"/>
+  <guideline x="0" y="519" angle="0" name="horizontal"/>
+  <guideline x="778" y="0" angle="90" name="vertical"/>
+  <guideline x="0" y="519" angle="0" name="horizontal"/>
+  <anchor x="778" y="519" name="top"/>
+  <outline>
+    <component base="kacyr" xOffset="277"/>
+    <contour>
+      <point x="305" y="261" type="line"/>
+      <point x="127" y="519" type="line"/>
+      <point x="43" y="519" type="line"/>
+      <point x="230" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="275" y="248" type="line"/>
+      <point x="232" y="306" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="240" type="line"/>
+      <point x="374" y="305" type="line"/>
+      <point x="239" y="305" type="line"/>
+      <point x="239" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=|kacyr</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=kacyr</string>
+      <key>com.fontlab.recipe</key>
+      <string>k_k%</string>
+    </dict>
+  </lib>
+</glyph>

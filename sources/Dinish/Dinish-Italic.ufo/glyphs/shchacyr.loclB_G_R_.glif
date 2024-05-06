@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr.loclBGR" format="2">
+  <advance width="823"/>
+  <outline>
+    <component base="shacyr.loclBGR"/>
+    <contour>
+      <point x="663" y="-170" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="692" y="65" type="line"/>
+      <point x="782" y="65" type="line"/>
+      <point x="733" y="-170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>=|n</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>=0</string>
+      <key>com.fontlab.recipe</key>
+      <string>shchacyr</string>
+    </dict>
+  </lib>
+</glyph>
