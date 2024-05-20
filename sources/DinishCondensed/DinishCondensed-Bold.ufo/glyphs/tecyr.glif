@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tecyr" format="2">
-  <advance width="357"/>
+  <advance width="336"/>
   <unicode hex="0442"/>
   <guideline x="178" y="0" angle="90" name="h1"/>
-  <anchor x="178" y="604" name="top"/>
+  <anchor x="168" y="604" name="top"/>
   <outline>
     <contour>
-      <point x="14" y="422" type="line"/>
-      <point x="342" y="422" type="line"/>
-      <point x="342" y="541" type="line"/>
-      <point x="14" y="541" type="line"/>
-    </contour>
-    <contour>
-      <point x="119" y="0" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="238" y="541" type="line"/>
-      <point x="119" y="541" type="line"/>
+      <point x="4" y="541" type="line"/>
+      <point x="332" y="541" type="line"/>
+      <point x="332" y="422" type="line"/>
+      <point x="228" y="422" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="109" y="422" type="line"/>
+      <point x="4" y="422" type="line"/>
     </contour>
   </outline>
   <lib>
