@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.tlf" format="2">
   <advance width="524"/>
-  <unicode hex="0033"/>
   <outline>
     <component base="three" xOffset="8"/>
   </outline>

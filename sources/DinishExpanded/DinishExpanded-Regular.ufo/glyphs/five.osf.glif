@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.osf" format="2">
   <advance width="548"/>
-  <unicode hex="0035"/>
   <outline>
     <component base="five.tosf" xOffset="-7"/>
   </outline>

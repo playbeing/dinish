@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.tosf" format="2">
   <advance width="562"/>
-  <unicode hex="0031"/>
   <outline>
     <contour>
       <point x="339" y="430" type="line"/>
