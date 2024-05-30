@@ -622,6 +622,8 @@
   <string>eight.tlf.glif</string>
   <key>eight.tosf</key>
   <string>eight.tosf.glif</string>
+  <key>eightsuperior</key>
+  <string>eightsuperior.glif</string>
   <key>elcyr</key>
   <string>elcyr.glif</string>
   <key>elcyr.loclBGR</key>
@@ -674,6 +676,8 @@
   <string>five.tlf.glif</string>
   <key>five.tosf</key>
   <string>five.tosf.glif</string>
+  <key>fivesuperior</key>
+  <string>fivesuperior.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -878,6 +882,8 @@
   <string>nine.tlf.glif</string>
   <key>nine.tosf</key>
   <string>nine.tosf.glif</string>
+  <key>ninesuperior</key>
+  <string>ninesuperior.glif</string>
   <key>njecyr</key>
   <string>njecyr.glif</string>
   <key>nonmarkingreturn</key>
@@ -1046,6 +1052,8 @@
   <string>seven.tlf.glif</string>
   <key>seven.tosf</key>
   <string>seven.tosf.glif</string>
+  <key>sevensuperior</key>
+  <string>sevensuperior.glif</string>
   <key>shacyr</key>
   <string>shacyr.glif</string>
   <key>shacyr.loclBGR</key>
@@ -1066,6 +1074,8 @@
   <string>six.tlf.glif</string>
   <key>six.tosf</key>
   <string>six.tosf.glif</string>
+  <key>sixsuperior</key>
+  <string>sixsuperior.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>softcyr</key>
@@ -1242,6 +1252,8 @@
   <string>zero.tlf.glif</string>
   <key>zero.tosf</key>
   <string>zero.tosf.glif</string>
+  <key>zerosuperior</key>
+  <string>zerosuperior.glif</string>
   <key>zhecyr</key>
   <string>zhecyr.glif</string>
   <key>zhecyr.loclBGR</key>

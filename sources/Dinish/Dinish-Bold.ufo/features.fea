@@ -11,10 +11,16 @@ languagesystem latn NLD;
 
 lookup aaltAccessAllAlternateslookup0 {
   lookupflag 0;
+  sub \zero by \zerosuperior;
   sub \one by \onesuperior;
   sub \two by \twosuperior;
   sub \three by \threesuperior;
   sub \four by \foursuperior;
+  sub \five by \fivesuperior;
+  sub \six by \sixsuperior;
+  sub \seven by \sevensuperior;
+  sub \eight by \eightsuperior;
+  sub \nine by \ninesuperior;
   sub \A by \ordfeminine;
   sub \O by \ordmasculine;
   sub \a by \ordfeminine;
@@ -23,10 +29,16 @@ lookup aaltAccessAllAlternateslookup0 {
 
 lookup supsSuperscriptlookup1 {
   lookupflag 0;
+  sub \zero by \zerosuperior;
   sub \one by \onesuperior;
   sub \two by \twosuperior;
   sub \three by \threesuperior;
   sub \four by \foursuperior;
+  sub \five by \fivesuperior;
+  sub \six by \sixsuperior;
+  sub \seven by \sevensuperior;
+  sub \eight by \eightsuperior;
+  sub \nine by \ninesuperior;
 } supsSuperscriptlookup1;
 
 lookup SingleSubstitutionlookup6 {
@@ -798,9 +810,9 @@ feature dnom {
         \quotesinglbase \quotedblleft \quotedblright \quotedblbase \dagger
         \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft \guilsinglright
         \Euro \trademark \.null \zero.dnom \one.dnom \two.dnom \three.dnom
+        \fraction \divisionslash \minus
         \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr
-        \zero.sups \one.sups \two.sups \three.sups \four.sups \fraction
-        \divisionslash \minus \foursuperior \ogonek \Aogonek \Eogonek \Iogonek
+        \ogonek \Aogonek \Eogonek \Iogonek
         \Oogonek \Oogonekmacron \Uogonek \aogonek \eogonek \iogonek \oogonek
         \uogonek \lslash \Lslash \Cacute \Gacute \Kacute \Lacute \Macute \Nacute
         \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute \kacute \lacute
@@ -826,7 +838,7 @@ feature dnom {
         \wcircumflex \Wgrave \Wcircumflex \ygrave \ycircumflex \Ygrave
         \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar \hbar \Lbar
         \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng \dottedcircle
-        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron ];
+        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron \zerosuperior \onesuperior \twosuperior \threesuperior \foursuperior \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters \fi \fl \t_t ];
  @GDEF_Mark = [ \gravecomb \acutecomb \circumflexcmb \tildecomb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \ogonekcmb \dotaccentcmb

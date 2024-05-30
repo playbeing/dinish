@@ -25,10 +25,16 @@ lookup rtlaRighttoLeftAlternateslookup0 {
 
 lookup supsSuperscriptlookup1 {
   lookupflag 0;
+  sub \zero by \zerosuperior;
   sub \one by \onesuperior;
   sub \two by \twosuperior;
   sub \three by \threesuperior;
   sub \four by \foursuperior;
+  sub \five by \fivesuperior;
+  sub \six by \sixsuperior;
+  sub \seven by \sevensuperior;
+  sub \eight by \eightsuperior;
+  sub \nine by \ninesuperior;
 } supsSuperscriptlookup1;
 
 feature rtla {
@@ -816,7 +822,8 @@ feature dnom {
         \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
         \quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand
         \guilsinglleft \guilsinglright \Euro \trademark \fi \fl \fraction
-        \divisionslash \minus \foursuperior \Cacute \Gacute \Kacute \Lacute
+        \divisionslash \minus
+        \Cacute \Gacute \Kacute \Lacute
         \Macute \Nacute \Pacute \Racute \Sacute \Wacute \Zacute \cacute \gacute
         \kacute \lacute \macute \nacute \pacute \racute \sacute \wacute \zacute
         \zdotaccent \Zdotaccent \ogonek \Aogonek \Eogonek \Iogonek \Oogonek
@@ -842,7 +849,7 @@ feature dnom {
         \wcircumflex \Wgrave \Wcircumflex \ygrave \ycircumflex \Ygrave
         \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar \hbar \Lbar
         \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng \dottedcircle
-        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron ];
+        \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron \zerosuperior \onesuperior \twosuperior \threesuperior \foursuperior \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters ];
  @GDEF_Mark = [ \gravecomb \acutecomb \tildecomb \circumflexcmb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \ogonekcmb \dotaccentcmb

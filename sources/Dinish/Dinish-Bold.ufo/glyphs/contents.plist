@@ -622,6 +622,8 @@
   <string>eight.tlf.glif</string>
   <key>eight.tosf</key>
   <string>eight.tosf.glif</string>
+  <key>eightsuperior</key>
+  <string>eightsuperior.glif</string>
   <key>elcyr</key>
   <string>elcyr.glif</string>
   <key>elcyr.loclBGR</key>
@@ -674,6 +676,8 @@
   <string>five.tlf.glif</string>
   <key>five.tosf</key>
   <string>five.tosf.glif</string>
+  <key>fivesuperior</key>
+  <string>fivesuperior.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
   <key>florin</key>
@@ -686,8 +690,6 @@
   <string>four.numr.glif</string>
   <key>four.osf</key>
   <string>four.osf.glif</string>
-  <key>four.sups</key>
-  <string>four.sups.glif</string>
   <key>four.tlf</key>
   <string>four.tlf.glif</string>
   <key>four.tosf</key>
@@ -880,6 +882,8 @@
   <string>nine.tlf.glif</string>
   <key>nine.tosf</key>
   <string>nine.tosf.glif</string>
+  <key>ninesuperior</key>
+  <string>ninesuperior.glif</string>
   <key>njecyr</key>
   <string>njecyr.glif</string>
   <key>nonmarkingreturn</key>
@@ -928,8 +932,6 @@
   <string>one.numr.glif</string>
   <key>one.osf</key>
   <string>one.osf.glif</string>
-  <key>one.sups</key>
-  <string>one.sups.glif</string>
   <key>one.tlf</key>
   <string>one.tlf.glif</string>
   <key>one.tosf</key>
@@ -1050,6 +1052,8 @@
   <string>seven.tlf.glif</string>
   <key>seven.tosf</key>
   <string>seven.tosf.glif</string>
+  <key>sevensuperior</key>
+  <string>sevensuperior.glif</string>
   <key>shacyr</key>
   <string>shacyr.glif</string>
   <key>shacyr.loclBGR</key>
@@ -1070,6 +1074,8 @@
   <string>six.tlf.glif</string>
   <key>six.tosf</key>
   <string>six.tosf.glif</string>
+  <key>sixsuperior</key>
+  <string>sixsuperior.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>softcyr</key>
@@ -1108,8 +1114,6 @@
   <string>three.numr.glif</string>
   <key>three.osf</key>
   <string>three.osf.glif</string>
-  <key>three.sups</key>
-  <string>three.sups.glif</string>
   <key>three.tlf</key>
   <string>three.tlf.glif</string>
   <key>three.tosf</key>
@@ -1138,8 +1142,6 @@
   <string>two.numr.glif</string>
   <key>two.osf</key>
   <string>two.osf.glif</string>
-  <key>two.sups</key>
-  <string>two.sups.glif</string>
   <key>two.tlf</key>
   <string>two.tlf.glif</string>
   <key>two.tosf</key>
@@ -1248,12 +1250,12 @@
   <string>zero.numr.glif</string>
   <key>zero.osf</key>
   <string>zero.osf.glif</string>
-  <key>zero.sups</key>
-  <string>zero.sups.glif</string>
   <key>zero.tlf</key>
   <string>zero.tlf.glif</string>
   <key>zero.tosf</key>
   <string>zero.tosf.glif</string>
+  <key>zerosuperior</key>
+  <string>zerosuperior.glif</string>
   <key>zhecyr</key>
   <string>zhecyr.glif</string>
   <key>zhecyr.loclBGR</key>

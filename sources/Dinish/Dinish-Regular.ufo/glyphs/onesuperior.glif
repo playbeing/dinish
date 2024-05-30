@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-  <advance width="227"/>
+  <advance width="215"/>
   <unicode hex="00B9"/>
   <outline>
-    <contour>
-      <point x="101" y="793" type="line"/>
-      <point x="27" y="736" type="line"/>
-      <point x="27" y="812" type="line"/>
-      <point x="101" y="867" type="line"/>
-      <point x="172" y="867" type="line"/>
-      <point x="172" y="440" type="line"/>
-      <point x="101" y="440" type="line"/>
-    </contour>
+    <component base="one.dnom" yOffset="437"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>101</integer>
-            <key>width</key>
-            <integer>71</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

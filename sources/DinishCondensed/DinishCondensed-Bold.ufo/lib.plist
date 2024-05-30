@@ -45,35 +45,30 @@
     <string>zero.dnom</string>
     <string>zero.numr</string>
     <string>zero.osf</string>
-    <string>zero.sups</string>
     <string>zero.tlf</string>
     <string>zero.tosf</string>
     <string>one</string>
     <string>one.dnom</string>
     <string>one.numr</string>
     <string>one.osf</string>
-    <string>one.sups</string>
     <string>one.tlf</string>
     <string>one.tosf</string>
     <string>two</string>
     <string>two.dnom</string>
     <string>two.numr</string>
     <string>two.osf</string>
-    <string>two.sups</string>
     <string>two.tlf</string>
     <string>two.tosf</string>
     <string>three</string>
     <string>three.dnom</string>
     <string>three.numr</string>
     <string>three.osf</string>
-    <string>three.sups</string>
     <string>three.tlf</string>
     <string>three.tosf</string>
     <string>four</string>
     <string>four.dnom</string>
     <string>four.numr</string>
     <string>four.osf</string>
-    <string>four.sups</string>
     <string>four.tlf</string>
     <string>four.tosf</string>
     <string>five</string>
@@ -193,14 +188,11 @@
     <string>macron</string>
     <string>degree</string>
     <string>plusminus</string>
-    <string>twosuperior</string>
-    <string>threesuperior</string>
     <string>acute</string>
     <string>mu</string>
     <string>paragraph</string>
     <string>periodcentered</string>
     <string>cedilla</string>
-    <string>onesuperior</string>
     <string>ordmasculine</string>
     <string>guillemotright</string>
     <string>onequarter</string>
@@ -641,7 +633,6 @@
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
-    <string>foursuperior</string>
     <string>Euro</string>
     <string>trademark</string>
     <string>minus</string>
@@ -652,6 +643,16 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
+    <string>zerosuperior</string>
+    <string>onesuperior</string>
+    <string>twosuperior</string>
+    <string>threesuperior</string>
+    <string>foursuperior</string>
+    <string>fivesuperior</string>
+    <string>sixsuperior</string>
+    <string>sevensuperior</string>
+    <string>eightsuperior</string>
+    <string>ninesuperior</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
