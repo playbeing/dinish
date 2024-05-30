@@ -4,6 +4,8 @@ languagesystem latn MOL;
 languagesystem latn PLK;
 languagesystem latn ROM;
 languagesystem latn NLD;
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
 
 
 # GSUB
