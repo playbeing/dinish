@@ -721,7 +721,24 @@ feature dnom {
         \Ycircumflex \wdieresis \Wdieresis \doubleobliquehyphen \Hbar \hbar \Lbar
         \lbar \obarred \Ocenteredtilde \Tbar \tbar \Eng \eng \dottedcircle
         \Germandbls \Ubreve \ubreve \IJ \dotlessj \ij
-        \Gheupturncyrillic \gheupturncyrillic \Alpha \oogonekmacron
+        \Alpha \oogonekmacron
+        \acyr \Acyr \becyr \Becyr \checyr \Checyr \decyr \Decyr \decyr.loclBGR
+        \Decyr.loclBGR \djecyr \Djecyr \dzecyr \Dzecyr \dzhecyr \Dzhecyr
+        \efcyr \Efcyr \elcyr \Elcyr \elcyr.loclBGR \Elcyr.loclBGR \emcyr \Emcyr
+        \encyr \Encyr \ercyr \Ercyr \ereversedcyr \Ereversedcyr \escyr \Escyr
+        \eukrcyr \Eukrcyr \gecyr \Gecyr \gecyr.loclBGR \gheupturncyrillic
+        \Gheupturncyrillic \gjecyr \Gjecyr \hacyr \Hacyr \hardcyr \Hardcyr
+        \hardcyr.loclBGR \icyr \Icyr \icyr.loclBGR \iecyr \Iecyr \iegravecyr
+        \Iegravecyr \igravecyr \Igravecyr \igravecyr.loclBGR \iocyr \Iocyr
+        \ishortcyr \Ishortcyr \ishortcyr.loclBGR \iukrcyr \Iukrcyr \jecyr
+        \Jecyr \kacyr \Kacyr \kacyr.loclBGR \kjecyr \Kjecyr \ljecyr \Ljecyr
+        \njecyr \Njecyr \ocyr \Ocyr \pecyr \Pecyr \pecyr.loclBGR \shacyr
+        \Shacyr \shacyr.loclBGR \shchacyr \Shchacyr \shchacyr.loclBGR \softcyr
+        \Softcyr \softcyr.loclBGR \tecyr \Tecyr \tecyr.loclBGR \tsecyr \Tsecyr
+        \tsecyr.loclBGR \tshecyr \Tshecyr \ucyr \Ucyr \ushortcyr \Ushortcyr
+        \vecyr \Vecyr \vecyr.loclBGR \yacyr \Yacyr \ylongcyr \Ylongcyr
+        \ylongcyr.loclBGR \yucyr \Yucyr \yucyr.loclBGR \yukrcyr \Yukrcyr \zecyr
+        \Zecyr \zecyr.loclBGR \zhecyr \Zhecyr \zhecyr.loclBGR
         \zerosuperior \onesuperior \twosuperior \threesuperior \foursuperior
         \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters ];
