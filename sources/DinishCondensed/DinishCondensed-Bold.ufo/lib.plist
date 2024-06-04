@@ -188,11 +188,14 @@
     <string>macron</string>
     <string>degree</string>
     <string>plusminus</string>
+    <string>twosuperior</string>
+    <string>threesuperior</string>
     <string>acute</string>
     <string>mu</string>
     <string>paragraph</string>
     <string>periodcentered</string>
     <string>cedilla</string>
+    <string>onesuperior</string>
     <string>ordmasculine</string>
     <string>guillemotright</string>
     <string>onequarter</string>
@@ -633,6 +636,13 @@
     <string>guilsinglleft</string>
     <string>guilsinglright</string>
     <string>fraction</string>
+    <string>zerosuperior</string>
+    <string>foursuperior</string>
+    <string>fivesuperior</string>
+    <string>sixsuperior</string>
+    <string>sevensuperior</string>
+    <string>eightsuperior</string>
+    <string>ninesuperior</string>
     <string>Euro</string>
     <string>trademark</string>
     <string>minus</string>
@@ -643,16 +653,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>zerosuperior</string>
-    <string>onesuperior</string>
-    <string>twosuperior</string>
-    <string>threesuperior</string>
-    <string>foursuperior</string>
-    <string>fivesuperior</string>
-    <string>sixsuperior</string>
-    <string>sevensuperior</string>
-    <string>eightsuperior</string>
-    <string>ninesuperior</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
