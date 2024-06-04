@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ocenteredtilde" format="2">
+<glyph name="Obarredcyrillic" format="2">
   <advance width="614"/>
-  <unicode hex="019F"/>
+  <unicode hex="04E8"/>
   <outline>
     <component base="O"/>
     <component base="hyphen" xOffset="107"/>

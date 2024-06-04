@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocenteredtilde" format="2">
-  <advance width="309"/>
+  <advance width="711"/>
   <unicode hex="019F"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="133" y="396" type="line"/>
-      <point x="579" y="396" type="line"/>
-      <point x="579" y="313" type="line"/>
-      <point x="133" y="313" type="line"/>
-    </contour>
+    <component base="minus" xOffset="100"/>
   </outline>
 </glyph>

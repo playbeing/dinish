@@ -717,7 +717,7 @@ feature dnom {
         \ylongcyr.loclBGR \yucyr \Yucyr \yucyr.loclBGR \yukrcyr \Yukrcyr \zecyr
         \Zecyr \zecyr.loclBGR \zhecyr \Zhecyr \zhecyr.loclBGR
         \zerosuperior \onesuperior \twosuperior \threesuperior \foursuperior
-        \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior ];
+        \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior \Obarredcyrillic \obarredcyrillic ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters ];
  @GDEF_Mark = [ \gravecomb \acutecomb \tildecomb \circumflexcmb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \ogonekcmb \dotaccentcmb

@@ -400,7 +400,6 @@
     <string>zcaron</string>
     <string>florin</string>
     <string>lbar</string>
-    <string>Ocenteredtilde</string>
     <string>Acaron</string>
     <string>acaron</string>
     <string>Icaron</string>
@@ -651,6 +650,9 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
+    <string>Obarredcyrillic</string>
+    <string>obarredcyrillic</string>
+    <string>Ocenteredtilde</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

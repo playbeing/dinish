@@ -256,6 +256,8 @@
   <string>O_acute.glif</string>
   <key>Oacute.loclPLK</key>
   <string>O_acute.loclP_L_K_.glif</string>
+  <key>Obarredcyrillic</key>
+  <string>O_barredcyrillic.glif</string>
   <key>Obreve</key>
   <string>O_breve.glif</string>
   <key>Ocaron</key>
@@ -900,6 +902,8 @@
   <string>oacute.loclP_L_K_.glif</string>
   <key>obarred</key>
   <string>obarred.glif</string>
+  <key>obarredcyrillic</key>
+  <string>obarredcyrillic.glif</string>
   <key>obreve</key>
   <string>obreve.glif</string>
   <key>ocaron</key>
