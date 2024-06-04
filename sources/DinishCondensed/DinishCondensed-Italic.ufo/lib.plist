@@ -401,6 +401,7 @@
     <string>zcaron</string>
     <string>florin</string>
     <string>lbar</string>
+    <string>Ocenteredtilde</string>
     <string>Acaron</string>
     <string>acaron</string>
     <string>Icaron</string>
@@ -575,6 +576,8 @@
     <string>dzhecyr</string>
     <string>Gheupturncyrillic</string>
     <string>gheupturncyrillic</string>
+    <string>Obarredcyrillic</string>
+    <string>obarredcyrillic</string>
     <string>Ddotbelow</string>
     <string>ddotbelow</string>
     <string>Hdotbelow</string>
@@ -652,9 +655,6 @@
     <string>fl</string>
     <string>.notdef</string>
     <string>NULL</string>
-    <string>Obarredcyrillic</string>
-    <string>obarredcyrillic</string>
-    <string>Ocenteredtilde</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

@@ -2,24 +2,14 @@
 <glyph name="Gecyr" format="2">
   <advance width="406"/>
   <unicode hex="0413"/>
-  <guideline x="231" y="0" angle="90" name="h1"/>
-  <anchor x="231" y="760" name="top"/>
   <outline>
     <contour>
-      <point x="61" y="707" type="line"/>
-      <point x="376" y="707" type="line"/>
-      <point x="376" y="640" type="line"/>
-      <point x="136" y="640" type="line"/>
-      <point x="136" y="0" type="line"/>
-      <point x="61" y="0" type="line"/>
+      <point x="153" y="707" type="line"/>
+      <point x="468" y="707" type="line"/>
+      <point x="454" y="640" type="line"/>
+      <point x="214" y="640" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>=H</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>=F</string>
-    </dict>
-  </lib>
 </glyph>

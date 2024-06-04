@@ -2,8 +2,6 @@
 <glyph name="ereversedcyr" format="2">
   <advance width="417"/>
   <unicode hex="044D"/>
-  <guideline x="210" y="0" angle="90" name="h1"/>
-  <anchor x="210" y="590" name="top"/>
   <outline>
     <contour>
       <point x="199" y="313" type="line"/>
@@ -62,14 +60,4 @@
       <point x="186" y="250" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>=|c</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>=o</string>
-      <key>com.fontlab.recipe</key>
-      <string>o+hyphen%</string>
-    </dict>
-  </lib>
 </glyph>
