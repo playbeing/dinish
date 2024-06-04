@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gjecyr" format="2">
-  <advance width="595"/>
+  <advance width="571"/>
   <unicode hex="0403"/>
   <outline>
     <component base="Gecyr"/>
