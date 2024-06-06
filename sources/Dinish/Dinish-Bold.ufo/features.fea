@@ -811,7 +811,7 @@ feature dnom {
         \caron \dotaccent \ring \tilde \endash \emdash \quoteleft \quoteright
         \quotesinglbase \quotedblleft \quotedblright \quotedblbase \dagger
         \daggerdbl \bullet \ellipsis \perthousand \guilsinglleft \guilsinglright
-        \Euro \trademark \.null \zero.dnom \one.dnom \two.dnom \three.dnom
+        \Euro \trademark \zero.dnom \one.dnom \two.dnom \three.dnom
         \fraction \divisionslash \minus
         \four.dnom \zero.numr \one.numr \two.numr \three.numr \four.numr
         \ogonek \Aogonek \Eogonek \Iogonek

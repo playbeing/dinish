@@ -654,7 +654,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>NULL</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>

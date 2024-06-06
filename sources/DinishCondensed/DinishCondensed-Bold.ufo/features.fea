@@ -653,7 +653,7 @@ feature dnom {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
- @GDEF_Simple = [ \.null \nonmarkingreturn \space \exclam \quotedbl
+ @GDEF_Simple = [ \nonmarkingreturn \space \exclam \quotedbl
         \numbersign \dollar \percent \ampersand \quotesingle \parenleft
         \parenright \asterisk \plus \comma \hyphen \period \slash \zero \one \two
         \three \four \five \six \seven \eight \nine \colon \semicolon \less
@@ -678,7 +678,7 @@ feature dnom {
         \zcaron \florin \circumflex \breve \caron \dotaccent \ring \tilde \endash
         \emdash \quoteleft \quoteright \quotesinglbase \quotedblleft
         \quotedblright \quotedblbase \dagger \daggerdbl \bullet \ellipsis
-        \perthousand \guilsinglleft \guilsinglright \Euro \trademark \NULL
+        \perthousand \guilsinglleft \guilsinglright \Euro \trademark
         \fraction \divisionslash \minus
         \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr
         \one.numr \two.numr \three.numr \four.numr

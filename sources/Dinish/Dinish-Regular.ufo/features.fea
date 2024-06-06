@@ -709,7 +709,7 @@ feature ss01 {
         \circumflex \breve \caron \dotaccent \ring \tilde \endash \emdash
         \quoteleft \quoteright \quotesinglbase \quotedblleft \quotedblright
         \quotedblbase \dagger \daggerdbl \bullet \ellipsis \perthousand
-        \guilsinglleft \guilsinglright \Euro \trademark \.null \zero.dnom
+        \guilsinglleft \guilsinglright \Euro \trademark \zero.dnom
         \fraction \divisionslash \minus
         \one.dnom \two.dnom \three.dnom \four.dnom \zero.numr \one.numr \two.numr
         \three.numr \four.numr
