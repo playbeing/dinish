@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="227"/>
+  <advance width="239"/>
   <unicode hex="0131"/>
+  <anchor x="228" y="524" name="top"/>
   <outline>
     <contour>
-      <point x="126" y="523" type="line"/>
-      <point x="212" y="523" type="line"/>
-      <point x="101" y="0" type="line"/>
-      <point x="15" y="0" type="line"/>
+      <point x="130" y="524" type="line"/>
+      <point x="217" y="524" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="21" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

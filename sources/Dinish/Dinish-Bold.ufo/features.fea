@@ -696,6 +696,12 @@ feature ss01 {
   lookup ss01NLD;
 } ss01;
 
+feature ccmp {
+  script latn;
+  sub i' acutecomb by dotlessi;
+  sub j' acutecomb by dotlessj;
+} ccmp;
+
 
 @figuresDenominator=[zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @figures=[zero one two three four five six seven eight nine];

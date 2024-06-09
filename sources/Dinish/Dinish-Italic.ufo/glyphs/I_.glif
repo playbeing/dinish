@@ -2,11 +2,11 @@
 <glyph name="I" format="2">
   <advance width="254"/>
   <unicode hex="0049"/>
-  <anchor x="222" y="707" name="top"/>
+  <anchor x="274" y="707" name="top"/>
   <outline>
     <contour>
-      <point x="185" y="707" type="line"/>
-      <point x="260" y="707" type="line"/>
+      <point x="182" y="707" type="line"/>
+      <point x="257" y="707" type="line"/>
       <point x="110" y="0" type="line"/>
       <point x="35" y="0" type="line"/>
     </contour>

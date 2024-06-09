@@ -681,6 +681,12 @@ feature ss01 {
   lookup ss01NLD;
 } ss01;
 
+feature ccmp {
+  script latn;
+  sub i' acutecomb by dotlessi;
+  sub j' acutecomb by dotlessj;
+} ccmp;
+
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
