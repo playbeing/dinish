@@ -10,7 +10,7 @@ fonts {
   filename: "DinishCondensed-Regular.ttf"
   post_script_name: "DinishCondensed-Regular"
   full_name: "Dinish Condensed Regular"
-  copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
+  copyright: "Copyright 2021-2024 The DINish Project Authors (https://github.com/playbeing/dinish)"
 }
 fonts {
   name: "Dinish Condensed"
@@ -19,7 +19,7 @@ fonts {
   filename: "DinishCondensed-Bold.ttf"
   post_script_name: "DinishCondensed-Bold"
   full_name: "Dinish Condensed Bold"
-  copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
+  copyright: "Copyright 2021-2024 The DINish Project Authors (https://github.com/playbeing/dinish)"
 }
 fonts {
   name: "Dinish Condensed"
@@ -28,8 +28,12 @@ fonts {
   filename: "DinishCondensed-Italic.ttf"
   post_script_name: "DinishCondensed-Italic"
   full_name: "Dinish Condensed Italic"
-  copyright: "Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)"
+  copyright: "Copyright 2021-2024 The DINish Project Authors (https://github.com/playbeing/dinish)"
 }
+subsets: "cyrillic"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
+source {
+  repository_url: "https://github.com/playbeing/dinish"
+}

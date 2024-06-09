@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2024/05/02 23:27:10</string>
+  <string>2024/06/10 01:42:47</string>
   <key>openTypeHheaAscender</key>
   <integer>1050</integer>
   <key>openTypeHheaDescender</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>Dinish</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.005; git-f6697390+5-41-dev</string>
+  <string>Version 3.006; git-39231f3c-release</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -163,7 +163,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>5</integer>
+  <integer>6</integer>
   <key>xHeight</key>
   <integer>519</integer>
 </dict>
