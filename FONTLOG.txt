@@ -90,8 +90,13 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-06-09 - v3.006:
+ * Integrate Cyrillic glyphs & features by Stefan Peev. Supports multiple languages, including Bulgarian.
+ * Remove bogus NULL glyphs from DinishCondensed.
+ * Many minor cleanups for issues flagged by fontbakery.
+ * Fixes for iacute, jacute, kacute and Dutch accented ij.
 2024-04-28 - v3.005:
- * Full support for frac feature
+ * Full support for frac feature.
 2023-11-26 - v3.004:
  * Extended Cyrillic and extended Latin.
  * Combining all plain source files in one VFC font and creating a variable version together with static versions.
