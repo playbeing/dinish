@@ -58,7 +58,8 @@ https://r12a.github.io/app-charuse/.  In total, 243 Latin-based languages
 are supported. Please open an issue on Github if any European language
 based on Latin characters is not rendered with proper typographical
 conventions. There is special handling in OpenType for the Polish and
-Romanian languages.
+Romanian languages. Version v3.006 introduces support for at least six
+languages using Cyrillic.
 
 
 ## OpenType Features

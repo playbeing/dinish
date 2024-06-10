@@ -64,7 +64,8 @@ https://r12a.github.io/app-charuse/.  In total, 243 Latin-based languages
 are supported. Please open an issue on Github if any European language
 based on Latin characters is not rendered with proper typographical
 conventions. There is special handling in OpenType for the Polish and
-Romanian languages.
+Romanian languages. Version v3.006 introduces support for at least six
+languages using Cyrillic.
 
 
 ## OpenType Features
@@ -167,6 +168,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
+- 2024-06-09 - v3.006: Integrate Cyrillic glyphs & features by Stefan Peev. Supports multiple languages, including Bulgarian. Fixes for Dutch accented ij.
 - 2023-04-28 - v3.005: Full support for frac feature.
 - 2023-11-26 - v3.004: Extended Cyrillic and extended Latin. Update VF. Unreleased due to production issues.
 - 2023-11-16 - v3.003: Cyrillic glyphs for Russian, Serbian, Bulgarian languages. VF for regular thru bold weights. Unreleased due to production issues.
