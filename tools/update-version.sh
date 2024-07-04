@@ -49,7 +49,7 @@ now=`date +'%Y/%m/%d %H:%M:%S'`
 
 echo $versionstr
 
-for ufo in sources/Dinish*/Dinish*.ufo
+for ufo in sources/DINish*/DINish*.ufo
 do
 	sed -i -e "/versionMajor/,+1s/>[0-9]*</>$major</" \
         -e "/versionMinor/,+1s/>[0-9]*</>$minor</" \
