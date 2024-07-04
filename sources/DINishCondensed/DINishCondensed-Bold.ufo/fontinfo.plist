@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-248</integer>
   <key>familyName</key>
-  <string>Dinish Condensed</string>
+  <string>DINish Condensed</string>
   <key>guidelines</key>
   <array/>
   <key>italicAngle</key>
@@ -39,7 +39,7 @@
   <key>openTypeNameManufacturerURL</key>
   <string>https://github.com/playbeing/dinish</string>
   <key>openTypeNameUniqueID</key>
-  <string>Dinish Condensed Bold</string>
+  <string>DINish Condensed Bold</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.006; git-39231f3c-release</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -127,9 +127,9 @@
   <key>postscriptFamilyOtherBlues</key>
   <array/>
   <key>postscriptFontName</key>
-  <string>DinishCondensed-Bold</string>
+  <string>DINishCondensed-Bold</string>
   <key>postscriptFullName</key>
-  <string>Dinish Condensed Bold</string>
+  <string>DINish Condensed Bold</string>
   <key>postscriptOtherBlues</key>
   <array/>
   <key>postscriptStemSnapH</key>
