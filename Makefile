@@ -40,19 +40,19 @@ fontbakery: all
 	-fontbakery check-universal --verbose --full-lists --html fontbakery-dinishexpanded-report.html ofl/dinishexpanded/*.ttf
 
 metadata_templates: all
-	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
+	sh -c 'for f in DINish DINishCondensed DINishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
 
 install_ofl:
-	sh -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; done'
+	sh -c 'for f in DINish DINishCondensed DINishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; done'
 
 
 .PHONY: docs zips update_version
-docs:	docs/_sass/Dinish-Regular.scss docs/_sass/Dinish-Bold.scss
-	bash -c 'for f in Dinish DinishCondensed DinishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} ofl/$$slug; done'
+docs:	docs/_sass/DINish-Regular.scss docs/_sass/DINish-Bold.scss
+	bash -c 'for f in DINish DINishCondensed DINishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} ofl/$$slug; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
 	bash -c 'cat docs/dinish/index.md.header README.md >docs/dinish/index.md'
 
-docs/_sass/%.scss: fonts/woff2/Dinish/%.woff2
+docs/_sass/%.scss: fonts/woff2/DINish/%.woff2
 	tools/woff2css $< $@
 
 zips:
@@ -64,4 +64,4 @@ update_version:
 
 # Danger, Will Robinson!
 revert_auto_changes:
-	git checkout docs/_sass/Dinish*.scss fonts/ sources/*.*/fontinfo.plist ofl
+	git checkout docs/_sass/DINish*.scss fonts/ sources/*.*/fontinfo.plist ofl
