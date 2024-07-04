@@ -90,6 +90,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-07-04 - v3.007:
+ * Rename the internal font name back to DINish, for consistency with the marketing name. Closes #8.
 2024-06-09 - v3.006:
  * Integrate Cyrillic glyphs & features by Stefan Peev. Supports multiple languages, including Bulgarian.
  * Remove bogus NULL glyphs from DinishCondensed.

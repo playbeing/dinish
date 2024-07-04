@@ -162,6 +162,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
+- 2024-07-04 - v3.007: Rename the internal font name back to DINish, for consistency with the marketing name. Closes #8.
 - 2024-06-09 - v3.006: Integrate Cyrillic glyphs & features by Stefan Peev. Supports multiple languages, including Bulgarian. Fixes for Dutch accented ij.
 - 2023-04-28 - v3.005: Full support for frac feature.
 - 2023-11-26 - v3.004: Extended Cyrillic and extended Latin. Update VF. Unreleased due to production issues.
