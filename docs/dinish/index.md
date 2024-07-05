@@ -144,7 +144,7 @@ fonts, as are [SIL's pysilfont](https://github.com/silnrsi/pysilfont),
 [FontForge](https://github.com/fontforge/fontforge) and
 [TruFont](https://github.com/trufont/trufont) have proven invaluable
 for editing.
-The Cyrillic glyphs were created using [FontLab](https://www.fontlab.com/)
+The Cyrillic glyphs were created using [FontLab](https://www.fontlab.com/).
 
 Copyright © 2023-2024 Stefan Peev (https://github.com/StefanPeev/dinish/tree/cyrillic)<br>
 Copyright © 2021-2024 Bert Driehuis (https://github.com/playbeing/dinish)<br>
