@@ -1,7 +1,5 @@
 #!/bin/sh
 
-set -e
-
 in="$1"
 out="$2"
 outtype="`echo $out | sed -e 's/.*\.//'`"
@@ -10,18 +8,6 @@ die() {
 	echo "$@"
 	exit 1
 }
-
-# If we have a pre-process script, we copy the source to a temp folder
-# in order to be able to massage the source without touching the
-# source controlled source.
-# The script gets call with its original folder as the first argument
-if [ -f "$in/pre-process-ufo.sh" ]; then
-	tempdir=`mktemp -d "/tmp/process-font-XXXXXXXX.ufo" 2>/dev/null`
-	orig="`pwd`"
-	cp -pr "$in/"* "$tempdir"
-	( cd "$tempdir" ; sh pre-process-ufo.sh "$orig" )
-	in=$tempdir
-fi
 
 case "$outtype" in
 	woff|woff2)
@@ -58,11 +44,3 @@ case "$out" in
 
 		;;
 esac
-
-if [ -e /tmp/keep-generated.txt ]; then
-	exit 0
-fi
-
-if [ -e "$tempdir" ]; then
-	rm -rf "$tempdir"
-fi
