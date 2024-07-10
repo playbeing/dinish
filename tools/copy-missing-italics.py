@@ -12,6 +12,13 @@ import sys
 import xmltodict
 
 
+"""
+We are called with our cwd in a scratch directory, that holds a
+complete font in UFO format. We then copy all glyphs from a different
+UFO, slanting them unless there is an exception for certain glyphs.
+"""
+
+
 def fatal(str):
     print(str)
     sys.exit(1)
@@ -33,7 +40,7 @@ def glyph_assert_has_contours(fontname, glyph):
         fatal("Font {0} glyph {1} has {2} components, should be zero".format(fontname, glyph, glyph.components))
 
 
-def copy_glyphs_to_italic(source, dest, upright_list):
+def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
     srcfont = OpenFont(source)
     dstfont = OpenFont(dest)
     print("Processing {0} -> {1}".format(source, dest))
@@ -93,6 +100,24 @@ def copy_glyphs_to_italic(source, dest, upright_list):
 
     if len(upright_list) > 0:
         print("Unused items in upright list: {0}".format(', '.join(upright_list)))
+
+    for overwrite in overwrite_list:
+        target, source = overwrite.split('=')
+        unicode = dstfont[target].unicode
+        if unicode is None:
+            unicode = srcfont[target].unicode
+        dstfont.newGlyph(target)
+        source_glyph = dstfont[source]
+        target_glyph = dstfont[target]
+        for component in source_glyph.components:
+            target_glyph.appendComponent(component.baseGlyph, component.offset)
+        for contour in source_glyph.contours:
+            target_glyph.appendContour(contour)
+        target_glyph.unicode = unicode
+        target_glyph.name = target
+        target_glyph.width = source_glyph.width
+
+
     #pdb.set_trace()
     dstfont.save()
 
@@ -102,9 +127,11 @@ def main():
     parser.add_argument("--source")
     parser.add_argument("--dest")
     parser.add_argument("--uprights")
+    parser.add_argument("--overwrite")
     args = parser.parse_args()
     upright_list = parse_uprights(args.uprights)
-    copy_glyphs_to_italic(args.source, args.dest, upright_list)
+    overwrite_list = args.overwrite.split(',')
+    copy_glyphs_to_italic(args.source, args.dest, upright_list, overwrite_list)
 
 
 main()
