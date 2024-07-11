@@ -696,6 +696,14 @@ feature ss01 {
   lookup ss01NLD;
 } ss01;
 
+feature ss02 {
+  featureNames {
+    name "Cursive style in upright";
+  };
+  script latn;
+  sub a by a.ss02;
+} ss02;
+
 feature ccmp {
   script latn;
   sub i' acutecomb by dotlessi;

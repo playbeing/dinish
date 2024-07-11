@@ -577,6 +577,14 @@ feature ss01 {
   lookup ss01NLD;
 } ss01;
 
+feature ss02 {
+  featureNames {
+    name "Cursive style in upright";
+  };
+  script latn;
+  sub a by a.ss02;
+} ss02;
+
 
 @figuresDenominator=[zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @figures=[zero one two three four five six seven eight nine];
