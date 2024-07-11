@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="366"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="111" y="532" type="line"/>
+      <point x="404" y="532" type="line"/>
+      <point x="381" y="421" type="line"/>
+      <point x="215" y="421" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

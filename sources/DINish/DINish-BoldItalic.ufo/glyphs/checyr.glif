@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checyr" format="2">
+  <advance width="532"/>
+  <unicode hex="0447"/>
+  <outline>
+    <contour>
+      <point x="111" y="532" type="line"/>
+      <point x="238" y="532" type="line"/>
+      <point x="198" y="340" type="line" smooth="yes"/>
+      <point x="187" y="288"/>
+      <point x="205" y="246"/>
+      <point x="261" y="246" type="curve" smooth="yes"/>
+      <point x="303" y="246"/>
+      <point x="328" y="254"/>
+      <point x="350" y="265" type="curve"/>
+      <point x="406" y="532" type="line"/>
+      <point x="533" y="532" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="328" y="161" type="line"/>
+      <point x="293" y="145"/>
+      <point x="245" y="133"/>
+      <point x="200" y="133" type="curve" smooth="yes"/>
+      <point x="85" y="133"/>
+      <point x="45" y="217"/>
+      <point x="68" y="325" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
