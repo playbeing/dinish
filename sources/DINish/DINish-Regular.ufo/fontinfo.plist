@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2024/07/05 00:30:23</string>
+  <string>2024/07/11 20:25:52</string>
   <key>openTypeHheaAscender</key>
   <integer>1050</integer>
   <key>openTypeHheaDescender</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>DINish</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.007; git-5a3b0561-release</string>
+  <string>Version 3.007; git-583bda16+13-23-dev</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
