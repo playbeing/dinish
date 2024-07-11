@@ -119,6 +119,13 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
 
 
     #pdb.set_trace()
+    f = dstfont
+    sort_descriptor = [
+        dict(type="alphabetical", ascending=True, allowPseudoUnicode=True),
+        dict(type="unicode", ascending=True, allowPseudoUnicode=True)
+        ]
+    newGlyphOrder = f.naked().unicodeData.sortGlyphNames(f.glyphOrder, sortDescriptors=sort_descriptor)
+    f.glyphOrder = newGlyphOrder
     dstfont.save()
 
 
