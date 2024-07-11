@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2024/07/11 20:29:17</string>
+  <string>2024/07/11 20:39:51</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -75,7 +75,7 @@
       <key>platformID</key>
       <integer>3</integer>
       <key>string</key>
-      <string>Dinish</string>
+      <string>DINish</string>
     </dict>
     <dict>
       <key>encodingID</key>
@@ -99,7 +99,7 @@
       <key>platformID</key>
       <integer>3</integer>
       <key>string</key>
-      <string>Dinish</string>
+      <string>DINish</string>
     </dict>
     <dict>
       <key>encodingID</key>
@@ -111,7 +111,7 @@
       <key>platformID</key>
       <integer>3</integer>
       <key>string</key>
-      <string>Dinish Regular</string>
+      <string>DINish BoldItalic</string>
     </dict>
     <dict>
       <key>encodingID</key>
@@ -135,7 +135,7 @@
       <key>platformID</key>
       <integer>3</integer>
       <key>string</key>
-      <string>Dinish-Regular</string>
+      <string>DINish-BoldItalic</string>
     </dict>
     <dict>
       <key>encodingID</key>
@@ -213,7 +213,7 @@
   <key>openTypeNameUniqueID</key>
   <string>DINish Bold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.007; git-583bda16+13-23-dev</string>
+  <string>Version 3.007; git-827fa621+16-0-dev</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
