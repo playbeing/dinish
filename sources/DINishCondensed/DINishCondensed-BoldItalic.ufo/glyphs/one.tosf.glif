@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.tosf" format="2">
   <advance width="418"/>
   <outline>
     <contour>
-      <point x="235.5878574874419" y="402" type="line"/>
-      <point x="68.44986251183427" y="334" type="line"/>
-      <point x="98.80496937122714" y="480" type="line"/>
-      <point x="266.15087603765255" y="549" type="line"/>
-      <point x="394.15087603765255" y="549" type="line"/>
-      <point x="280.00735777870267" y="0" type="line"/>
-      <point x="152.00735777870267" y="0" type="line"/>
+      <point x="236" y="402" type="line"/>
+      <point x="68" y="334" type="line"/>
+      <point x="99" y="480" type="line"/>
+      <point x="266" y="549" type="line"/>
+      <point x="394" y="549" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

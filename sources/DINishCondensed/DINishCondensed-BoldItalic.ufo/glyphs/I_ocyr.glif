@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iocyr" format="2">
   <advance width="384"/>
   <unicode hex="0401"/>
   <outline>
-    <component base="dieresiscmb" xOffset="253.51334067574805" yOffset="166.0"/>
+    <component base="dieresiscmb" xOffset="254" yOffset="166"/>
     <component base="E"/>
   </outline>
 </glyph>

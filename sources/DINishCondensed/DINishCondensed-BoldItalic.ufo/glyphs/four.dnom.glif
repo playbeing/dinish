@@ -1,28 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.dnom" format="2">
   <advance width="279"/>
   <outline>
     <contour>
-      <point x="221.77828801973104" y="148" type="line"/>
-      <point x="250.77828801973104" y="148" type="line"/>
-      <point x="232.27414753695047" y="59" type="line"/>
-      <point x="203.27414753695047" y="59" type="line"/>
-      <point x="188.7203291797073" y="-11" type="line"/>
-      <point x="83.7203291797073" y="-11" type="line"/>
-      <point x="98.27414753695047" y="59" type="line"/>
-      <point x="-36.72585246304954" y="59" type="line"/>
-      <point x="-20.092917197628797" y="139" type="line"/>
-      <point x="132.61729652115693" y="431" type="line"/>
-      <point x="238.61729652115693" y="431" type="line"/>
-      <point x="139.11407526578265" y="241" type="line"/>
-      <point x="241.11407526578265" y="241" type="line"/>
+      <point x="222" y="148" type="line"/>
+      <point x="251" y="148" type="line"/>
+      <point x="232" y="59" type="line"/>
+      <point x="203" y="59" type="line"/>
+      <point x="189" y="-11" type="line"/>
+      <point x="84" y="-11" type="line"/>
+      <point x="98" y="59" type="line"/>
+      <point x="-37" y="59" type="line"/>
+      <point x="-20" y="139" type="line"/>
+      <point x="133" y="431" type="line"/>
+      <point x="239" y="431" type="line"/>
+      <point x="139" y="241" type="line"/>
+      <point x="241" y="241" type="line"/>
     </contour>
     <contour>
-      <point x="116.77828801973104" y="148" type="line"/>
-      <point x="134.45078173924057" y="233" type="line"/>
-      <point x="134.24287004842282" y="232"/>
-      <point x="119.42134270552556" y="204"/>
-      <point x="90.77828801973104" y="148" type="curve"/>
+      <point x="117" y="148" type="line"/>
+      <point x="134" y="233" type="line"/>
+      <point x="134" y="232"/>
+      <point x="119" y="204"/>
+      <point x="91" y="148" type="curve"/>
     </contour>
   </outline>
 </glyph>
