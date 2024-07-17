@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igravecyr" format="2">
+  <advance width="482"/>
+  <unicode hex="040D"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="gravecomb" xOffset="261.51334067574805" yOffset="166.0"/>
+  </outline>
+</glyph>

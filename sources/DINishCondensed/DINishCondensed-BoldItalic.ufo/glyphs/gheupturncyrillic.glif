@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheupturncyrillic" format="2">
+  <advance width="313"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="246.48758251111047" y="541" type="line"/>
+      <point x="276.8426893705033" y="687" type="line"/>
+      <point x="386.8426893705033" y="687" type="line"/>
+      <point x="356.4875825111105" y="541" type="line"/>
+    </contour>
+    <component base="gecyr"/>
+  </outline>
+</glyph>

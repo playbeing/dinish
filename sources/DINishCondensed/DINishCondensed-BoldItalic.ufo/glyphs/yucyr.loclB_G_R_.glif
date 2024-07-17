@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yucyr.loclBGR" format="2">
+  <advance width="610"/>
+  <outline>
+    <contour>
+      <point x="134.00092318685853" y="707" type="line"/>
+      <point x="253.00092318685853" y="707" type="line"/>
+      <point x="178.77644956491844" y="350" type="line"/>
+      <point x="296.77644956491844" y="350" type="line"/>
+      <point x="271.8270466667873" y="230" type="line"/>
+      <point x="153.8270466667873" y="230" type="line"/>
+      <point x="106.00735777870266" y="0" type="line"/>
+      <point x="-12.992642221297345" y="0" type="line"/>
+    </contour>
+    <component base="o" xOffset="190.0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhecyr" format="2">
+  <advance width="743"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="114.00092318685851" y="707" type="line"/>
+      <point x="240.00092318685853" y="707" type="line"/>
+      <point x="313.49862115889056" y="416" type="line"/>
+      <point x="340.49862115889056" y="416" type="line"/>
+      <point x="401.00092318685853" y="707" type="line"/>
+      <point x="526.0009231868585" y="707" type="line"/>
+      <point x="465.49862115889056" y="416" type="line"/>
+      <point x="492.49862115889056" y="416" type="line"/>
+      <point x="687.0009231868585" y="707" type="line"/>
+      <point x="813.0009231868585" y="707" type="line"/>
+      <point x="599.0929171976288" y="390" type="line"/>
+      <point x="678.0073577787026" y="0" type="line"/>
+      <point x="544.0073577787026" y="0" type="line"/>
+      <point x="484.0046000964837" y="303" type="line"/>
+      <point x="442.0046000964837" y="303" type="line"/>
+      <point x="379.00735777870267" y="0" type="line"/>
+      <point x="254.00735777870267" y="0" type="line"/>
+      <point x="317.0046000964837" y="303" type="line"/>
+      <point x="275.0046000964837" y="303" type="line"/>
+      <point x="89.00735777870266" y="0" type="line"/>
+      <point x="-44.992642221297345" y="0" type="line"/>
+      <point x="196.0929171976288" y="390" type="line"/>
+    </contour>
+  </outline>
+</glyph>

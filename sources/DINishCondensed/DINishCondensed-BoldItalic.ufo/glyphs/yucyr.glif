@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yucyr" format="2">
+  <advance width="610"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="158.77644956491844" y="350" type="line"/>
+      <point x="296.77644956491844" y="350" type="line"/>
+      <point x="271.8270466667873" y="230" type="line"/>
+      <point x="133.8270466667873" y="230" type="line"/>
+    </contour>
+    <component base="dotlessi" xOffset="-4.0"/>
+    <component base="o" xOffset="190.0"/>
+  </outline>
+</glyph>

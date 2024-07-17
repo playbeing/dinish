@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yukrcyr" format="2">
+  <advance width="219"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="dieresiscmb" xOffset="144.51334067574805" yOffset="166.0"/>
+    <component base="I"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icyr" format="2">
+  <advance width="482"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="135.00092318685853" y="707" type="line"/>
+      <point x="-11.992642221297345" y="0" type="line"/>
+      <point x="114.00735777870266" y="0" type="line"/>
+      <point x="339.3900652169979" y="377" type="line"/>
+      <point x="261.00735777870267" y="0" type="line"/>
+      <point x="387.00735777870267" y="0" type="line"/>
+      <point x="534.0009231868585" y="707" type="line"/>
+      <point x="408.00092318685853" y="707" type="line"/>
+      <point x="179.08371700466134" y="313" type="line"/>
+      <point x="261.00092318685853" y="707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

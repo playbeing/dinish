@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="elcyr" format="2">
+  <advance width="449"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="158.48758251111047" y="541" type="line"/>
+      <point x="464.4875825111105" y="541" type="line"/>
+      <point x="352.00735777870267" y="0" type="line"/>
+      <point x="233.00735777870267" y="0" type="line"/>
+      <point x="320.7460913037971" y="422" type="line"/>
+      <point x="244.7460913037971" y="422" type="line"/>
+      <point x="163.86752434828242" y="134" type="line" smooth="yes"/>
+      <point x="140.40294231959064" y="50"/>
+      <point x="62.007357778702655" y="0"/>
+      <point x="-43.992642221297345" y="0" type="curve"/>
+      <point x="-19.251151013983986" y="119" type="line"/>
+      <point x="18.748848986016014" y="119"/>
+      <point x="44.986199710548796" y="149"/>
+      <point x="56.718490724894686" y="191" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

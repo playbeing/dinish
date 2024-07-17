@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="414"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="231.7102097593335" y="13" type="line"/>
+      <point x="319.7102097593335" y="13" type="line"/>
+      <point x="317.2152694695204" y="1" type="line"/>
+      <point x="229.81968492863246" y="-49" type="line"/>
+      <point x="245.41398096737072" y="-75"/>
+      <point x="267.037716039824" y="-72"/>
+      <point x="301.8298043490062" y="-73" type="curve"/>
+      <point x="283.3256638662256" y="-162" type="line"/>
+      <point x="230.5335755570434" y="-161"/>
+      <point x="192.0680743009453" y="-144"/>
+      <point x="168.3449834795669" y="-109" type="curve" smooth="yes"/>
+      <point x="154.8794822234688" y="-92"/>
+      <point x="148.66145111227726" y="-69"/>
+      <point x="146.48297845517453" y="-41" type="curve"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+</glyph>

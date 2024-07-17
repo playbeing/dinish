@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ishortcyr.loclBGR" format="2">
+  <advance width="420"/>
+  <outline>
+    <component base="icyr.loclBGR"/>
+    <component base="brevecmb" xOffset="212.49494028981312" yOffset="12.0"/>
+  </outline>
+</glyph>
