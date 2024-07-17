@@ -20,21 +20,8 @@
   <string/>
   <key>openTypeHeadCreated</key>
   <string>2024/07/11 21:29:20</string>
-  <key>openTypeHeadFlags</key>
-  <array>
-    <integer>0</integer>
-    <integer>1</integer>
-  </array>
-  <key>openTypeHeadLowestRecPPEM</key>
-  <integer>6</integer>
   <key>openTypeHheaAscender</key>
   <integer>1050</integer>
-  <key>openTypeHheaCaretOffset</key>
-  <integer>0</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1024</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
-  <integer>218</integer>
   <key>openTypeHheaDescender</key>
   <integer>-248</integer>
   <key>openTypeHheaLineGap</key>
@@ -140,8 +127,6 @@
   <array/>
   <key>postscriptFontName</key>
   <string>DINish-BoldItalic</string>
-  <key>postscriptForceBold</key>
-  <false/>
   <key>postscriptFullName</key>
   <string>DINish Bold Italic</string>
   <key>postscriptOtherBlues</key>
@@ -156,10 +141,6 @@
   <integer>51</integer>
   <key>postscriptWeightName</key>
   <string>Bold</string>
-  <key>styleMapFamilyName</key>
-  <string>DINish</string>
-  <key>styleMapStyleName</key>
-  <string>bold italic</string>
   <key>styleName</key>
   <string>Bold Italic</string>
   <key>trademark</key>
