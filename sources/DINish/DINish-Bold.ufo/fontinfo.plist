@@ -120,17 +120,8 @@
   <integer>1050</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>248</integer>
-  <key>postscriptBlueShift</key>
-  <integer>0</integer>
   <key>postscriptBlueValues</key>
-  <array>
-    <integer>-8</integer>
-    <integer>0</integer>
-    <integer>532</integer>
-    <integer>539</integer>
-    <integer>707</integer>
-    <integer>717</integer>
-  </array>
+  <array/>
   <key>postscriptFamilyBlues</key>
   <array/>
   <key>postscriptFamilyOtherBlues</key>
@@ -142,10 +133,7 @@
   <key>postscriptFullName</key>
   <string>DINish Bold</string>
   <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-160</integer>
-    <integer>-158</integer>
-  </array>
+  <array/>
   <key>postscriptStemSnapH</key>
   <array/>
   <key>postscriptStemSnapV</key>
