@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oogonekmacron" format="2">
+  <advance width="479"/>
+  <unicode hex="01EC"/>
+  <outline>
+    <component base="macron" xOffset="20.77093024102838" yOffset="148.0"/>
+    <component base="O"/>
+    <component base="ogonek"/>
+  </outline>
+</glyph>

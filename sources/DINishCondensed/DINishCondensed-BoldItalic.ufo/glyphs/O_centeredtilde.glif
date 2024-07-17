@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="479"/>
+  <unicode hex="019F"/>
+  <outline>
+    <component base="O"/>
+    <component base="hyphen" xOffset="58.0"/>
+  </outline>
+</glyph>

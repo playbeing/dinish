@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="655"/>
+  <outline>
+    <contour>
+      <point x="360.00092318685853" y="707" type="line"/>
+      <point x="479.00092318685853" y="707" type="line"/>
+      <point x="404.77644956491844" y="350" type="line"/>
+      <point x="421.77644956491844" y="350" type="line"/>
+      <point x="573.4875825111104" y="541" type="line"/>
+      <point x="697.4875825111104" y="541" type="line"/>
+      <point x="514.2023923669277" y="328" type="line"/>
+      <point x="590.0073577787026" y="0" type="line"/>
+      <point x="459.00735777870267" y="0" type="line"/>
+      <point x="413.8270466667873" y="230" type="line"/>
+      <point x="379.8270466667873" y="230" type="line"/>
+      <point x="332.00735777870267" y="0" type="line"/>
+      <point x="213.00735777870267" y="0" type="line"/>
+      <point x="260.8270466667873" y="230" type="line"/>
+      <point x="226.8270466667873" y="230" type="line"/>
+      <point x="86.00735777870266" y="0" type="line"/>
+      <point x="-44.992642221297345" y="0" type="line"/>
+      <point x="167.2023923669277" y="328" type="line"/>
+      <point x="72.48758251111046" y="541" type="line"/>
+      <point x="196.48758251111047" y="541" type="line"/>
+      <point x="268.77644956491844" y="350" type="line"/>
+      <point x="285.77644956491844" y="350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

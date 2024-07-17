@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhecyr" format="2">
+  <advance width="655"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="72.48758251111046" y="541" type="line"/>
+      <point x="196.48758251111047" y="541" type="line"/>
+      <point x="268.77644956491844" y="350" type="line"/>
+      <point x="305.77644956491844" y="350" type="line"/>
+      <point x="280.8270466667873" y="230" type="line"/>
+      <point x="226.8270466667873" y="230" type="line"/>
+      <point x="86.00735777870266" y="0" type="line"/>
+      <point x="-44.992642221297345" y="0" type="line"/>
+      <point x="167.2023923669277" y="328" type="line"/>
+    </contour>
+    <component base="kacyr" xOffset="226.0"/>
+  </outline>
+</glyph>
