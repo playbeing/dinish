@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="-111" y="-30" type="line"/>
+      <point x="-11" y="-30" type="line"/>
+      <point x="-24" y="-92" type="line"/>
+      <point x="-141" y="-173" type="line"/>
+    </contour>
+  </outline>
+</glyph>

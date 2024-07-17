@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yucyr" format="2">
+  <advance width="919"/>
+  <unicode hex="042E"/>
+  <outline>
+    <component base="O" xOffset="230"/>
+    <contour>
+      <point x="152" y="707" type="line"/>
+      <point x="287" y="707" type="line"/>
+      <point x="226" y="416" type="line"/>
+      <point x="382" y="416" type="line"/>
+      <point x="358" y="299" type="line"/>
+      <point x="202" y="299" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="5" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
