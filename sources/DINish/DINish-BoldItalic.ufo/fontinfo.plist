@@ -42,14 +42,6 @@
   <string>DINish Bold Italic</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.007; git-2fa41779+18-21-dev</string>
-  <key>openTypeOS2CodePageRanges</key>
-  <array>
-    <integer>0</integer>
-    <integer>1</integer>
-    <integer>2</integer>
-    <integer>4</integer>
-    <integer>29</integer>
-  </array>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>2</integer>
