@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncmb.alt" format="2">
   <outline>
     <contour>
-      <point x="122.00092318685851" y="707" type="line"/>
-      <point x="217.00092318685853" y="707" type="line"/>
-      <point x="194.75437226935827" y="600" type="line"/>
-      <point x="82.49770193148424" y="517" type="line"/>
+      <point x="122" y="707" type="line"/>
+      <point x="217" y="707" type="line"/>
+      <point x="195" y="600" type="line"/>
+      <point x="82" y="517" type="line"/>
     </contour>
   </outline>
 </glyph>

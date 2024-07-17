@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kjecyr" format="2">
   <advance width="429"/>
   <unicode hex="045C"/>
   <outline>
     <component base="kacyr"/>
-    <component base="acutecomb" xOffset="214.0"/>
+    <component base="acutecomb" xOffset="214"/>
   </outline>
 </glyph>

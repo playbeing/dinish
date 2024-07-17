@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Checyr" format="2">
   <advance width="472"/>
   <unicode hex="0427"/>
   <outline>
+    <component base="I" xOffset="255"/>
     <contour>
-      <point x="135.00092318685853" y="707" type="line"/>
-      <point x="261.00092318685853" y="707" type="line"/>
-      <point x="198.83532763234848" y="408" type="line" smooth="yes"/>
-      <point x="187.4001846373717" y="353"/>
-      <point x="203.57865729447445" y="325"/>
-      <point x="248.57865729447445" y="325" type="curve" smooth="yes"/>
-      <point x="266.57865729447445" y="325"/>
-      <point x="298.7865689852922" y="326"/>
-      <point x="316.65777420265204" y="335" type="curve"/>
-      <point x="380.65777420265204" y="335" type="line"/>
-      <point x="363.19319217396026" y="251" type="line"/>
-      <point x="316.57957652188077" y="224"/>
-      <point x="277.0846362320676" y="212"/>
-      <point x="225.08463623206762" y="212" type="curve" smooth="yes"/>
-      <point x="112.08463623206764" y="212"/>
-      <point x="48.71757149748838" y="292"/>
-      <point x="72.2115925598952" y="405" type="curve" smooth="yes"/>
+      <point x="135" y="707" type="line"/>
+      <point x="261" y="707" type="line"/>
+      <point x="199" y="408" type="line" smooth="yes"/>
+      <point x="187" y="353"/>
+      <point x="204" y="325"/>
+      <point x="249" y="325" type="curve" smooth="yes"/>
+      <point x="267" y="325"/>
+      <point x="299" y="326"/>
+      <point x="317" y="335" type="curve"/>
+      <point x="381" y="335" type="line"/>
+      <point x="363" y="251" type="line"/>
+      <point x="317" y="224"/>
+      <point x="277" y="212"/>
+      <point x="225" y="212" type="curve" smooth="yes"/>
+      <point x="112" y="212"/>
+      <point x="49" y="292"/>
+      <point x="72" y="405" type="curve" smooth="yes"/>
     </contour>
-    <component base="I" xOffset="255.0"/>
   </outline>
 </glyph>

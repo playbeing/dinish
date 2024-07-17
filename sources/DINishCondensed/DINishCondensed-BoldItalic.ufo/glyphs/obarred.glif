@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obarred" format="2">
   <advance width="420"/>
   <unicode hex="0275"/>
   <outline>
     <component base="o"/>
-    <component base="hyphen" xOffset="13.367064734579252" yOffset="-80.0"/>
+    <component base="hyphen" xOffset="13" yOffset="-80"/>
   </outline>
 </glyph>

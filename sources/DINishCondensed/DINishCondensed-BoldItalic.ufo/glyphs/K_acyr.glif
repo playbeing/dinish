@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kacyr" format="2">
   <advance width="471"/>
   <unicode hex="041A"/>
   <outline>
     <contour>
-      <point x="135.00092318685853" y="707" type="line"/>
-      <point x="260.00092318685853" y="707" type="line"/>
-      <point x="199.49862115889053" y="416" type="line"/>
-      <point x="226.49862115889053" y="416" type="line"/>
-      <point x="421.00092318685853" y="707" type="line"/>
-      <point x="547.0009231868585" y="707" type="line"/>
-      <point x="333.0929171976288" y="390" type="line"/>
-      <point x="412.00735777870267" y="0" type="line"/>
-      <point x="278.00735777870267" y="0" type="line"/>
-      <point x="218.00460009648373" y="303" type="line"/>
-      <point x="176.00460009648373" y="303" type="line"/>
-      <point x="113.00735777870266" y="0" type="line"/>
-      <point x="-11.992642221297345" y="0" type="line"/>
+      <point x="135" y="707" type="line"/>
+      <point x="260" y="707" type="line"/>
+      <point x="199" y="416" type="line"/>
+      <point x="226" y="416" type="line"/>
+      <point x="421" y="707" type="line"/>
+      <point x="547" y="707" type="line"/>
+      <point x="333" y="390" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="218" y="303" type="line"/>
+      <point x="176" y="303" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="-12" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

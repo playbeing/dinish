@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ushortcyr" format="2">
   <advance width="418"/>
   <unicode hex="045E"/>
   <outline>
-    <component base="brevecmb" xOffset="215.49494028981312" yOffset="12.0"/>
+    <component base="brevecmb" xOffset="215" yOffset="12"/>
     <component base="y"/>
   </outline>
 </glyph>
