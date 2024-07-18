@@ -374,6 +374,8 @@
   <string>U_ring.glif</string>
   <key>Ushortcyr</key>
   <string>U_shortcyr.glif</string>
+  <key>Ustraightcyrillic</key>
+  <string>U_straightcyrillic.glif</string>
   <key>Utilde</key>
   <string>U_tilde.glif</string>
   <key>V</key>
@@ -1186,6 +1188,8 @@
   <string>uring.glif</string>
   <key>ushortcyr</key>
   <string>ushortcyr.glif</string>
+  <key>ustraightcyrillic</key>
+  <string>ustraightcyrillic.glif</string>
   <key>utilde</key>
   <string>utilde.glif</string>
   <key>v</key>
@@ -1266,9 +1270,5 @@
   <string>zhecyr.glif</string>
   <key>zhecyr.loclBGR</key>
   <string>zhecyr.loclB_G_R_.glif</string>
-  <key>Ustraightcyrillic</key>
-  <string>U_straightcyrillic.glif</string>
-  <key>ustraightcyrillic</key>
-  <string>ustraightcyrillic.glif</string>
 </dict>
 </plist>

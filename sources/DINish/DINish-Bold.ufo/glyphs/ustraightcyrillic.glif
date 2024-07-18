@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ustraightcyrillic" format="2">
-  <advance width="553"/>
+  <advance width="474"/>
   <unicode hex="04AF"/>
   <outline>
-    <component base="Y" xOffset="0.01" yOffset="0.01"/>
+    <contour>
+      <point x="304" y="117" type="line"/>
+      <point x="304" y="-158" type="line"/>
+      <point x="170" y="-158" type="line"/>
+      <point x="170" y="116" type="line"/>
+      <point x="4" y="533" type="line"/>
+      <point x="151" y="533" type="line"/>
+      <point x="236" y="286" type="line"/>
+      <point x="322" y="533" type="line"/>
+      <point x="470" y="533" type="line"/>
+    </contour>
   </outline>
 </glyph>
