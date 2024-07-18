@@ -894,7 +894,7 @@ feature dnom {
         \ylongcyr.loclBGR \yucyr \Yucyr \yucyr.loclBGR \yukrcyr \Yukrcyr \zecyr
         \Zecyr \zecyr.loclBGR \zhecyr \Zhecyr \zhecyr.loclBGR
         \zerosuperior \onesuperior \twosuperior \threesuperior \foursuperior
-        \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior \Obarredcyrillic \obarredcyrillic ];
+        \fivesuperior \sixsuperior \sevensuperior \eightsuperior \ninesuperior \Obarredcyrillic \obarredcyrillic \Ustraightcyrillic \ustraightcyrillic ];
  @GDEF_Ligature = [ \onequarter \onehalf \threequarters \fi \fl \t_t ];
  @GDEF_Mark = [ \gravecomb \acutecomb \circumflexcmb \tildecomb \brevecmb
         \dieresiscmb \ringcmb \cedillacmb \dotaccentcmb \ogonekcmb

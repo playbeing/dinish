@@ -1266,5 +1266,9 @@
   <string>zhecyr.glif</string>
   <key>zhecyr.loclBGR</key>
   <string>zhecyr.loclB_G_R_.glif</string>
+  <key>Ustraightcyrillic</key>
+  <string>U_straightcyrillic.glif</string>
+  <key>ustraightcyrillic</key>
+  <string>ustraightcyrillic.glif</string>
 </dict>
 </plist>
