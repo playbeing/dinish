@@ -90,6 +90,10 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-07-19 - v3.008:
+ * Add BoldItalic variants. Closes #6.
+ * Add ustraightcyrillic and Ustraightcyrillic for Mongolian.
+ * Clean up postscript and hhea tables for consistency between family members.
 2024-07-04 - v3.007:
  * Rename the internal font name back to DINish, for consistency with the marketing name. Closes #8.
 2024-06-09 - v3.006:
