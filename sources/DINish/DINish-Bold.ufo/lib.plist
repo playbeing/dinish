@@ -577,6 +577,8 @@
     <string>dzhecyr</string>
     <string>Gheupturncyrillic</string>
     <string>gheupturncyrillic</string>
+    <string>Ustraightcyrillic</string>
+    <string>ustraightcyrillic</string>
     <string>Obarredcyrillic</string>
     <string>obarredcyrillic</string>
     <string>Ddotbelow</string>
@@ -655,8 +657,6 @@
     <string>fi</string>
     <string>fl</string>
     <string>.notdef</string>
-    <string>Ustraightcyrillic</string>
-    <string>ustraightcyrillic</string>
   </array>
   <key>public.openTypeMeta</key>
   <dict>
