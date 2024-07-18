@@ -19,7 +19,7 @@
   <key>note</key>
   <string/>
   <key>openTypeHeadCreated</key>
-  <string>2024/07/11 21:29:20</string>
+  <string>2024/07/19 01:12:19</string>
   <key>openTypeHheaAscender</key>
   <integer>1050</integer>
   <key>openTypeHheaDescender</key>
@@ -41,7 +41,7 @@
   <key>openTypeNameUniqueID</key>
   <string>DINish Bold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.007; git-2fa41779+18-21-dev</string>
+  <string>Version 3.008; git-95204e4c-release</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>2</integer>
@@ -142,7 +142,7 @@
   <key>versionMajor</key>
   <integer>3</integer>
   <key>versionMinor</key>
-  <integer>7</integer>
+  <integer>8</integer>
   <key>xHeight</key>
   <integer>532</integer>
 </dict>
