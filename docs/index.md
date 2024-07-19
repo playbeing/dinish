@@ -37,7 +37,7 @@ DINish is available in three widths: standard, Condensed and Expanded. The
 standard width roughly matches DIN Mittelschrift, the Condensed width
 roughly matches the DIN Engschrift, and Expanded is like DIN
 Breitschrift (rarely used in Germany, actually). There are Regular,
-Bold and Italic variants.
+Bold, Italic and BoldItalic variants.
 
 ## Historic roots
 
