@@ -5,16 +5,16 @@
   <anchor x="167" y="519" name="top"/>
   <outline>
     <contour>
-      <point x="132" y="519" type="line"/>
-      <point x="202" y="519" type="line"/>
-      <point x="91" y="0" type="line"/>
       <point x="23" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="202" y="519" type="line"/>
+      <point x="132" y="519" type="line"/>
     </contour>
     <contour>
-      <point x="168" y="696" type="line"/>
-      <point x="242" y="696" type="line"/>
-      <point x="222" y="604" type="line"/>
       <point x="148" y="604" type="line"/>
+      <point x="222" y="604" type="line"/>
+      <point x="242" y="696" type="line"/>
+      <point x="168" y="696" type="line"/>
     </contour>
   </outline>
 </glyph>

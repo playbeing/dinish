@@ -6,7 +6,6 @@
   <anchor x="227" y="770" name="top"/>
   <outline>
     <contour>
-      <point x="43" y="707" type="line"/>
       <point x="43" y="0" type="line"/>
       <point x="169" y="0" type="line"/>
       <point x="316" y="377" type="line"/>
@@ -16,6 +15,7 @@
       <point x="316" y="707" type="line"/>
       <point x="169" y="313" type="line"/>
       <point x="169" y="707" type="line"/>
+      <point x="43" y="707" type="line"/>
     </contour>
   </outline>
   <lib>

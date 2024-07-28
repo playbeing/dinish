@@ -8,10 +8,10 @@
     <component base="dotlessi" xOffset="-5"/>
     <component base="o" xOffset="210"/>
     <contour>
-      <point x="121" y="339" type="line"/>
-      <point x="332" y="339" type="line"/>
-      <point x="332" y="227" type="line"/>
       <point x="121" y="227" type="line"/>
+      <point x="332" y="227" type="line"/>
+      <point x="332" y="339" type="line"/>
+      <point x="121" y="339" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -6,9 +6,9 @@
     <component base="gecyr"/>
     <contour>
       <point x="258" y="532" type="line"/>
-      <point x="258" y="662" type="line"/>
-      <point x="348" y="662" type="line"/>
       <point x="348" y="532" type="line"/>
+      <point x="348" y="662" type="line"/>
+      <point x="258" y="662" type="line"/>
     </contour>
   </outline>
 </glyph>

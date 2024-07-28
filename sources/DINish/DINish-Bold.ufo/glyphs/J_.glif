@@ -5,24 +5,24 @@
   <anchor x="204" y="707" name="top"/>
   <outline>
     <contour>
-      <point x="25" y="118" type="line"/>
-      <point x="80" y="118" type="line" smooth="yes"/>
-      <point x="101" y="118"/>
-      <point x="115" y="123"/>
-      <point x="124" y="133" type="curve" smooth="yes"/>
-      <point x="133" y="143"/>
-      <point x="137" y="159"/>
-      <point x="137" y="184" type="curve" smooth="yes"/>
-      <point x="137" y="707" type="line"/>
-      <point x="272" y="707" type="line"/>
-      <point x="272" y="162" type="line" smooth="yes"/>
-      <point x="272" y="110"/>
-      <point x="258" y="70"/>
-      <point x="230" y="42" type="curve" smooth="yes"/>
-      <point x="202" y="14"/>
-      <point x="162" y="0"/>
-      <point x="111" y="0" type="curve" smooth="yes"/>
       <point x="25" y="0" type="line"/>
+      <point x="111" y="0" type="line" smooth="yes"/>
+      <point x="162" y="0"/>
+      <point x="202" y="14"/>
+      <point x="230" y="42" type="curve" smooth="yes"/>
+      <point x="258" y="70"/>
+      <point x="272" y="110"/>
+      <point x="272" y="162" type="curve" smooth="yes"/>
+      <point x="272" y="707" type="line"/>
+      <point x="137" y="707" type="line"/>
+      <point x="137" y="184" type="line" smooth="yes"/>
+      <point x="137" y="159"/>
+      <point x="133" y="143"/>
+      <point x="124" y="133" type="curve" smooth="yes"/>
+      <point x="115" y="123"/>
+      <point x="101" y="118"/>
+      <point x="80" y="118" type="curve" smooth="yes"/>
+      <point x="25" y="118" type="line"/>
     </contour>
   </outline>
   <lib>

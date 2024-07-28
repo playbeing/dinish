@@ -4,13 +4,13 @@
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="81" y="159" type="line"/>
-      <point x="393" y="283" type="line"/>
-      <point x="81" y="407" type="line"/>
-      <point x="81" y="479" type="line"/>
-      <point x="488" y="313" type="line"/>
-      <point x="488" y="253" type="line"/>
       <point x="81" y="86" type="line"/>
+      <point x="488" y="253" type="line"/>
+      <point x="488" y="313" type="line"/>
+      <point x="81" y="479" type="line"/>
+      <point x="81" y="407" type="line"/>
+      <point x="393" y="283" type="line"/>
+      <point x="81" y="159" type="line"/>
     </contour>
   </outline>
 </glyph>

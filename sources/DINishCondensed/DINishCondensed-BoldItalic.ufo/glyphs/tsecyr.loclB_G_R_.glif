@@ -4,10 +4,10 @@
   <outline>
     <component base="icyr.loclBGR" xOffset="-1"/>
     <contour>
-      <point x="295" y="119" type="line"/>
-      <point x="414" y="119" type="line"/>
-      <point x="354" y="-170" type="line"/>
       <point x="235" y="-170" type="line"/>
+      <point x="354" y="-170" type="line"/>
+      <point x="414" y="119" type="line"/>
+      <point x="295" y="119" type="line"/>
     </contour>
   </outline>
 </glyph>

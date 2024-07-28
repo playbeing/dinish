@@ -4,10 +4,10 @@
   <outline>
     <component base="shacyr.loclBGR"/>
     <contour>
-      <point x="789" y="113" type="line"/>
-      <point x="915" y="113" type="line"/>
-      <point x="856" y="-170" type="line"/>
       <point x="730" y="-170" type="line"/>
+      <point x="856" y="-170" type="line"/>
+      <point x="915" y="113" type="line"/>
+      <point x="789" y="113" type="line"/>
     </contour>
   </outline>
 </glyph>

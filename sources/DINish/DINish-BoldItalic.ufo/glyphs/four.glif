@@ -4,21 +4,21 @@
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="467" y="113" type="line"/>
-      <point x="409" y="113" type="line"/>
-      <point x="385" y="0" type="line"/>
       <point x="251" y="0" type="line"/>
-      <point x="275" y="113" type="line"/>
-      <point x="5" y="113" type="line"/>
-      <point x="29" y="230" type="line"/>
-      <point x="330" y="707" type="line"/>
-      <point x="464" y="707" type="line"/>
-      <point x="163" y="230" type="line"/>
-      <point x="299" y="230" type="line"/>
-      <point x="333" y="396" type="line"/>
-      <point x="467" y="396" type="line"/>
-      <point x="433" y="230" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="409" y="113" type="line"/>
+      <point x="467" y="113" type="line"/>
       <point x="491" y="230" type="line"/>
+      <point x="433" y="230" type="line"/>
+      <point x="467" y="396" type="line"/>
+      <point x="333" y="396" type="line"/>
+      <point x="299" y="230" type="line"/>
+      <point x="163" y="230" type="line"/>
+      <point x="464" y="707" type="line"/>
+      <point x="330" y="707" type="line"/>
+      <point x="29" y="230" type="line"/>
+      <point x="5" y="113" type="line"/>
+      <point x="275" y="113" type="line"/>
     </contour>
   </outline>
 </glyph>

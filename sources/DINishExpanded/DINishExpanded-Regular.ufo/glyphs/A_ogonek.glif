@@ -5,20 +5,20 @@
   <outline>
     <component base="A"/>
     <contour>
-      <point x="675" y="0" type="line"/>
-      <point x="525" y="-80" type="line"/>
-      <point x="559" y="-115"/>
+      <point x="675" y="-217" type="curve"/>
+      <point x="675" y="-132" type="line"/>
       <point x="619" y="-130"/>
-      <point x="675" y="-132" type="curve"/>
-      <point x="675" y="-217" type="line"/>
-      <point x="591" y="-216"/>
-      <point x="523" y="-192"/>
-      <point x="472" y="-147" type="curve" smooth="yes"/>
-      <point x="446" y="-123"/>
-      <point x="435" y="-115"/>
-      <point x="415" y="-76" type="curve"/>
-      <point x="578" y="1" type="line"/>
+      <point x="559" y="-115"/>
+      <point x="525" y="-80" type="curve"/>
+      <point x="675" y="0" type="line"/>
       <point x="675" y="1" type="line"/>
+      <point x="578" y="1" type="line"/>
+      <point x="415" y="-76" type="line"/>
+      <point x="435" y="-115"/>
+      <point x="446" y="-123"/>
+      <point x="472" y="-147" type="curve" smooth="yes"/>
+      <point x="523" y="-192"/>
+      <point x="591" y="-216"/>
     </contour>
   </outline>
 </glyph>

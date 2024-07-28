@@ -8,28 +8,28 @@
   <anchor x="782" y="519" name="top"/>
   <outline>
     <contour>
-      <point x="354" y="707" type="line"/>
-      <point x="423" y="707" type="line"/>
-      <point x="423" y="305" type="line"/>
-      <point x="502" y="305" type="line"/>
-      <point x="650" y="519" type="line"/>
-      <point x="734" y="519" type="line"/>
-      <point x="562" y="282" type="line"/>
-      <point x="763" y="0" type="line"/>
-      <point x="678" y="0" type="line"/>
-      <point x="508" y="240" type="line"/>
-      <point x="423" y="240" type="line"/>
-      <point x="423" y="0" type="line"/>
-      <point x="354" y="0" type="line"/>
-      <point x="354" y="240" type="line"/>
-      <point x="269" y="240" type="line"/>
-      <point x="99" y="0" type="line"/>
       <point x="14" y="0" type="line"/>
-      <point x="215" y="282" type="line"/>
-      <point x="43" y="519" type="line"/>
-      <point x="127" y="519" type="line"/>
-      <point x="275" y="305" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="269" y="240" type="line"/>
+      <point x="354" y="240" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="423" y="240" type="line"/>
+      <point x="508" y="240" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="562" y="282" type="line"/>
+      <point x="734" y="519" type="line"/>
+      <point x="650" y="519" type="line"/>
+      <point x="502" y="305" type="line"/>
+      <point x="423" y="305" type="line"/>
+      <point x="423" y="707" type="line"/>
+      <point x="354" y="707" type="line"/>
       <point x="354" y="305" type="line"/>
+      <point x="275" y="305" type="line"/>
+      <point x="127" y="519" type="line"/>
+      <point x="43" y="519" type="line"/>
+      <point x="215" y="282" type="line"/>
     </contour>
   </outline>
   <lib>

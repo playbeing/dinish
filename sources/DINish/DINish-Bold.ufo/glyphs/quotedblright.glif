@@ -4,16 +4,16 @@
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="39" y="707" type="line"/>
-      <point x="159" y="707" type="line"/>
-      <point x="159" y="502" type="line"/>
       <point x="39" y="400" type="line"/>
+      <point x="159" y="502" type="line"/>
+      <point x="159" y="707" type="line"/>
+      <point x="39" y="707" type="line"/>
     </contour>
     <contour>
-      <point x="233" y="707" type="line"/>
-      <point x="353" y="707" type="line"/>
-      <point x="353" y="502" type="line"/>
       <point x="233" y="400" type="line"/>
+      <point x="353" y="502" type="line"/>
+      <point x="353" y="707" type="line"/>
+      <point x="233" y="707" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -10,22 +10,22 @@
   <outline>
     <component base="kacyr" xOffset="277"/>
     <contour>
+      <point x="229" y="261" type="line"/>
       <point x="304" y="261" type="line"/>
       <point x="180" y="519" type="line"/>
       <point x="96" y="519" type="line"/>
-      <point x="229" y="261" type="line"/>
     </contour>
     <contour>
+      <point x="-41" y="0" type="line"/>
       <point x="44" y="0" type="line"/>
       <point x="272" y="248" type="line"/>
       <point x="241" y="306" type="line"/>
-      <point x="-41" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="234" y="240" type="line"/>
       <point x="369" y="240" type="line"/>
       <point x="382" y="305" type="line"/>
       <point x="247" y="305" type="line"/>
-      <point x="234" y="240" type="line"/>
     </contour>
   </outline>
   <lib>

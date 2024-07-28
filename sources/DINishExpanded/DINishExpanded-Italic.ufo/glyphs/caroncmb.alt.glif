@@ -2,10 +2,10 @@
 <glyph name="caroncmb.alt" format="2">
   <outline>
     <contour>
-      <point x="51" y="707" type="line"/>
-      <point x="134" y="707" type="line"/>
-      <point x="114" y="613" type="line"/>
       <point x="16" y="539" type="line"/>
+      <point x="114" y="613" type="line"/>
+      <point x="134" y="707" type="line"/>
+      <point x="51" y="707" type="line"/>
     </contour>
   </outline>
 </glyph>

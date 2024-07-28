@@ -5,24 +5,24 @@
   <outline>
     <component base="Elcyr"/>
     <contour>
-      <point x="456" y="408" type="line"/>
-      <point x="585" y="408" type="line" smooth="yes"/>
-      <point x="706" y="408"/>
-      <point x="752" y="341"/>
-      <point x="724" y="206" type="curve" smooth="yes"/>
-      <point x="695" y="67"/>
-      <point x="622" y="0"/>
-      <point x="500" y="0" type="curve" smooth="yes"/>
       <point x="371" y="0" type="line"/>
-      <point x="385" y="67" type="line"/>
-      <point x="510" y="67" type="line" smooth="yes"/>
-      <point x="587" y="67"/>
-      <point x="630" y="109"/>
-      <point x="650" y="206" type="curve" smooth="yes"/>
-      <point x="669" y="299"/>
-      <point x="643" y="341"/>
-      <point x="567" y="341" type="curve" smooth="yes"/>
+      <point x="500" y="0" type="line" smooth="yes"/>
+      <point x="622" y="0"/>
+      <point x="695" y="67"/>
+      <point x="724" y="206" type="curve" smooth="yes"/>
+      <point x="752" y="341"/>
+      <point x="706" y="408"/>
+      <point x="585" y="408" type="curve" smooth="yes"/>
+      <point x="456" y="408" type="line"/>
       <point x="442" y="341" type="line"/>
+      <point x="567" y="341" type="line" smooth="yes"/>
+      <point x="643" y="341"/>
+      <point x="669" y="299"/>
+      <point x="650" y="206" type="curve" smooth="yes"/>
+      <point x="630" y="109"/>
+      <point x="587" y="67"/>
+      <point x="510" y="67" type="curve" smooth="yes"/>
+      <point x="385" y="67" type="line"/>
     </contour>
   </outline>
   <lib>

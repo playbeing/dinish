@@ -4,41 +4,41 @@
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="187" y="581" type="curve" smooth="yes"/>
-      <point x="187" y="519" type="line"/>
-      <point x="296" y="519" type="line"/>
-      <point x="296" y="464" type="line"/>
-      <point x="187" y="464" type="line"/>
-      <point x="187" y="0" type="line"/>
       <point x="117" y="0" type="line"/>
-      <point x="117" y="464" type="line"/>
-      <point x="51" y="464" type="line"/>
-      <point x="51" y="519" type="line"/>
-      <point x="117" y="519" type="line"/>
-      <point x="117" y="578" type="line" smooth="yes"/>
-      <point x="117" y="618"/>
-      <point x="128" y="649"/>
-      <point x="150" y="672" type="curve" smooth="yes"/>
-      <point x="172" y="695"/>
-      <point x="203" y="707"/>
-      <point x="242" y="707" type="curve" smooth="yes"/>
-      <point x="296" y="707" type="line"/>
-      <point x="296" y="651" type="line"/>
-      <point x="253" y="651" type="line" smooth="yes"/>
-      <point x="209" y="651"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="464" type="line"/>
+      <point x="296" y="464" type="line"/>
+      <point x="296" y="519" type="line"/>
+      <point x="187" y="519" type="line"/>
+      <point x="187" y="581" type="line" smooth="yes"/>
       <point x="187" y="628"/>
+      <point x="209" y="651"/>
+      <point x="253" y="651" type="curve" smooth="yes"/>
+      <point x="296" y="651" type="line"/>
+      <point x="296" y="707" type="line"/>
+      <point x="242" y="707" type="line" smooth="yes"/>
+      <point x="203" y="707"/>
+      <point x="172" y="695"/>
+      <point x="150" y="672" type="curve" smooth="yes"/>
+      <point x="128" y="649"/>
+      <point x="117" y="618"/>
+      <point x="117" y="578" type="curve" smooth="yes"/>
+      <point x="117" y="519" type="line"/>
+      <point x="51" y="519" type="line"/>
+      <point x="51" y="464" type="line"/>
+      <point x="117" y="464" type="line"/>
     </contour>
     <contour>
-      <point x="420" y="519" type="line"/>
-      <point x="489" y="519" type="line"/>
-      <point x="489" y="0" type="line"/>
       <point x="420" y="0" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="519" type="line"/>
+      <point x="420" y="519" type="line"/>
     </contour>
     <contour>
-      <point x="418" y="696" type="line"/>
-      <point x="492" y="696" type="line"/>
-      <point x="492" y="604" type="line"/>
       <point x="418" y="604" type="line"/>
+      <point x="492" y="604" type="line"/>
+      <point x="492" y="696" type="line"/>
+      <point x="418" y="696" type="line"/>
     </contour>
   </outline>
   <lib>

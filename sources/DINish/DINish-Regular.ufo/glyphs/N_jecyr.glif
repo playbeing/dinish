@@ -6,23 +6,23 @@
     <component base="H"/>
     <contour>
       <point x="517" y="0" type="line"/>
-      <point x="517" y="68" type="line"/>
-      <point x="710" y="68" type="line" smooth="yes"/>
-      <point x="811" y="68"/>
-      <point x="863" y="107"/>
-      <point x="863" y="201" type="curve" smooth="yes"/>
-      <point x="863" y="270"/>
-      <point x="810" y="328"/>
-      <point x="710" y="328" type="curve" smooth="yes"/>
-      <point x="517" y="328" type="line"/>
-      <point x="517" y="395" type="line"/>
-      <point x="716" y="395" type="line" smooth="yes"/>
-      <point x="853" y="395"/>
-      <point x="938" y="307"/>
-      <point x="938" y="201" type="curve" smooth="yes"/>
-      <point x="938" y="68"/>
+      <point x="716" y="0" type="line" smooth="yes"/>
       <point x="856" y="0"/>
-      <point x="716" y="0" type="curve" smooth="yes"/>
+      <point x="938" y="68"/>
+      <point x="938" y="201" type="curve" smooth="yes"/>
+      <point x="938" y="307"/>
+      <point x="853" y="395"/>
+      <point x="716" y="395" type="curve" smooth="yes"/>
+      <point x="517" y="395" type="line"/>
+      <point x="517" y="328" type="line"/>
+      <point x="710" y="328" type="line" smooth="yes"/>
+      <point x="810" y="328"/>
+      <point x="863" y="270"/>
+      <point x="863" y="201" type="curve" smooth="yes"/>
+      <point x="863" y="107"/>
+      <point x="811" y="68"/>
+      <point x="710" y="68" type="curve" smooth="yes"/>
+      <point x="517" y="68" type="line"/>
     </contour>
   </outline>
   <lib>

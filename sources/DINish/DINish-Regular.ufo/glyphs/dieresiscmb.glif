@@ -4,16 +4,16 @@
   <anchor x="0" y="519" name="_top"/>
   <outline>
     <contour>
-      <point x="-127" y="680" type="line"/>
-      <point x="-49" y="680" type="line"/>
-      <point x="-49" y="592" type="line"/>
       <point x="-127" y="592" type="line"/>
+      <point x="-49" y="592" type="line"/>
+      <point x="-49" y="680" type="line"/>
+      <point x="-127" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="48" y="680" type="line"/>
-      <point x="126" y="680" type="line"/>
-      <point x="126" y="592" type="line"/>
       <point x="48" y="592" type="line"/>
+      <point x="126" y="592" type="line"/>
+      <point x="126" y="680" type="line"/>
+      <point x="48" y="680" type="line"/>
     </contour>
   </outline>
   <lib>

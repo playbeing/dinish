@@ -6,9 +6,9 @@
     <component base="L"/>
     <contour>
       <point x="23" y="279" type="line"/>
-      <point x="48" y="392" type="line"/>
-      <point x="452" y="559" type="line"/>
       <point x="429" y="446" type="line"/>
+      <point x="452" y="559" type="line"/>
+      <point x="48" y="392" type="line"/>
     </contour>
   </outline>
 </glyph>

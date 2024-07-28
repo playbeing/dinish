@@ -9,14 +9,14 @@
   <outline>
     <component base="o" xOffset="210"/>
     <contour>
-      <point x="55" y="707" type="line"/>
-      <point x="181" y="707" type="line"/>
-      <point x="181" y="340" type="line"/>
-      <point x="339" y="340" type="line"/>
-      <point x="339" y="229" type="line"/>
-      <point x="181" y="229" type="line"/>
-      <point x="181" y="0" type="line"/>
       <point x="55" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="229" type="line"/>
+      <point x="339" y="229" type="line"/>
+      <point x="339" y="340" type="line"/>
+      <point x="181" y="340" type="line"/>
+      <point x="181" y="707" type="line"/>
+      <point x="55" y="707" type="line"/>
     </contour>
   </outline>
   <lib>

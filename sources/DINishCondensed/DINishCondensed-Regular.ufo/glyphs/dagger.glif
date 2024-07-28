@@ -4,18 +4,18 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="423" y="388" type="line"/>
-      <point x="280" y="388" type="line"/>
-      <point x="280" y="-156" type="line"/>
       <point x="205" y="-156" type="line"/>
-      <point x="205" y="388" type="line"/>
-      <point x="60" y="388" type="line"/>
-      <point x="60" y="456" type="line"/>
-      <point x="205" y="456" type="line"/>
-      <point x="205" y="707" type="line"/>
-      <point x="280" y="707" type="line"/>
-      <point x="280" y="456" type="line"/>
+      <point x="280" y="-156" type="line"/>
+      <point x="280" y="388" type="line"/>
+      <point x="423" y="388" type="line"/>
       <point x="423" y="456" type="line"/>
+      <point x="280" y="456" type="line"/>
+      <point x="280" y="707" type="line"/>
+      <point x="205" y="707" type="line"/>
+      <point x="205" y="456" type="line"/>
+      <point x="60" y="456" type="line"/>
+      <point x="60" y="388" type="line"/>
+      <point x="205" y="388" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -15,19 +15,19 @@
   <anchor x="235" y="586" name="top"/>
   <outline>
     <contour>
-      <point x="77" y="519" type="line"/>
-      <point x="146" y="519" type="line"/>
-      <point x="146" y="305" type="line"/>
-      <point x="225" y="305" type="line"/>
-      <point x="373" y="519" type="line"/>
-      <point x="457" y="519" type="line"/>
-      <point x="285" y="282" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="401" y="0" type="line"/>
-      <point x="231" y="240" type="line"/>
-      <point x="146" y="240" type="line"/>
-      <point x="146" y="0" type="line"/>
       <point x="77" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="146" y="240" type="line"/>
+      <point x="231" y="240" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="285" y="282" type="line"/>
+      <point x="457" y="519" type="line"/>
+      <point x="373" y="519" type="line"/>
+      <point x="225" y="305" type="line"/>
+      <point x="146" y="305" type="line"/>
+      <point x="146" y="519" type="line"/>
+      <point x="77" y="519" type="line"/>
     </contour>
   </outline>
   <lib>

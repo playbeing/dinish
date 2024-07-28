@@ -4,14 +4,14 @@
   <outline>
     <component base="Elcyr.loclBGR" xOffset="50"/>
     <contour>
-      <point x="10" y="114" type="line"/>
-      <point x="596" y="114" type="line"/>
-      <point x="596" y="-170" type="line"/>
-      <point x="470" y="-170" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="136" y="0" type="line"/>
-      <point x="136" y="-170" type="line"/>
       <point x="10" y="-170" type="line"/>
+      <point x="136" y="-170" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="-170" type="line"/>
+      <point x="596" y="-170" type="line"/>
+      <point x="596" y="114" type="line"/>
+      <point x="10" y="114" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -7,9 +7,9 @@
     <component base="o" xOffset="210"/>
     <contour>
       <point x="124" y="229" type="line"/>
-      <point x="147" y="340" type="line"/>
-      <point x="355" y="340" type="line"/>
       <point x="332" y="229" type="line"/>
+      <point x="355" y="340" type="line"/>
+      <point x="147" y="340" type="line"/>
     </contour>
   </outline>
 </glyph>

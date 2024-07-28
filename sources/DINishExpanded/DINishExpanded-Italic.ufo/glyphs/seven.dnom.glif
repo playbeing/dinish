@@ -4,12 +4,12 @@
   <outline>
     <contour>
       <point x="7" y="-11" type="line"/>
-      <point x="260" y="359" type="line"/>
-      <point x="59" y="359" type="line"/>
-      <point x="75" y="431" type="line"/>
-      <point x="369" y="431" type="line"/>
-      <point x="355" y="366" type="line"/>
       <point x="98" y="-11" type="line"/>
+      <point x="355" y="366" type="line"/>
+      <point x="369" y="431" type="line"/>
+      <point x="75" y="431" type="line"/>
+      <point x="59" y="359" type="line"/>
+      <point x="260" y="359" type="line"/>
     </contour>
   </outline>
 </glyph>

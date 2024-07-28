@@ -5,10 +5,10 @@
   <outline>
     <component base="d"/>
     <contour>
-      <point x="186" y="654" type="line"/>
-      <point x="429" y="654" type="line"/>
-      <point x="429" y="587" type="line"/>
       <point x="186" y="587" type="line"/>
+      <point x="429" y="587" type="line"/>
+      <point x="429" y="654" type="line"/>
+      <point x="186" y="654" type="line"/>
     </contour>
   </outline>
 </glyph>

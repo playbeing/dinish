@@ -5,10 +5,10 @@
   <outline>
     <component base="dieresiscmb" xOffset="128" yOffset="187"/>
     <contour>
-      <point x="90" y="707" type="line"/>
-      <point x="165" y="707" type="line"/>
-      <point x="165" y="0" type="line"/>
       <point x="90" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="165" y="707" type="line"/>
+      <point x="90" y="707" type="line"/>
     </contour>
   </outline>
   <lib>

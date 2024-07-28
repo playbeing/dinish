@@ -6,10 +6,10 @@
     <component base="dotlessi" xOffset="-5"/>
     <component base="o" xOffset="210"/>
     <contour>
-      <point x="136" y="339" type="line"/>
-      <point x="347" y="339" type="line"/>
-      <point x="324" y="227" type="line"/>
       <point x="113" y="227" type="line"/>
+      <point x="324" y="227" type="line"/>
+      <point x="347" y="339" type="line"/>
+      <point x="136" y="339" type="line"/>
     </contour>
   </outline>
 </glyph>

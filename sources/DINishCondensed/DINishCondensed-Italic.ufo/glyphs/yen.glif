@@ -4,29 +4,29 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="138" y="151" type="line"/>
-      <point x="14" y="151" type="line"/>
-      <point x="27" y="211" type="line"/>
-      <point x="151" y="211" type="line"/>
-      <point x="165" y="280" type="line"/>
-      <point x="41" y="280" type="line"/>
-      <point x="54" y="341" type="line"/>
-      <point x="162" y="341" type="line"/>
-      <point x="100" y="707" type="line"/>
-      <point x="185" y="707" type="line"/>
-      <point x="226" y="384" type="line"/>
-      <point x="399" y="707" type="line"/>
-      <point x="482" y="707" type="line"/>
-      <point x="268" y="341" type="line"/>
-      <point x="376" y="341" type="line"/>
-      <point x="363" y="280" type="line"/>
-      <point x="240" y="280" type="line"/>
-      <point x="226" y="211" type="line"/>
-      <point x="349" y="211" type="line"/>
-      <point x="336" y="151" type="line"/>
-      <point x="213" y="151" type="line"/>
-      <point x="182" y="0" type="line"/>
       <point x="107" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="213" y="151" type="line"/>
+      <point x="336" y="151" type="line"/>
+      <point x="349" y="211" type="line"/>
+      <point x="226" y="211" type="line"/>
+      <point x="240" y="280" type="line"/>
+      <point x="363" y="280" type="line"/>
+      <point x="376" y="341" type="line"/>
+      <point x="268" y="341" type="line"/>
+      <point x="482" y="707" type="line"/>
+      <point x="399" y="707" type="line"/>
+      <point x="226" y="384" type="line"/>
+      <point x="185" y="707" type="line"/>
+      <point x="100" y="707" type="line"/>
+      <point x="162" y="341" type="line"/>
+      <point x="54" y="341" type="line"/>
+      <point x="41" y="280" type="line"/>
+      <point x="165" y="280" type="line"/>
+      <point x="151" y="211" type="line"/>
+      <point x="27" y="211" type="line"/>
+      <point x="14" y="151" type="line"/>
+      <point x="138" y="151" type="line"/>
     </contour>
   </outline>
 </glyph>

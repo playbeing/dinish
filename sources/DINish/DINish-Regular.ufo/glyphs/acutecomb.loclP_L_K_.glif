@@ -2,10 +2,10 @@
 <glyph name="acutecomb.loclPLK" format="2">
   <outline>
     <contour>
-      <point x="-12" y="714" type="line"/>
-      <point x="74" y="714" type="line"/>
-      <point x="25" y="586" type="line"/>
       <point x="-40" y="586" type="line"/>
+      <point x="25" y="586" type="line"/>
+      <point x="74" y="714" type="line"/>
+      <point x="-12" y="714" type="line"/>
     </contour>
   </outline>
 </glyph>
