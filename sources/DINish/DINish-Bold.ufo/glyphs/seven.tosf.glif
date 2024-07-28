@@ -2,6 +2,14 @@
 <glyph name="seven.tosf" format="2">
   <advance width="524"/>
   <outline>
-    <component base="seven" xOffset="35" yOffset="-160"/>
+    <contour>
+      <point x="122" y="-160" type="line"/>
+      <point x="257" y="-160" type="line"/>
+      <point x="472" y="416" type="line"/>
+      <point x="472" y="533" type="line"/>
+      <point x="66" y="533" type="line"/>
+      <point x="66" y="416" type="line"/>
+      <point x="341" y="416" type="line"/>
+    </contour>
   </outline>
 </glyph>
