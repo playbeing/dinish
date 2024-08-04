@@ -64,7 +64,7 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
 #        if os.path.exists("{0}/glyphs/{1}".format(dest, file)):
 #            continue
         if glyph_name in upright_list:
-            print("Not slanting {0}".format(glyph_name))
+            #print("Not slanting {0}".format(glyph_name))
             upright_list.remove(glyph_name)
             continue
         unicode = srcfont[glyph_name].unicode
@@ -126,6 +126,21 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
         ]
     newGlyphOrder = f.naked().unicodeData.sortGlyphNames(f.glyphOrder, sortDescriptors=sort_descriptor)
     f.glyphOrder = newGlyphOrder
+
+    #f.info.openTypeNameUniqueID = f.info.familyName + ' Italic'
+    f.info.italicAngle = -12
+    f.info.openTypeOS2SubscriptXOffset = -16
+    f.info.openTypeOS2SuperscriptXOffset = 76
+    weightname = f.info.postscriptWeightName
+    f.info.postscriptFontName = (f.info.familyName + '-' + weightname + 'Italic').replace('Regular', '')
+    if f.info.styleMapStyleName == 'regular':
+        f.info.styleMapStyleName = 'italic'
+    elif f.info.styleMapStyleName == 'bold':
+        f.info.styleMapStyleName = 'bold italic'
+    f.info.styleName = (weightname + ' Italic').replace('Regular ', '')
+    #f.info.openTypeNamePreferredSubfamilyName = f.info.familyName + ' Italic'
+    f.info.openTypeOS2Panose[7] = 10
+
     dstfont.save()
 
 
