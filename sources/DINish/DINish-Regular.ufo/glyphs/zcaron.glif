@@ -2,6 +2,7 @@
 <glyph name="zcaron" format="2">
   <advance width="466"/>
   <unicode hex="017E"/>
+  <anchor x="233" y="519" name="top"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcmb" format="2">
   <unicode hex="030B"/>
+  <anchor x="0" y="519" name="_top"/>
   <outline>
     <contour>
       <point x="-159" y="602" type="line"/>
