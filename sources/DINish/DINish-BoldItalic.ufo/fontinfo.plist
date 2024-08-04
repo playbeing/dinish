@@ -133,6 +133,10 @@
   <integer>51</integer>
   <key>postscriptWeightName</key>
   <string>Bold</string>
+  <key>styleMapFamilyName</key>
+  <string>DINish</string>
+  <key>styleMapStyleName</key>
+  <string>bold italic</string>
   <key>styleName</key>
   <string>Bold Italic</string>
   <key>trademark</key>
