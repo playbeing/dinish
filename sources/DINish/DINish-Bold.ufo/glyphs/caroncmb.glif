@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncmb" format="2">
   <unicode hex="030C"/>
+  <anchor x="0" y="519" name="_top"/>
   <outline>
     <contour>
       <point x="-47" y="584" type="line"/>
