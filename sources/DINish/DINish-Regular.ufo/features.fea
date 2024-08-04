@@ -39,6 +39,20 @@ lookup supsSuperscriptlookup1 {
   sub \nine by \ninesuperior;
 } supsSuperscriptlookup1;
 
+lookup SingleSubstitutionlookup6 {
+  lookupflag 0;
+  sub \A by \ordfeminine;
+  sub \O by \ordmasculine;
+  sub \a by \ordfeminine;
+  sub \o by \ordmasculine;
+} SingleSubstitutionlookup6;
+
+lookup ordnOrdinalslookup3 {
+  lookupflag 0;
+  sub [\zero \one \two \three \four \five \six \seven \eight \nine ][\A \a ]'lookup SingleSubstitutionlookup6;
+  sub [\zero \one \two \three \four \five \six \seven \eight \nine ][\O \o ]'lookup SingleSubstitutionlookup6;
+} ordnOrdinalslookup3;
+
 lookup dligDiscretionaryLigaturesinLatinlookup3 {
   lookupflag 0;
   sub \t \t  by \t_t;
@@ -61,6 +75,12 @@ feature sups {
   language dflt;
   lookup supsSuperscriptlookup1;
 } sups;
+
+feature ordn {
+  script DFLT;
+  language dflt;
+  lookup ordnOrdinalslookup3;
+} ordn;
 
 @figuresDenominator=[zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @figures=[zero one two three four five six seven eight nine];

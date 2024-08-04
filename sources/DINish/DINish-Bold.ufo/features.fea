@@ -11,23 +11,19 @@ languagesystem cyrl BGR;
 # GSUB
 
 
-lookup aaltAccessAllAlternateslookup0 {
+lookup rtlaRighttoLeftAlternateslookup0 {
   lookupflag 0;
-  sub \zero by \zerosuperior;
-  sub \one by \onesuperior;
-  sub \two by \twosuperior;
-  sub \three by \threesuperior;
-  sub \four by \foursuperior;
-  sub \five by \fivesuperior;
-  sub \six by \sixsuperior;
-  sub \seven by \sevensuperior;
-  sub \eight by \eightsuperior;
-  sub \nine by \ninesuperior;
-  sub \A by \ordfeminine;
-  sub \O by \ordmasculine;
-  sub \a by \ordfeminine;
-  sub \o by \ordmasculine;
-} aaltAccessAllAlternateslookup0;
+  sub \parenleft by \parenright;
+  sub \parenright by \parenleft;
+  sub \less by \greater;
+  sub \greater by \less;
+  sub \bracketleft by \bracketright;
+  sub \bracketright by \bracketleft;
+  sub \braceleft by \braceright;
+  sub \braceright by \braceleft;
+  sub \guilsinglleft by \guilsinglright;
+  sub \guilsinglright by \guilsinglleft;
+} rtlaRighttoLeftAlternateslookup0;
 
 lookup supsSuperscriptlookup1 {
   lookupflag 0;
@@ -68,9 +64,11 @@ lookup ligaStandardLigatureslookup5 {
   sub \f \l  by \fl;
 } ligaStandardLigatureslookup5;
 
-feature aalt {
-  lookup aaltAccessAllAlternateslookup0;
-} aalt;
+feature rtla {
+  script DFLT;
+  language dflt;
+  lookup rtlaRighttoLeftAlternateslookup0;
+} rtla;
 
 feature sups {
   script DFLT;
