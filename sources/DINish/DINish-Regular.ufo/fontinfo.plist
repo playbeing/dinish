@@ -142,6 +142,10 @@
   <integer>51</integer>
   <key>postscriptWeightName</key>
   <string>Regular</string>
+  <key>styleMapFamilyName</key>
+  <string>DINish</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
