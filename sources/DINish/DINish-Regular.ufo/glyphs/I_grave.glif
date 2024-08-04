@@ -4,8 +4,8 @@
   <unicode hex="00CC"/>
   <anchor x="127" y="707" name="top"/>
   <outline>
-    <component base="gravecomb" xOffset="128" yOffset="187"/>
     <component base="I"/>
+    <component base="gravecomb" xOffset="128" yOffset="187"/>
   </outline>
   <lib>
     <dict>

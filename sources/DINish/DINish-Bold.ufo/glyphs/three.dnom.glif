@@ -20,14 +20,10 @@
       <point x="163" y="438" type="curve" smooth="yes"/>
       <point x="78" y="438"/>
       <point x="20" y="394"/>
-      <point x="20" y="314" type="curve" smooth="yes"/>
-      <point x="20" y="307"/>
-      <point x="20" y="300"/>
-      <point x="20" y="293" type="curve"/>
+      <point x="20" y="314" type="curve"/>
+      <point x="20" y="293" type="line"/>
       <point x="124" y="293" type="line"/>
-      <point x="124" y="300"/>
-      <point x="124" y="307"/>
-      <point x="124" y="314" type="curve" smooth="yes"/>
+      <point x="124" y="314" type="line"/>
       <point x="124" y="342"/>
       <point x="145" y="347"/>
       <point x="159" y="347" type="curve" smooth="yes"/>
