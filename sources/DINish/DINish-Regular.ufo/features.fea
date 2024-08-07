@@ -11,7 +11,7 @@ languagesystem cyrl BGR;
 # GSUB
 
 
-lookup rtlaRighttoLeftAlternateslookup0 {
+lookup rtlaLookup {
   lookupflag 0;
   sub \parenleft by \parenright;
   sub \parenright by \parenleft;
@@ -23,9 +23,9 @@ lookup rtlaRighttoLeftAlternateslookup0 {
   sub \braceright by \braceleft;
   sub \guilsinglleft by \guilsinglright;
   sub \guilsinglright by \guilsinglleft;
-} rtlaRighttoLeftAlternateslookup0;
+} rtlaLookup;
 
-lookup supsSuperscriptlookup1 {
+lookup supsLookup {
   lookupflag 0;
   sub \zero by \zerosuperior;
   sub \one by \onesuperior;
@@ -37,7 +37,7 @@ lookup supsSuperscriptlookup1 {
   sub \seven by \sevensuperior;
   sub \eight by \eightsuperior;
   sub \nine by \ninesuperior;
-} supsSuperscriptlookup1;
+} supsLookup;
 
 lookup SingleSubstitutionlookup6 {
   lookupflag 0;
@@ -47,40 +47,52 @@ lookup SingleSubstitutionlookup6 {
   sub \o by \ordmasculine;
 } SingleSubstitutionlookup6;
 
-lookup ordnOrdinalslookup3 {
+lookup ordnLookup {
   lookupflag 0;
   sub [\zero \one \two \three \four \five \six \seven \eight \nine ][\A \a ]'lookup SingleSubstitutionlookup6;
   sub [\zero \one \two \three \four \five \six \seven \eight \nine ][\O \o ]'lookup SingleSubstitutionlookup6;
-} ordnOrdinalslookup3;
+} ordnLookup;
 
-lookup dligDiscretionaryLigaturesinLatinlookup3 {
+lookup dligLatinLookup {
   lookupflag 0;
   sub \t \t  by \t_t;
-} dligDiscretionaryLigaturesinLatinlookup3;
+} dligLatinLookup;
 
-lookup ligaStandardLigaturesinLatinlookup4 {
+lookup ligaLatinLookup {
   lookupflag 0;
   sub \f \i  by \fi;
   sub \f \l  by \fl;
-} ligaStandardLigaturesinLatinlookup4;
+} ligaLatinLookup;
 
 feature rtla {
   script DFLT;
   language dflt;
-  lookup rtlaRighttoLeftAlternateslookup0;
+  lookup rtlaLookup;
 } rtla;
 
 feature sups {
   script DFLT;
   language dflt;
-  lookup supsSuperscriptlookup1;
+  lookup supsLookup;
 } sups;
 
 feature ordn {
   script DFLT;
   language dflt;
-  lookup ordnOrdinalslookup3;
+  lookup ordnLookup;
 } ordn;
+
+feature dlig {
+  script latn;
+  language dflt;
+  lookup dligLatinLookup;
+} dlig;
+
+feature liga {
+  script latn;
+  language dflt;
+  lookup ligaLatinLookup;
+} liga;
 
 @figuresDenominator=[zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @figures=[zero one two three four five six seven eight nine];
@@ -167,18 +179,6 @@ feature numr {
 feature dnom {
     sub @figures by @figuresDenominator;
 } dnom;
-
-feature dlig {
-  script latn;
-  language dflt;
-  lookup dligDiscretionaryLigaturesinLatinlookup3;
-} dlig;
-
-feature liga {
-  script latn;
-  language dflt;
-  lookup ligaStandardLigaturesinLatinlookup4;
-} liga;
 
 # GPOS
 
