@@ -46,13 +46,13 @@
    </location>
   </source>
   -->
-  <source filename="masters/DINish-Light.ufo" stylename="Regular" name="Regular" familyname="DINish">
+  <source filename="masters/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension xvalue="300" name="weight"/>
+    <dimension xvalue="400" name="weight"/>
      <!-- <dimension xvalue="100" name="width"/> -->
    </location>
   </source>
