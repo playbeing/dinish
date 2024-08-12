@@ -3,8 +3,8 @@
   <advance width="913"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="three.numr" xOffset="10"/>
-    <component base="divisionslash" xOffset="346"/>
+    <component base="three.dnom" xOffset="10" yOffset="290"/>
+    <component base="fraction" xOffset="346"/>
     <component base="four.dnom" xOffset="568"/>
   </outline>
   <lib>

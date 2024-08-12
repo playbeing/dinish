@@ -4,8 +4,8 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="one.numr" xOffset="10"/>
+    <component base="fraction" xOffset="255"/>
     <component base="four.dnom" xOffset="475"/>
-    <component base="divisionslash" xOffset="255"/>
   </outline>
   <lib>
     <dict>
