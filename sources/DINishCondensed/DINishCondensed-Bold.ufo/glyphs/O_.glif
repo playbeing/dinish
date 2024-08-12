@@ -2,6 +2,7 @@
 <glyph name="O" format="2">
   <advance width="479"/>
   <unicode hex="004F"/>
+  <anchor x="240" y="707" name="top"/>
   <outline>
     <contour>
       <point x="237" y="-8" type="curve" smooth="yes"/>

@@ -5,6 +5,11 @@
   <outline>
     <component base="f"/>
     <component base="dotlessi" xOffset="295"/>
-    <component base="dotaccent" xOffset="140" yOffset="4"/>
+    <contour>
+      <point x="361" y="613" type="line"/>
+      <point x="432" y="613" type="line"/>
+      <point x="432" y="695" type="line"/>
+      <point x="361" y="695" type="line"/>
+    </contour>
   </outline>
 </glyph>
