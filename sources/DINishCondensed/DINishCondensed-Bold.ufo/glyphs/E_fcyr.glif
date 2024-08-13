@@ -2,7 +2,6 @@
 <glyph name="Efcyr" format="2">
   <advance width="584"/>
   <unicode hex="0424"/>
-  <guideline x="304" y="0" angle="90" name="h1"/>
   <anchor x="304" y="770" name="top"/>
   <outline>
     <contour>

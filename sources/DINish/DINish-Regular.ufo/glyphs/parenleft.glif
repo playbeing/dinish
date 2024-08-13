@@ -6,17 +6,11 @@
     <contour>
       <point x="181" y="-86" type="curve"/>
       <point x="234" y="-86" type="line"/>
-      <point x="200" y="-20"/>
-      <point x="174" y="48"/>
-      <point x="157" y="120" type="curve" smooth="yes"/>
-      <point x="140" y="192"/>
-      <point x="131" y="264"/>
+      <point x="166" y="46"/>
+      <point x="131" y="192"/>
       <point x="131" y="336" type="curve" smooth="yes"/>
-      <point x="131" y="407"/>
-      <point x="140" y="478"/>
-      <point x="157" y="550" type="curve" smooth="yes"/>
-      <point x="174" y="622"/>
-      <point x="200" y="691"/>
+      <point x="131" y="478"/>
+      <point x="166" y="624"/>
       <point x="234" y="758" type="curve"/>
       <point x="182" y="758" type="line"/>
       <point x="101" y="626"/>
