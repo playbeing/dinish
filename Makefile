@@ -64,4 +64,4 @@ update_version:
 
 # Danger, Will Robinson!
 revert_auto_changes:
-	git checkout docs/_sass/DINish*.scss fonts/ sources/*.*/fontinfo.plist ofl
+	git checkout docs/_sass/DINish*.scss fonts/ sources/*.ufo/fontinfo.plist ofl
