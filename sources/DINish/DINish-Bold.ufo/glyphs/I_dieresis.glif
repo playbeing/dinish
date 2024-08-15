@@ -4,8 +4,8 @@
   <unicode hex="00CF"/>
   <anchor x="133" y="707" name="top"/>
   <outline>
-    <component base="dieresiscmb" xOffset="133" yOffset="174"/>
     <component base="I" xOffset="6"/>
+    <component base="dieresiscmb" xOffset="133" yOffset="174"/>
   </outline>
   <lib>
     <dict>

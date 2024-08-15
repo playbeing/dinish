@@ -4,29 +4,8 @@
   <unicode hex="0178"/>
   <anchor x="260" y="707" name="top"/>
   <outline>
-    <contour>
-      <point x="218" y="0" type="line"/>
-      <point x="293" y="0" type="line"/>
-      <point x="293" y="296" type="line"/>
-      <point x="504" y="707" type="line"/>
-      <point x="423" y="707" type="line"/>
-      <point x="255" y="368" type="line"/>
-      <point x="88" y="707" type="line"/>
-      <point x="7" y="707" type="line"/>
-      <point x="218" y="297" type="line"/>
-    </contour>
-    <contour>
-      <point x="129" y="779" type="line"/>
-      <point x="207" y="779" type="line"/>
-      <point x="207" y="867" type="line"/>
-      <point x="129" y="867" type="line"/>
-    </contour>
-    <contour>
-      <point x="304" y="779" type="line"/>
-      <point x="382" y="779" type="line"/>
-      <point x="382" y="867" type="line"/>
-      <point x="304" y="867" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="dieresiscmb" xOffset="256" yOffset="187"/>
   </outline>
   <lib>
     <dict>
