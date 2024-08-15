@@ -5,6 +5,6 @@
   <outline>
     <component base="macron" xOffset="-10" yOffset="148"/>
     <component base="O"/>
-    <component base="ogonek"/>
+    <component base="ogonekcmb" xOffset="251"/>
   </outline>
 </glyph>
