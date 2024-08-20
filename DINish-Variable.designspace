@@ -14,13 +14,13 @@
   </axis>
  </axes>
  <sources>
-  <source filename="sources/DINish/DINish-Heavy.ufo" stylename="Bold" name="Bold" familyname="DINish">
+  <source filename="sources/DINish/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="100" name="width"/>
    </location>
   </source>
-  <source filename="sources/DINishCondensed/DINishCondensed-Heavy.ufo" stylename="Bold" name="Condensed Bold" familyname="DINish">
+  <source filename="sources/DINishCondensed/DINishCondensed-Heavy.ufo" stylename="Heavy" name="Condensed Heavy" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="75" name="width"/>
@@ -88,7 +88,7 @@
   -->
   <instance filename="instances/DINish-Medium.ufo" stylename="Medium" name="Medium" familyname="DINish">
    <location>
-     <!-- <dimension xvalue="100" name="width"/> -->
+    <dimension xvalue="100" name="width"/>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
@@ -108,7 +108,7 @@
   -->
   <instance filename="instances/DINish-SemiBold.ufo" stylename="SemiBold" name="SemiBold" familyname="DINish">
    <location>
-     <!-- <dimension xvalue="100" name="width"/> -->
+    <dimension xvalue="100" name="width"/>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
@@ -128,7 +128,7 @@
   -->
   <instance filename="instances/DINish-Bold.ufo" stylename="Bold" name="Bold" familyname="DINish">
    <location>
-     <!-- <dimension xvalue="100" name="width"/> -->
+   <dimension xvalue="100" name="width"/>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
