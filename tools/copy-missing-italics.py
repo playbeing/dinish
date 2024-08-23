@@ -19,6 +19,9 @@ UFO, slanting them unless there is an exception for certain glyphs.
 """
 
 
+verbose = False
+
+
 def fatal(str):
     print(str)
     sys.exit(1)
@@ -64,7 +67,8 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
 #        if os.path.exists("{0}/glyphs/{1}".format(dest, file)):
 #            continue
         if glyph_name in upright_list:
-            #print("Not slanting {0}".format(glyph_name))
+            if verbose:
+                print("Not slanting {0}".format(glyph_name))
             upright_list.remove(glyph_name)
             continue
         unicode = srcfont[glyph_name].unicode
@@ -72,7 +76,8 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
             #import pdb; unicode > 0x2000 and pdb.set_trace()
             lookup = "uni%04X" % unicode
             if lookup in upright_list:
-                print("Not slanting {0}".format(lookup))
+                if verbose:
+                    print("Not slanting {0}".format(lookup))
                 upright_list.remove(lookup)
                 continue
 
@@ -150,9 +155,11 @@ def main():
     parser.add_argument("--dest")
     parser.add_argument("--uprights")
     parser.add_argument("--overwrite")
+    parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
     upright_list = parse_uprights(args.uprights)
     overwrite_list = args.overwrite.split(',')
+    verbose = args.verbose
     copy_glyphs_to_italic(args.source, args.dest, upright_list, overwrite_list)
 
 
