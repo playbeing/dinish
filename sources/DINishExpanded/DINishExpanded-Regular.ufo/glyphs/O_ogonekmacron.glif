@@ -3,8 +3,8 @@
   <advance width="711"/>
   <unicode hex="01EC"/>
   <outline>
+    <component base="macron" xOffset="100" yOffset="150"/>
     <component base="O"/>
     <component base="ogonekcmb" xOffset="350" yOffset="2"/>
-    <component base="macron" xOffset="100" yOffset="150"/>
   </outline>
 </glyph>
