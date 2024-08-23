@@ -4,6 +4,12 @@
   <unicode hex="FB01"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="342"/>
+    <component base="dotlessi" xOffset="342"/>
+    <contour>
+      <point x="402" y="625" type="line"/>
+      <point x="528" y="625" type="line"/>
+      <point x="528" y="707" type="line"/>
+      <point x="402" y="707" type="line"/>
+    </contour>
   </outline>
 </glyph>

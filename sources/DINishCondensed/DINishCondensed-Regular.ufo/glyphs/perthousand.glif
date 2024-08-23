@@ -3,9 +3,9 @@
   <advance width="992"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="zero.numr" xOffset="10"/>
     <component base="divisionslash" xOffset="130"/>
     <component base="zero.dnom" xOffset="436"/>
     <component base="zero.dnom" xOffset="720"/>
+    <component base="zero.dnom" xOffset="10" yOffset="287"/>
   </outline>
 </glyph>
