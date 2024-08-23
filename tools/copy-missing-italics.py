@@ -103,7 +103,7 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
         newglyph.name = glyph_name
         newglyph.width = glyph.width
 
-    if len(upright_list) > 0:
+    if len(upright_list) > 0 and verbose:
         print("Unused items in upright list: {0}".format(', '.join(upright_list)))
 
     for overwrite in overwrite_list:
