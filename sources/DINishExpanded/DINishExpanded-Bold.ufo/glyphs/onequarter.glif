@@ -4,7 +4,7 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="one.dnom" xOffset="10" yOffset="280"/>
-    <component base="fraction" xOffset="100"/>
+    <component base="fraction" xOffset="300"/>
     <component base="four.dnom" xOffset="490"/>
   </outline>
 </glyph>
