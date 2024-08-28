@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocenteredtilde" format="2">
-  <advance width="321"/>
+  <advance width="689"/>
   <unicode hex="019F"/>
   <outline>
     <component base="O"/>
