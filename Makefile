@@ -15,7 +15,7 @@ clean:
 	rm -rf fonts zips
 
 psfnormalize:
-	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize $$font; done')
+	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize --params backup=0 $$font; done')
 	tools/normalize_glif.sh sources/*/*.ufo
 
 fonts/otf/%.otf: sources/%.ufo
