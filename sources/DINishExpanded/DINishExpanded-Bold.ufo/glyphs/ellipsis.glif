@@ -4,7 +4,7 @@
   <unicode hex="2026"/>
   <outline>
     <component base="period"/>
-    <component base="period" xOffset="592"/>
     <component base="period" xOffset="296"/>
+    <component base="period" xOffset="592"/>
   </outline>
 </glyph>
