@@ -11,7 +11,7 @@ die() {
 
 case "$outtype" in
 	woff|woff2)
-		fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
+		fontmake --flatten-components --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
 		[ "$?" = "0" ] || die "fontmake failed"
 		python3 -c "from fontTools.ttLib import TTFont; f = TTFont('$out.ttf');f.flavor='$outtype';f.save('$out')"
 		[ "$?" = "0" ] || die "conversion to $outtype failed"
@@ -19,7 +19,7 @@ case "$outtype" in
 		exit 0;;
 esac
 
-fontmake --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
+fontmake --flatten-components --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o $outtype --output-path $out
 [ "$?" = "0" ] || die "fontmake failed"
 
 # 20210825 We stop adding a dummy dsig table after fontbakery 0.8.1 started complaining
