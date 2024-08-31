@@ -436,12 +436,20 @@
   <string>a.ss02.glif</string>
   <key>aacute</key>
   <string>aacute.glif</string>
+  <key>aacute.ss02</key>
+  <string>aacute.ss02.glif</string>
   <key>abreve</key>
   <string>abreve.glif</string>
+  <key>abreve.ss02</key>
+  <string>abreve.ss02.glif</string>
   <key>acaron</key>
   <string>acaron.glif</string>
+  <key>acaron.ss02</key>
+  <string>acaron.ss02.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
+  <key>acircumflex.ss02</key>
+  <string>acircumflex.ss02.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>acutecomb</key>
@@ -450,26 +458,40 @@
   <string>acutecomb.loclP_L_K_.glif</string>
   <key>acyr</key>
   <string>acyr.glif</string>
+  <key>acyr.ss02</key>
+  <string>acyr.ss02.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
+  <key>adieresis.ss02</key>
+  <string>adieresis.ss02.glif</string>
   <key>adotbelow</key>
   <string>adotbelow.glif</string>
+  <key>adotbelow.ss02</key>
+  <string>adotbelow.ss02.glif</string>
   <key>ae</key>
   <string>ae.glif</string>
   <key>agrave</key>
   <string>agrave.glif</string>
+  <key>agrave.ss02</key>
+  <string>agrave.ss02.glif</string>
   <key>alpha</key>
   <string>alpha.glif</string>
   <key>amacron</key>
   <string>amacron.glif</string>
+  <key>amacron.ss02</key>
+  <string>amacron.ss02.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>aogonek</key>
   <string>aogonek.glif</string>
+  <key>aogonek.ss02</key>
+  <string>aogonek.ss02.glif</string>
   <key>apostrophemod</key>
   <string>apostrophemod.glif</string>
   <key>aring</key>
   <string>aring.glif</string>
+  <key>aring.ss02</key>
+  <string>aring.ss02.glif</string>
   <key>asciicircum</key>
   <string>asciicircum.glif</string>
   <key>asciitilde</key>
@@ -480,6 +502,8 @@
   <string>at.glif</string>
   <key>atilde</key>
   <string>atilde.glif</string>
+  <key>atilde.ss02</key>
+  <string>atilde.ss02.glif</string>
   <key>b</key>
   <string>b.glif</string>
   <key>backslash</key>
