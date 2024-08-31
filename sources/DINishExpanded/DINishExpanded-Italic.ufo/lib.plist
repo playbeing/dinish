@@ -236,11 +236,17 @@
     <string>Thorn</string>
     <string>germandbls</string>
     <string>agrave</string>
+    <string>agrave.ss02</string>
     <string>aacute</string>
+    <string>aacute.ss02</string>
     <string>acircumflex</string>
+    <string>acircumflex.ss02</string>
     <string>atilde</string>
+    <string>atilde.ss02</string>
     <string>adieresis</string>
+    <string>adieresis.ss02</string>
     <string>aring</string>
+    <string>aring.ss02</string>
     <string>ae</string>
     <string>ccedilla</string>
     <string>egrave</string>
@@ -270,10 +276,13 @@
     <string>ydieresis</string>
     <string>Amacron</string>
     <string>amacron</string>
+    <string>amacron.ss02</string>
     <string>Abreve</string>
     <string>abreve</string>
+    <string>abreve.ss02</string>
     <string>Aogonek</string>
     <string>aogonek</string>
+    <string>aogonek.ss02</string>
     <string>Cacute</string>
     <string>Cacute.loclPLK</string>
     <string>cacute</string>
@@ -404,6 +413,7 @@
     <string>Ocenteredtilde</string>
     <string>Acaron</string>
     <string>acaron</string>
+    <string>acaron.ss02</string>
     <string>Icaron</string>
     <string>icaron</string>
     <string>Ocaron</string>
@@ -508,6 +518,7 @@
     <string>Yucyr</string>
     <string>Yacyr</string>
     <string>acyr</string>
+    <string>acyr.ss02</string>
     <string>becyr</string>
     <string>vecyr</string>
     <string>vecyr.loclBGR</string>
@@ -609,6 +620,7 @@
     <string>Germandbls</string>
     <string>Adotbelow</string>
     <string>adotbelow</string>
+    <string>adotbelow.ss02</string>
     <string>Edotbelow</string>
     <string>edotbelow</string>
     <string>Idotbelow</string>
