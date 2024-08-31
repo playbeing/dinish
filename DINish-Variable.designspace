@@ -212,11 +212,23 @@
   </instance>
  </instances>
  <rules>
-   <rule>
-     <sub name="a" with="a.ss02"/>
-     <conditionset>
-       <condition maximum="-4.9" name="slant"/>
-    </conditionset>
-   </rule>
+  <rule>
+   <sub name="a" with="a.ss02"/>
+   <sub name="aacute" with="aacute.ss02"/>
+   <sub name="abreve" with="abreve.ss02"/>
+   <sub name="acaron" with="acaron.ss02"/>
+   <sub name="acircumflex" with="acircumflex.ss02"/>
+   <sub name="acyr" with="acyr.ss02"/>
+   <sub name="adieresis" with="adieresis.ss02"/>
+   <sub name="adotbelow" with="adotbelow.ss02"/>
+   <sub name="agrave" with="agrave.ss02"/>
+   <sub name="amacron" with="amacron.ss02"/>
+   <sub name="aogonek" with="aogonek.ss02"/>
+   <sub name="aring" with="aring.ss02"/>
+   <sub name="atilde" with="atilde.ss02"/>
+   <conditionset>
+    <condition maximum="-4.9" name="slant"/>
+   </conditionset>
+  </rule>
  </rules>
 </designspace>
