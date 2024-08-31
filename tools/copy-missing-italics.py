@@ -158,7 +158,9 @@ def main():
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
     upright_list = parse_uprights(args.uprights)
-    overwrite_list = args.overwrite.split(',')
+    overwrite_list = []
+    if args.overwrite is not None:
+        overwrite_list = args.overwrite.split(',')
     verbose = args.verbose
     copy_glyphs_to_italic(args.source, args.dest, upright_list, overwrite_list)
 
