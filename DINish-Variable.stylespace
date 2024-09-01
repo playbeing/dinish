@@ -9,33 +9,6 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>Italic</string>
-					<key>value</key>
-					<real>1</real>
-				</dict>
-				<dict>
-					<key>flags</key>
-					<array>
-						<string>ElidableAxisValueName</string>
-					</array>
-					<key>linked_value</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>Regular</string>
-					<key>value</key>
-					<real>0</real>
-				</dict>
-			</array>
-			<key>name</key>
-			<string>Italic</string>
-			<key>tag</key>
-			<string>ital</string>
-		</dict>
-		<dict>
-			<key>locations</key>
-			<array>
-				<dict>
-					<key>name</key>
 					<string>Condensed</string>
 					<key>value</key>
 					<real>75</real>
@@ -134,6 +107,33 @@
 			<string>Weight</string>
 			<key>tag</key>
 			<string>wght</string>
+		</dict>
+		<dict>
+			<key>locations</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Italic</string>
+					<key>value</key>
+					<real>1</real>
+				</dict>
+				<dict>
+					<key>flags</key>
+					<array>
+						<string>ElidableAxisValueName</string>
+					</array>
+					<key>linked_value</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Regular</string>
+					<key>value</key>
+					<real>0</real>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>Italic</string>
+			<key>tag</key>
+			<string>ital</string>
 		</dict>
 	</array>
 </dict>
