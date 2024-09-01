@@ -15,84 +15,84 @@
   </axis>
  </axes>
  <sources>
-  <source filename="sources/DINish/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish">
+  <source filename="sources/vfwork/DINish/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="0" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINishCondensed/DINishCondensed-Heavy.ufo" stylename="Heavy" name="Condensed Heavy" familyname="DINish">
+  <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Heavy.ufo" stylename="Heavy" name="Condensed Heavy" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="0" name="italic"/>
    </location>
   </source>
-    <source filename="sources/DINishCondensed/DINishCondensed-Regular.ufo" stylename="Condensed" name="Condensed Regular" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Regular.ufo" stylename="Condensed" name="Condensed Regular" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="0" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINishExpanded/DINishExpanded-Heavy.ufo" stylename="Heavy" name="Expanded Heavy" familyname="DINish">
+  <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Heavy.ufo" stylename="Heavy" name="Expanded Heavy" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="0" name="italic"/>
    </location>
   </source>
-    <source filename="sources/DINishExpanded/DINishExpanded-Regular.ufo" stylename="Expanded" name="Expanded Regular" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Regular.ufo" stylename="Expanded" name="Expanded Regular" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="0" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINish/DINish-HeavyItalic.ufo" stylename="HeavyItalic" name="Heavy Italic" familyname="DINish">
+  <source filename="sources/vfwork/DINish/DINish-HeavyItalic.ufo" stylename="HeavyItalic" name="Heavy Italic" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINishCondensed/DINishCondensed-HeavyItalic.ufo" stylename="CondensedHeavyItalic" name="Condensed Heavy Italic" familyname="DINish">
+  <source filename="sources/vfwork/DINishCondensed/DINishCondensed-HeavyItalic.ufo" stylename="CondensedHeavyItalic" name="Condensed Heavy Italic" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-    <source filename="sources/DINishCondensed/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="Condensed Regular Italic" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="Condensed Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="75" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINishExpanded/DINishExpanded-HeavyItalic.ufo" stylename="HeavyItalic" name="Expanded Heavy Italic" familyname="DINish">
+  <source filename="sources/vfwork/DINishExpanded/DINishExpanded-HeavyItalic.ufo" stylename="HeavyItalic" name="Expanded Heavy Italic" familyname="DINish">
    <location>
     <dimension xvalue="800" name="weight"/>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-    <source filename="sources/DINishExpanded/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="Expanded Regular Italic" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="Expanded Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINish/DINish-Italic.ufo" stylename="Italic" name="Regular Italic" familyname="DINish">
+  <source filename="sources/vfwork/DINish/DINish-Italic.ufo" stylename="Italic" name="Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="100" name="width"/>
     <dimension xvalue="1" name="italic"/>
    </location>
   </source>
-  <source filename="sources/DINish/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish">
+  <source filename="sources/vfwork/DINish/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -203,7 +203,7 @@
     <dimension xvalue="0" name="italic"/>
    </location>
   </instance>
-  <instance filename="instances/DINishExpanded-Bolf.ufo" stylename="Expanded Bold" name="ExpandedBold" familyname="DINish">
+  <instance filename="instances/DINishExpanded-Bold.ufo" stylename="Expanded Bold" name="ExpandedBold" familyname="DINish">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="700" name="weight"/>
@@ -308,7 +308,7 @@
     <dimension xvalue="1" name="italic"/>
    </location>
   </instance>
-  <instance filename="instances/DINishExpanded-Bolf.ufo" stylename="Expanded Bold Italic" name="ExpandedBoldItalic" familyname="DINish">
+  <instance filename="instances/DINishExpanded-Bold.ufo" stylename="Expanded Bold Italic" name="ExpandedBoldItalic" familyname="DINish">
    <location>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="700" name="weight"/>
