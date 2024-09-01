@@ -75,7 +75,7 @@
     <dimension xvalue="-12" name="slant"/>
    </location>
   </source>
-    <source filename="sources/DINishCondensed/DINishCondensed-RegularItalic.ufo" stylename="CondensedItalic" name="Condensed Regular Italic" familyname="DINish">
+    <source filename="sources/DINishCondensed/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="Condensed Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="75" name="width"/>
@@ -89,14 +89,14 @@
     <dimension xvalue="-12" name="slant"/>
    </location>
   </source>
-    <source filename="sources/DINishExpanded/DINishExpanded-RegularItalic.ufo" stylename="ExpandedItalic" name="Expanded Regular Italic" familyname="DINish">
+    <source filename="sources/DINishExpanded/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="Expanded Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="125" name="width"/>
     <dimension xvalue="-12" name="slant"/>
    </location>
   </source>
-  <source filename="sources/DINish/DINish-RegularItalic.ufo" stylename="RegularItalic" name="Regular Italic" familyname="DINish">
+  <source filename="sources/DINish/DINish-Italic.ufo" stylename="Italic" name="Regular Italic" familyname="DINish">
    <location>
     <dimension xvalue="400" name="weight"/>
     <dimension xvalue="100" name="width"/>
