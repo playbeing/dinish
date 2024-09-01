@@ -332,7 +332,7 @@
    <sub name="aring" with="aring.ss02"/>
    <sub name="atilde" with="atilde.ss02"/>
    <conditionset>
-    <condition maximum="3.5" name="slant"/>
+    <condition maximum="-3.5" name="slant"/>
    </conditionset>
   </rule>
  </rules>
