@@ -58,7 +58,7 @@ docs/_sass/%.scss: fonts/woff2/DINish/%.woff2
 
 zips:
 	@mkdir -p zips
-	sh -c 'for t in otf ttf woff woff2; do (cd fonts/$$t && zip ../../zips/dinish-$$t.zip */*.$$t); done'
+	sh -c 'for t in otf ttf woff woff2; do (cd fonts/$$t && zip --junk-paths ../../zips/dinish-$$t.zip */*.$$t); done'
 
 update_version:
 	tools/update-version.sh
