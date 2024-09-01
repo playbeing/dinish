@@ -10,7 +10,7 @@
    <map output="100" input="100"/>
    <map output="125" input="125"/>
   </axis>
-  <axis default="0" name="italic" maximum="1" minimum="0" tag="italic">
+  <axis default="0" name="italic" maximum="1" minimum="0" tag="ital">
    <labelname xml:lang="en">Italic</labelname>
   </axis>
  </axes>
