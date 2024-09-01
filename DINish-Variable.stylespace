@@ -9,9 +9,9 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>Slant</string>
+					<string>Italic</string>
 					<key>value</key>
-					<real>-12.0</real>
+					<real>1</real>
 				</dict>
 				<dict>
 					<key>flags</key>
@@ -19,17 +19,17 @@
 						<string>ElidableAxisValueName</string>
 					</array>
 					<key>linked_value</key>
-					<integer>-12</integer>
+					<integer>1</integer>
 					<key>name</key>
 					<string>Regular</string>
 					<key>value</key>
-					<real>0.0</real>
+					<real>0</real>
 				</dict>
 			</array>
 			<key>name</key>
-			<string>Slant</string>
+			<string>Italic</string>
 			<key>tag</key>
-			<string>slnt</string>
+			<string>ital</string>
 		</dict>
 		<dict>
 			<key>locations</key>
