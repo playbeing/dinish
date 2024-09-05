@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ylongcyr" format="2">
-  <advance width="702"/>
-  <unicode hex="044B"/>
-  <outline>
-    <component base="softcyr"/>
-    <component base="dotlessi" xOffset="461"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aring.ss02" format="2">
-  <advance width="583"/>
-  <outline>
-    <component base="a.ss02"/>
-    <component base="ringcmb" xOffset="280"/>
-  </outline>
-</glyph>

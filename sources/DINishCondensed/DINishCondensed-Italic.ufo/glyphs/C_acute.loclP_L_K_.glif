@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Cacute.loclPLK" format="2">
-  <advance width="489"/>
-  <outline>
-    <component base="C"/>
-    <component base="acutecomb.loclPLK" xOffset="244" yOffset="187"/>
-  </outline>
-</glyph>

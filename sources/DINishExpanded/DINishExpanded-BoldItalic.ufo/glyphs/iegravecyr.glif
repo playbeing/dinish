@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iegravecyr" format="2">
-  <advance width="584"/>
-  <unicode hex="0450"/>
-  <outline>
-    <component base="gravecomb" xOffset="293"/>
-    <component base="e"/>
-  </outline>
-</glyph>
