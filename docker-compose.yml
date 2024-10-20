@@ -1,0 +1,12 @@
+services:
+  build_dinish:
+    build:
+      context: docker
+    volumes:
+      - type: bind
+        source: ./
+        target: /src
+        read_only: true
+      - type: bind
+        source: /dev/shm/dinish-build
+        target: /scratch
