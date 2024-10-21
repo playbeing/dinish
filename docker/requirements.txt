@@ -29,7 +29,7 @@ docopt==0.6.2
 exceptiongroup==1.2.1
 filelock==3.13.4
 font-v==2.1.0
-fontbakery==0.12.9
+fontbakery==0.12.10
 fontFeatures==1.8.0
 fontmake==3.9.0
 fontMath==0.9.4
