@@ -1,0 +1,14 @@
+services:
+  dinish-builder:
+    container_name: dinish-builder
+    build: .
+    volumes:
+      - ..:/src:ro
+      # Make sure this directory exists and has uid 1000 before starting the container,
+      # because the builder runs under uid 1000 but Docker creates a missing directory as
+      # root.
+      # Use a different directory if you have a marginal amount of RAM in
+      # your build machine.
+      - /dev/shm/dinish-build:/scratch
+    environment:
+      - TZ=Europe/Amsterdam
