@@ -73,13 +73,13 @@ languages using Cyrillic.
 By default, numbers are proportionally spaced. For use in spreadsheets
 or other tabular document formats, tabular numbers are available that
 line up vertically.  In libreOffice, use the Features button in the
-Font Style dialog, or type the font name as `Dinish:tnum` in the font
-selector. In CSS, use `font-feature-settings: "tnum";`.
+Font Style dialog, or type the font name as `DINish:tnum` in the font
+selector. In CSS, use `font-variant-numeric: tabular-nums;`.
 
 DINish comes with a full set of old style numerals. These can be
 selected with the `onum` tag. They are even available in tabular form
-for use in spreadsheets: in libreOffice, use `Dinish:onum&tnum`. For
-CSS, try `font-feature-settings: "onum", "tnum";`.
+for use in spreadsheets: in libreOffice, use `DINish:onum&tnum`. For
+CSS, try `font-variant-numeric: tabular-nums oldstyle-nums;`.
 
 The Polish language uses a different style of acute accent called
 kreska. In libreOffice set the document language to Polish. HTML/CSS
@@ -106,6 +106,19 @@ chance to look at the result, support for Cyrillic is considered beta
 quality in v3.006. That said, at least six major languages can now be set
 in DINish, and the glyphs look like they've always been part of DINish,
 so thank you, Stefan!
+
+## Installing the font files
+
+The download includes zip files with a complete set of fonts in four
+common formats: TrueType (ttf), OpenType (otf), WOFF and WOFF2.  It is
+recommended to pick a single format and stick to it. OpenType is the most
+popular choice. Most apps on Windows, Mac and Linux work fine with either
+OpenType or TrueType. For web sites, WOFF2 is the recommended format.
+
+The zip files contain both static and variable fonts. Few desktop
+applications fully support variable fonts as of this writing,
+so you may wish to not install the last file in the zip named
+DINish[slnt,wdth,wght].otf (or .ttf), to avoid confusion.
 
 ## DINish demo pages
 
@@ -169,6 +182,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
+- 2024-12-15 - v4.001: Add static fonts with weights 300, 500, 600 and 800. Include a variable font with weight, width and slant axis.
 - 2024-07-19 - v3.008: Add BoldItalic variants. Closes #6. Add ustraightcyrillic for Mongolian.
 - 2024-07-04 - v3.007: Rename the internal font name back to DINish, for consistency with the marketing name. Closes #8.
 - 2024-06-09 - v3.006: Integrate Cyrillic glyphs & features by Stefan Peev. Supports multiple languages, including Bulgarian. Fixes for Dutch accented ij.
