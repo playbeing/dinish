@@ -39,6 +39,9 @@ We performed many manual touchups on the sources, including:
 * Renamed the font again, this time to Dinish, to avoid opening a can
   of worms involving CamelCase. But remember, the correct pronunciation
   is still "DINish"!
+* Renamed the font back to DINish after all. Turns out that fonts
+  that are younger than DIN got accepted to Google Fonts anyway with
+  runs of capitals in the name.
 
 There are a few warnings flagged by fontbakery that we chose not to address.
 In particular:
@@ -58,7 +61,7 @@ In particular:
 
 * After editing the UFO with a tool, such as trufont, normalize the font and undo undesired automatic changes:
 ```
-make psfnormalize revert_auto_changes 
+make psfnormalize revert_auto_changes
 ```
 Always review changes with `git diff` to try to catch unintended changes.
 
@@ -71,11 +74,13 @@ Review the fontbakery reports for regressions.
 
 To release:
 
+* clean with `make psfnormalize revert_auto_changes clean`, review and commit any changes to git.
 * Make sure fontbakery gives a clean bill of health
 * Update FONTLOG.txt and README.md
 * Make sure `git status` shows no modified files and no unknown files
 * tag the tree with `git tag --annotate v2.006 -m 'DINish v2.006: Add DINish Condensed Italic'` (do not use `-f`)
-* rebuild with `make psfnormalize revert_auto_changes clean all docs fontbakery`, commit generated files to git.
+* rebuild `cd docker && docker compose build && docker compose up`
+* commit generated files to git from the build directory
 * Re-tag the tree with the above `git tag` command, this time add `-f`
 * Push the changes up to github with `git push && git push --tags`
 * Create a new release on Github. Attach the four zips from the `zips/` directory.
