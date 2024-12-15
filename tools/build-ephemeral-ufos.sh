@@ -8,9 +8,9 @@ scratch=/scratch
 
 rm -rf /scratch/* /scratch/.??*
 rsync -raWH --delete $srcdir/./ $scratch/./
-cd $scratch/sources
+cd $scratch
 
-version=`(cd .. && tools/update-version.sh)`
+version=`tools/update-version.sh`
 echo $version
 case "$version" in
     *-release)
@@ -24,6 +24,7 @@ case "$version" in
     ;;
 esac
 
+cd $scratch/sources
 mkdir vfwork
 
 for f in DINish DINishCondensed DINishExpanded
