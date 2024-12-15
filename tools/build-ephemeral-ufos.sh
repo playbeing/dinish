@@ -7,19 +7,8 @@ srcdir=/src
 scratch=/scratch
 
 rm -rf /scratch/* /scratch/.??*
-for f in DINish DINishCondensed DINishExpanded
-do
-    dir=$scratch/sources/$f
-    [ -d $dir ] || mkdir -p $dir
-    cp -pr $srcdir/sources/$f/DINish*-{Regular,Bold}.ufo $dir
-    cp $srcdir/sources/$f/{*.pb,*.html} $dir
-done
-
-cp -pr $srcdir/DINish-Variable.{design,style}space $srcdir/Makefile $srcdir/README.md $srcdir/tools/ $srcdir/docs/ $scratch/
-rsync -raWH --delete $srcdir/.git/./ $scratch/.git
+rsync -raWH --delete $srcdir/./ $scratch/./
 cd $scratch/sources
-
-mkdir vfwork
 
 version=`(cd .. && tools/update-version.sh)`
 echo $version
@@ -27,12 +16,15 @@ case "$version" in
     *-release)
         echo Building for release
         preview=""
+        git clean -df
     ;;
     *)
         echo Building preview
         preview="Preview"
     ;;
 esac
+
+mkdir vfwork
 
 for f in DINish DINishCondensed DINishExpanded
 do
