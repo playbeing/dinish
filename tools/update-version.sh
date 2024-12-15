@@ -21,7 +21,7 @@ read tag revs hash <<EOD
 EOD
 # Remove the leading 'g' from the hash:
 hash=`echo $hash | sed -e s/^g//`
-modified=`git status -s -uno |grep -v ' fonts/'|wc -l`
+modified=`git status -s -uno |grep -Ev ' (tools|fonts)/'|wc -l`
 
 read major minor <<EOD
 `echo $tag|tr -d Vv|tr . ' '`
