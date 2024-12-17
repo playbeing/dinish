@@ -41,16 +41,16 @@ body {
 }
 
 #numeral_lnum_pnum {
-  font-feature-settings: "lnum", "pnum";  /* Or leave out; it's the default */
+  font-variant-numeric: lining-nums proportional-nums;  /* Or leave out; it's the default */
 }
 #numeral_onum_pnum {
-  font-feature-settings: "onum", "pnum";
+  font-variant-numeric: oldstyle-nums proportional-nums;
 }
 #numeral_lnum_tnum {
-  font-feature-settings: "lnum", "tnum";
+  font-variant-numeric: lining-nums tabular-nums;
 }
 #numeral_onum_tnum {
-  font-feature-settings: "onum", "tnum";
+  font-variant-numeric: oldstyle-nums tabular-nums;
 }
 
 table, tr, td, th {

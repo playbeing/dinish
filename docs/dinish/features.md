@@ -45,29 +45,29 @@ ss01 stylistic alternate to automatically substitute ij with ĳ.
 # Fractions
 
 The opentype "frac" feature automatically formats strings that look like a fraction. For example, 1/1000 becomes
-<span style="font-feature-settings: 'frac';">1/1000</frac>.
+<span style="font-variant-numeric: diagonal-fractions;">1/1000</span>.
 ```
-<span style="font-feature-settings: 'frac';">The interest works out to 57/500, or 11 2/5 percent.</span>
+<span style="font-variant-numeric: diagonal-fractions;">The interest works out to 57/500, or 11 2/5 percent.</span>
 ```
-<span class="sample" style="font-feature-settings: 'frac';">The interest works out to 57/500, or 11 2/5 percent.</span>
+<span class="sample" style="font-variant-numeric: diagonal-fractions;">The interest works out to 57/500, or 11 2/5 percent.</span>
 
 # Number styles
 
 There are four styles of numerals to pick from. The default is lining, proportional numerals:
 ```
-font-feature-settings: "lnum", "pnum";  /* Or leave out; it's the default */
+font-variant-numeric: lining-nums proportional-nums;  /* Or leave out; it's the default */
 ```
 <div class="sample" id="numeral_lnum_pnum">Columbus left Castile in August 1492 with 3 ships</div>
 
 For artistic value, or to make the numbers go with the flow of mostly lowercase text, you can select old style numerals:
 ```
-font-feature-settings: "onum", "pnum";  /* Or just "onum" */
+font-variant-numeric: oldstyle-nums proportional-nums;
 ```
 <div class="sample" id="numeral_onum_pnum">Columbus left Castile in August 1492 with 3 ships</div>
 
 For tabular data, you have the option of lining tabular numbers:
 ```
-font-feature-settings: "lnum", "tnum";  /* Or just "tnum" */
+font-variant-numeric: lining-nums tabular-nums;
 ```
 <div class="sample" id="numeral_lnum_tnum">
 <table>
@@ -79,7 +79,7 @@ font-feature-settings: "lnum", "tnum";  /* Or just "tnum" */
 
 You can also use old style tabular numbers:
 ```
-font-feature-settings: "onum", "tnum";
+font-variant-numeric: oldstyle-nums tabular-nums;
 ```
 <div class="sample" id="numeral_onum_tnum">
 <table>
