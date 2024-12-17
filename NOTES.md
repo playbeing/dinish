@@ -74,7 +74,7 @@ Review the fontbakery reports for regressions.
 
 To release:
 
-* clean with `make psfnormalize revert_auto_changes clean`, review and commit any changes to git.
+* clean with `make psfnormalize revert_auto_changes`, review and commit any changes to git.
 * Make sure fontbakery gives a clean bill of health
 * Update FONTLOG.txt and README.md
 * Make sure `git status` shows no modified files and no unknown files
