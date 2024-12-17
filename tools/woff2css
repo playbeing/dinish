@@ -43,8 +43,9 @@ else:
     sys.exit(1)
 
 css_family = family
-css_weight = style2weight[style]
-css_style = style2style[style]
+if not is_variable:
+    css_weight = style2weight[style]
+    css_style = style2style[style]
 
 with open(src, "rb") as infile:
     data = infile.read()
