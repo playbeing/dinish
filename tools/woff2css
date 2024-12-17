@@ -30,11 +30,16 @@ src = sys.argv[1]
 out = sys.argv[2]
 
 m = re.match(r"(\w+)-(\w+)\.", os.path.basename(src))
+m2 = re.match(r"(\w+)\[\S+\]\.", os.path.basename(src))
 if m:
     family = m.group(1)
     style = m.group(2)
+    is_variable = False
+elif m2:
+    family = m2.group(1)
+    is_variable = True
 else:
-    print("Font should be named Family-Style.woff2; could not determine font weight.")
+    print("Font should be named Family-Style.woff2 or Family[variable-axes].woff2; could not determine font weight.")
     sys.exit(1)
 
 css_family = family
@@ -49,8 +54,9 @@ with open(src, "rb") as infile:
         sys.stdout = outfile
         print("@font-face {")
         print(f'  font-family: "{css_family}";')
-        print(f"  font-weight: {css_weight};")
-        print(f'  font-style: {css_style};')
+        if not is_variable:
+            print(f"  font-weight: {css_weight};")
+            print(f'  font-style: {css_style};')
         outfile.write("  src: url(data:font/woff2;base64,")
         outfile.write(encoded.decode("ascii"))
         outfile.write(");\n")
