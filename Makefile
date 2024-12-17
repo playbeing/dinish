@@ -48,12 +48,15 @@ install_ofl:
 
 
 .PHONY: docs zips update_version
-docs:	docs/_sass/DINish-Regular.scss docs/_sass/DINish-Bold.scss
+docs:	docs/_sass/DINish-variable.scss docs/_sass/DINish-Regular.scss docs/_sass/DINish-Bold.scss
 	bash -c 'for f in DINish DINishCondensed DINishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp sources/$$f/{METADATA.pb,DESCRIPTION.en_us.html} ofl/$$slug; done'
 	bash -c 'cat docs/index.md.header README.md >docs/index.md'
 	bash -c 'cat docs/dinish/index.md.header README.md >docs/dinish/index.md'
 
-docs/_sass/%.scss: fonts/woff2/DINish/%.woff2
+docs/_sass/DINish-%.scss: fonts/woff2/DINish/DINish-%.woff2
+	tools/woff2css $< $@
+
+docs/_sass/DINish-variable.scss: fonts/woff2/variable/DINish[slnt,wdth,wght].woff2
 	tools/woff2css $< $@
 
 zips:
