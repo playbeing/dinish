@@ -176,6 +176,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
+- 2024-12-18 - v4.002: Align the terminals of C and S across the entire family. Closes #12.
 - 2024-12-15 - v4.001: Add static fonts with weights 300, 500, 600 and 800. Include a variable font with weight, width and slant axis.
 - 2024-07-19 - v3.008: Add BoldItalic variants. Closes #6. Add ustraightcyrillic for Mongolian.
 - 2024-07-04 - v3.007: Rename the internal font name back to DINish, for consistency with the marketing name. Closes #8.

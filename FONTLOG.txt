@@ -90,6 +90,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-12-18 - v4.002:
+ * Align the terminals of C and S across the entire family. Closes #12.
 2024-12-15 - v4.001:
  * Add static fonts with weights 300, 500, 600 and 800.
  * Include a variable font with weight, width and slant axis.
