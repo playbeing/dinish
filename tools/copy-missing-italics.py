@@ -137,7 +137,7 @@ def copy_glyphs_to_italic(source, dest, upright_list, overwrite_list):
     f.info.openTypeOS2SubscriptXOffset = -16
     f.info.openTypeOS2SuperscriptXOffset = 76
     weightname = f.info.postscriptWeightName
-    f.info.postscriptFontName = (f.info.familyName + '-' + weightname + 'Italic').replace('Regular', '')
+    f.info.postscriptFontName = (f.info.familyName + '-' + weightname + 'Italic').replace('Regular', '').replace(' ', '')
     if f.info.styleMapStyleName == 'regular':
         f.info.styleMapStyleName = 'italic'
     elif f.info.styleMapStyleName == 'bold':
