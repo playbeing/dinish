@@ -102,11 +102,9 @@ which translates fractions like 3/4 into the classic ¾ notation.
 
 Version v3.006 introduces support for Cyrillic, contributed by Stefan
 Peev. It includes support for multiple languages, including alternate
-letterforms needed for Bulgarian. Because few native speakers had a
-chance to look at the result, support for Cyrillic is considered beta
-quality in v3.006. That said, at least six major languages can now be set
-in DINish, and the glyphs look like they've always been part of DINish,
-so thank you, Stefan!
+letterforms needed for Bulgarian.  At least six major languages can now
+be set in DINish, and the glyphs look like they've always been part of
+DINish, so thank you, Stefan!
 
 ## Installing the font files
 
