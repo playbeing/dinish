@@ -79,7 +79,7 @@ To release:
 * Update FONTLOG.txt and README.md
 * Make sure `git status` shows no modified files and no unknown files
 * tag the tree with `git tag --annotate v2.006 -m 'DINish v2.006: Add DINish Condensed Italic'` (do not use `-f`)
-* rebuild `cd docker && docker compose build && docker compose up`
+* rebuild `(cd docker && docker compose build && docker compose up)`
 * in the build tree, nuke the automatic changes: `git checkout sources`
 * commit generated files to git from the build directory: `git commit docs fonts ofl -m 'Generated files for v2.006'`
 * Re-tag the tree with the above `git tag` command, this time add `-f`
