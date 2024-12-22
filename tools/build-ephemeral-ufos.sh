@@ -100,6 +100,9 @@ fi
 # Until we clean up the anchor mess...
 python $toolsdir/nuke-inconsistent-anchors.py $scratch/sources/vfwork/DINish*/DINish*.ufo
 
+# Nuke the 'Regular' bit from the internal font name of the VF
+sed -i -e 's/\(DINish[A-Za-z]*\).Regular/\1/' $scratch/sources/vfwork/DINish*/DINish*-Regular.ufo/fontinfo.plist
+
 # Move this to the Makefile...
 fontmake --flatten-components DINish-Variable.designspace -o variable-cff2
 statmake --stylespace DINish-Variable.stylespace --designspace DINish-Variable.designspace variable_otf/DINish-Variable-VF.otf
