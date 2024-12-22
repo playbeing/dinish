@@ -3,6 +3,11 @@ services:
     build:
       context: docker
     volumes:
+      # Make sure this directory exists and has uid 1000 before starting the container,
+      # because the builder runs under uid 1000 but Docker creates a missing directory as
+      # root.
+      # Use a different directory if you have a marginal amount of RAM in
+      # your build machine.
       - type: bind
         source: ./
         target: /src
@@ -10,3 +15,5 @@ services:
       - type: bind
         source: /dev/shm/dinish-build
         target: /scratch
+    environment:
+      - TZ=Europe/Amsterdam
