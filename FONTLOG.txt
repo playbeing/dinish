@@ -90,6 +90,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-12-23 - v4.004:
+ * Add Black weight (static instance only)
+ * Released early, because the release of v4.003 contained corrupt files.
 2024-12-20 - v4.003:
  * Remove "Regular" from the internal font name (variable font only).
 2024-12-18 - v4.002:
