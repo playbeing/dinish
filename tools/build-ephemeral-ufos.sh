@@ -67,8 +67,20 @@ do
     python $toolsdir/interpolate-font.py --dest=$scratch/sources/$f/$f-Medium.ufo --weight=5 $f/$f-{Regular,Bold}.ufo
     python $toolsdir/interpolate-font.py --dest=$scratch/sources/$f/$f-SemiBold.ufo --weight=6 $f/$f-{Regular,Bold}.ufo
     python $toolsdir/interpolate-font.py --dest=$scratch/sources/$f/$f-Heavy.ufo --weight=8 $f/$f-{Regular,Bold}.ufo
-    #python $toolsdir/interpolate-font.py --dest=$scratch/sources/$f/$f-Black.ufo --weight=9 $f/$f-{Regular,Bold}.ufo
-    for weight in Light Regular Medium SemiBold Bold Heavy
+    python $toolsdir/interpolate-font.py --dest=$scratch/sources/$f/$f-Black.ufo --weight=9 $f/$f-{Regular,Bold}.ufo
+    # Fixup Heavy Condensed
+    for name in zero one two three four five six seven eight nine
+    do
+       cp $scratch/sources/$f/$f-Bold.ufo/glyphs/$name.glif $scratch/sources/$f/$f-Heavy.ufo/glyphs/
+       cp $scratch/sources/$f/$f-Bold.ufo/glyphs/$name.glif $scratch/sources/$f/$f-Black.ufo/glyphs/
+    done
+    # Fixup Black
+    for name in ordfeminine ordmasculine zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
+    do
+       cp $scratch/sources/$f/$f-Heavy.ufo/glyphs/$name.glif $scratch/sources/$f/$f-Black.ufo/glyphs/
+    done
+
+    for weight in Light Regular Medium SemiBold Bold Heavy Black
     do
         if [ "$weight" = "Regular" ]; then
             stylename="Italic"
