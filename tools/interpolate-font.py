@@ -93,7 +93,7 @@ def interpolate_font(src1, src2, dest, weight):
     # done!
     newfont.save(dest)
 
-    print("{0} incompatibilities seen between {1} and {2}".format(incompatibilities, src1, src2))
+    print("{0} incompatibilities seen between {1} and {2} creating {3}".format(incompatibilities, src1, src2, dest))
     if incompatibilities > 0:
         sys.exit(1)
 
