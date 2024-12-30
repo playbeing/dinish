@@ -94,14 +94,12 @@
 					<key>value</key>
 					<real>800.0</real>
 				</dict>
-				<!--
 				<dict>
 					<key>name</key>
 					<string>Black</string>
 					<key>value</key>
 					<real>900.0</real>
 				</dict>
-				-->
 			</array>
 			<key>name</key>
 			<string>Weight</string>

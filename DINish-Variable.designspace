@@ -3,15 +3,35 @@
   <axes>
     <axis tag="wdth" name="width" default="100" minimum="75" maximum="125">
       <labelname xml:lang="en">Width</labelname>
+      <labels>
+        <label uservalue="75" name="Condensed"/>
+        <label uservalue="100" name="Regular"/>
+        <label uservalue="125" name="Expanded"/>
+      </labels>
       <map output="75" input="75"/>
       <map output="100" input="100"/>
       <map output="125" input="125"/>
     </axis>
     <axis tag="slnt" name="slant" default="0" minimum="-12" maximum="0">
       <labelname xml:lang="en">Slant</labelname>
+      <labels>
+        <label uservalue="-12" name="Italic"/>
+        <label uservalue="0" name="Upright"/>
+      </labels>
     </axis>
-    <axis tag="wght" name="weight" default="400" minimum="300" maximum="800">
+    <axis tag="wght" name="weight" default="400" minimum="300" maximum="900">
       <labelname xml:lang="en">Weight</labelname>
+      <labels>
+        <label uservalue="100" name="Hairline"/>
+        <label uservalue="200" name="ExtraLight"/>
+        <label uservalue="300" name="Light"/>
+        <label uservalue="400" name="Regular"/>
+        <label uservalue="500" name="Medium"/>
+        <label uservalue="600" name="SemiBold"/>
+        <label uservalue="700" name="Bold"/>
+        <label uservalue="800" name="Heavy"/>
+        <label uservalue="900" name="Black"/>
+      </labels>
     </axis>
   </axes>
   <sources>
@@ -29,16 +49,30 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Heavy.ufo" stylename="CondensedHeavy" name="CondensedHeavy" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Bold.ufo" stylename="CondensedBold" name="CondensedBold" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-HeavyItalic.ufo" stylename="CondensedHeavyItalic" name="CondensedHeavyItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BoldItalic.ufo" stylename="CondensedBoldItalic" name="CondensedBoldItalic" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
+        <dimension xvalue="75" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Black.ufo" stylename="CondensedBlack" name="CondensedBlack" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="75" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" name="CondensedBlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
@@ -61,16 +95,30 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-Bold.ufo" stylename="Bold" name="Bold" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-HeavyItalic.ufo" stylename="HeavyItalic" name="HeavyItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-BoldItalic.ufo" stylename="BoldItalic" name="BoldItalic" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
+        <dimension xvalue="100" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINish/DINish-Black.ufo" stylename="Black" name="Black" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="100" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINish/DINish-BlackItalic.ufo" stylename="BlackItalic" name="BlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
@@ -89,16 +137,30 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Heavy.ufo" stylename="ExpandedHeavy" name="ExpandedHeavy" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Bold.ufo" stylename="ExpandedBold" name="ExpandedBold" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-HeavyItalic.ufo" stylename="ExpandedHeavyItalic" name="ExpandedHeavyItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BoldItalic.ufo" stylename="ExpandedBoldItalic" name="ExpandedBoldItalic" familyname="DINish">
       <location>
-        <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="700" name="weight"/>
+        <dimension xvalue="125" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Black.ufo" stylename="ExpandedBlack" name="ExpandedBlack" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="125" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </source>
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" name="ExpandedBlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
@@ -189,6 +251,20 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
+    <instance filename="instances/DINishCondensed-Black.ufo" stylename="CondensedBlack" name="CondensedBlack" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="75" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </instance>
+    <instance filename="instances/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" name="CondensedBlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="75" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </instance>
     <instance filename="instances/DINish-Light.ufo" stylename="Light" name="Light" familyname="DINish">
       <location>
         <dimension xvalue="300" name="weight"/>
@@ -273,6 +349,20 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
+    <instance filename="instances/DINish-Black.ufo" stylename="Black" name="Black" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="100" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </instance>
+    <instance filename="instances/DINish-BlackItalic.ufo" stylename="BlackItalic" name="BlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="100" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </instance>
     <instance filename="instances/DINishExpanded-Light.ufo" stylename="ExpandedLight" name="ExpandedLight" familyname="DINish">
       <location>
         <dimension xvalue="300" name="weight"/>
@@ -353,6 +443,20 @@
     <instance filename="instances/DINishExpanded-HeavyItalic.ufo" stylename="ExpandedHeavyItalic" name="ExpandedHeavyItalic" familyname="DINish">
       <location>
         <dimension xvalue="800" name="weight"/>
+        <dimension xvalue="125" name="width"/>
+        <dimension xvalue="-12" name="slant"/>
+      </location>
+    </instance>
+    <instance filename="instances/DINishExpanded-Black.ufo" stylename="ExpandedBlack" name="ExpandedBlack" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
+        <dimension xvalue="125" name="width"/>
+        <dimension xvalue="0" name="slant"/>
+      </location>
+    </instance>
+    <instance filename="instances/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" name="ExpandedBlackItalic" familyname="DINish">
+      <location>
+        <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
