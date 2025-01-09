@@ -5,7 +5,6 @@
       <labelname xml:lang="en">Width</labelname>
       <labels>
         <label uservalue="75" name="Condensed"/>
-        <label uservalue="100" name="Regular"/>
         <label uservalue="125" name="Expanded"/>
       </labels>
       <map output="75" input="75"/>
@@ -16,7 +15,6 @@
       <labelname xml:lang="en">Slant</labelname>
       <labels>
         <label uservalue="-12" name="Italic"/>
-        <label uservalue="0" name="Upright"/>
       </labels>
     </axis>
     <axis tag="wght" name="weight" default="400" minimum="300" maximum="900">
@@ -35,49 +33,49 @@
     </axis>
   </axes>
   <sources>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Regular.ufo" stylename="CondensedRegular" name="CondensedRegular" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Regular.ufo" stylename="CondensedRegular" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="CondensedItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Italic.ufo" stylename="CondensedItalic" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Bold.ufo" stylename="CondensedBold" name="CondensedBold" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Bold.ufo" stylename="CondensedBold" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BoldItalic.ufo" stylename="CondensedBoldItalic" name="CondensedBoldItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BoldItalic.ufo" stylename="CondensedBoldItalic" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Black.ufo" stylename="CondensedBlack" name="CondensedBlack" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-Black.ufo" stylename="CondensedBlack" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" name="CondensedBlackItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishCondensed/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-Regular.ufo" stylename="Regular" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="100" name="width"/>
@@ -88,77 +86,77 @@
       <info copy="1"/>
       <features copy="1"/>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-Italic.ufo" stylename="Italic" name="Italic" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-Italic.ufo" stylename="Italic" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-Bold.ufo" stylename="Bold" name="Bold" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-Bold.ufo" stylename="Bold" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-BoldItalic.ufo" stylename="BoldItalic" name="BoldItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-BoldItalic.ufo" stylename="BoldItalic" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-Black.ufo" stylename="Black" name="Black" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-Black.ufo" stylename="Black" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINish/DINish-BlackItalic.ufo" stylename="BlackItalic" name="BlackItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINish/DINish-BlackItalic.ufo" stylename="BlackItalic" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Regular.ufo" stylename="ExpandedRegular" name="ExpandedRegular" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Regular.ufo" stylename="ExpandedRegular" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="ExpandedItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" familyname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Bold.ufo" stylename="ExpandedBold" name="ExpandedBold" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Bold.ufo" stylename="ExpandedBold" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BoldItalic.ufo" stylename="ExpandedBoldItalic" name="ExpandedBoldItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BoldItalic.ufo" stylename="ExpandedBoldItalic" familyname="DINish">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Black.ufo" stylename="ExpandedBlack" name="ExpandedBlack" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-Black.ufo" stylename="ExpandedBlack" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </source>
-    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" name="ExpandedBlackItalic" familyname="DINish">
+    <source filename="sources/vfwork/DINishExpanded/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" familyname="DINish">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
@@ -167,294 +165,294 @@
     </source>
   </sources>
   <instances>
-    <instance filename="instances/DINishCondensed-Light.ufo" stylename="CondensedLight" name="CondensedLight" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Light.ufo" stylename="CondensedLight" name="Condensed Light" familyname="DINish" stylemapfamilyname="DINish CondensedLight" postscriptfontname="DINish-CondensedLight">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-LightItalic.ufo" stylename="CondensedLightItalic" name="CondensedLightItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-LightItalic.ufo" stylename="CondensedLightItalic" name="Condensed Light Italic" familyname="DINish" stylemapfamilyname="DINish CondensedLightItalic" postscriptfontname="DINish-CondensedLightItalic">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Regular.ufo" stylename="CondensedRegular" name="CondensedRegular" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Regular.ufo" stylename="CondensedRegular" name="Condensed Regular" familyname="DINish" stylemapfamilyname="DINish CondensedRegular" postscriptfontname="DINish-CondensedRegular">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="CondensedItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Italic.ufo" stylename="CondensedItalic" name="Condensed Italic" familyname="DINish" stylemapfamilyname="DINish CondensedItalic" postscriptfontname="DINish-CondensedItalic">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Medium.ufo" stylename="CondensedMedium" name="CondensedMedium" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Medium.ufo" stylename="CondensedMedium" name="Condensed Medium" familyname="DINish" stylemapfamilyname="DINish CondensedMedium" postscriptfontname="DINish-CondensedMedium">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-MediumItalic.ufo" stylename="CondensedMediumItalic" name="CondensedMediumItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-MediumItalic.ufo" stylename="CondensedMediumItalic" name="Condensed Medium Italic" familyname="DINish" stylemapfamilyname="DINish CondensedMediumItalic" postscriptfontname="DINish-CondensedMediumItalic">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-SemiBold.ufo" stylename="CondensedSemiBold" name="CondensedSemiBold" familyname="DINish">
+    <instance filename="instances/DINishCondensed-SemiBold.ufo" stylename="CondensedSemiBold" name="Condensed SemiBold" familyname="DINish" stylemapfamilyname="DINish CondensedSemiBold" postscriptfontname="DINish-CondensedSemiBold">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-SemiBoldItalic.ufo" stylename="CondensedSemiBoldItalic" name="CondensedSemiBoldItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-SemiBoldItalic.ufo" stylename="CondensedSemiBoldItalic" name="Condensed SemiBold Italic" familyname="DINish" stylemapfamilyname="DINish CondensedSemiBoldItalic" postscriptfontname="DINish-CondensedSemiBoldItalic">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Bold.ufo" stylename="CondensedBold" name="CondensedBold" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Bold.ufo" stylename="CondensedBold" name="Condensed Bold" familyname="DINish" stylemapfamilyname="DINish CondensedBold" postscriptfontname="DINish-CondensedBold">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-BoldItalic.ufo" stylename="CondensedBoldItalic" name="CondensedBoldItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-BoldItalic.ufo" stylename="CondensedBoldItalic" name="Condensed Bold Italic" familyname="DINish" stylemapfamilyname="DINish CondensedBoldItalic" postscriptfontname="DINish-CondensedBoldItalic">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Heavy.ufo" stylename="CondensedHeavy" name="CondensedHeavy" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Heavy.ufo" stylename="CondensedHeavy" name="Condensed Heavy" familyname="DINish" stylemapfamilyname="DINish CondensedHeavy" postscriptfontname="DINish-CondensedHeavy">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-HeavyItalic.ufo" stylename="CondensedHeavyItalic" name="CondensedHeavyItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-HeavyItalic.ufo" stylename="CondensedHeavyItalic" name="Condensed Heavy Italic" familyname="DINish" stylemapfamilyname="DINish CondensedHeavyItalic" postscriptfontname="DINish-CondensedHeavyItalic">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-Black.ufo" stylename="CondensedBlack" name="CondensedBlack" familyname="DINish">
+    <instance filename="instances/DINishCondensed-Black.ufo" stylename="CondensedBlack" name="Condensed Black" familyname="DINish" stylemapfamilyname="DINish CondensedBlack" postscriptfontname="DINish-CondensedBlack">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" name="CondensedBlackItalic" familyname="DINish">
+    <instance filename="instances/DINishCondensed-BlackItalic.ufo" stylename="CondensedBlackItalic" name="Condensed Black Italic" familyname="DINish" stylemapfamilyname="DINish CondensedBlackItalic" postscriptfontname="DINish-CondensedBlackItalic">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="75" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Light.ufo" stylename="Light" name="Light" familyname="DINish">
+    <instance filename="instances/DINish-Light.ufo" stylename="Light" name="Light" familyname="DINish" stylemapfamilyname="DINish Light" postscriptfontname="DINish-Light">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-LightItalic.ufo" stylename="LightItalic" name="LightItalic" familyname="DINish">
+    <instance filename="instances/DINish-LightItalic.ufo" stylename="LightItalic" name="Light Italic" familyname="DINish" stylemapfamilyname="DINish LightItalic" postscriptfontname="DINish-LightItalic">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish">
+    <instance filename="instances/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish" stylemapfamilyname="DINish Regular" postscriptfontname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Italic.ufo" stylename="Italic" name="Italic" familyname="DINish">
+    <instance filename="instances/DINish-Italic.ufo" stylename="Italic" name="Italic" familyname="DINish" stylemapfamilyname="DINish Italic" postscriptfontname="DINish-Italic">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Medium.ufo" stylename="Medium" name="Medium" familyname="DINish">
+    <instance filename="instances/DINish-Medium.ufo" stylename="Medium" name="Medium" familyname="DINish" stylemapfamilyname="DINish Medium" postscriptfontname="DINish-Medium">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-MediumItalic.ufo" stylename="MediumItalic" name="MediumItalic" familyname="DINish">
+    <instance filename="instances/DINish-MediumItalic.ufo" stylename="MediumItalic" name="Medium Italic" familyname="DINish" stylemapfamilyname="DINish MediumItalic" postscriptfontname="DINish-MediumItalic">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-SemiBold.ufo" stylename="SemiBold" name="SemiBold" familyname="DINish">
+    <instance filename="instances/DINish-SemiBold.ufo" stylename="SemiBold" name="SemiBold" familyname="DINish" stylemapfamilyname="DINish SemiBold" postscriptfontname="DINish-SemiBold">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-SemiBoldItalic.ufo" stylename="SemiBoldItalic" name="SemiBoldItalic" familyname="DINish">
+    <instance filename="instances/DINish-SemiBoldItalic.ufo" stylename="SemiBoldItalic" name="SemiBold Italic" familyname="DINish" stylemapfamilyname="DINish SemiBoldItalic" postscriptfontname="DINish-SemiBoldItalic">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Bold.ufo" stylename="Bold" name="Bold" familyname="DINish">
+    <instance filename="instances/DINish-Bold.ufo" stylename="Bold" name="Bold" familyname="DINish" stylemapfamilyname="DINish Bold" postscriptfontname="DINish-Bold">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-BoldItalic.ufo" stylename="BoldItalic" name="BoldItalic" familyname="DINish">
+    <instance filename="instances/DINish-BoldItalic.ufo" stylename="BoldItalic" name="Bold Italic" familyname="DINish" stylemapfamilyname="DINish BoldItalic" postscriptfontname="DINish-BoldItalic">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish">
+    <instance filename="instances/DINish-Heavy.ufo" stylename="Heavy" name="Heavy" familyname="DINish" stylemapfamilyname="DINish Heavy" postscriptfontname="DINish-Heavy">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-HeavyItalic.ufo" stylename="HeavyItalic" name="HeavyItalic" familyname="DINish">
+    <instance filename="instances/DINish-HeavyItalic.ufo" stylename="HeavyItalic" name="Heavy Italic" familyname="DINish" stylemapfamilyname="DINish HeavyItalic" postscriptfontname="DINish-HeavyItalic">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Black.ufo" stylename="Black" name="Black" familyname="DINish">
+    <instance filename="instances/DINish-Black.ufo" stylename="Black" name="Black" familyname="DINish" stylemapfamilyname="DINish Black" postscriptfontname="DINish-Black">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-BlackItalic.ufo" stylename="BlackItalic" name="BlackItalic" familyname="DINish">
+    <instance filename="instances/DINish-BlackItalic.ufo" stylename="BlackItalic" name="Black Italic" familyname="DINish" stylemapfamilyname="DINish BlackItalic" postscriptfontname="DINish-BlackItalic">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="100" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Light.ufo" stylename="ExpandedLight" name="ExpandedLight" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Light.ufo" stylename="ExpandedLight" name="Expanded Light" familyname="DINish" stylemapfamilyname="DINish ExpandedLight" postscriptfontname="DINish-ExpandedLight">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-LightItalic.ufo" stylename="ExpandedLightItalic" name="ExpandedLightItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-LightItalic.ufo" stylename="ExpandedLightItalic" name="Expanded Light Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedLightItalic" postscriptfontname="DINish-ExpandedLightItalic">
       <location>
         <dimension xvalue="300" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Regular.ufo" stylename="ExpandedRegular" name="ExpandedRegular" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Regular.ufo" stylename="ExpandedRegular" name="Expanded Regular" familyname="DINish" stylemapfamilyname="DINish ExpandedRegular" postscriptfontname="DINish-ExpandedRegular">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="ExpandedItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Italic.ufo" stylename="ExpandedItalic" name="Expanded Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedItalic" postscriptfontname="DINish-ExpandedItalic">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Medium.ufo" stylename="ExpandedMedium" name="ExpandedMedium" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Medium.ufo" stylename="ExpandedMedium" name="Expanded Medium" familyname="DINish" stylemapfamilyname="DINish ExpandedMedium" postscriptfontname="DINish-ExpandedMedium">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-MediumItalic.ufo" stylename="ExpandedMediumItalic" name="ExpandedMediumItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-MediumItalic.ufo" stylename="ExpandedMediumItalic" name="Expanded Medium Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedMediumItalic" postscriptfontname="DINish-ExpandedMediumItalic">
       <location>
         <dimension xvalue="500" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-SemiBold.ufo" stylename="ExpandedSemiBold" name="ExpandedSemiBold" familyname="DINish">
+    <instance filename="instances/DINishExpanded-SemiBold.ufo" stylename="ExpandedSemiBold" name="Expanded SemiBold" familyname="DINish" stylemapfamilyname="DINish ExpandedSemiBold" postscriptfontname="DINish-ExpandedSemiBold">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-SemiBoldItalic.ufo" stylename="ExpandedSemiBoldItalic" name="ExpandedSemiBoldItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-SemiBoldItalic.ufo" stylename="ExpandedSemiBoldItalic" name="Expanded SemiBold Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedSemiBoldItalic" postscriptfontname="DINish-ExpandedSemiBoldItalic">
       <location>
         <dimension xvalue="600" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Bold.ufo" stylename="ExpandedBold" name="ExpandedBold" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Bold.ufo" stylename="ExpandedBold" name="Expanded Bold" familyname="DINish" stylemapfamilyname="DINish ExpandedBold" postscriptfontname="DINish-ExpandedBold">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-BoldItalic.ufo" stylename="ExpandedBoldItalic" name="ExpandedBoldItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-BoldItalic.ufo" stylename="ExpandedBoldItalic" name="Expanded Bold Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedBoldItalic" postscriptfontname="DINish-ExpandedBoldItalic">
       <location>
         <dimension xvalue="700" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Heavy.ufo" stylename="ExpandedHeavy" name="ExpandedHeavy" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Heavy.ufo" stylename="ExpandedHeavy" name="Expanded Heavy" familyname="DINish" stylemapfamilyname="DINish ExpandedHeavy" postscriptfontname="DINish-ExpandedHeavy">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-HeavyItalic.ufo" stylename="ExpandedHeavyItalic" name="ExpandedHeavyItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-HeavyItalic.ufo" stylename="ExpandedHeavyItalic" name="Expanded Heavy Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedHeavyItalic" postscriptfontname="DINish-ExpandedHeavyItalic">
       <location>
         <dimension xvalue="800" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-Black.ufo" stylename="ExpandedBlack" name="ExpandedBlack" familyname="DINish">
+    <instance filename="instances/DINishExpanded-Black.ufo" stylename="ExpandedBlack" name="Expanded Black" familyname="DINish" stylemapfamilyname="DINish ExpandedBlack" postscriptfontname="DINish-ExpandedBlack">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
         <dimension xvalue="0" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" name="ExpandedBlackItalic" familyname="DINish">
+    <instance filename="instances/DINishExpanded-BlackItalic.ufo" stylename="ExpandedBlackItalic" name="Expanded Black Italic" familyname="DINish" stylemapfamilyname="DINish ExpandedBlackItalic" postscriptfontname="DINish-ExpandedBlackItalic">
       <location>
         <dimension xvalue="900" name="weight"/>
         <dimension xvalue="125" name="width"/>
