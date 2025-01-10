@@ -359,7 +359,7 @@ lookup kernHorizontalKerninginLatinlookup1 {
   pos @kc6_first_3 @kc6_second_9 -20;
   pos @kc6_first_3 @kc6_second_10 -70;
   pos @kc6_first_3 @kc6_second_11 -51;
-  pos @kc6_first_3 @kc6_second_12 -44;
+  pos @kc6_first_3 @kc6_second_12 -12;
   pos @kc6_first_3 @kc6_second_13 -51;
   pos @kc6_first_3 @kc6_second_14 -47;
   pos @kc6_first_4 @kc6_second_1 -26;
@@ -390,7 +390,7 @@ lookup kernHorizontalKerninginLatinlookup1 {
   pos @kc6_first_7 @kc6_second_9 -61;
   pos @kc6_first_7 @kc6_second_10 -79;
   pos @kc6_first_7 @kc6_second_11 -84;
-  pos @kc6_first_7 @kc6_second_12 -70;
+  pos @kc6_first_7 @kc6_second_12 -12;
   pos @kc6_first_7 @kc6_second_13 -82;
   pos @kc6_first_7 @kc6_second_14 -73;
   pos @kc6_first_7 @kc6_second_15 -72;
