@@ -485,16 +485,10 @@ lookup kernHorizontalKerninglookup4 {
 } kernHorizontalKerninglookup4;
 
 feature kern {
-  script DFLT;
-  language dflt;
-  lookup kernHorizontalKerninginLatinlookup0;
-  lookup kernHorizontalKerninglookup4;
-
-  script latn;
-  language dflt;
   lookup kernHorizontalKerninginLatinlookup0;
   lookup kernHorizontalKerninginLatinlookup1;
   lookup kernHorizontalKerninginLatinlookup3;
+  lookup kernHorizontalKerninglookup4;
 } kern;
 
 lookup onumOldstyleFigures {
@@ -707,6 +701,18 @@ feature ss02 {
   };
   script latn;
   sub a by a.ss02;
+  sub aacute by aacute.ss02;
+  sub abreve by abreve.ss02;
+  sub acaron by acaron.ss02;
+  sub acircumflex by acircumflex.ss02;
+  sub acyr by acyr.ss02;
+  sub adieresis by adieresis.ss02;
+  sub adotbelow by adotbelow.ss02;
+  sub agrave by agrave.ss02;
+  sub amacron by amacron.ss02;
+  sub aogonek by aogonek.ss02;
+  sub aring by aring.ss02;
+  sub atilde by atilde.ss02;
 } ss02;
 
 feature ccmp {
