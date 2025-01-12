@@ -137,8 +137,17 @@ sed -i -e 's/\(DINish[A-Za-z]*\).Regular/\1/' $scratch/sources/vfwork/DINish*/DI
 # Move this to the Makefile...
 #fontmake --flatten-components DINish-Variable.designspace -o variable-cff2
 #statmake --stylespace DINish-Variable.stylespace --designspace DINish-Variable.designspace variable_otf/DINish-Variable-VF.otf
-fontmake --flatten-components DINish-Variable.designspace -o variable
+fontmake --flatten-components --overlaps-backend pathops DINish-Variable.designspace -o variable
 statmake --stylespace DINish-Variable.stylespace --designspace DINish-Variable.designspace variable_ttf/DINish-Variable-VF.ttf
+(
+    out=variable_ttf/DINish-Variable-VF.ttf
+    res="`gftools fix-nonhinting $out $out.fix 2>&1`"
+    rv=$?
+    echo "$res" | grep -Pv '(^$|prep-gasp.ttf|^\011|^GASP|^PREP)' || true
+    [ "$rv" = "0" ] || die "gftools fix-nonhinting failed"
+    mv $out.fix $out
+    rm -f variable_ttf/*prep-gasp.ttf
+)
 woff2_compress variable_ttf/DINish-Variable-VF.ttf
 mkdir -p fonts/ttf/variable fonts/otf/variable fonts/woff2/variable
 cp variable_ttf/DINish-Variable-VF.ttf fonts/ttf/variable/DINish$preview'[slnt,wdth,wght]'.ttf
