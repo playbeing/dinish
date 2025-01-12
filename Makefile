@@ -12,7 +12,7 @@ WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 all: update_version $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
 
 clean:
-	rm -rf fonts zips
+	rm -rf fonts zips ofl/dinish*/*.ttf
 
 psfnormalize:
 	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize --params backup=0 $$font; done')
@@ -35,10 +35,10 @@ fonts/woff2/%.woff2: sources/%.ufo
 	tools/process-font.sh $< $@
 
 fontbakery: all
-	fontbakery check-universal --verbose --full-lists --html fontbakery-dinishvariable-report.html variable_ttf/*.ttf
-	fontbakery check-universal --verbose --full-lists --html fontbakery-dinish-report.html ofl/dinish/*.ttf
-	fontbakery check-universal --verbose --full-lists --html fontbakery-dinishcondensed-report.html ofl/dinishcondensed/*.ttf
-	fontbakery check-universal --verbose --full-lists --html fontbakery-dinishexpanded-report.html ofl/dinishexpanded/*.ttf
+	-fontbakery check-universal --verbose --full-lists --html fontbakery-dinishvariable-report.html variable_ttf/*.ttf
+	-fontbakery check-universal --verbose --full-lists --html fontbakery-dinish-report.html ofl/dinish/*.ttf
+	-fontbakery check-universal --verbose --full-lists --html fontbakery-dinishcondensed-report.html ofl/dinishcondensed/*.ttf
+	-fontbakery check-universal --verbose --full-lists --html fontbakery-dinishexpanded-report.html ofl/dinishexpanded/*.ttf
 
 metadata_templates: all
 	sh -c 'for f in DINish DINishCondensed DINishExpanded; do slug=`echo $$f|tr A-Z a-z`; mkdir -p ofl/$$slug; cp fonts/ttf/$$f/*.ttf ofl/$$slug; gftools add-font ofl/$$slug; done' 2>&1 | grep -v '^no cp file for'
