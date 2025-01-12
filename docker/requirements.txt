@@ -35,7 +35,7 @@ fontbakery==0.13.0
 fontFeatures==1.8.0
 fontmake==3.10.0
 fontMath==0.9.4
-fontParts==0.12.2
+fontParts==0.12.3
 fontPens==0.2.4
 fonttools==4.55.3
 freetype-py==2.3.0
@@ -109,14 +109,14 @@ ttfautohint-py==0.5.1
 typing_extensions==4.12.2
 tzdata==2024.1
 ufo-extractor==0.6.0
-ufo2ft==3.3.1
+ufo2ft==3.4.0
 ufoLib2==0.17.0
 ufolint==1.2.0
 ufomerge==1.8.2
 ufonormalizer==0.6.1
 ufoProcessor==1.9.0
 uharfbuzz==0.44.0
-unicodedata2==15.1.0
+unicodedata2==16.0.0
 Unidecode==1.3.8
 urllib3==2.3.0
 vharfbuzz==0.3.1
