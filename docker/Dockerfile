@@ -13,4 +13,6 @@ ADD libttfautohint.so.1.0.3 /usr/lib/x86_64-linux-gnu/libttfautohint.so.1
 ENV PATH="/home/builder/.local/bin:/extra-bin:$PATH"
 ADD requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
+      # FIXME: Get rid of this after https://github.com/fonttools/fonttools/pull/3740 is closed or resolved otherwise
+RUN pip install https://github.com/driehuis/fonttools/archive/default-no-macnames.zip
 CMD ["bash", "/src/tools/build-ephemeral-ufos.sh"]
