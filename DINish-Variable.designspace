@@ -277,7 +277,7 @@
         <dimension xvalue="-12" name="slant"/>
       </location>
     </instance>
-    <instance filename="instances/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish" stylemapfamilyname="DINish Regular" postscriptfontname="DINish-Regular">
+    <instance filename="instances/DINish-Regular.ufo" stylename="Regular" name="Regular" familyname="DINish" stylemapfamilyname="DINish Regular" postscriptfontname="DINish">
       <location>
         <dimension xvalue="400" name="weight"/>
         <dimension xvalue="100" name="width"/>
