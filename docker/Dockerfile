@@ -16,5 +16,5 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
       # FIXME: Get rid of this after https://github.com/fonttools/fonttools/pull/3740 is closed or resolved otherwise
       #RUN pip install https://github.com/driehuis/fonttools/archive/default-no-macnames.zip
       # FIXME An even grosser hack because of https://github.com/fonttools/fonttools/issues/3745:
-RUN sed -ie 's/macNames=True/macNames=False/' /home/builder/.local/lib/python3.10/site-packages/fontTools/otlLib/builder.py
+RUN sed -i -e 's/macNames=True/macNames=False/' -e 's/mac=True/mac=False/' /home/builder/.local/lib/python3.10/site-packages/fontTools/otlLib/builder.py
 CMD ["bash", "/src/tools/build-ephemeral-ufos.sh"]
