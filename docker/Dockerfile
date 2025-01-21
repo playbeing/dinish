@@ -13,8 +13,6 @@ ADD libttfautohint.so.1.0.3 /usr/lib/x86_64-linux-gnu/libttfautohint.so.1
 ENV PATH="/home/builder/.local/bin:/extra-bin:$PATH"
 ADD requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
-      # FIXME: Get rid of this after https://github.com/fonttools/fonttools/pull/3740 is closed or resolved otherwise
-      #RUN pip install https://github.com/driehuis/fonttools/archive/default-no-macnames.zip
-      # FIXME An even grosser hack because of https://github.com/fonttools/fonttools/issues/3745:
-RUN sed -i -e 's/macNames=True/macNames=False/' -e 's/mac=True/mac=False/' /home/builder/.local/lib/python3.10/site-packages/fontTools/otlLib/builder.py
+      # FIXME Gross hack because of https://github.com/daltonmaag/statmake/issues/49
+RUN [ -x /home/builder/.local/bin/statmake ] || ln -s /home/builder/.local/bin/stamake /home/builder/.local/bin/statmake
 CMD ["bash", "/src/tools/build-ephemeral-ufos.sh"]
