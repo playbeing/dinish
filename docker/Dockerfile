@@ -13,6 +13,4 @@ ADD libttfautohint.so.1.0.3 /usr/lib/x86_64-linux-gnu/libttfautohint.so.1
 ENV PATH="/home/builder/.local/bin:/extra-bin:$PATH"
 ADD requirements.txt .
 RUN pip install --upgrade pip && pip install -r requirements.txt
-      # FIXME Gross hack because of https://github.com/daltonmaag/statmake/issues/49
-RUN [ -x /home/builder/.local/bin/statmake ] || ln -s /home/builder/.local/bin/stamake /home/builder/.local/bin/statmake
 CMD ["bash", "/src/tools/build-ephemeral-ufos.sh"]
