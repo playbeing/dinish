@@ -9,12 +9,12 @@ TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 
-all: update_version $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
+all: update_version sync_features $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
 
 clean:
 	rm -rf fonts zips ofl/dinish*/*.ttf
 
-psfnormalize:
+psfnormalize: sync_features
 	(cd sources && sh -c 'for font in */*.ufo; do psfnormalize --params backup=0 $$font; done')
 	tools/normalize_glif.sh sources/*/*.ufo
 
@@ -65,6 +65,9 @@ zips:
 
 update_version:
 	tools/update-version.sh
+
+sync_features:
+	tools/sync-features.sh
 
 # Danger, Will Robinson!
 revert_auto_changes:
