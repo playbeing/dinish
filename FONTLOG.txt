@@ -90,6 +90,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2024-01-28 - v4.005:
+ * Fix kerning issues with T (#14), minus (#15) and a-ring (#16).
+ * Improve variable font axis descriptions.
 2024-12-23 - v4.004:
  * Add Black weight (static instance only)
  * Released early, because the release of v4.003 contained corrupt files.
