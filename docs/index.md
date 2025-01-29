@@ -33,12 +33,6 @@ mind, with subtle but loving exceptions to the rigid grid-and-ruler
 specification from the _Deutsche Norm_. That said, it retains DIN's
 clarity and as such it is a typeface with a purpose, if not a mission.
 
-DINish is available in three widths: standard, Condensed and Expanded. The
-standard width roughly matches DIN Mittelschrift, the Condensed width
-roughly matches the DIN Engschrift, and Expanded is like DIN
-Breitschrift (rarely used in Germany, actually). There are Regular,
-Bold, Italic and BoldItalic variants.
-
 ## Historic roots
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
@@ -57,6 +51,21 @@ Many adaptations and expansions of the original design have been released
 digitally.
 
 See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1451) for more information.
+
+## The font
+
+DINish is available in three widths: standard, Condensed and Expanded. The
+standard width roughly matches DIN Mittelschrift, the Condensed width
+roughly matches the DIN Engschrift, and Expanded is like DIN
+Breitschrift (rarely used in Germany, actually). There are Regular,
+Bold, Italic and BoldItalic variants.
+
+In the 4.xxx releases a Light weight, two intermediate Bold weights,
+and Heavy and Black were added. To top it off, a variable font was
+created that allows for infinite variations between the weights and the
+widths.
+The [font specimen](https://fonts.playbeing.com/dinish/specimen)
+showcases the possibilities.
 
 ## Language support
 
@@ -167,7 +176,7 @@ Also see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master
 
 ## Acknowledgements
 
-The [DINish](https://github.com/playbeing/dinish) font is derived from
+The [DINish](https://fonts.playbeing.com/dinish/) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
 based on Datto's [D-DIN](https://web.archive.org/web/20210204024059/https://www.datto.com/fonts/d-din/). Datto
 commissioned Monotype to create D-DIN and open source it.
