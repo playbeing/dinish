@@ -9,7 +9,9 @@ TTFS := $(patsubst ttf/%.ttf,fonts/ttf/%.ttf,$(TTFNAMES))
 WOFFS := $(patsubst woff/%.woff,fonts/woff/%.woff,$(WOFFNAMES))
 WOFF2S := $(patsubst woff2/%.woff2,fonts/woff2/%.woff2,$(WOFF2NAMES))
 
-all: update_version sync_features $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
+all: update_version build
+
+build: sync_features $(OTFS) $(TTFS) $(WOFFS) $(WOFF2S) docs zips install_ofl
 
 clean:
 	rm -rf fonts zips ofl/dinish*/*.ttf

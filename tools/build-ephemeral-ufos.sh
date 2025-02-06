@@ -153,4 +153,4 @@ mkdir -p fonts/ttf/variable fonts/otf/variable fonts/woff2/variable
 cp variable_ttf/DINish-Variable-VF.ttf fonts/ttf/variable/DINish$preview'[slnt,wdth,wght]'.ttf
 cp variable_ttf/DINish-Variable-VF.woff2 fonts/woff2/variable/DINish$preview'[slnt,wdth,wght]'.woff2
 #cp variable_otf/DINish-Variable-VF.otf fonts/otf/variable/DINish$preview'[slnt,wdth,wght]'.otf
-make all fontbakery
+make build fontbakery
