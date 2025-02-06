@@ -26,11 +26,11 @@ fonts/ttf/%.ttf: sources/%.ufo
 	@mkdir -p $(@D)
 	tools/process-font.sh $< $@
 
-fonts/woff/%.woff: sources/%.ufo
+fonts/woff/%.woff: fonts/ttf/%.ttf
 	@mkdir -p $(@D)
 	tools/process-font.sh $< $@
 
-fonts/woff2/%.woff2: sources/%.ufo
+fonts/woff2/%.woff2: fonts/ttf/%.ttf
 	@mkdir -p $(@D)
 	tools/process-font.sh $< $@
 

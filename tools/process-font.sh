@@ -11,11 +11,21 @@ die() {
 
 case "$outtype" in
 	woff|woff2)
-		fontmake --flatten-components --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
-		[ "$?" = "0" ] || die "fontmake failed"
-		python3 -c "from fontTools.ttLib import TTFont; f = TTFont('$out.ttf');f.flavor='$outtype';f.save('$out')"
+		case "$in" in
+			*.ttf)
+				in_ttf="$in"
+				;;
+			*)
+				fontmake --flatten-components --verbose WARNING --overlaps-backend pathops --ufo-paths $in -o ttf --output-path $out.ttf
+				[ "$?" = "0" ] || die "fontmake failed"
+				in_ttf="$out.ttf"
+				;;
+		esac
+		python3 -c "from fontTools.ttLib import TTFont; f = TTFont('$in_ttf');f.flavor='$outtype';f.save('$out')"
 		[ "$?" = "0" ] || die "conversion to $outtype failed"
-		rm -f $out.ttf
+		if [ "$in_ttf" != "$out.ttf" ]; then
+			rm -f $out.ttf
+		fi
 		exit 0;;
 esac
 
