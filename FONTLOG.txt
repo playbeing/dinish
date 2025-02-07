@@ -76,7 +76,9 @@ Fontmake is used for generating fonts, as are SIL's pysilfont, Google's
 fontbakery and gf-tools. Both FontForge and TruFont have proven invaluable
 for editing.
 
-Copyright © 2021 Bert Driehuis (https://github.com/playbeing/dinish)
+Copyright © 2021-2025 Bert Driehuis (https://github.com/playbeing/dinish)
+
+Copyright © 2023-2024 Stefan Peev (https://github.com/StefanPeev/dinish/tree/cyrillic)
 
 Copyright © 2019 Altinn
 https://github.com/Altinn/altinn-din
@@ -90,6 +92,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2025-02-07 - v4.006:
+ * Fix handling of minus in the Italic axis (#15).
+ * Fix version info in static fonts. Between v4.001 and v4.005, they were marked as development builds.
 2025-01-28 - v4.005:
  * Fix kerning issues with T (#14), math alignment (#15) and a-ring in ss02 (#16).
  * Improve variable font axis descriptions.
