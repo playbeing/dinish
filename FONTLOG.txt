@@ -90,7 +90,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2024-01-28 - v4.005:
+2025-01-28 - v4.005:
  * Fix kerning issues with T (#14), math alignment (#15) and a-ring in ss02 (#16).
  * Improve variable font axis descriptions.
 2024-12-23 - v4.004:
