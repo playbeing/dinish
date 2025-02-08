@@ -109,7 +109,7 @@ Version v3.005 comes with full support for the
 [frac feature](https://fonts.playbeing.com/dinish/features#frac),
 which translates fractions like 3/4 into the classic ¾ notation.
 
-Version v3.006 introduces support for Cyrillic, contributed by Stefan
+Version v3.006 introduced support for Cyrillic, contributed by Stefan
 Peev. It includes support for multiple languages, including alternate
 letterforms needed for Bulgarian.  At least six major languages can now
 be set in DINish, and the glyphs look like they've always been part of
@@ -168,7 +168,7 @@ for editing.
 The Cyrillic glyphs were created using [FontLab](https://www.fontlab.com/).
 
 Copyright © 2023-2024 Stefan Peev (https://github.com/StefanPeev/dinish/tree/cyrillic)<br>
-Copyright © 2021-2024 Bert Driehuis (https://github.com/playbeing/dinish)<br>
+Copyright © 2021-2025 Bert Driehuis (https://github.com/playbeing/dinish)<br>
 Copyright © 2019 Altinn (https://github.com/Altinn/altinn-din)<br>
 Copyright © 2017 Datto Inc. (https://www.datto.com/fonts/d-din)
 
@@ -190,7 +190,8 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
-- 2024-01-28 - v4.005: Fix kerning issues with T (#14), minus alignment (#15) and a-ring in ss02 (#16). Improve variable font axis descriptions.
+- 2025-02-07 - v4.006: Fix handling of minus in the Italic axis (#15). Fix version info in static fonts.
+- 2025-01-28 - v4.005: Fix kerning issues with T (#14), minus alignment (#15) and a-ring in ss02 (#16). Improve variable font axis descriptions.
 - 2024-12-23 - v4.004: Add Black weight (static instance only). Also replaces corrupt v4.003 release.
 - 2024-12-20 - v4.003: Remove "Regular" from the internal font name (variable font only).
 - 2024-12-18 - v4.002: Align the terminals of C and S across the entire family. Closes #12.
