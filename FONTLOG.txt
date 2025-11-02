@@ -92,6 +92,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2025-11-03 - v4.007:
+ * Fix 300 weight (in the VF only) (#20).
+ * Fix apostrophemod spacing (FontBakeryCheck:base_has_width)
 2025-02-07 - v4.006:
  * Fix handling of minus in the Italic axis (#15).
  * Fix version info in static fonts. Between v4.001 and v4.005, they were marked as development builds.
