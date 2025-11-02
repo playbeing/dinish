@@ -46,6 +46,7 @@ do
     mkdir -p $scratch/sources/vfwork/$f
     cp -r $f/$f-Regular.ufo $scratch/sources/vfwork/$f/$f-Regular.ufo
     cp -r $f/$f-Bold.ufo $scratch/sources/vfwork/$f/$f-Bold.ufo
+    python $toolsdir/interpolate-font.py --dest=$scratch/sources/vfwork/$f/$f-Light.ufo --weight=3 $f/$f-{Regular,Bold}.ufo
     python $toolsdir/interpolate-font.py --dest=$scratch/sources/vfwork/$f/$f-Heavy.ufo --weight=8 $f/$f-{Regular,Bold}.ufo
     python $toolsdir/interpolate-font.py --dest=$scratch/sources/vfwork/$f/$f-Black.ufo --weight=9 $f/$f-{Regular,Bold}.ufo
     # Fixup Heavy Condensed
@@ -62,7 +63,7 @@ do
        cp $scratch/sources/vfwork/$f/$f-Heavy.ufo/glyphs/$name.glif $scratch/sources/vfwork/$f/$f-Black.ufo/glyphs/
     done
 
-    for weight in Regular Bold Black
+    for weight in Light Regular Bold Black
     do
         if [ "$weight" = "Regular" ]; then
             stylename="Italic"
