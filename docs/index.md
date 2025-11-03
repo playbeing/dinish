@@ -190,6 +190,7 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 
 For details see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
+- 2025-11-03 - v4.007: Fix 300 weight (in the VF only) (#20). Fix apostrophemod.
 - 2025-02-07 - v4.006: Fix handling of minus in the Italic axis (#15). Fix version info in static fonts.
 - 2025-01-28 - v4.005: Fix kerning issues with T (#14), minus alignment (#15) and a-ring in ss02 (#16). Improve variable font axis descriptions.
 - 2024-12-23 - v4.004: Add Black weight (static instance only). Also replaces corrupt v4.003 release.
